@@ -1,0 +1,38 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/103864261442692092
+  twitter: https://twitter.com/brianwisti/status/1241547163039039488
+entry_path: content/note/2020/03/every-post-has-a-uuid/index.md
+permalink: "/note/2020/03/every-post-has-a-uuid/"
+responses:
+- author_name: genehack
+  author_photo: https://webmention.io/avatar/hackers.town/65d33ddabc41f9b8cf5004260512c5c0251c0fc6435bed0858eda38bb6093308.jpg
+  author_url: https://mastodon.social/@genehack
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      would be interested in hearing more about this works, what it gets you, and
+      what problems you've had with filename-based identifiers....</p>
+    text: "@randomgeek would be interested in hearing more about this works, what
+      it gets you, and what problems you've had with filename-based identifiers...."
+  entry_url: "/note/2020/81/every-post-has-a-uuid/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-22 12:44:37.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "genehack", "photo":
+    "https://webmention.io/avatar/hackers.town/65d33ddabc41f9b8cf5004260512c5c0251c0fc6435bed0858eda38bb6093308.jpg",
+    "url": "https://mastodon.social/@genehack"}, "url": "https://mastodon.social/@genehack/103868417812892918",
+    "published": "2020-03-22T19:44:37", "wm-received": "2020-03-22T19:49:07Z", "wm-id":
+    773530, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103864261442692092/103868417847555315",
+    "wm-target": "https://randomgeekery.org/note/2020/81/every-post-has-a-uuid/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> would be interested in hearing
+    more about this works, what it gets you, and what problems you''ve had with filename-based
+    identifiers....</p>", "text": "@randomgeek would be interested in hearing more
+    about this works, what it gets you, and what problems you''ve had with filename-based
+    identifiers...."}, "in-reply-to": "https://randomgeekery.org/note/2020/81/every-post-has-a-uuid/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-22 12:49:07.000000000 -07:00
+  url: https://mastodon.social/@genehack/103868417812892918

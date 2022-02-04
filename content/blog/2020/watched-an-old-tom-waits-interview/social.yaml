@@ -1,0 +1,46 @@
+---
+announcements:
+  mastodon: https https://hackers.town/@randomgeek/104663739934690658
+  twitter: https://twitter.com/brianwisti/status/1292714140503597058
+entry_path: content/note/2020/08/watch-an-old-tom-waits-interview/index.md
+permalink: "/note/2020/08/watched-an-old-tom-waits-interview/"
+responses:
+- author_name: Johan Bové
+  author_photo: https://webmention.io/avatar/social.johanbove.info/a39ef0edb9ff0191c4996b349a5cfbe7bb4592de4bea0d29a9f373b8499c61a9.jpg
+  author_url: https://social.johanbove.info/profile/johan
+  class: like-of
+  entry_url: "/note/2020/08/watched-an-old-tom-waits-interview/"
+  h-type: entry
+  name: Watched an old Tom Waits interview | Random Geekery
+  photo:
+  private: 0
+  published: 2020-09-02 02:21:48.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Johan Bov\u00e9", "photo":
+    "https://webmention.io/avatar/social.johanbove.info/a39ef0edb9ff0191c4996b349a5cfbe7bb4592de4bea0d29a9f373b8499c61a9.jpg",
+    "url": "https://social.johanbove.info/profile/johan"}, "url": "https://social.johanbove.info/2020/09/02/watched-an-old-tom-waits-interview-random-geekery",
+    "published": "2020-09-02T11:21:48+02:00", "wm-received": "2020-09-02T09:21:52Z",
+    "wm-id": 846571, "wm-source": "https://social.johanbove.info/2020/09/02/watched-an-old-tom-waits-interview-random-geekery",
+    "wm-target": "https://randomgeekery.org/note/2020/08/watched-an-old-tom-waits-interview/",
+    "name": "Watched an old Tom Waits interview | Random Geekery", "like-of": "https://randomgeekery.org/note/2020/08/watched-an-old-tom-waits-interview/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-09-02 02:21:52.000000000 -07:00
+  url: https://social.johanbove.info/2020/09/02/watched-an-old-tom-waits-interview-random-geekery
+- author_name: Paladin
+  author_photo: https://webmention.io/avatar/hackers.town/e39fb01ac6f91562561db8e29ccb8683875a8db9b0e711f6847b95b88d194696.png
+  author_url: https://fosstodon.org/@paladin
+  class: like-of
+  entry_url: "/note/2020/08/watched-an-old-tom-waits-interview/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Paladin", "photo": "https://webmention.io/avatar/hackers.town/e39fb01ac6f91562561db8e29ccb8683875a8db9b0e711f6847b95b88d194696.png",
+    "url": "https://fosstodon.org/@paladin"}, "url": "https://hackers.town/@randomgeek/104663739934690658#favorited-by-135324",
+    "published": null, "wm-received": "2020-08-12T01:34:45Z", "wm-id": 838797, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104663739934690658/135324",
+    "wm-target": "https://randomgeekery.org/note/2020/08/watched-an-old-tom-waits-interview/",
+    "like-of": "https://randomgeekery.org/note/2020/08/watched-an-old-tom-waits-interview/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-08-11 18:34:45.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104663739934690658#favorited-by-135324

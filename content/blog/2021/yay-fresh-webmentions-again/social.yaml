@@ -1,0 +1,69 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/105784645355893753
+  twitter: https://twitter.com/brianwisti/status/1364452172109393920
+entry_path: content/note/2021/02/yay-fresh-webmentions-again/index.adoc.txt
+permalink: "/note/2021/02/yay-fresh-webmentions-again/"
+responses:
+- url: https://twitter.com/brianwisti/status/1364452172109393920#favorited-by-753743
+  author_name: genehack
+  author_url: https://twitter.com/genehack
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/d7714fdf726926111b9bf3dfeb68cd97a8e9ea8b1821931885e216a3d0744952.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/02/yay-fresh-webmentions-again/
+  h-type: entry
+  private: false
+  received: 2021-02-24 06:24:37.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"genehack","photo":"https://webmention.io/avatar/pbs.twimg.com/d7714fdf726926111b9bf3dfeb68cd97a8e9ea8b1821931885e216a3d0744952.jpg","url":"https://twitter.com/genehack"},"url":"https://twitter.com/brianwisti/status/1364452172109393920#favorited-by-753743","published":null,"wm-received":"2021-02-24T06:24:37Z","wm-id":1044997,"wm-source":"https://brid.gy/like/twitter/brianwisti/1364452172109393920/753743","wm-target":"https://randomgeekery.org/note/2021/02/yay-fresh-webmentions-again/","like-of":"https://randomgeekery.org/note/2021/02/yay-fresh-webmentions-again/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1364452172109393920#favorited-by-658643
+  author_name: "Steve Streza \U0001F637"
+  author_url: https://twitter.com/SteveStreza
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/cad707e0ef7705406ff5a929ce5b0e120340da1d665e96f999bfefdda1dcf4c8.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/02/yay-fresh-webmentions-again/
+  h-type: entry
+  private: false
+  received: 2021-02-24 06:25:06.000000000 Z
+  published:
+  raw: "{\"type\":\"entry\",\"author\":{\"type\":\"card\",\"name\":\"Steve Streza
+    \U0001F637\",\"photo\":\"https://webmention.io/avatar/pbs.twimg.com/cad707e0ef7705406ff5a929ce5b0e120340da1d665e96f999bfefdda1dcf4c8.jpg\",\"url\":\"https://twitter.com/SteveStreza\"},\"url\":\"https://twitter.com/brianwisti/status/1364452172109393920#favorited-by-658643\",\"published\":null,\"wm-received\":\"2021-02-24T06:25:06Z\",\"wm-id\":1044998,\"wm-source\":\"https://brid.gy/like/twitter/brianwisti/1364452172109393920/658643\",\"wm-target\":\"https://randomgeekery.org/note/2021/02/yay-fresh-webmentions-again/\",\"like-of\":\"https://randomgeekery.org/note/2021/02/yay-fresh-webmentions-again/\",\"wm-property\":\"like-of\",\"wm-private\":false}"
+- url: https://hackers.town/@randomgeek/105784645355893753#favorited-by-1
+  author_name: The_Gibson
+  author_url: https://hackers.town/@thegibson
+  author_photo: https://webmention.io/avatar/hackers.town/9bf9db0356b057b80975143e51ec677e3177f2b29e4f20976306c15cc2787b85.gif
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/02/yay-fresh-webmentions-again/
+  h-type: entry
+  private: false
+  received: 2021-02-24 10:00:48.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"The_Gibson","photo":"https://webmention.io/avatar/hackers.town/9bf9db0356b057b80975143e51ec677e3177f2b29e4f20976306c15cc2787b85.gif","url":"https://hackers.town/@thegibson"},"url":"https://hackers.town/@randomgeek/105784645355893753#favorited-by-1","published":null,"wm-received":"2021-02-24T10:00:48Z","wm-id":1045200,"wm-source":"https://brid.gy/like/mastodon/@randomgeek@hackers.town/105784645355893753/1","wm-target":"https://randomgeekery.org/note/2021/02/yay-fresh-webmentions-again/","like-of":"https://randomgeekery.org/note/2021/02/yay-fresh-webmentions-again/","wm-property":"like-of","wm-private":false}'
+- url: https://hackers.town/@randomgeek/105784645355893753#favorited-by-147899
+  author_name: Boris Mann
+  author_url: https://social.coop/@bmann
+  author_photo: https://webmention.io/avatar/hackers.town/e5a786cadec174b17b6df82f74b26c249162d378b1efee40a33e300d39afab3a.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/02/yay-fresh-webmentions-again/
+  h-type: entry
+  private: false
+  received: 2021-02-24 15:31:50.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Boris Mann","photo":"https://webmention.io/avatar/hackers.town/e5a786cadec174b17b6df82f74b26c249162d378b1efee40a33e300d39afab3a.jpg","url":"https://social.coop/@bmann"},"url":"https://hackers.town/@randomgeek/105784645355893753#favorited-by-147899","published":null,"wm-received":"2021-02-24T15:31:50Z","wm-id":1045441,"wm-source":"https://brid.gy/like/mastodon/@randomgeek@hackers.town/105784645355893753/147899","wm-target":"https://randomgeekery.org/note/2021/02/yay-fresh-webmentions-again/","like-of":"https://randomgeekery.org/note/2021/02/yay-fresh-webmentions-again/","wm-property":"like-of","wm-private":false}'
+- url: https://social.yakshed.org/@bascht/105798156675021230
+  author_name: Bascht
+  author_url: https://social.yakshed.org/@bascht
+  author_photo: https://webmention.io/avatar/hackers.town/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/note/2021/02/yay-fresh-webmentions-again/
+  h-type: entry
+  private: false
+  received: 2021-02-26 15:48:51.000000000 Z
+  published: 2021-02-26 15:02:35.000000000 -08:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Bascht","photo":"https://webmention.io/avatar/hackers.town/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg","url":"https://social.yakshed.org/@bascht"},"url":"https://social.yakshed.org/@bascht/105798156675021230","published":"2021-02-26T15:02:35","wm-received":"2021-02-26T15:48:51Z","wm-id":1048312,"wm-source":"https://brid.gy/comment/mastodon/@randomgeek@hackers.town/105784645355893753/105798156745224190","wm-target":"https://randomgeekery.org/note/2021/02/yay-fresh-webmentions-again/","content":{"html":"<p><span
+    class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\" class=\"u-url\">@<span>randomgeek</span></a></span>
+    \\o/</p>","text":"@randomgeek \\o/"},"in-reply-to":"https://randomgeekery.org/note/2021/02/yay-fresh-webmentions-again/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      \o/</p>
+    text: "@randomgeek \\o/"

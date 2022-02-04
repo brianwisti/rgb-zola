@@ -1,0 +1,27 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104507362193241964
+  twitter: https://twitter.com/brianwisti/status/1282705944393244672
+entry_path: content/note/2020/07/fred-brooks-was-right/index.md
+permalink: "/note/2020/07/fred-brooks-was-right/"
+responses:
+- author_name: Charles Stanhope
+  author_photo: https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg
+  author_url: https://social.coop/@cstanhope
+  class: like-of
+  entry_url: "/note/2020/07/fred-brooks-was-right/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Charles Stanhope", "photo":
+    "https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg",
+    "url": "https://social.coop/@cstanhope"}, "url": "https://hackers.town/@randomgeek/104507362193241964#favorited-by-2439",
+    "published": null, "wm-received": "2020-07-13T18:08:15Z", "wm-id": 825986, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104507362193241964/2439",
+    "wm-target": "https://randomgeekery.org/note/2020/07/fred-brooks-was-right/",
+    "like-of": "https://randomgeekery.org/note/2020/07/fred-brooks-was-right/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-07-13 11:08:15.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104507362193241964#favorited-by-2439

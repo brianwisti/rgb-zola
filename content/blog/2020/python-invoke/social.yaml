@@ -1,0 +1,146 @@
+---
+announcements: {}
+entry_path: content/post/2020/02/python-invoke/index.md
+permalink: "/post/2020/02/python-invoke/"
+responses:
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      I bet you’re right. Python’s my paycheck focus right now but I know I’ll be spending time with Raku (and Crystal, plus there’s some JS stuff to look at, and…)
+      <a class="u-mention" href="https://twitter.com/hercynium"></a>
+    text: I bet you’re right. Python’s my paycheck focus right now but I know I’ll
+      be spending time with Raku (and Crystal, plus there’s some JS stuff to look
+      at, and…)
+  entry_url: "/2020/02/17/python-invoke/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-02-17 19:15:20.000000000 -08:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1229605288220585985",
+    "published": "2020-02-18T03:15:20+00:00", "wm-received": "2020-02-18T22:32:35Z",
+    "wm-id": 757937, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1229497608097476608/1229605288220585985",
+    "wm-target": "https://randomgeekery.org/2020/02/17/python-invoke/", "content":
+    {"html": "I bet you\u2019re right. Python\u2019s my paycheck focus right now but
+    I know I\u2019ll be spending time with Raku (and Crystal, plus there\u2019s some
+    JS stuff to look at, and\u2026)\n<a class=\"u-mention\" href=\"https://twitter.com/hercynium\"></a>",
+    "text": "I bet you\u2019re right. Python\u2019s my paycheck focus right now but
+    I know I\u2019ll be spending time with Raku (and Crystal, plus there\u2019s some
+    JS stuff to look at, and\u2026)"}, "in-reply-to": "https://randomgeekery.org/2020/02/17/python-invoke/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-02-18 14:32:35.000000000 -08:00
+  url: https://twitter.com/brianwisti/status/1229605288220585985
+- author_name: Steve Scaffidi
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/7baa23ba88146a2d431b367c090870f75f5742ac812f490263c4d874bad4c9d3.jpg
+  author_url: https://twitter.com/hercynium
+  class: in-reply-to
+  content:
+    html: |-
+      This is where I wish Perl5 had something like Python's AST class hierarchy. Without it, it seems like it would be very difficult to do something similar in Perl. <a href="https://twitter.com/search?q=%23Rakulang">#Rakulang</a> could, though!
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: 'This is where I wish Perl5 had something like Python''s AST class hierarchy.
+      Without it, it seems like it would be very difficult to do something similar
+      in Perl. #Rakulang could, though!'
+  entry_url: "/2020/02/17/python-invoke/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-02-17 19:11:58.000000000 -08:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Steve Scaffidi", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/7baa23ba88146a2d431b367c090870f75f5742ac812f490263c4d874bad4c9d3.jpg",
+    "url": "https://twitter.com/hercynium"}, "url": "https://twitter.com/hercynium/status/1229604443651526656",
+    "published": "2020-02-18T03:11:58+00:00", "wm-received": "2020-02-18T22:32:20Z",
+    "wm-id": 757935, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1229497608097476608/1229604443651526656",
+    "wm-target": "https://randomgeekery.org/2020/02/17/python-invoke/", "content":
+    {"html": "This is where I wish Perl5 had something like Python''s AST class hierarchy.
+    Without it, it seems like it would be very difficult to do something similar in
+    Perl. <a href=\"https://twitter.com/search?q=%23Rakulang\">#Rakulang</a> could,
+    though!\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\"
+    href=\"https://twitter.com/brianwisti\"></a>", "text": "This is where I wish Perl5
+    had something like Python''s AST class hierarchy. Without it, it seems like it
+    would be very difficult to do something similar in Perl. #Rakulang could, though!"},
+    "in-reply-to": "https://randomgeekery.org/2020/02/17/python-invoke/", "wm-property":
+    "in-reply-to", "wm-private": false}'
+  received: 2020-02-18 14:32:20.000000000 -08:00
+  url: https://twitter.com/hercynium/status/1229604443651526656
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      Yep exactly.
+      <a class="u-mention" href="https://twitter.com/theomn"></a>
+    text: Yep exactly.
+  entry_url: "/2020/02/17/python-invoke/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-02-17 12:59:32.000000000 -08:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1229510714248724481",
+    "published": "2020-02-17T20:59:32+00:00", "wm-received": "2020-02-18T22:32:57Z",
+    "wm-id": 757938, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1229497608097476608/1229510714248724481",
+    "wm-target": "https://randomgeekery.org/2020/02/17/python-invoke/", "content":
+    {"html": "Yep exactly.\n<a class=\"u-mention\" href=\"https://twitter.com/theomn\"></a>",
+    "text": "Yep exactly."}, "in-reply-to": "https://randomgeekery.org/2020/02/17/python-invoke/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-02-18 14:32:57.000000000 -08:00
+  url: https://twitter.com/brianwisti/status/1229510714248724481
+- author_name: Owen Nelson
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/581a241d55fca939479c1a9e7ee64dfe66a5cdf82004725e3cdfd356f22f1e41.jpg
+  author_url: https://twitter.com/theomn
+  class: in-reply-to
+  content:
+    html: |-
+      fabric on the localhost
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: fabric on the localhost
+  entry_url: "/2020/02/17/python-invoke/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-02-17 12:19:21.000000000 -08:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Owen Nelson", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/581a241d55fca939479c1a9e7ee64dfe66a5cdf82004725e3cdfd356f22f1e41.jpg",
+    "url": "https://twitter.com/theomn"}, "url": "https://twitter.com/theomn/status/1229500605346926594",
+    "published": "2020-02-17T20:19:21+00:00", "wm-received": "2020-02-18T22:32:27Z",
+    "wm-id": 757936, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1229497608097476608/1229500605346926594",
+    "wm-target": "https://randomgeekery.org/2020/02/17/python-invoke/", "content":
+    {"html": "fabric on the localhost\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "fabric
+    on the localhost"}, "in-reply-to": "https://randomgeekery.org/2020/02/17/python-invoke/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-02-18 14:32:27.000000000 -08:00
+  url: https://twitter.com/theomn/status/1229500605346926594
+- author_name: Steve Scaffidi
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/7baa23ba88146a2d431b367c090870f75f5742ac812f490263c4d874bad4c9d3.jpg
+  author_url: https://twitter.com/hercynium
+  class: like-of
+  entry_url: "/2020/02/17/python-invoke/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Steve Scaffidi", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/7baa23ba88146a2d431b367c090870f75f5742ac812f490263c4d874bad4c9d3.jpg",
+    "url": "https://twitter.com/hercynium"}, "url": "https://twitter.com/brianwisti/status/1229497608097476608#favorited-by-15786346",
+    "published": null, "wm-received": "2020-02-18T22:33:06Z", "wm-id": 757939, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1229497608097476608/15786346",
+    "wm-target": "https://randomgeekery.org/2020/02/17/python-invoke/", "like-of":
+    "https://randomgeekery.org/2020/02/17/python-invoke/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-02-18 14:33:06.000000000 -08:00
+  url: https://twitter.com/brianwisti/status/1229497608097476608#favorited-by-15786346

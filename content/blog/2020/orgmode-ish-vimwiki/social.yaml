@@ -1,0 +1,94 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104454330012908769
+  twitter: https://twitter.com/brianwisti/status/1279311746658951169
+entry_path: content/note/2020/07/orgmode-ish-vimwiki/index.md
+permalink: "/note/2020/07/orgmode-ish-vimwiki/"
+responses:
+- author_name: Yanick
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg
+  author_url: https://twitter.com/yenzie
+  class: in-reply-to
+  content:
+    html: |-
+      Ill have a look at it tomorrow!
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: Ill have a look at it tomorrow!
+  entry_url: "/note/2020/07/orgmode-ish-vimwiki/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-07-04 13:32:44.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Yanick", "photo": "https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg",
+    "url": "https://twitter.com/yenzie"}, "url": "https://twitter.com/yenzie/status/1279513498243026945",
+    "published": "2020-07-04T20:32:44+00:00", "wm-received": "2020-07-04T20:59:42Z",
+    "wm-id": 820338, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1279489751217627136/1279513498243026945",
+    "wm-target": "https://randomgeekery.org/note/2020/07/orgmode-ish-vimwiki/", "content":
+    {"html": "Ill have a look at it tomorrow!\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "Ill
+    have a look at it tomorrow!"}, "in-reply-to": "https://randomgeekery.org/note/2020/07/orgmode-ish-vimwiki/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-07-04 13:59:42.000000000 -07:00
+  url: https://twitter.com/yenzie/status/1279513498243026945
+- author_name: Dr. Edward Morbius ⭕​
+  author_photo: https://webmention.io/avatar/hackers.town/7fc3665c3f4615e025cb9ecb1f99ef3395c6483bcd17fb927434f59512fc8aa6.png
+  author_url: https://toot.cat/@dredmorbius
+  class: like-of
+  entry_url: "/note/2020/07/orgmode-ish-vimwiki/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Dr. Edward Morbius \u2b55\u200b",
+    "photo": "https://webmention.io/avatar/hackers.town/7fc3665c3f4615e025cb9ecb1f99ef3395c6483bcd17fb927434f59512fc8aa6.png",
+    "url": "https://toot.cat/@dredmorbius"}, "url": "https://hackers.town/@randomgeek/104454330012908769#favorited-by-8948",
+    "published": null, "wm-received": "2020-07-04T07:56:37Z", "wm-id": 820201, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104454330012908769/8948",
+    "wm-target": "https://randomgeekery.org/note/2020/07/orgmode-ish-vimwiki/", "like-of":
+    "https://randomgeekery.org/note/2020/07/orgmode-ish-vimwiki/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-07-04 00:56:37.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104454330012908769#favorited-by-8948
+- author_name: "Bálint \U0001F3AD"
+  author_photo: https://webmention.io/avatar/hackers.town/ef52b1811ad7af524d2ead17166363c5910e8a19f312762d68df3efddf6d0176.jpg
+  author_url: https://x0r.be/@szbalint
+  class: like-of
+  entry_url: "/note/2020/07/orgmode-ish-vimwiki/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "B\u00e1lint \ud83c\udfad",
+    "photo": "https://webmention.io/avatar/hackers.town/ef52b1811ad7af524d2ead17166363c5910e8a19f312762d68df3efddf6d0176.jpg",
+    "url": "https://x0r.be/@szbalint"}, "url": "https://hackers.town/@randomgeek/104454330012908769#favorited-by-887",
+    "published": null, "wm-received": "2020-07-04T07:57:09Z", "wm-id": 820202, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104454330012908769/887",
+    "wm-target": "https://randomgeekery.org/note/2020/07/orgmode-ish-vimwiki/", "like-of":
+    "https://randomgeekery.org/note/2020/07/orgmode-ish-vimwiki/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-07-04 00:57:09.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104454330012908769#favorited-by-887
+- author_name: Jorge E. Gómez
+  author_photo: https://webmention.io/avatar/hackers.town/411fff1ad905c3761f25397f97f83cba7290ed491e22bdee6493a15a85c4bac7.jpg
+  author_url: https://toot.cafe/@jorgee
+  class: like-of
+  entry_url: "/note/2020/07/orgmode-ish-vimwiki/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jorge E. G\u00f3mez",
+    "photo": "https://webmention.io/avatar/hackers.town/411fff1ad905c3761f25397f97f83cba7290ed491e22bdee6493a15a85c4bac7.jpg",
+    "url": "https://toot.cafe/@jorgee"}, "url": "https://hackers.town/@randomgeek/104454330012908769#favorited-by-127203",
+    "published": null, "wm-received": "2020-07-04T08:48:15Z", "wm-id": 820210, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104454330012908769/127203",
+    "wm-target": "https://randomgeekery.org/note/2020/07/orgmode-ish-vimwiki/", "like-of":
+    "https://randomgeekery.org/note/2020/07/orgmode-ish-vimwiki/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-07-04 01:48:15.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104454330012908769#favorited-by-127203

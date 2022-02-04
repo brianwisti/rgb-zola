@@ -1,0 +1,238 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104244939719750904
+  twitter: https://twitter.com/brianwisti/status/1265910632571863040
+entry_path: content/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/index.md
+permalink: "/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/"
+responses:
+- author_name: Andrew Hewus Fresh
+  author_photo: https://webmention.io/avatar/hackers.town/2c496054da01bd460313de6d00748c0d557f3cf07091ec2b69e810990ce2ceae.jpg
+  author_url: https://bsd.network/@AFresh1
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      don't worry, you'll soon get to do it again when the marvelous CPANTesters tell
+      you what you've done wrong :-) I don't think I've gotten one right on the first
+      try yet.</p>
+    text: "@randomgeek don't worry, you'll soon get to do it again when the marvelous
+      CPANTesters tell you what you've done wrong :-) I don't think I've gotten one
+      right on the first try yet."
+  entry_url: "/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-28 20:33:44.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Andrew Hewus Fresh",
+    "photo": "https://webmention.io/avatar/hackers.town/2c496054da01bd460313de6d00748c0d557f3cf07091ec2b69e810990ce2ceae.jpg",
+    "url": "https://bsd.network/@AFresh1"}, "url": "https://bsd.network/@AFresh1/104249637231991853",
+    "published": "2020-05-29T03:33:44", "wm-received": "2020-05-29T03:39:42Z", "wm-id":
+    803081, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104244939719750904/104249637376698032",
+    "wm-target": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> don''t worry, you''ll soon
+    get to do it again when the marvelous CPANTesters tell you what you''ve done wrong
+    :-) I don''t think I''ve gotten one right on the first try yet.</p>", "text":
+    "@randomgeek don''t worry, you''ll soon get to do it again when the marvelous
+    CPANTesters tell you what you''ve done wrong :-) I don''t think I''ve gotten one
+    right on the first try yet."}, "in-reply-to": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-05-28 20:39:42.000000000 -07:00
+  url: https://bsd.network/@AFresh1/104249637231991853
+- author_name: Random Geek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  author_url: https://hackers.town/@randomgeek
+  class: in-reply-to
+  content:
+    html: "<p>Enjoyed installing my own library from CPAN and using it.</p><p>(The
+      color is just me having some fun by adding Term::ANSIColor to Mojo::Log's format)</p>"
+    text: Enjoyed installing my own library from CPAN and using it.(The color is just
+      me having some fun by adding Term::ANSIColor to Mojo::Log's format)
+  entry_url: "/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/"
+  h-type: entry
+  name:
+  photo: https://hackers.town/system/media_attachments/files/002/216/574/original/aa47bf1d19982e30.png?1590721744
+  private: 0
+  published: 2020-05-28 20:13:00.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Random Geek", "photo":
+    "https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png",
+    "url": "https://hackers.town/@randomgeek"}, "url": "https://hackers.town/@randomgeek/104249555680915407",
+    "published": "2020-05-29T03:13:00", "wm-received": "2020-05-29T03:39:45Z", "wm-id":
+    803083, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104244939719750904/104249555680915407",
+    "wm-target": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "photo": ["https://hackers.town/system/media_attachments/files/002/216/574/original/aa47bf1d19982e30.png?1590721744"],
+    "content": {"html": "<p>Enjoyed installing my own library from CPAN and using
+    it.</p><p>(The color is just me having some fun by adding Term::ANSIColor to Mojo::Log''s
+    format)</p>", "text": "Enjoyed installing my own library from CPAN and using it.(The
+    color is just me having some fun by adding Term::ANSIColor to Mojo::Log''s format)"},
+    "in-reply-to": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-05-28 20:39:45.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104249555680915407
+- author_name: Random Geek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  author_url: https://hackers.town/@randomgeek
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://fosstodon.org/@fleegman" class="u-url">@<span>fleegman</span></a></span>
+      </p><p>[takes slow drag off scratched-up vape]</p><p>[low battery alert]</p><p>webfiend</p><p>I
+      haven't heard that name in years.</p><p>Yes! Wait! What? What context do you
+      know me as webfiend from? Over on G+ I think I was always Random Geek or Brian
+      Wisti.</p>
+    text: "@fleegman [takes slow drag off scratched-up vape][low battery alert]webfiendI
+      haven't heard that name in years.Yes! Wait! What? What context do you know me
+      as webfiend from? Over on G+ I think I was always Random Geek or Brian Wisti."
+  entry_url: "/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-28 10:24:03.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Random Geek", "photo":
+    "https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png",
+    "url": "https://hackers.town/@randomgeek"}, "url": "https://hackers.town/@randomgeek/104247239871332679",
+    "published": "2020-05-28T17:24:03", "wm-received": "2020-05-29T03:39:46Z", "wm-id":
+    803084, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104244939719750904/104247239871332679",
+    "wm-target": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@fleegman\"
+    class=\"u-url\">@<span>fleegman</span></a></span> </p><p>[takes slow drag off
+    scratched-up vape]</p><p>[low battery alert]</p><p>webfiend</p><p>I haven''t heard
+    that name in years.</p><p>Yes! Wait! What? What context do you know me as webfiend
+    from? Over on G+ I think I was always Random Geek or Brian Wisti.</p>", "text":
+    "@fleegman [takes slow drag off scratched-up vape][low battery alert]webfiendI
+    haven''t heard that name in years.Yes! Wait! What? What context do you know me
+    as webfiend from? Over on G+ I think I was always Random Geek or Brian Wisti."},
+    "in-reply-to": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-05-28 20:39:46.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104247239871332679
+- author_name: Guy Fleegman
+  author_photo: https://webmention.io/avatar/hackers.town/254fa836a65b8ddb6c8e27ed770b4e7349bb8a15f90b1f627832f51f6c749dc7.jpg
+  author_url: https://fosstodon.org/@fleegman
+  class: in-reply-to
+  content:
+    html: "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+      class=\"u-url\">@<span>randomgeek</span></a></span> <br />Oh, you're webfiend!
+      Been a while. We need good peeps like you... \U0001F603</p>"
+    text: "@randomgeek \nOh, you're webfiend! Been a while. We need good peeps like
+      you... \U0001F603"
+  entry_url: "/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-28 06:29:41.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Guy Fleegman", "photo":
+    "https://webmention.io/avatar/hackers.town/254fa836a65b8ddb6c8e27ed770b4e7349bb8a15f90b1f627832f51f6c749dc7.jpg",
+    "url": "https://fosstodon.org/@fleegman"}, "url": "https://fosstodon.org/@fleegman/104246318308983772",
+    "published": "2020-05-28T13:29:41", "wm-received": "2020-05-28T15:41:27Z", "wm-id":
+    802917, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104244939719750904/104246318354777551",
+    "wm-target": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> <br />Oh, you''re webfiend!
+    Been a while. We need good peeps like you... \ud83d\ude03</p>", "text": "@randomgeek
+    \nOh, you''re webfiend! Been a while. We need good peeps like you... \ud83d\ude03"},
+    "in-reply-to": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-05-28 08:41:27.000000000 -07:00
+  url: https://fosstodon.org/@fleegman/104246318308983772
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      It’s taken me this much time to sit still long enough. Usually if I had a need I just added another library or maybe another language.
+      <a class="u-mention" href="https://twitter.com/genehack"></a>
+    text: It’s taken me this much time to sit still long enough. Usually if I had
+      a need I just added another library or maybe another language.
+  entry_url: "/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-28 01:28:50.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1265922968703520773",
+    "published": "2020-05-28T08:28:50+00:00", "wm-received": "2020-05-28T08:53:58Z",
+    "wm-id": 802660, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1265910632571863040/1265922968703520773",
+    "wm-target": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "content": {"html": "It\u2019s taken me this much time to sit still long enough.
+    Usually if I had a need I just added another library or maybe another language.\n<a
+    class=\"u-mention\" href=\"https://twitter.com/genehack\"></a>", "text": "It\u2019s
+    taken me this much time to sit still long enough. Usually if I had a need I just
+    added another library or maybe another language."}, "in-reply-to": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-05-28 01:53:58.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1265922968703520773
+- author_name: genehack in da house
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg
+  author_url: https://twitter.com/genehack
+  class: in-reply-to
+  content:
+    html: "How is that your first CPAN package? \n\nI feel like I’ve failed, somewhere
+      along the line.\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+      class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>"
+    text: "How is that your first CPAN package? \n\nI feel like I’ve failed, somewhere
+      along the line."
+  entry_url: "/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-28 01:21:19.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "genehack in da house",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg",
+    "url": "https://twitter.com/genehack"}, "url": "https://twitter.com/genehack/status/1265921077043068934",
+    "published": "2020-05-28T08:21:19+00:00", "wm-received": "2020-05-28T08:53:57Z",
+    "wm-id": 802659, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1265910632571863040/1265921077043068934",
+    "wm-target": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "content": {"html": "How is that your first CPAN package? \n\nI feel like I\u2019ve
+    failed, somewhere along the line.\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "How
+    is that your first CPAN package? \n\nI feel like I\u2019ve failed, somewhere along
+    the line."}, "in-reply-to": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-05-28 01:53:57.000000000 -07:00
+  url: https://twitter.com/genehack/status/1265921077043068934
+- author_name: Ceej flails around a lot.
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/3261dd6921e85e86cdc6f814c66c81e368747f6108dd44aa788999755cb527cf.jpg
+  author_url: https://twitter.com/ceejbot
+  class: like-of
+  entry_url: "/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Ceej flails around a
+    lot.", "photo": "https://webmention.io/avatar/pbs.twimg.com/3261dd6921e85e86cdc6f814c66c81e368747f6108dd44aa788999755cb527cf.jpg",
+    "url": "https://twitter.com/ceejbot"}, "url": "https://twitter.com/brianwisti/status/1265910632571863040#favorited-by-78663",
+    "published": null, "wm-received": "2020-05-28T07:52:23Z", "wm-id": 802636, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1265910632571863040/78663",
+    "wm-target": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "like-of": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-28 00:52:23.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1265910632571863040#favorited-by-78663
+- author_name: Guy Fleegman
+  author_photo: https://webmention.io/avatar/hackers.town/254fa836a65b8ddb6c8e27ed770b4e7349bb8a15f90b1f627832f51f6c749dc7.jpg
+  author_url: https://fosstodon.org/@fleegman
+  class: like-of
+  entry_url: "/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Guy Fleegman", "photo":
+    "https://webmention.io/avatar/hackers.town/254fa836a65b8ddb6c8e27ed770b4e7349bb8a15f90b1f627832f51f6c749dc7.jpg",
+    "url": "https://fosstodon.org/@fleegman"}, "url": "https://hackers.town/@randomgeek/104244939719750904#favorited-by-118052",
+    "published": null, "wm-received": "2020-05-28T15:41:27Z", "wm-id": 802918, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104244939719750904/118052",
+    "wm-target": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "like-of": "https://randomgeekery.org/note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-28 08:41:27.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104244939719750904#favorited-by-118052

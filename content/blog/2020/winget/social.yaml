@@ -1,0 +1,26 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104344729509760889
+  twitter: https://twitter.com/brianwisti/status/1272297310303723521
+entry_path: content/post/2020/06-winget/index.md
+permalink: "/post/2020/06/winget/"
+responses:
+- author_name: "Marge Wu 吴静玫\U0001F637"
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/8ae5d3acdec092307bfb9c1aae30490200f10e3c5d2c3440f5c9a3c88b6342a4.jpg
+  author_url: https://twitter.com/WuMargaret
+  class: like-of
+  entry_url: "/post/2020/06/winget/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Marge Wu \u5434\u9759\u73ab\ud83d\ude37",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/8ae5d3acdec092307bfb9c1aae30490200f10e3c5d2c3440f5c9a3c88b6342a4.jpg",
+    "url": "https://twitter.com/WuMargaret"}, "url": "https://twitter.com/brianwisti/status/1272297310303723521#favorited-by-504876760",
+    "published": null, "wm-received": "2020-06-14T23:24:17Z", "wm-id": 810555, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1272297310303723521/504876760",
+    "wm-target": "https://randomgeekery.org/post/2020/06/winget/", "like-of": "https://randomgeekery.org/post/2020/06/winget/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-06-14 16:24:17.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1272297310303723521#favorited-by-504876760

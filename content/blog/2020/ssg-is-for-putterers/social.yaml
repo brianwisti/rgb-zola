@@ -1,0 +1,100 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104898574975176332
+  twitter: https://twitter.com/brianwisti/status/1307743355393249288
+entry_path: content/note/2020/09/ssg-is-for-putterers/index.md
+permalink: "/note/2020/09/ssg-is-for-putterers/"
+responses:
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      I see and understand the thinking behind "well I'm just looping out to one more service and it's better than maintaining everything myself" but yeah.
+
+      Eventually you got 20 invoices for 30 services *and* you've got the maintenance work of keeping all those hooks up to date.
+      <a class="u-mention" href="https://twitter.com/genehack"></a>
+    text: |-
+      I see and understand the thinking behind "well I'm just looping out to one more service and it's better than maintaining everything myself" but yeah.
+
+      Eventually you got 20 invoices for 30 services *and* you've got the maintenance work of keeping all those hooks up to date.
+  entry_url: "/note/2020/09/ssg-is-for-putterers/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-09-20 11:36:07.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1307750402457128962",
+    "published": "2020-09-20T18:36:07+00:00", "wm-received": "2020-09-20T18:41:51Z",
+    "wm-id": 853954, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1307743355393249288/1307750402457128962",
+    "wm-target": "https://randomgeekery.org/note/2020/09/ssg-is-for-putterers/", "content":
+    {"html": "I see and understand the thinking behind \"well I''m just looping out
+    to one more service and it''s better than maintaining everything myself\" but
+    yeah.\n\nEventually you got 20 invoices for 30 services *and* you''ve got the
+    maintenance work of keeping all those hooks up to date.\n<a class=\"u-mention\"
+    href=\"https://twitter.com/genehack\"></a>", "text": "I see and understand the
+    thinking behind \"well I''m just looping out to one more service and it''s better
+    than maintaining everything myself\" but yeah.\n\nEventually you got 20 invoices
+    for 30 services *and* you''ve got the maintenance work of keeping all those hooks
+    up to date."}, "in-reply-to": "https://randomgeekery.org/note/2020/09/ssg-is-for-putterers/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-09-20 11:41:51.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1307750402457128962
+- author_name: just john sez “Black Lives Matter”
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg
+  author_url: https://twitter.com/genehack
+  class: in-reply-to
+  content:
+    html: |-
+      +1 They’re a good way to mess around learning a new language, and good for small-to-moderate sites with relatively few contributors. Some of the more JAMmy stuff is a bit over the line into “…but WHY?” territory, IMO.
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: "+1 They’re a good way to mess around learning a new language, and good
+      for small-to-moderate sites with relatively few contributors. Some of the more
+      JAMmy stuff is a bit over the line into “…but WHY?” territory, IMO."
+  entry_url: "/note/2020/09/ssg-is-for-putterers/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-09-20 11:24:38.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "just john sez \u201cBlack
+    Lives Matter\u201d", "photo": "https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg",
+    "url": "https://twitter.com/genehack"}, "url": "https://twitter.com/genehack/status/1307747512493592576",
+    "published": "2020-09-20T18:24:38+00:00", "wm-received": "2020-09-20T18:41:44Z",
+    "wm-id": 853953, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1307743355393249288/1307747512493592576",
+    "wm-target": "https://randomgeekery.org/note/2020/09/ssg-is-for-putterers/", "content":
+    {"html": "+1 They\u2019re a good way to mess around learning a new language, and
+    good for small-to-moderate sites with relatively few contributors. Some of the
+    more JAMmy stuff is a bit over the line into \u201c\u2026but WHY?\u201d territory,
+    IMO.\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\"
+    href=\"https://twitter.com/brianwisti\"></a>", "text": "+1 They\u2019re a good
+    way to mess around learning a new language, and good for small-to-moderate sites
+    with relatively few contributors. Some of the more JAMmy stuff is a bit over the
+    line into \u201c\u2026but WHY?\u201d territory, IMO."}, "in-reply-to": "https://randomgeekery.org/note/2020/09/ssg-is-for-putterers/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-09-20 11:41:44.000000000 -07:00
+  url: https://twitter.com/genehack/status/1307747512493592576
+- author_name: Eλf Sternberg
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/ece0c5d662bc8815ecba319556b9f6cdefe6b65164874ddb91251dc1c554919b.png
+  author_url: https://twitter.com/elfsternberg
+  class: like-of
+  entry_url: "/note/2020/09/ssg-is-for-putterers/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "E\u03bbf Sternberg",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/ece0c5d662bc8815ecba319556b9f6cdefe6b65164874ddb91251dc1c554919b.png",
+    "url": "https://twitter.com/elfsternberg"}, "url": "https://twitter.com/brianwisti/status/1307743355393249288#favorited-by-18141592",
+    "published": null, "wm-received": "2020-09-21T00:14:12Z", "wm-id": 854040, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1307743355393249288/18141592",
+    "wm-target": "https://randomgeekery.org/note/2020/09/ssg-is-for-putterers/", "like-of":
+    "https://randomgeekery.org/note/2020/09/ssg-is-for-putterers/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-09-20 17:14:12.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1307743355393249288#favorited-by-18141592

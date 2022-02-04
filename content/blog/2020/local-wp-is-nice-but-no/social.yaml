@@ -1,0 +1,46 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104958066939426916
+  twitter: https://twitter.com/brianwisti/status/1311550966500601856
+entry_path: content/note/2020/09/i-cant-use-wordpress-its-too-easy/index.md
+permalink: "/note/2020/09/local-wp-is-nice-but-no/"
+responses:
+- author_name: Ferdi (Ferdinand Fanötöna Zebua)
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/c1a5fafcbbd4557862b7ba0df257d905ec6015a1fe462494ea7595b6cf9cfff2.jpg
+  author_url: https://twitter.com/f_fz
+  class: like-of
+  entry_url: "/note/2020/09/local-wp-is-nice-but-no/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Ferdi (Ferdinand Fan\u00f6t\u00f6na
+    Zebua)", "photo": "https://webmention.io/avatar/pbs.twimg.com/c1a5fafcbbd4557862b7ba0df257d905ec6015a1fe462494ea7595b6cf9cfff2.jpg",
+    "url": "https://twitter.com/f_fz"}, "url": "https://twitter.com/brianwisti/status/1311550966500601856#favorited-by-56679923",
+    "published": null, "wm-received": "2020-10-01T06:21:10Z", "wm-id": 861784, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1311550966500601856/56679923",
+    "wm-target": "https://randomgeekery.org/note/2020/09/local-wp-is-nice-but-no/",
+    "like-of": "https://randomgeekery.org/note/2020/09/local-wp-is-nice-but-no/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-09-30 23:21:10.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1311550966500601856#favorited-by-56679923
+- author_name: Grey
+  author_photo: https://webmention.io/avatar/hackers.town/ffc7bbc4a190f9f6796477b075fa789115617ba4ad260066914defbd2af0401f.jpg
+  author_url: https://wandering.shop/@hummingrain
+  class: like-of
+  entry_url: "/note/2020/09/local-wp-is-nice-but-no/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Grey", "photo": "https://webmention.io/avatar/hackers.town/ffc7bbc4a190f9f6796477b075fa789115617ba4ad260066914defbd2af0401f.jpg",
+    "url": "https://wandering.shop/@hummingrain"}, "url": "https://hackers.town/@randomgeek/104958066939426916#favorited-by-1963",
+    "published": null, "wm-received": "2020-10-01T06:44:31Z", "wm-id": 861790, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104958066939426916/1963",
+    "wm-target": "https://randomgeekery.org/note/2020/09/local-wp-is-nice-but-no/",
+    "like-of": "https://randomgeekery.org/note/2020/09/local-wp-is-nice-but-no/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-09-30 23:44:31.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104958066939426916#favorited-by-1963

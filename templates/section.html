@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% import "macros/blog.html" as blog %}
+
+{% block title_head %}{{ section.title }} | {{ config.title }}{% endblock %}
+
+{% block content %}
+  <section>
+    <header>
+      <h1>{{ section.title }}</h1>
+      {% if section.pages %}
+        <p>{{ section.pages | length }} articles</p>
+      {% endif %}
+      {% if section.subsections %}
+        <p>{{ section.subsections | length }} subsections</p>
+      {% endif %}
+    </header>
+
+  {{ section.content | safe }}
+
+  <section>
+    {% for page in section.pages | sort(attribute="date") | reverse %}
+      {{ blog::article_summary(article=page) }}
+    {% endfor %}
+  </section>
+
+  <ul>
+    {% for subsection_path in section.subsections | reverse %}
+      {% set subsection = get_section(path=subsection_path) %}
+      <li>
+        <a href="{{ subsection.permalink | safe }}">{{ subsection.title }}</a>
+        :
+        {% if subsection.pages %}
+          {{ subsection.pages | length }} articles
+        {% endif %}
+        {% if subsection.subsections %}
+          ({{ subsection.subsections | length }} subsections)
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+{% endblock content %}

@@ -1,0 +1,281 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104482085213153476
+  twitter: https://twitter.com/brianwisti/status/1281087955398991874
+entry_path: content/post/2020/07-tangling-code-from-hugo-content-with-raku/index.md
+permalink: "/post/2020/07/tangling-code-from-hugo-content-with-raku/"
+responses:
+- author_name: FXZig
+  author_photo: https://webmention.io/avatar/fxzig.com/68d539c7559744bddacd4b11dfed0278b189d605d4859887f87ac12719719d9e.jpg
+  author_url: https://fxzig.com/blog/notes/
+  class: like-of
+  content:
+    html:
+    text: Tangling code from Hugo content with Raku
+  entry_url: "/post/2020/07/tangling-code-from-hugo-content-with-raku/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-08-05 01:41:46.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "FXZig", "photo": "https://webmention.io/avatar/fxzig.com/68d539c7559744bddacd4b11dfed0278b189d605d4859887f87ac12719719d9e.jpg",
+    "url": "https://fxzig.com/blog/notes/"}, "url": "https://fxzig.com/blog/notes/",
+    "published": "2020-08-05T08:41:46+00:00", "wm-received": "2020-08-05T13:09:45Z",
+    "wm-id": 836158, "wm-source": "https://fxzig.com/blog/notes/", "wm-target": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "content": {"text": "Tangling code from Hugo content with Raku"}, "like-of": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-08-05 06:09:45.000000000 -07:00
+  url: https://fxzig.com/blog/notes/
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: mention-of
+  content:
+    html: |-
+      For the morning crowd, or whatever local time is for you.
+      <a class="u-mention" href="https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/"></a>
+    text: For the morning crowd, or whatever local time is for you.
+  entry_url: "/post/2020/07/tangling-code-from-hugo-content-with-raku/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-07-09 08:31:02.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1281249510027456512",
+    "published": "2020-07-09T15:31:02+00:00", "wm-received": "2020-07-09T16:20:57Z",
+    "wm-id": 822232, "wm-source": "https://brid-gy.appspot.com/post/twitter/brianwisti/1281249510027456512",
+    "wm-target": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "content": {"html": "For the morning crowd, or whatever local time is for you.\n<a
+    class=\"u-mention\" href=\"https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/\"></a>",
+    "text": "For the morning crowd, or whatever local time is for you."}, "mention-of":
+    "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "wm-property": "mention-of", "wm-private": false}'
+  received: 2020-07-09 09:20:57.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1281249510027456512
+- author_name: Raku programming language newsfeed
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/6f03f07d19c56c610d7b553b4dc2d96b46dd05eacb9b800ed537f64dc47db60b.jpg
+  author_url: https://twitter.com/raku_news
+  class: repost-of
+  content:
+    html:
+    text: |-
+      I could just use Org mode, but noo that's too easy
+
+      Tangling code from Hugo content with Raku
+
+      #Rakulang #LiterateProgramming #Files #Blog
+  entry_url: "/post/2020/07/tangling-code-from-hugo-content-with-raku/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-07-09 02:53:59.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Raku programming language
+    newsfeed", "photo": "https://webmention.io/avatar/pbs.twimg.com/6f03f07d19c56c610d7b553b4dc2d96b46dd05eacb9b800ed537f64dc47db60b.jpg",
+    "url": "https://twitter.com/raku_news"}, "url": "https://twitter.com/raku_news/status/1281164690845040647",
+    "published": "2020-07-09T09:53:59+00:00", "wm-received": "2020-07-09T10:22:14Z",
+    "wm-id": 822025, "wm-source": "https://brid-gy.appspot.com/repost/twitter/brianwisti/1281087955398991874/1281164690845040647",
+    "wm-target": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "content": {"text": "I could just use Org mode, but noo that''s too easy\n\nTangling
+    code from Hugo content with Raku\n\n#Rakulang #LiterateProgramming #Files #Blog"},
+    "repost-of": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-07-09 03:22:14.000000000 -07:00
+  url: https://twitter.com/raku_news/status/1281164690845040647
+- author_name: Elizabeth Mattijsen
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/1dd430d754c98617244bd43c319ab81629490eb0c227fa2acabe49f899364e52.jpg
+  author_url: https://twitter.com/liztormato
+  class: repost-of
+  content:
+    html:
+    text: |-
+      I could just use Org mode, but noo that's too easy
+
+      Tangling code from Hugo content with Raku
+
+      #Rakulang #LiterateProgramming #Files #Blog
+  entry_url: "/post/2020/07/tangling-code-from-hugo-content-with-raku/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-07-09 01:34:15.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Elizabeth Mattijsen",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/1dd430d754c98617244bd43c319ab81629490eb0c227fa2acabe49f899364e52.jpg",
+    "url": "https://twitter.com/liztormato"}, "url": "https://twitter.com/liztormato/status/1281144622916538368",
+    "published": "2020-07-09T08:34:15+00:00", "wm-received": "2020-07-09T09:20:00Z",
+    "wm-id": 822009, "wm-source": "https://brid-gy.appspot.com/repost/twitter/brianwisti/1281087955398991874/1281144622916538368",
+    "wm-target": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "content": {"text": "I could just use Org mode, but noo that''s too easy\n\nTangling
+    code from Hugo content with Raku\n\n#Rakulang #LiterateProgramming #Files #Blog"},
+    "repost-of": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-07-09 02:20:00.000000000 -07:00
+  url: https://twitter.com/liztormato/status/1281144622916538368
+- author_name: chenyf
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/a74f9f183d94865a59621591c817c32af7dea2714ed677544f735cc3366d47e2.jpg
+  author_url: https://twitter.com/ohmyfannnnn
+  class: repost-of
+  content:
+    html:
+    text: |-
+      I could just use Org mode, but noo that's too easy
+
+      Tangling code from Hugo content with Raku
+
+      #Rakulang #LiterateProgramming #Files #Blog
+  entry_url: "/post/2020/07/tangling-code-from-hugo-content-with-raku/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-07-08 21:54:02.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "chenyf", "photo": "https://webmention.io/avatar/pbs.twimg.com/a74f9f183d94865a59621591c817c32af7dea2714ed677544f735cc3366d47e2.jpg",
+    "url": "https://twitter.com/ohmyfannnnn"}, "url": "https://twitter.com/ohmyfannnnn/status/1281089203196100608",
+    "published": "2020-07-09T04:54:02+00:00", "wm-received": "2020-07-09T05:04:01Z",
+    "wm-id": 821971, "wm-source": "https://brid-gy.appspot.com/repost/twitter/brianwisti/1281087955398991874/1281089203196100608",
+    "wm-target": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "content": {"text": "I could just use Org mode, but noo that''s too easy\n\nTangling
+    code from Hugo content with Raku\n\n#Rakulang #LiterateProgramming #Files #Blog"},
+    "repost-of": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-07-08 22:04:01.000000000 -07:00
+  url: https://twitter.com/ohmyfannnnn/status/1281089203196100608
+- author_name: chenyf
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/a74f9f183d94865a59621591c817c32af7dea2714ed677544f735cc3366d47e2.jpg
+  author_url: https://twitter.com/ohmyfannnnn
+  class: like-of
+  entry_url: "/post/2020/07/tangling-code-from-hugo-content-with-raku/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "chenyf", "photo": "https://webmention.io/avatar/pbs.twimg.com/a74f9f183d94865a59621591c817c32af7dea2714ed677544f735cc3366d47e2.jpg",
+    "url": "https://twitter.com/ohmyfannnnn"}, "url": "https://twitter.com/brianwisti/status/1281087955398991874#favorited-by-855630327917813760",
+    "published": null, "wm-received": "2020-07-09T05:04:02Z", "wm-id": 821972, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1281087955398991874/855630327917813760",
+    "wm-target": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "like-of": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-07-08 22:04:02.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1281087955398991874#favorited-by-855630327917813760
+- author_name: ߋߡۺ৩֎
+  author_photo: https://webmention.io/avatar/hackers.town/7ec632d740c25fd3a884058a5109e15a4e361519904ea34301f529cc00bffe19.png
+  author_url: https://hackers.town/@y0x3y
+  class: like-of
+  entry_url: "/post/2020/07/tangling-code-from-hugo-content-with-raku/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "\u07cb\u07e1\u06fa\u09e9\u058e",
+    "photo": "https://webmention.io/avatar/hackers.town/7ec632d740c25fd3a884058a5109e15a4e361519904ea34301f529cc00bffe19.png",
+    "url": "https://hackers.town/@y0x3y"}, "url": "https://hackers.town/@randomgeek/104482085213153476#favorited-by-47168",
+    "published": null, "wm-received": "2020-07-09T05:41:40Z", "wm-id": 821976, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104482085213153476/47168",
+    "wm-target": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "like-of": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-07-08 22:41:40.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104482085213153476#favorited-by-47168
+- author_name: Deidre Wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/5da4d9d03095fd3bcfff45f40887b0d835982d25eea9a2708b45d4bfa606cf11.jpg
+  author_url: https://twitter.com/IamMrsGeek
+  class: like-of
+  entry_url: "/post/2020/07/tangling-code-from-hugo-content-with-raku/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Deidre Wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/5da4d9d03095fd3bcfff45f40887b0d835982d25eea9a2708b45d4bfa606cf11.jpg",
+    "url": "https://twitter.com/IamMrsGeek"}, "url": "https://twitter.com/brianwisti/status/1281087955398991874#favorited-by-43799528",
+    "published": null, "wm-received": "2020-07-09T05:51:05Z", "wm-id": 821981, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1281087955398991874/43799528",
+    "wm-target": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "like-of": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-07-08 22:51:05.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1281087955398991874#favorited-by-43799528
+- author_name: Elizabeth Mattijsen
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/1dd430d754c98617244bd43c319ab81629490eb0c227fa2acabe49f899364e52.jpg
+  author_url: https://twitter.com/liztormato
+  class: like-of
+  entry_url: "/post/2020/07/tangling-code-from-hugo-content-with-raku/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Elizabeth Mattijsen",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/1dd430d754c98617244bd43c319ab81629490eb0c227fa2acabe49f899364e52.jpg",
+    "url": "https://twitter.com/liztormato"}, "url": "https://twitter.com/brianwisti/status/1281087955398991874#favorited-by-1184431119162400768",
+    "published": null, "wm-received": "2020-07-09T09:20:35Z", "wm-id": 822010, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1281087955398991874/1184431119162400768",
+    "wm-target": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "like-of": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-07-09 02:20:35.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1281087955398991874#favorited-by-1184431119162400768
+- author_name: R¥
+  author_photo: https://webmention.io/avatar/hackers.town/039263c529628673890df7480f559d05726a8ea233ba0ede646e2350c865c746.jpg
+  author_url: https://hackers.town/@ryen
+  class: like-of
+  entry_url: "/post/2020/07/tangling-code-from-hugo-content-with-raku/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "R\u00a5", "photo": "https://webmention.io/avatar/hackers.town/039263c529628673890df7480f559d05726a8ea233ba0ede646e2350c865c746.jpg",
+    "url": "https://hackers.town/@ryen"}, "url": "https://hackers.town/@randomgeek/104482085213153476#favorited-by-44063",
+    "published": null, "wm-received": "2020-07-09T09:58:57Z", "wm-id": 822018, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104482085213153476/44063",
+    "wm-target": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "like-of": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-07-09 02:58:57.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104482085213153476#favorited-by-44063
+- author_name: Samuel Chase
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/f90ec00cd027049c19bc7a862264cc4228d9dd0185590459225e4f5514a3ac04.png
+  author_url: https://twitter.com/samebchase
+  class: like-of
+  entry_url: "/post/2020/07/tangling-code-from-hugo-content-with-raku/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Samuel Chase", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/f90ec00cd027049c19bc7a862264cc4228d9dd0185590459225e4f5514a3ac04.png",
+    "url": "https://twitter.com/samebchase"}, "url": "https://twitter.com/brianwisti/status/1281087955398991874#favorited-by-2891000857",
+    "published": null, "wm-received": "2020-07-10T07:05:03Z", "wm-id": 822758, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1281087955398991874/2891000857",
+    "wm-target": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "like-of": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-07-10 00:05:03.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1281087955398991874#favorited-by-2891000857
+- author_name: ''
+  author_photo: ''
+  author_url: ''
+  class: mention-of
+  entry_url: "/post/2020/07/tangling-code-from-hugo-content-with-raku/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "", "photo": "", "url":
+    ""}, "url": "http://rakudoweekly.blog/2020/07/13/2020-28-bridges-7/", "published":
+    null, "wm-received": "2020-07-13T14:06:01Z", "wm-id": 825721, "wm-source": "http://rakudoweekly.blog/2020/07/13/2020-28-bridges-7/",
+    "wm-target": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "mention-of": "https://randomgeekery.org/post/2020/07/tangling-code-from-hugo-content-with-raku/",
+    "wm-property": "mention-of", "wm-private": false, "rels": {"canonical": "https://rakudoweekly.blog/2020/07/13/2020-28-bridges-7/"}}'
+  received: 2020-07-13 07:06:01.000000000 -07:00
+  url: https://rakudoweekly.blog/2020/07/13/2020-28-bridges-7/

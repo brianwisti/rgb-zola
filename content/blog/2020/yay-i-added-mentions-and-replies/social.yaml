@@ -1,0 +1,78 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/103933433416503565
+  twitter: https://twitter.com/brianwisti/status/1245974320272347137
+entry_path: content/note/2020/04/yay-i-added-mentions-and-replies/index.md
+permalink: "/note/2020/04/yay-i-added-mentions-and-replies/"
+responses:
+- author_name: genehack
+  author_photo: https://webmention.io/avatar/hackers.town/65d33ddabc41f9b8cf5004260512c5c0251c0fc6435bed0858eda38bb6093308.jpg
+  author_url: https://mastodon.social/@genehack
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      </p><p>&gt;  I’m far enough along with the Indieweb stuff that my study notes
+      would make a decent blog post.</p><p>YES PLEASE AND THANK YOU</p>
+    text: "@randomgeek >  I’m far enough along with the Indieweb stuff that my study
+      notes would make a decent blog post.YES PLEASE AND THANK YOU"
+  entry_url: "/note/2020/94/yay-i-added-mentions-and-replies/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-03 07:57:37.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "genehack", "photo":
+    "https://webmention.io/avatar/hackers.town/65d33ddabc41f9b8cf5004260512c5c0251c0fc6435bed0858eda38bb6093308.jpg",
+    "url": "https://mastodon.social/@genehack"}, "url": "https://mastodon.social/@genehack/103935236982055939",
+    "published": "2020-04-03T14:57:37", "wm-received": "2020-04-03T17:25:08Z", "wm-id":
+    778320, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103933433416503565/103935236998224080",
+    "wm-target": "https://randomgeekery.org/note/2020/94/yay-i-added-mentions-and-replies/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> </p><p>&gt;  I\u2019m far
+    enough along with the Indieweb stuff that my study notes would make a decent blog
+    post.</p><p>YES PLEASE AND THANK YOU</p>", "text": "@randomgeek >  I\u2019m far
+    enough along with the Indieweb stuff that my study notes would make a decent blog
+    post.YES PLEASE AND THANK YOU"}, "in-reply-to": "https://randomgeekery.org/note/2020/94/yay-i-added-mentions-and-replies/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-03 10:25:08.000000000 -07:00
+  url: https://mastodon.social/@genehack/103935236982055939
+- author_name: Charles Stanhope
+  author_photo: https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg
+  author_url: https://social.coop/@cstanhope
+  class: like-of
+  entry_url: "/note/2020/94/yay-i-added-mentions-and-replies/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Charles Stanhope", "photo":
+    "https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg",
+    "url": "https://social.coop/@cstanhope"}, "url": "https://hackers.town/@randomgeek/103933433416503565#favorited-by-2439",
+    "published": null, "wm-received": "2020-04-03T17:25:10Z", "wm-id": 778321, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103933433416503565/2439",
+    "wm-target": "https://randomgeekery.org/note/2020/94/yay-i-added-mentions-and-replies/",
+    "like-of": "https://randomgeekery.org/note/2020/94/yay-i-added-mentions-and-replies/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-03 10:25:10.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103933433416503565#favorited-by-2439
+- author_name: https://v2.jacky.wtf/
+  author_photo: https://webmention.io/avatar/hackers.town/7411313d5bce2f4ec976d6b4909af10107dd882129d4f62f382f704bf095418c.jpg
+  author_url: https://playvicious.social/@jalcine
+  class: like-of
+  entry_url: "/note/2020/94/yay-i-added-mentions-and-replies/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "https://v2.jacky.wtf/",
+    "photo": "https://webmention.io/avatar/hackers.town/7411313d5bce2f4ec976d6b4909af10107dd882129d4f62f382f704bf095418c.jpg",
+    "url": "https://playvicious.social/@jalcine"}, "url": "https://hackers.town/@randomgeek/103933433416503565#favorited-by-19689",
+    "published": null, "wm-received": "2020-04-03T17:25:16Z", "wm-id": 778322, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103933433416503565/19689",
+    "wm-target": "https://randomgeekery.org/note/2020/94/yay-i-added-mentions-and-replies/",
+    "like-of": "https://randomgeekery.org/note/2020/94/yay-i-added-mentions-and-replies/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-03 10:25:16.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103933433416503565#favorited-by-19689

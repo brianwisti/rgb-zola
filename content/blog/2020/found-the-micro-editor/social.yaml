@@ -1,0 +1,40 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/105303191449436844
+  twitter: https://twitter.com/brianwisti/status/1333638746676334594
+entry_path: content/note/2020/11/found-the-micro-editor/index.md
+permalink: "/note/2020/11/found-the-micro-editor/"
+responses:
+- url: https://hackers.town/@randomgeek/105303191449436844#favorited-by-36860
+  author_name: The Doctor
+  author_url: https://hackers.town/@drwho
+  author_photo: https://webmention.io/avatar/hackers.town/c9a98dcd2c27de62a773bd4c6146b1e0547fa289cd8b2b402f2f9113ff2b7aa1.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2020/11/found-the-micro-editor/
+  h-type: entry
+  private: false
+  received: 2020-12-01 08:59:06.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"The Doctor","photo":"https://webmention.io/avatar/hackers.town/c9a98dcd2c27de62a773bd4c6146b1e0547fa289cd8b2b402f2f9113ff2b7aa1.jpg","url":"https://hackers.town/@drwho"},"url":"https://hackers.town/@randomgeek/105303191449436844#favorited-by-36860","published":null,"wm-received":"2020-12-01T08:59:06Z","wm-id":931613,"wm-source":"https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/105303191449436844/36860","wm-target":"https://randomgeekery.org/note/2020/11/found-the-micro-editor/","like-of":"https://randomgeekery.org/note/2020/11/found-the-micro-editor/","wm-property":"like-of","wm-private":false}'
+- url: https://hackers.town/@randomgeek/105303191449436844#favorited-by-44063
+  author_name: R¥
+  author_url: https://hackers.town/@ryen
+  author_photo: https://webmention.io/avatar/hackers.town/30067bf4cf58f6c429d3bd820275714162b4112a283729ec710737a80490088f.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2020/11/found-the-micro-editor/
+  h-type: entry
+  private: false
+  received: 2020-12-01 08:59:38.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"R¥","photo":"https://webmention.io/avatar/hackers.town/30067bf4cf58f6c429d3bd820275714162b4112a283729ec710737a80490088f.jpg","url":"https://hackers.town/@ryen"},"url":"https://hackers.town/@randomgeek/105303191449436844#favorited-by-44063","published":null,"wm-received":"2020-12-01T08:59:38Z","wm-id":931615,"wm-source":"https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/105303191449436844/44063","wm-target":"https://randomgeekery.org/note/2020/11/found-the-micro-editor/","like-of":"https://randomgeekery.org/note/2020/11/found-the-micro-editor/","wm-property":"like-of","wm-private":false}'
+- url: https://hackers.town/@randomgeek/105303191449436844#favorited-by-9402
+  author_name: Andrew Hewus Fresh
+  author_url: https://bsd.network/@AFresh1
+  author_photo: https://webmention.io/avatar/hackers.town/2c496054da01bd460313de6d00748c0d557f3cf07091ec2b69e810990ce2ceae.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2020/11/found-the-micro-editor/
+  h-type: entry
+  private: false
+  received: 2020-12-01 23:06:27.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Andrew Hewus Fresh","photo":"https://webmention.io/avatar/hackers.town/2c496054da01bd460313de6d00748c0d557f3cf07091ec2b69e810990ce2ceae.jpg","url":"https://bsd.network/@AFresh1"},"url":"https://hackers.town/@randomgeek/105303191449436844#favorited-by-9402","published":null,"wm-received":"2020-12-01T23:06:27Z","wm-id":932231,"wm-source":"https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/105303191449436844/9402","wm-target":"https://randomgeekery.org/note/2020/11/found-the-micro-editor/","like-of":"https://randomgeekery.org/note/2020/11/found-the-micro-editor/","wm-property":"like-of","wm-private":false}'

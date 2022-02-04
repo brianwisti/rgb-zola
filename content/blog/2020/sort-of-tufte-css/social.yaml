@@ -1,0 +1,61 @@
+---
+announcements: {}
+entry_path: content/post/2020/02/sort-of-tufte-css/index.md
+permalink: "/post/2020/02/sort-of-tufte-css/"
+responses:
+- author_name: the minimum viable genehack
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/0d3541afae204e3fd44c638d5d3d0a60d42ee492e88ab373980151769a6af00f.jpg
+  author_url: https://twitter.com/genehack
+  class: mention-of
+  content:
+    html: '<a href="https://twitter.com/brianwisti">@brianwisti</a> re: <a href="https://randomgeekery.org/2020/02/23/sort-of-tufte-css/">randomgeekery.org/2020/02/23/sor…</a>
+      — i drew quite a bit of inspiration from the Tufte CSS stuff when figuring out
+      my new site layouts (especially for things like margins and line-heights) but
+      WHOOOBOY those serif body fonts give me the twitches something fierce.'
+    text: "@brianwisti re: randomgeekery.org/2020/02/23/sor… — i drew quite a bit
+      of inspiration from the Tufte CSS stuff when figuring out my new site layouts
+      (especially for things like margins and line-heights) but WHOOOBOY those serif
+      body fonts give me the twitches something fierce."
+  entry_url: "/2020/02/23/sort-of-tufte-css/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-02-23 11:02:03.000000000 -08:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "the minimum viable genehack",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/0d3541afae204e3fd44c638d5d3d0a60d42ee492e88ab373980151769a6af00f.jpg",
+    "url": "https://twitter.com/genehack"}, "url": "https://twitter.com/genehack/status/1231655477341147136",
+    "published": "2020-02-23T19:02:03+00:00", "wm-received": "2020-02-23T19:34:58Z",
+    "wm-id": 759919, "wm-source": "https://brid-gy.appspot.com/post/twitter/brianwisti/1231655477341147136",
+    "wm-target": "https://randomgeekery.org/2020/02/23/sort-of-tufte-css/", "content":
+    {"html": "<a href=\"https://twitter.com/brianwisti\">@brianwisti</a> re: <a href=\"https://randomgeekery.org/2020/02/23/sort-of-tufte-css/\">randomgeekery.org/2020/02/23/sor\u2026</a>
+    \u2014 i drew quite a bit of inspiration from the Tufte CSS stuff when figuring
+    out my new site layouts (especially for things like margins and line-heights)
+    but WHOOOBOY those serif body fonts give me the twitches something fierce.", "text":
+    "@brianwisti re: randomgeekery.org/2020/02/23/sor\u2026 \u2014 i drew quite a
+    bit of inspiration from the Tufte CSS stuff when figuring out my new site layouts
+    (especially for things like margins and line-heights) but WHOOOBOY those serif
+    body fonts give me the twitches something fierce."}, "mention-of": "https://randomgeekery.org/2020/02/23/sort-of-tufte-css/",
+    "wm-property": "mention-of", "wm-private": false}'
+  received: 2020-02-23 11:34:58.000000000 -08:00
+  url: https://twitter.com/genehack/status/1231655477341147136
+- author_name: Deidre Adriano
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/68023470fed9e3c2987b5bb991ffd01af74b0894052ce2962377a30455328ad5.jpg
+  author_url: https://twitter.com/deedriano
+  class: like-of
+  entry_url: "/2020/02/23/sort-of-tufte-css/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Deidre Adriano", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/68023470fed9e3c2987b5bb991ffd01af74b0894052ce2962377a30455328ad5.jpg",
+    "url": "https://twitter.com/deedriano"}, "url": "https://twitter.com/brianwisti/status/1231491515811270657#favorited-by-43799528",
+    "published": null, "wm-received": "2020-02-23T18:11:04Z", "wm-id": 759878, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1231491515811270657/43799528",
+    "wm-target": "https://randomgeekery.org/2020/02/23/sort-of-tufte-css/", "like-of":
+    "https://randomgeekery.org/2020/02/23/sort-of-tufte-css/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-02-23 10:11:04.000000000 -08:00
+  url: https://twitter.com/brianwisti/status/1231491515811270657#favorited-by-43799528

@@ -1,0 +1,66 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/105026330465855930
+  twitter: https://twitter.com/brianwisti/status/1315919976247762945
+entry_path: content/note/2020/10/checking-out-playwright-for-python/index.md
+permalink: "/note/2020/10/checking-out-playwright-for-python/"
+responses:
+- author_name: egret
+  author_photo: https://webmention.io/avatar/hackers.town/cb6543fd2e46ed028f04642fa2df9cb89446366aad0fdf04f614aa875c8fc3fe.jpg
+  author_url: https://hackers.town/@egret
+  class: like-of
+  entry_url: "/note/2020/10/checking-out-playwright-for-python/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "egret", "photo": "https://webmention.io/avatar/hackers.town/cb6543fd2e46ed028f04642fa2df9cb89446366aad0fdf04f614aa875c8fc3fe.jpg",
+    "url": "https://hackers.town/@egret"}, "url": "https://hackers.town/@randomgeek/105026330465855930#favorited-by-104664",
+    "published": null, "wm-received": "2020-10-13T12:11:10Z", "wm-id": 874111, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/105026330465855930/104664",
+    "wm-target": "https://randomgeekery.org/note/2020/10/checking-out-playwright-for-python/",
+    "like-of": "https://randomgeekery.org/note/2020/10/checking-out-playwright-for-python/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-10-13 05:11:10.000000000 -07:00
+  url: https://hackers.town/@randomgeek/105026330465855930#favorited-by-104664
+- author_name: Arjun Attam
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/7e1bb01a3ed5e158b1e55a3fa6ccc2d65875bfbe4eb73b5478cc45cbd6575287.jpg
+  author_url: https://twitter.com/arjunattam
+  class: like-of
+  entry_url: "/note/2020/10/checking-out-playwright-for-python/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Arjun Attam", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/7e1bb01a3ed5e158b1e55a3fa6ccc2d65875bfbe4eb73b5478cc45cbd6575287.jpg",
+    "url": "https://twitter.com/arjunattam"}, "url": "https://twitter.com/brianwisti/status/1315919976247762945#favorited-by-30673875",
+    "published": null, "wm-received": "2020-10-13T16:18:13Z", "wm-id": 874523, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1315919976247762945/30673875",
+    "wm-target": "https://randomgeekery.org/note/2020/10/checking-out-playwright-for-python/",
+    "like-of": "https://randomgeekery.org/note/2020/10/checking-out-playwright-for-python/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-10-13 09:18:13.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1315919976247762945#favorited-by-30673875
+- author_name: Mr. Spaz
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/4179c3253baa7d296147a54ac8c9124a489b476c743a0534c030b923983b6772.jpg
+  author_url: https://twitter.com/spazm
+  class: like-of
+  entry_url: "/note/2020/10/checking-out-playwright-for-python/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Mr. Spaz", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/4179c3253baa7d296147a54ac8c9124a489b476c743a0534c030b923983b6772.jpg",
+    "url": "https://twitter.com/spazm"}, "url": "https://twitter.com/brianwisti/status/1315919976247762945#favorited-by-5878352",
+    "published": null, "wm-received": "2020-10-13T20:17:01Z", "wm-id": 874822, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1315919976247762945/5878352",
+    "wm-target": "https://randomgeekery.org/note/2020/10/checking-out-playwright-for-python/",
+    "like-of": "https://randomgeekery.org/note/2020/10/checking-out-playwright-for-python/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-10-13 13:17:01.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1315919976247762945#favorited-by-5878352

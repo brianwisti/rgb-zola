@@ -1,0 +1,48 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/105349151866679518
+  twitter: https://twitter.com/brianwisti/status/1336580252458491904
+entry_path: content/note/2020/12/tags-and-config-and-rss-oh-my/index.md
+permalink: "/note/2020/12/tags-and-config-and-rss-oh-my/"
+responses:
+- url: https://hackers.town/@randomgeek/105349229369833255
+  author_name: Random Geek
+  author_url: https://hackers.town/@randomgeek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/note/2020/12/tags-and-config-and-rss-oh-my/
+  h-type: entry
+  private: false
+  received: 2020-12-09 08:43:04.000000000 Z
+  published: 2020-12-09 08:14:28.000000000 -08:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Random Geek","photo":"https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png","url":"https://hackers.town/@randomgeek"},"url":"https://hackers.town/@randomgeek/105349229369833255","published":"2020-12-09T08:14:28","wm-received":"2020-12-09T08:43:04Z","wm-id":942712,"wm-source":"https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/105349151866679518/105349229369833255","wm-target":"https://randomgeekery.org/note/2020/12/tags-and-config-and-rss-oh-my/","content":{"html":"<p>This
+    is the closest I’ve been to ‘happy’ with my site since before I admitted it was
+    a blog.</p>","text":"This is the closest I’ve been to ‘happy’ with my site since
+    before I admitted it was a blog."},"in-reply-to":"https://randomgeekery.org/note/2020/12/tags-and-config-and-rss-oh-my/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: "<p>This is the closest I’ve been to ‘happy’ with my site since before I
+      admitted it was a blog.</p>"
+    text: This is the closest I’ve been to ‘happy’ with my site since before I admitted
+      it was a blog.
+- url: https://hackers.town/@randomgeek/105349151866679518#favorited-by-887
+  author_name: "Bálint \U0001F3AD"
+  author_url: https://x0r.be/@szbalint
+  author_photo: https://webmention.io/avatar/hackers.town/ef52b1811ad7af524d2ead17166363c5910e8a19f312762d68df3efddf6d0176.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2020/12/tags-and-config-and-rss-oh-my/
+  h-type: entry
+  private: false
+  received: 2020-12-09 08:43:04.000000000 Z
+  published:
+  raw: "{\"type\":\"entry\",\"author\":{\"type\":\"card\",\"name\":\"Bálint \U0001F3AD\",\"photo\":\"https://webmention.io/avatar/hackers.town/ef52b1811ad7af524d2ead17166363c5910e8a19f312762d68df3efddf6d0176.jpg\",\"url\":\"https://x0r.be/@szbalint\"},\"url\":\"https://hackers.town/@randomgeek/105349151866679518#favorited-by-887\",\"published\":null,\"wm-received\":\"2020-12-09T08:43:04Z\",\"wm-id\":942713,\"wm-source\":\"https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/105349151866679518/887\",\"wm-target\":\"https://randomgeekery.org/note/2020/12/tags-and-config-and-rss-oh-my/\",\"like-of\":\"https://randomgeekery.org/note/2020/12/tags-and-config-and-rss-oh-my/\",\"wm-property\":\"like-of\",\"wm-private\":false}"
+- url: https://twitter.com/brianwisti/status/1336580252458491904#favorited-by-18141592
+  author_name: Eλf Sternberg
+  author_url: https://twitter.com/elfsternberg
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/ece0c5d662bc8815ecba319556b9f6cdefe6b65164874ddb91251dc1c554919b.png
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2020/12/tags-and-config-and-rss-oh-my/
+  h-type: entry
+  private: false
+  received: 2020-12-09 14:49:09.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Eλf Sternberg","photo":"https://webmention.io/avatar/pbs.twimg.com/ece0c5d662bc8815ecba319556b9f6cdefe6b65164874ddb91251dc1c554919b.png","url":"https://twitter.com/elfsternberg"},"url":"https://twitter.com/brianwisti/status/1336580252458491904#favorited-by-18141592","published":null,"wm-received":"2020-12-09T14:49:09Z","wm-id":943197,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1336580252458491904/18141592","wm-target":"https://randomgeekery.org/note/2020/12/tags-and-config-and-rss-oh-my/","like-of":"https://randomgeekery.org/note/2020/12/tags-and-config-and-rss-oh-my/","wm-property":"like-of","wm-private":false}'

@@ -1,0 +1,184 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104125796417600382
+  twitter: https://twitter.com/brianwisti/status/1258285359064125441
+entry_path: content/post/2020/05/querying-hugo-content-with-python/index.md
+permalink: "/post/2020/05/querying-hugo-content-with-python/"
+responses:
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: mention-of
+  content:
+    html: |-
+      My trick to keeping site traffic low: post your best stuff after 11pm.
+      <a class="u-mention" href="https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/"></a>
+    text: 'My trick to keeping site traffic low: post your best stuff after 11pm.'
+  entry_url: "/post/2020/05/querying-hugo-content-with-python/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-07 07:31:32.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1258404103698276352",
+    "published": "2020-05-07T14:31:32+00:00", "wm-received": "2020-05-07T15:24:51Z",
+    "wm-id": 793667, "wm-source": "https://brid-gy.appspot.com/post/twitter/brianwisti/1258404103698276352",
+    "wm-target": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "content": {"html": "My trick to keeping site traffic low: post your best stuff
+    after 11pm.\n<a class=\"u-mention\" href=\"https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/\"></a>",
+    "text": "My trick to keeping site traffic low: post your best stuff after 11pm."},
+    "mention-of": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "wm-property": "mention-of", "wm-private": false}'
+  received: 2020-05-07 08:24:51.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1258404103698276352
+- author_name: tragically offbeat
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/4b7082bac6e33fc55b6ce42b05b321824dd4905ad33649fb4a5c7c737746ee12.jpg
+  author_url: https://twitter.com/whatimafter_
+  class: repost-of
+  content:
+    html:
+    text: |-
+      I had entirely too much fun replacing my site metadata script with sqlite-utils
+
+      Querying Hugo Content With Python
+
+      randomgeekery.org/post/2020/05/q…
+  entry_url: "/post/2020/05/querying-hugo-content-with-python/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-07 04:44:11.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "tragically offbeat",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/4b7082bac6e33fc55b6ce42b05b321824dd4905ad33649fb4a5c7c737746ee12.jpg",
+    "url": "https://twitter.com/whatimafter_"}, "url": "https://twitter.com/whatimafter_/status/1258361988545200128",
+    "published": "2020-05-07T11:44:11+00:00", "wm-received": "2020-05-07T19:11:38Z",
+    "wm-id": 793733, "wm-source": "https://brid-gy.appspot.com/repost/twitter/brianwisti/1258285359064125441/1258361988545200128",
+    "wm-target": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "content": {"text": "I had entirely too much fun replacing my site metadata script
+    with sqlite-utils\n\nQuerying Hugo Content With Python\n\nrandomgeekery.org/post/2020/05/q\u2026"},
+    "repost-of": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-05-07 12:11:38.000000000 -07:00
+  url: https://twitter.com/whatimafter_/status/1258361988545200128
+- author_name: Olle Jonsson
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/126385c6988fbe9fd743b7cfe67f3b1c7d8e1a214daa333c2c59ddbb46547517.jpg
+  author_url: https://twitter.com/olleolleolle
+  class: like-of
+  entry_url: "/post/2020/05/querying-hugo-content-with-python/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Olle Jonsson", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/126385c6988fbe9fd743b7cfe67f3b1c7d8e1a214daa333c2c59ddbb46547517.jpg",
+    "url": "https://twitter.com/olleolleolle"}, "url": "https://twitter.com/brianwisti/status/1258285359064125441#favorited-by-1482161",
+    "published": null, "wm-received": "2020-05-07T06:52:06Z", "wm-id": 793577, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1258285359064125441/1482161",
+    "wm-target": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "like-of": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-06 23:52:06.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1258285359064125441#favorited-by-1482161
+- author_name: Ceej believes you can do the thing.
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/3261dd6921e85e86cdc6f814c66c81e368747f6108dd44aa788999755cb527cf.jpg
+  author_url: https://twitter.com/ceejbot
+  class: like-of
+  entry_url: "/post/2020/05/querying-hugo-content-with-python/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Ceej believes you can
+    do the thing.", "photo": "https://webmention.io/avatar/pbs.twimg.com/3261dd6921e85e86cdc6f814c66c81e368747f6108dd44aa788999755cb527cf.jpg",
+    "url": "https://twitter.com/ceejbot"}, "url": "https://twitter.com/brianwisti/status/1258285359064125441#favorited-by-78663",
+    "published": null, "wm-received": "2020-05-07T07:38:40Z", "wm-id": 793589, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1258285359064125441/78663",
+    "wm-target": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "like-of": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-07 00:38:40.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1258285359064125441#favorited-by-78663
+- author_name: 'Chris :budgieubuntu: :flag_nl:'
+  author_photo: https://webmention.io/avatar/hackers.town/77b516d59f73cd5ec08cfd046220cfd82d1d2d03809f00dcd6997e3f217e7f1c.png
+  author_url: https://fosstodon.org/@RyuKurisu
+  class: like-of
+  entry_url: "/post/2020/05/querying-hugo-content-with-python/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Chris :budgieubuntu:
+    :flag_nl:", "photo": "https://webmention.io/avatar/hackers.town/77b516d59f73cd5ec08cfd046220cfd82d1d2d03809f00dcd6997e3f217e7f1c.png",
+    "url": "https://fosstodon.org/@RyuKurisu"}, "url": "https://hackers.town/@randomgeek/104125796417600382#favorited-by-13968",
+    "published": null, "wm-received": "2020-05-07T08:39:39Z", "wm-id": 793594, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104125796417600382/13968",
+    "wm-target": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "like-of": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-07 01:39:39.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104125796417600382#favorited-by-13968
+- author_name: 'Chris :budgieubuntu: :flag_nl:'
+  author_photo: https://webmention.io/avatar/hackers.town/77b516d59f73cd5ec08cfd046220cfd82d1d2d03809f00dcd6997e3f217e7f1c.png
+  author_url: https://fosstodon.org/@RyuKurisu
+  class: repost-of
+  entry_url: "/post/2020/05/querying-hugo-content-with-python/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Chris :budgieubuntu:
+    :flag_nl:", "photo": "https://webmention.io/avatar/hackers.town/77b516d59f73cd5ec08cfd046220cfd82d1d2d03809f00dcd6997e3f217e7f1c.png",
+    "url": "https://fosstodon.org/@RyuKurisu"}, "url": "https://hackers.town/@randomgeek/104125796417600382#reblogged-by-13968",
+    "published": null, "wm-received": "2020-05-07T08:39:40Z", "wm-id": 793595, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/104125796417600382/13968",
+    "wm-target": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "repost-of": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-05-07 01:39:40.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104125796417600382#reblogged-by-13968
+- author_name: Yanick
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg
+  author_url: https://twitter.com/yenzie
+  class: like-of
+  entry_url: "/post/2020/05/querying-hugo-content-with-python/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Yanick", "photo": "https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg",
+    "url": "https://twitter.com/yenzie"}, "url": "https://twitter.com/brianwisti/status/1258285359064125441#favorited-by-18431216",
+    "published": null, "wm-received": "2020-05-07T14:12:16Z", "wm-id": 793660, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1258285359064125441/18431216",
+    "wm-target": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "like-of": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-07 07:12:16.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1258285359064125441#favorited-by-18431216
+- author_name: Jorge E. Gómez
+  author_photo: https://webmention.io/avatar/hackers.town/411fff1ad905c3761f25397f97f83cba7290ed491e22bdee6493a15a85c4bac7.jpg
+  author_url: https://toot.cafe/@jorgee
+  class: like-of
+  entry_url: "/post/2020/05/querying-hugo-content-with-python/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jorge E. G\u00f3mez",
+    "photo": "https://webmention.io/avatar/hackers.town/411fff1ad905c3761f25397f97f83cba7290ed491e22bdee6493a15a85c4bac7.jpg",
+    "url": "https://toot.cafe/@jorgee"}, "url": "https://hackers.town/@randomgeek/104125796417600382#favorited-by-127203",
+    "published": null, "wm-received": "2020-05-07T15:57:44Z", "wm-id": 793676, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104125796417600382/127203",
+    "wm-target": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "like-of": "https://randomgeekery.org/post/2020/05/querying-hugo-content-with-python/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-07 08:57:44.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104125796417600382#favorited-by-127203

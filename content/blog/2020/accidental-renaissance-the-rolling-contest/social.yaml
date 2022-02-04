@@ -1,0 +1,26 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104895757982720260
+  twitter: https://twitter.com/brianwisti/status/1307563412852011015
+entry_path: content/note/2020/09/accidental-renaissance-the-rolling-contest/index.md
+permalink: "/note/2020/09/accidental-renaissance-the-rolling-contest/"
+responses:
+- author_name: Yanick
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg
+  author_url: https://twitter.com/yenzie
+  class: like-of
+  entry_url: "/note/2020/09/accidental-renaissance-the-rolling-contest/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Yanick", "photo": "https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg",
+    "url": "https://twitter.com/yenzie"}, "url": "https://twitter.com/brianwisti/status/1307563412852011015#favorited-by-18431216",
+    "published": null, "wm-received": "2020-09-20T18:41:52Z", "wm-id": 853955, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1307563412852011015/18431216",
+    "wm-target": "https://randomgeekery.org/note/2020/09/accidental-renaissance-the-rolling-contest/",
+    "like-of": "https://randomgeekery.org/note/2020/09/accidental-renaissance-the-rolling-contest/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-09-20 11:41:52.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1307563412852011015#favorited-by-18431216

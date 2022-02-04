@@ -1,0 +1,413 @@
+---
+announcements: {}
+entry_path: content/post/2020/03/stdu-viewer/index.md
+permalink: "/post/2020/03/stdu-viewer/"
+responses:
+- author_name: Patrick Fitzgerald
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/649bd1fcea6d780718e7e5a5cf87802e20134ca1499fb02eacb0d4dc9bfcdcec.jpg
+  author_url: https://twitter.com/fitzgepn
+  class: in-reply-to
+  content:
+    html: |-
+      We're using aluminum wire because it won't rust and it's not magnetic (ok around MRIs) but twist ties and pipe cleaners work ok too.
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/IamMrsGeek"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: We're using aluminum wire because it won't rust and it's not magnetic (ok
+      around MRIs) but twist ties and pipe cleaners work ok too.
+  entry_url: "/2020/03/26/stdu-viewer/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-27 08:22:26.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Patrick Fitzgerald",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/649bd1fcea6d780718e7e5a5cf87802e20134ca1499fb02eacb0d4dc9bfcdcec.jpg",
+    "url": "https://twitter.com/fitzgepn"}, "url": "https://twitter.com/fitzgepn/status/1243559007849254912",
+    "published": "2020-03-27T15:22:26+00:00", "wm-received": "2020-03-27T15:30:12Z",
+    "wm-id": 775923, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1243428966427512832/1243559007849254912",
+    "wm-target": "https://randomgeekery.org/2020/03/26/stdu-viewer/", "content": {"html":
+    "We''re using aluminum wire because it won''t rust and it''s not magnetic (ok
+    around MRIs) but twist ties and pipe cleaners work ok too.\n<a class=\"u-mention\"
+    href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/IamMrsGeek\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "We''re
+    using aluminum wire because it won''t rust and it''s not magnetic (ok around MRIs)
+    but twist ties and pipe cleaners work ok too."}, "in-reply-to": "https://randomgeekery.org/2020/03/26/stdu-viewer/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-27 08:30:12.000000000 -07:00
+  url: https://twitter.com/fitzgepn/status/1243559007849254912
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      oh that's very good to know!
+      <a class="u-mention" href="https://twitter.com/IamMrsGeek"></a>
+      <a class="u-mention" href="https://twitter.com/fitzgepn"></a>
+    text: oh that's very good to know!
+  entry_url: "/2020/03/26/stdu-viewer/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-27 07:59:02.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1243553119889326081",
+    "published": "2020-03-27T14:59:02+00:00", "wm-received": "2020-03-27T15:29:46Z",
+    "wm-id": 775922, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1243428966427512832/1243553119889326081",
+    "wm-target": "https://randomgeekery.org/2020/03/26/stdu-viewer/", "content": {"html":
+    "oh that''s very good to know!\n<a class=\"u-mention\" href=\"https://twitter.com/IamMrsGeek\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/fitzgepn\"></a>", "text": "oh that''s
+    very good to know!"}, "in-reply-to": "https://randomgeekery.org/2020/03/26/stdu-viewer/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-27 08:29:46.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1243553119889326081
+- author_name: Patrick Fitzgerald
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/649bd1fcea6d780718e7e5a5cf87802e20134ca1499fb02eacb0d4dc9bfcdcec.jpg
+  author_url: https://twitter.com/fitzgepn
+  class: in-reply-to
+  content:
+    html: "Yes! Good! Local non-ICU nurses we know have told us they're getting one
+      disposable mask a week. We're making two layer cotton masks with a pocket for
+      the disposable mask. \nWe've figured out that putting a wire in for the nose
+      helps it fit better and not fog up glasses.\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+      class=\"u-mention\" href=\"https://twitter.com/IamMrsGeek\"></a>\n<a class=\"u-mention\"
+      href=\"https://twitter.com/brianwisti\"></a>"
+    text: "Yes! Good! Local non-ICU nurses we know have told us they're getting one
+      disposable mask a week. We're making two layer cotton masks with a pocket for
+      the disposable mask. \nWe've figured out that putting a wire in for the nose
+      helps it fit better and not fog up glasses."
+  entry_url: "/2020/03/26/stdu-viewer/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-27 07:57:47.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Patrick Fitzgerald",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/649bd1fcea6d780718e7e5a5cf87802e20134ca1499fb02eacb0d4dc9bfcdcec.jpg",
+    "url": "https://twitter.com/fitzgepn"}, "url": "https://twitter.com/fitzgepn/status/1243552803185967109",
+    "published": "2020-03-27T14:57:47+00:00", "wm-received": "2020-03-27T15:29:40Z",
+    "wm-id": 775921, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1243428966427512832/1243552803185967109",
+    "wm-target": "https://randomgeekery.org/2020/03/26/stdu-viewer/", "content": {"html":
+    "Yes! Good! Local non-ICU nurses we know have told us they''re getting one disposable
+    mask a week. We''re making two layer cotton masks with a pocket for the disposable
+    mask. \nWe''ve figured out that putting a wire in for the nose helps it fit better
+    and not fog up glasses.\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/IamMrsGeek\"></a>\n<a class=\"u-mention\"
+    href=\"https://twitter.com/brianwisti\"></a>", "text": "Yes! Good! Local non-ICU
+    nurses we know have told us they''re getting one disposable mask a week. We''re
+    making two layer cotton masks with a pocket for the disposable mask. \nWe''ve
+    figured out that putting a wire in for the nose helps it fit better and not fog
+    up glasses."}, "in-reply-to": "https://randomgeekery.org/2020/03/26/stdu-viewer/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-27 08:29:40.000000000 -07:00
+  url: https://twitter.com/fitzgepn/status/1243552803185967109
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      No worries at all. I'm still waiting on first coffee to hit, and today's heavy packing day for tomorrow's move.
+      <a class="u-mention" href="https://twitter.com/fitzgepn"></a>
+    text: No worries at all. I'm still waiting on first coffee to hit, and today's
+      heavy packing day for tomorrow's move.
+  entry_url: "/2020/03/26/stdu-viewer/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-27 07:51:32.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1243551230409887744",
+    "published": "2020-03-27T14:51:32+00:00", "wm-received": "2020-03-27T15:29:02Z",
+    "wm-id": 775919, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1243428966427512832/1243551230409887744",
+    "wm-target": "https://randomgeekery.org/2020/03/26/stdu-viewer/", "content": {"html":
+    "No worries at all. I''m still waiting on first coffee to hit, and today''s heavy
+    packing day for tomorrow''s move.\n<a class=\"u-mention\" href=\"https://twitter.com/fitzgepn\"></a>",
+    "text": "No worries at all. I''m still waiting on first coffee to hit, and today''s
+    heavy packing day for tomorrow''s move."}, "in-reply-to": "https://randomgeekery.org/2020/03/26/stdu-viewer/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-27 08:29:02.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1243551230409887744
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      I knit the mask, <a href="https://twitter.com/IamMrsGeek">@IamMrsGeek</a> sews in a lining layer for inside.
+
+      Less about protecting ourselves and more about reducing risk of asymptomatic spread even a little bit (since other people have greater need of the *good* masks).
+      <a class="u-mention" href="https://twitter.com/fitzgepn"></a>
+    text: |-
+      I knit the mask, @IamMrsGeek sews in a lining layer for inside.
+
+      Less about protecting ourselves and more about reducing risk of asymptomatic spread even a little bit (since other people have greater need of the *good* masks).
+  entry_url: "/2020/03/26/stdu-viewer/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-27 07:50:52.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1243551063686299648",
+    "published": "2020-03-27T14:50:52+00:00", "wm-received": "2020-03-27T15:29:12Z",
+    "wm-id": 775920, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1243428966427512832/1243551063686299648",
+    "wm-target": "https://randomgeekery.org/2020/03/26/stdu-viewer/", "content": {"html":
+    "I knit the mask, <a href=\"https://twitter.com/IamMrsGeek\">@IamMrsGeek</a> sews
+    in a lining layer for inside.\n\nLess about protecting ourselves and more about
+    reducing risk of asymptomatic spread even a little bit (since other people have
+    greater need of the *good* masks).\n<a class=\"u-mention\" href=\"https://twitter.com/fitzgepn\"></a>",
+    "text": "I knit the mask, @IamMrsGeek sews in a lining layer for inside.\n\nLess
+    about protecting ourselves and more about reducing risk of asymptomatic spread
+    even a little bit (since other people have greater need of the *good* masks)."},
+    "in-reply-to": "https://randomgeekery.org/2020/03/26/stdu-viewer/", "wm-property":
+    "in-reply-to", "wm-private": false}'
+  received: 2020-03-27 08:29:12.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1243551063686299648
+- author_name: Patrick Fitzgerald
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/649bd1fcea6d780718e7e5a5cf87802e20134ca1499fb02eacb0d4dc9bfcdcec.jpg
+  author_url: https://twitter.com/fitzgepn
+  class: in-reply-to
+  content:
+    html: "I just realized I totally sounded like a know-it-all jerk just now and
+      hope I did not cause offense. \nCoffee's hitting harder than usual today and
+      I'm a bit extra.\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+      class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>"
+    text: "I just realized I totally sounded like a know-it-all jerk just now and
+      hope I did not cause offense. \nCoffee's hitting harder than usual today and
+      I'm a bit extra."
+  entry_url: "/2020/03/26/stdu-viewer/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-27 07:49:41.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Patrick Fitzgerald",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/649bd1fcea6d780718e7e5a5cf87802e20134ca1499fb02eacb0d4dc9bfcdcec.jpg",
+    "url": "https://twitter.com/fitzgepn"}, "url": "https://twitter.com/fitzgepn/status/1243550766545219586",
+    "published": "2020-03-27T14:49:41+00:00", "wm-received": "2020-03-27T15:28:54Z",
+    "wm-id": 775918, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1243428966427512832/1243550766545219586",
+    "wm-target": "https://randomgeekery.org/2020/03/26/stdu-viewer/", "content": {"html":
+    "I just realized I totally sounded like a know-it-all jerk just now and hope I
+    did not cause offense. \nCoffee''s hitting harder than usual today and I''m a
+    bit extra.\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "I
+    just realized I totally sounded like a know-it-all jerk just now and hope I did
+    not cause offense. \nCoffee''s hitting harder than usual today and I''m a bit
+    extra."}, "in-reply-to": "https://randomgeekery.org/2020/03/26/stdu-viewer/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-27 08:28:54.000000000 -07:00
+  url: https://twitter.com/fitzgepn/status/1243550766545219586
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      I believe the linked pattern mentions this, yes.
+      <a class="u-mention" href="https://twitter.com/fitzgepn"></a>
+    text: I believe the linked pattern mentions this, yes.
+  entry_url: "/2020/03/26/stdu-viewer/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-27 07:46:41.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1243550012618891270",
+    "published": "2020-03-27T14:46:41+00:00", "wm-received": "2020-03-27T15:28:40Z",
+    "wm-id": 775917, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1243428966427512832/1243550012618891270",
+    "wm-target": "https://randomgeekery.org/2020/03/26/stdu-viewer/", "content": {"html":
+    "I believe the linked pattern mentions this, yes.\n<a class=\"u-mention\" href=\"https://twitter.com/fitzgepn\"></a>",
+    "text": "I believe the linked pattern mentions this, yes."}, "in-reply-to": "https://randomgeekery.org/2020/03/26/stdu-viewer/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-27 08:28:40.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1243550012618891270
+- author_name: Patrick Fitzgerald
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/649bd1fcea6d780718e7e5a5cf87802e20134ca1499fb02eacb0d4dc9bfcdcec.jpg
+  author_url: https://twitter.com/fitzgepn
+  class: in-reply-to
+  content:
+    html: |-
+      Ok I probably don't need to tell you this but that mask is not going to protect you from a virus unless it has a pocket inside that you can fill with filter media.
+      Sorry, we've been manufacturing masks in our house and I've done way to much reading about filter materials.
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: |-
+      Ok I probably don't need to tell you this but that mask is not going to protect you from a virus unless it has a pocket inside that you can fill with filter media.
+      Sorry, we've been manufacturing masks in our house and I've done way to much reading about filter materials.
+  entry_url: "/2020/03/26/stdu-viewer/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-27 07:38:44.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Patrick Fitzgerald",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/649bd1fcea6d780718e7e5a5cf87802e20134ca1499fb02eacb0d4dc9bfcdcec.jpg",
+    "url": "https://twitter.com/fitzgepn"}, "url": "https://twitter.com/fitzgepn/status/1243548012561027074",
+    "published": "2020-03-27T14:38:44+00:00", "wm-received": "2020-03-27T15:28:28Z",
+    "wm-id": 775916, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1243428966427512832/1243548012561027074",
+    "wm-target": "https://randomgeekery.org/2020/03/26/stdu-viewer/", "content": {"html":
+    "Ok I probably don''t need to tell you this but that mask is not going to protect
+    you from a virus unless it has a pocket inside that you can fill with filter media.\nSorry,
+    we''ve been manufacturing masks in our house and I''ve done way to much reading
+    about filter materials.\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "Ok
+    I probably don''t need to tell you this but that mask is not going to protect
+    you from a virus unless it has a pocket inside that you can fill with filter media.\nSorry,
+    we''ve been manufacturing masks in our house and I''ve done way to much reading
+    about filter materials."}, "in-reply-to": "https://randomgeekery.org/2020/03/26/stdu-viewer/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-27 08:28:28.000000000 -07:00
+  url: https://twitter.com/fitzgepn/status/1243548012561027074
+- author_name: Charles Stanhope
+  author_photo: https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg
+  author_url: https://social.coop/@cstanhope
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      Excellent!</p>
+    text: "@randomgeek Excellent!"
+  entry_url: "/2020/03/26/stdu-viewer/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-27 06:49:10.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Charles Stanhope", "photo":
+    "https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg",
+    "url": "https://social.coop/@cstanhope"}, "url": "https://social.coop/@cstanhope/103895331661587399",
+    "published": "2020-03-27T13:49:10", "wm-received": "2020-03-27T14:22:34Z", "wm-id":
+    775895, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103893665999537931/103895331707285625",
+    "wm-target": "https://randomgeekery.org/2020/03/26/stdu-viewer/", "content": {"html":
+    "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\" class=\"u-url\">@<span>randomgeek</span></a></span>
+    Excellent!</p>", "text": "@randomgeek Excellent!"}, "in-reply-to": "https://randomgeekery.org/2020/03/26/stdu-viewer/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-27 07:22:34.000000000 -07:00
+  url: https://social.coop/@cstanhope/103895331661587399
+- author_name: Random Geek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  author_url: https://hackers.town/@randomgeek
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://social.coop/@cstanhope" class="u-url">@<span>cstanhope</span></a></span>
+      Yes it does!</p>
+    text: "@cstanhope Yes it does!"
+  entry_url: "/2020/03/26/stdu-viewer/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-27 06:38:17.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Random Geek", "photo":
+    "https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png",
+    "url": "https://hackers.town/@randomgeek"}, "url": "https://hackers.town/@randomgeek/103895288898009905",
+    "published": "2020-03-27T13:38:17", "wm-received": "2020-03-27T14:23:06Z", "wm-id":
+    775897, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103893665999537931/103895288898009905",
+    "wm-target": "https://randomgeekery.org/2020/03/26/stdu-viewer/", "content": {"html":
+    "<p><span class=\"h-card\"><a href=\"https://social.coop/@cstanhope\" class=\"u-url\">@<span>cstanhope</span></a></span>
+    Yes it does!</p>", "text": "@cstanhope Yes it does!"}, "in-reply-to": "https://randomgeekery.org/2020/03/26/stdu-viewer/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-27 07:23:06.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103895288898009905
+- author_name: Charles Stanhope
+  author_photo: https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg
+  author_url: https://social.coop/@cstanhope
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      Ooooh! Split views! I've often thought that could be desirable. I've been using
+      Sumatra PDF for a long while on Windows for its tabbed views. Sumatra will also
+      restore tabs between sessions (handy when you have to too many datasheets open
+      at any given time). Does STDU Viewer restore your session?</p>
+    text: "@randomgeek Ooooh! Split views! I've often thought that could be desirable.
+      I've been using Sumatra PDF for a long while on Windows for its tabbed views.
+      Sumatra will also restore tabs between sessions (handy when you have to too
+      many datasheets open at any given time). Does STDU Viewer restore your session?"
+  entry_url: "/2020/03/26/stdu-viewer/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-27 05:23:24.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Charles Stanhope", "photo":
+    "https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg",
+    "url": "https://social.coop/@cstanhope"}, "url": "https://social.coop/@cstanhope/103894994401090038",
+    "published": "2020-03-27T12:23:24", "wm-received": "2020-03-27T14:22:52Z", "wm-id":
+    775896, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103893665999537931/103894994499096872",
+    "wm-target": "https://randomgeekery.org/2020/03/26/stdu-viewer/", "content": {"html":
+    "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\" class=\"u-url\">@<span>randomgeek</span></a></span>
+    Ooooh! Split views! I''ve often thought that could be desirable. I''ve been using
+    Sumatra PDF for a long while on Windows for its tabbed views. Sumatra will also
+    restore tabs between sessions (handy when you have to too many datasheets open
+    at any given time). Does STDU Viewer restore your session?</p>", "text": "@randomgeek
+    Ooooh! Split views! I''ve often thought that could be desirable. I''ve been using
+    Sumatra PDF for a long while on Windows for its tabbed views. Sumatra will also
+    restore tabs between sessions (handy when you have to too many datasheets open
+    at any given time). Does STDU Viewer restore your session?"}, "in-reply-to": "https://randomgeekery.org/2020/03/26/stdu-viewer/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-27 07:22:52.000000000 -07:00
+  url: https://social.coop/@cstanhope/103894994401090038
+- author_name: Soh Kam Yung
+  author_photo: https://webmention.io/avatar/hackers.town/8334c8c76ed0689f7d005e5e5632c42bd3906754847cdd7649e9091d1d756e36.png
+  author_url: https://mstdn.io/@sohkamyung
+  class: like-of
+  entry_url: "/2020/03/26/stdu-viewer/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Soh Kam Yung", "photo":
+    "https://webmention.io/avatar/hackers.town/8334c8c76ed0689f7d005e5e5632c42bd3906754847cdd7649e9091d1d756e36.png",
+    "url": "https://mstdn.io/@sohkamyung"}, "url": "https://hackers.town/@randomgeek/103893665999537931#favorited-by-31871",
+    "published": null, "wm-received": "2020-03-27T07:16:13Z", "wm-id": 775788, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103893665999537931/31871",
+    "wm-target": "https://randomgeekery.org/2020/03/26/stdu-viewer/", "like-of": "https://randomgeekery.org/2020/03/26/stdu-viewer/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-03-27 00:16:13.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103893665999537931#favorited-by-31871
+- author_name: R¥
+  author_photo: https://webmention.io/avatar/hackers.town/039263c529628673890df7480f559d05726a8ea233ba0ede646e2350c865c746.jpg
+  author_url: https://hackers.town/@ryen
+  class: like-of
+  entry_url: "/2020/03/26/stdu-viewer/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "R\u00a5", "photo": "https://webmention.io/avatar/hackers.town/039263c529628673890df7480f559d05726a8ea233ba0ede646e2350c865c746.jpg",
+    "url": "https://hackers.town/@ryen"}, "url": "https://hackers.town/@randomgeek/103893665999537931#favorited-by-44063",
+    "published": null, "wm-received": "2020-03-27T07:16:15Z", "wm-id": 775789, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103893665999537931/44063",
+    "wm-target": "https://randomgeekery.org/2020/03/26/stdu-viewer/", "like-of": "https://randomgeekery.org/2020/03/26/stdu-viewer/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-03-27 00:16:15.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103893665999537931#favorited-by-44063
+- author_name: Rev.Dr. Nikolai Kingsley
+  author_photo: https://webmention.io/avatar/hackers.town/756156be3c9c7f632e85c694ef862d7ed8dac0766956f277d549019d34937226.jpg
+  author_url: https://dobbs.town/@Nikolai_Kingsley
+  class: like-of
+  entry_url: "/2020/03/26/stdu-viewer/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Rev.Dr. Nikolai Kingsley",
+    "photo": "https://webmention.io/avatar/hackers.town/756156be3c9c7f632e85c694ef862d7ed8dac0766956f277d549019d34937226.jpg",
+    "url": "https://dobbs.town/@Nikolai_Kingsley"}, "url": "https://hackers.town/@randomgeek/103893665999537931#favorited-by-56555",
+    "published": null, "wm-received": "2020-03-27T09:13:34Z", "wm-id": 775830, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103893665999537931/56555",
+    "wm-target": "https://randomgeekery.org/2020/03/26/stdu-viewer/", "like-of": "https://randomgeekery.org/2020/03/26/stdu-viewer/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-03-27 02:13:34.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103893665999537931#favorited-by-56555

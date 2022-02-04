@@ -1,0 +1,237 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104142754200904534
+  twitter: https://twitter.com/brianwisti/status/1259371021066436609
+entry_path: content/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/index.md
+permalink: "/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/"
+responses:
+- author_name: Daniel S. Sterling
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/3c1bda241491c3ace1a4793b82c8a3543f9ebb1914035a375898589e662cf467.png
+  author_url: https://twitter.com/eqhmcow
+  class: repost-of
+  content:
+    html:
+    text: |-
+      I wrote a note:
+
+      Hard Moving on From Perl When It Keeps Being More Good Enough Than the Other Good Enough Solutions
+
+      #Perl #RightToolForThe
+  entry_url: "/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-10 03:08:59.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Daniel S. Sterling",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/3c1bda241491c3ace1a4793b82c8a3543f9ebb1914035a375898589e662cf467.png",
+    "url": "https://twitter.com/eqhmcow"}, "url": "https://twitter.com/eqhmcow/status/1259425190548815872",
+    "published": "2020-05-10T10:08:59+00:00", "wm-received": "2020-05-10T18:04:24Z",
+    "wm-id": 794970, "wm-source": "https://brid-gy.appspot.com/repost/twitter/brianwisti/1259371021066436609/1259425190548815872",
+    "wm-target": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "content": {"text": "I wrote a note:\n\nHard Moving on From Perl When It Keeps
+    Being More Good Enough Than the Other Good Enough Solutions\n\n#Perl #RightToolForThe"},
+    "repost-of": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-05-10 11:04:24.000000000 -07:00
+  url: https://twitter.com/eqhmcow/status/1259425190548815872
+- author_name: Jennifer Davis
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/1df2436c4df1b3d6a193f6a3675798ec4dacc70b933de2421fba5446ecb87603.jpg
+  author_url: https://twitter.com/sigje
+  class: like-of
+  entry_url: "/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jennifer Davis", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/1df2436c4df1b3d6a193f6a3675798ec4dacc70b933de2421fba5446ecb87603.jpg",
+    "url": "https://twitter.com/sigje"}, "url": "https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-17527655",
+    "published": null, "wm-received": "2020-05-10T07:13:40Z", "wm-id": 794778, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1259371021066436609/17527655",
+    "wm-target": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "like-of": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-10 00:13:40.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-17527655
+- author_name: Jason "private dick" Simpson
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/9a6328773b7b7aeb416d165773386940e5755160767bff86eea5ebecfd675186.jpg
+  author_url: https://twitter.com/jxyzn
+  class: like-of
+  entry_url: "/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jason \"private dick\"
+    Simpson", "photo": "https://webmention.io/avatar/pbs.twimg.com/9a6328773b7b7aeb416d165773386940e5755160767bff86eea5ebecfd675186.jpg",
+    "url": "https://twitter.com/jxyzn"}, "url": "https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-2022521",
+    "published": null, "wm-received": "2020-05-10T07:13:40Z", "wm-id": 794779, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1259371021066436609/2022521",
+    "wm-target": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "like-of": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-10 00:13:40.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-2022521
+- author_name: "Rachel @ home \U0001F332 \U0001F3D4 \U0001F3DE \U0001F326"
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/815e24b554fc0a55401e58c3f5c19c3a75d240202a4624199da721ca44e07bcf.jpg
+  author_url: https://twitter.com/wholemilk
+  class: like-of
+  entry_url: "/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Rachel @ home \ud83c\udf32
+    \ud83c\udfd4 \ud83c\udfde \ud83c\udf26", "photo": "https://webmention.io/avatar/pbs.twimg.com/815e24b554fc0a55401e58c3f5c19c3a75d240202a4624199da721ca44e07bcf.jpg",
+    "url": "https://twitter.com/wholemilk"}, "url": "https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-14989163",
+    "published": null, "wm-received": "2020-05-10T07:13:43Z", "wm-id": 794780, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1259371021066436609/14989163",
+    "wm-target": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "like-of": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-10 00:13:43.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-14989163
+- author_name: Alex Balhatchet
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/0a242c8662e32b96905f3cb50746e220c6c5c42203aeb9e8ffd8791c9b0d6dda.jpg
+  author_url: https://twitter.com/kaokun
+  class: like-of
+  entry_url: "/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Alex Balhatchet", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/0a242c8662e32b96905f3cb50746e220c6c5c42203aeb9e8ffd8791c9b0d6dda.jpg",
+    "url": "https://twitter.com/kaokun"}, "url": "https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-8631222",
+    "published": null, "wm-received": "2020-05-10T07:13:44Z", "wm-id": 794781, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1259371021066436609/8631222",
+    "wm-target": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "like-of": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-10 00:13:44.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-8631222
+- author_name: Nathaniel Reindl
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/3c16967356c6568059b7d6409fce16188c4b2a154700f75fd63c3b952e680b26.jpg
+  author_url: https://twitter.com/nrr
+  class: like-of
+  entry_url: "/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Nathaniel Reindl", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/3c16967356c6568059b7d6409fce16188c4b2a154700f75fd63c3b952e680b26.jpg",
+    "url": "https://twitter.com/nrr"}, "url": "https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-14498961",
+    "published": null, "wm-received": "2020-05-10T07:13:55Z", "wm-id": 794782, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1259371021066436609/14498961",
+    "wm-target": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "like-of": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-10 00:13:55.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-14498961
+- author_name: Doc Edward Morbius ⭕
+  author_photo: https://webmention.io/avatar/hackers.town/b2a169deaf922cabc4fa22ee6ff25909b47e9a1d9bbc02c53b33649584e3b2db.png
+  author_url: https://mastodon.cloud/@dredmorbius
+  class: like-of
+  entry_url: "/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Doc Edward Morbius \u2b55",
+    "photo": "https://webmention.io/avatar/hackers.town/b2a169deaf922cabc4fa22ee6ff25909b47e9a1d9bbc02c53b33649584e3b2db.png",
+    "url": "https://mastodon.cloud/@dredmorbius"}, "url": "https://hackers.town/@randomgeek/104142754200904534#favorited-by-5641",
+    "published": null, "wm-received": "2020-05-10T07:22:18Z", "wm-id": 794783, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104142754200904534/5641",
+    "wm-target": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "like-of": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-10 00:22:18.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104142754200904534#favorited-by-5641
+- author_name: satanpenguin
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/0ef0ff1c1118fd0e58469e55b3cb9665a9b6f030e847912b69d92fd1a0caa72f.png
+  author_url: https://twitter.com/satanpenguin
+  class: like-of
+  entry_url: "/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "satanpenguin", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/0ef0ff1c1118fd0e58469e55b3cb9665a9b6f030e847912b69d92fd1a0caa72f.png",
+    "url": "https://twitter.com/satanpenguin"}, "url": "https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-44096188",
+    "published": null, "wm-received": "2020-05-10T09:34:51Z", "wm-id": 794801, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1259371021066436609/44096188",
+    "wm-target": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "like-of": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-10 02:34:51.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-44096188
+- author_name: Daniel S. Sterling
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/3c1bda241491c3ace1a4793b82c8a3543f9ebb1914035a375898589e662cf467.png
+  author_url: https://twitter.com/eqhmcow
+  class: like-of
+  entry_url: "/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Daniel S. Sterling",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/3c1bda241491c3ace1a4793b82c8a3543f9ebb1914035a375898589e662cf467.png",
+    "url": "https://twitter.com/eqhmcow"}, "url": "https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-16263710",
+    "published": null, "wm-received": "2020-05-10T10:20:59Z", "wm-id": 794806, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1259371021066436609/16263710",
+    "wm-target": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "like-of": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-10 03:20:59.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-16263710
+- author_name: Jason A. Crome
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/78fda00202c56a43c78a86f9db977e1b684bd12b5f417f6a11ec3eb4d6fa8a12.jpg
+  author_url: https://twitter.com/cromedome
+  class: like-of
+  entry_url: "/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jason A. Crome", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/78fda00202c56a43c78a86f9db977e1b684bd12b5f417f6a11ec3eb4d6fa8a12.jpg",
+    "url": "https://twitter.com/cromedome"}, "url": "https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-688803",
+    "published": null, "wm-received": "2020-05-10T13:46:56Z", "wm-id": 794875, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1259371021066436609/688803",
+    "wm-target": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "like-of": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-10 06:46:56.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-688803
+- author_name: Steve Scaffidi
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/7baa23ba88146a2d431b367c090870f75f5742ac812f490263c4d874bad4c9d3.jpg
+  author_url: https://twitter.com/hercynium
+  class: like-of
+  entry_url: "/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Steve Scaffidi", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/7baa23ba88146a2d431b367c090870f75f5742ac812f490263c4d874bad4c9d3.jpg",
+    "url": "https://twitter.com/hercynium"}, "url": "https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-15786346",
+    "published": null, "wm-received": "2020-05-10T22:21:15Z", "wm-id": 795030, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1259371021066436609/15786346",
+    "wm-target": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "like-of": "https://randomgeekery.org/note/2020/05/hard-moving-on-from-perl-when-it-keeps-being-more-good-enough-than-the-other-good-enough-solutions/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-10 15:21:15.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1259371021066436609#favorited-by-15786346

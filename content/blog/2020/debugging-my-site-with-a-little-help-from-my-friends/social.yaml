@@ -1,0 +1,108 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104136380782825124
+  twitter: https://twitter.com/brianwisti/status/1258962728649134090
+entry_path: content/note/2020/05/debugging-my-site-with-a-little-help-from-my-friends/index.md
+permalink: "/note/2020/05/debugging-my-site-with-a-little-help-from-my-friends/"
+responses:
+- author_name: Random Geek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  author_url: https://hackers.town/@randomgeek
+  class: in-reply-to
+  content:
+    html: "<p>... and at some point my outgoing mentions won't be me manually editing
+      the <code>send-mention</code> Perl script every time.</p>"
+    text: "... and at some point my outgoing mentions won't be me manually editing
+      the send-mention Perl script every time."
+  entry_url: "/note/2020/05/debugging-my-site-with-a-little-help-from-my-friends/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-08 20:51:30.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Random Geek", "photo":
+    "https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png",
+    "url": "https://hackers.town/@randomgeek"}, "url": "https://hackers.town/@randomgeek/104136460859788301",
+    "published": "2020-05-09T03:51:30", "wm-received": "2020-05-09T04:45:01Z", "wm-id":
+    794507, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104136380782825124/104136460859788301",
+    "wm-target": "https://randomgeekery.org/note/2020/05/debugging-my-site-with-a-little-help-from-my-friends/",
+    "content": {"html": "<p>... and at some point my outgoing mentions won''t be me
+    manually editing the <code>send-mention</code> Perl script every time.</p>", "text":
+    "... and at some point my outgoing mentions won''t be me manually editing the
+    send-mention Perl script every time."}, "in-reply-to": "https://randomgeekery.org/note/2020/05/debugging-my-site-with-a-little-help-from-my-friends/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-05-08 21:45:01.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104136460859788301
+- author_name: Jason McIntosh
+  author_photo: https://webmention.io/avatar/jmac.org/01a85a305441b8a4c24c2616ca3347823226e43a3ba0c77eea1bb6e24c58d5e7.jpg
+  author_url: https://jmac.org
+  class: in-reply-to
+  content:
+    html: |-
+      <p>
+      I hear from Brian that <a class="u-in-reply-to" href="https://randomgeekery.org/note/2020/05/debugging-my-site-with-a-little-help-from-my-friends/">I didn't properly mark up a note yesterday with any author information</a>. I am happy that this helped him with his own projects even though I feel slightly embarrassed about it. I hope that this note fares better.
+      </p>
+
+      <p>I am at present hand-writing these notes, in naked HTML, like it's 1995. But I want to get into the practice of using jmac.org - which I consider my real personal domain, versus fogknife.com, which is a publication that I emit - and doing so according to indieweb principles.</p>
+
+      <p>If I waited until I had the perfect toolchain for it, then I'd never start. Better to <em>just start typing</em> now, and see where my impatience carries me.</p>
+    text: |-
+      I hear from Brian that I didn't properly mark up a note yesterday with any author information. I am happy that this helped him with his own projects even though I feel slightly embarrassed about it. I hope that this note fares better.
+
+
+      I am at present hand-writing these notes, in naked HTML, like it's 1995. But I want to get into the practice of using jmac.org - which I consider my real personal domain, versus fogknife.com, which is a publication that I emit - and doing so according to indieweb principles.
+
+      If I waited until I had the perfect toolchain for it, then I'd never start. Better to just start typing now, and see where my impatience carries me.
+  entry_url: "/note/2020/05/debugging-my-site-with-a-little-help-from-my-friends/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-08 17:00:00.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jason McIntosh", "photo":
+    "https://webmention.io/avatar/jmac.org/01a85a305441b8a4c24c2616ca3347823226e43a3ba0c77eea1bb6e24c58d5e7.jpg",
+    "url": "https://jmac.org"}, "url": "https://jmac.org/notes/oops-no-author.html",
+    "published": "2020-05-09T00:00:00", "wm-received": "2020-05-10T00:36:36Z", "wm-id":
+    794727, "wm-source": "https://jmac.org/notes/oops-no-author.html", "wm-target":
+    "https://randomgeekery.org/note/2020/05/debugging-my-site-with-a-little-help-from-my-friends/",
+    "content": {"html": "<p>\nI hear from Brian that <a class=\"u-in-reply-to\" href=\"https://randomgeekery.org/note/2020/05/debugging-my-site-with-a-little-help-from-my-friends/\">I
+    didn''t properly mark up a note yesterday with any author information</a>. I am
+    happy that this helped him with his own projects even though I feel slightly embarrassed
+    about it. I hope that this note fares better.\n</p>\n\n<p>I am at present hand-writing
+    these notes, in naked HTML, like it''s 1995. But I want to get into the practice
+    of using jmac.org - which I consider my real personal domain, versus fogknife.com,
+    which is a publication that I emit - and doing so according to indieweb principles.</p>\n\n<p>If
+    I waited until I had the perfect toolchain for it, then I''d never start. Better
+    to <em>just start typing</em> now, and see where my impatience carries me.</p>",
+    "text": "I hear from Brian that I didn''t properly mark up a note yesterday with
+    any author information. I am happy that this helped him with his own projects
+    even though I feel slightly embarrassed about it. I hope that this note fares
+    better.\n\n\nI am at present hand-writing these notes, in naked HTML, like it''s
+    1995. But I want to get into the practice of using jmac.org - which I consider
+    my real personal domain, versus fogknife.com, which is a publication that I emit
+    - and doing so according to indieweb principles.\n\nIf I waited until I had the
+    perfect toolchain for it, then I''d never start. Better to just start typing now,
+    and see where my impatience carries me."}, "in-reply-to": "https://randomgeekery.org/note/2020/05/debugging-my-site-with-a-little-help-from-my-friends/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-05-09 17:36:36.000000000 -07:00
+  url: https://jmac.org/notes/oops-no-author.html
+- author_name: "Ana Ulin \U0001F63B"
+  author_photo: https://webmention.io/avatar/hackers.town/66eb09d3f09bc1ad20bc29212f90a2f385630c04d310b2276ef3b681b39dbae8.jpg
+  author_url: https://social.coop/@anaulin
+  class: like-of
+  entry_url: "/note/2020/05/debugging-my-site-with-a-little-help-from-my-friends/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Ana Ulin \ud83d\ude3b",
+    "photo": "https://webmention.io/avatar/hackers.town/66eb09d3f09bc1ad20bc29212f90a2f385630c04d310b2276ef3b681b39dbae8.jpg",
+    "url": "https://social.coop/@anaulin"}, "url": "https://hackers.town/@randomgeek/104136380782825124#favorited-by-24490",
+    "published": null, "wm-received": "2020-05-09T04:45:01Z", "wm-id": 794508, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104136380782825124/24490",
+    "wm-target": "https://randomgeekery.org/note/2020/05/debugging-my-site-with-a-little-help-from-my-friends/",
+    "like-of": "https://randomgeekery.org/note/2020/05/debugging-my-site-with-a-little-help-from-my-friends/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-08 21:45:01.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104136380782825124#favorited-by-24490

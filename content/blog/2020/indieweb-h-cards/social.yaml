@@ -1,0 +1,646 @@
+---
+announcements: {}
+entry_path: content/post/2020/04/indieweb-h-cards/index.md
+permalink: "/post/2020/04/indieweb-h-cards/"
+responses:
+- author_name: joe jenett
+  author_photo: https://webmention.io/avatar/secure.gravatar.com/23193b897e8504139934c557c64e2c586218c3be29a49a7a84979a0772b4b4aa.png
+  author_url: https://hub.iwebthings.com/author/admin/
+  class: bookmark-of
+  content:
+    html: |-
+      <span style="max-height:1rem;margin-right:.5rem;" title="Bookmark"></span><span>Bookmarked</span> <a href="https://randomgeekery.org/post/2020/04/indieweb-h-cards/" class="p-name u-url">Indieweb h-cards</a> by <a href="https://randomgeekery.org" class="h-card p-author"><img class="u-photo" src="https://randomgeekery.org/img/avatar-thumbnail.jpg" alt="Brian Wisti" width="32" height="32" />Brian Wisti</a><blockquote class="e-summary"><p>Using microformats to build a profile page</p></blockquote>
+      <ul><li><a class="u-syndication" href="https://twitter.com/iwebthings/status/1276223025692708864"> </a></li></ul>
+    text: Bookmarked Indieweb h-cards by Brian WistiUsing microformats to build a
+      profile page
+  entry_url: "/post/2020/04/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-06-25 11:37:04.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "joe jenett", "photo":
+    "https://webmention.io/avatar/secure.gravatar.com/23193b897e8504139934c557c64e2c586218c3be29a49a7a84979a0772b4b4aa.png",
+    "url": "https://hub.iwebthings.com/author/admin/"}, "url": "https://hub.iwebthings.com/indieweb-h-cards-random-geekery/",
+    "published": "2020-06-25T14:37:04-04:00", "wm-received": "2020-06-25T18:38:08Z",
+    "wm-id": 814869, "wm-source": "https://hub.iwebthings.com/indieweb-h-cards-random-geekery/",
+    "wm-target": "https://randomgeekery.org/post/2020/04/indieweb-h-cards/", "syndication":
+    ["https://twitter.com/iwebthings/status/1276223025692708864"], "content": {"html":
+    "<span style=\"max-height:1rem;margin-right:.5rem;\" title=\"Bookmark\"></span><span>Bookmarked</span>
+    <a href=\"https://randomgeekery.org/post/2020/04/indieweb-h-cards/\" class=\"p-name
+    u-url\">Indieweb h-cards</a> by <a href=\"https://randomgeekery.org\" class=\"h-card
+    p-author\"><img class=\"u-photo\" src=\"https://randomgeekery.org/img/avatar-thumbnail.jpg\"
+    alt=\"Brian Wisti\" width=\"32\" height=\"32\" />Brian Wisti</a><blockquote class=\"e-summary\"><p>Using
+    microformats to build a profile page</p></blockquote>\n<ul><li><a class=\"u-syndication\"
+    href=\"https://twitter.com/iwebthings/status/1276223025692708864\"> </a></li></ul>",
+    "text": "Bookmarked Indieweb h-cards by Brian WistiUsing microformats to build
+    a profile page"}, "bookmark-of": "https://randomgeekery.org/post/2020/04/indieweb-h-cards/",
+    "wm-property": "bookmark-of", "wm-private": false, "rels": {"canonical": "https://hub.iwebthings.com/indieweb-h-cards-random-geekery/"}}'
+  received: 2020-06-25 11:38:08.000000000 -07:00
+  url: https://hub.iwebthings.com/indieweb-h-cards-random-geekery/
+- author_name: ''
+  author_photo: ''
+  author_url: ''
+  class: mention-of
+  content:
+    html: |-
+      What this will be about what and why.<br />
+      (<em>updated on 17.8.2020.</em>)
+      <p>Effilicious is about all things which are efficient and delicious, but not necessarily at the same time. You will find here methods to do this and that as well as recipes for cooking. This about covers the What.</p>
+      <p>Why? <i>L’art pour l’art </i>and maybe more. There is only a small number of people who appreciate the fact that traditional Balkan axe is very similar to the Japanese axe: they both have beards; that a Mole Cricket shares with a Mole more than a name: they have similarly build front legs; and that paleontologists were dead wrong to think all relations in animal kingdom can be deducted from the fossils. Geneticists proved them dead wrong when they discovered genetic relationships between completely differently looking animals and no relationship at all  between some that were thought to be related. Why a Japanese axe is similar to a Balkan one, is the same reason why a Mole Cricket has similar fore legs as a Mole. Those pairs of tools, the axe and those legs, evolved to serve a common purpose: to split wood with a blade that at the same time protects the axe handle, and to dig through dirt. I’ll write a post about this some day.</p>
+      <p>So there it is. <del>I’ll try to IndieWeb this site using <a href="https://kevq.uk/implementing-the-indieweb-into-my-website/">KEVQ’s guide</a> and keep comments coming in this way. If you want to comment, well, set up a web site and do it in this IndieWeb way or write me an email.</del></p>
+      <p>This site was <a href="https://indieweb.org/">IndieWeb</a> enabled using <a href="https://kevq.uk/implementing-the-indieweb-into-my-website/">KEVQ’s guide</a>, <a href="https://randomgeekery.org/post/2020/04/indieweb-h-cards/">Brian Wisti’s guide</a> and some help from friendly members of <a href="https://fosstodon.org">Fosstodon</a>. If you want to comment, you can do it if the comments are enabled on the post. Your comments will also appear here if you comment on the <a href="https://fosstodon.org">Fosstodon</a> post containing a link to post on this website.</p>
+    text: |-
+      What this will be about what and why.
+
+      (updated on 17.8.2020.)
+      Effilicious is about all things which are efficient and delicious, but not necessarily at the same time. You will find here methods to do this and that as well as recipes for cooking. This about covers the What.
+      Why? L’art pour l’art and maybe more. There is only a small number of people who appreciate the fact that traditional Balkan axe is very similar to the Japanese axe: they both have beards; that a Mole Cricket shares with a Mole more than a name: they have similarly build front legs; and that paleontologists were dead wrong to think all relations in animal kingdom can be deducted from the fossils. Geneticists proved them dead wrong when they discovered genetic relationships between completely differently looking animals and no relationship at all  between some that were thought to be related. Why a Japanese axe is similar to a Balkan one, is the same reason why a Mole Cricket has similar fore legs as a Mole. Those pairs of tools, the axe and those legs, evolved to serve a common purpose: to split wood with a blade that at the same time protects the axe handle, and to dig through dirt. I’ll write a post about this some day.
+      So there it is. I’ll try to IndieWeb this site using KEVQ’s guide and keep comments coming in this way. If you want to comment, well, set up a web site and do it in this IndieWeb way or write me an email.
+      This site was IndieWeb enabled using KEVQ’s guide, Brian Wisti’s guide and some help from friendly members of Fosstodon. If you want to comment, you can do it if the comments are enabled on the post. Your comments will also appear here if you comment on the Fosstodon post containing a link to post on this website.
+  entry_url: "/post/2020/04/indieweb-h-cards/"
+  h-type: entry
+  name: What? Why?
+  photo: https://secure.gravatar.com/avatar/35295be7e12e41833b3455efc8e86333?s=100&d=blank&r=x
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "", "photo": "", "url":
+    ""}, "url": "https://effilicious.com/2020/06/01/what/", "published": null, "wm-received":
+    "2020-07-18T20:17:30Z", "wm-id": 828562, "wm-source": "https://effilicious.com/2020/06/01/what/",
+    "wm-target": "https://randomgeekery.org/post/2020/04/indieweb-h-cards/", "name":
+    "What? Why?", "photo": ["https://secure.gravatar.com/avatar/35295be7e12e41833b3455efc8e86333?s=100&d=blank&r=x"],
+    "content": {"html": "What this will be about what and why.<br />\n(<em>updated
+    on 17.8.2020.</em>)\n<p>Effilicious is about all things which are efficient and
+    delicious, but not necessarily at the same time. You will find here methods to
+    do this and that as well as recipes for cooking. This about covers the What.</p>\n<p>Why?
+    <i>L\u2019art pour l\u2019art </i>and maybe more. There is only a small number
+    of people who appreciate the fact that traditional Balkan axe is very similar
+    to the Japanese axe: they both have beards; that a Mole Cricket shares with a
+    Mole more than a name: they have similarly build front legs; and that paleontologists
+    were dead wrong to think all relations in animal kingdom can be deducted from
+    the fossils. Geneticists proved them dead wrong when they discovered genetic relationships
+    between completely differently looking animals and no relationship at all  between
+    some that were thought to be related. Why a Japanese axe is similar to a Balkan
+    one, is the same reason why a Mole Cricket has similar fore legs as a Mole. Those
+    pairs of tools, the axe and those legs, evolved to serve a common purpose: to
+    split wood with a blade that at the same time protects the axe handle, and to
+    dig through dirt. I\u2019ll write a post about this some day.</p>\n<p>So there
+    it is. <del>I\u2019ll try to IndieWeb this site using <a href=\"https://kevq.uk/implementing-the-indieweb-into-my-website/\">KEVQ\u2019s
+    guide</a> and keep comments coming in this way. If you want to comment, well,
+    set up a web site and do it in this IndieWeb way or write me an email.</del></p>\n<p>This
+    site was <a href=\"https://indieweb.org/\">IndieWeb</a> enabled using <a href=\"https://kevq.uk/implementing-the-indieweb-into-my-website/\">KEVQ\u2019s
+    guide</a>, <a href=\"https://randomgeekery.org/post/2020/04/indieweb-h-cards/\">Brian
+    Wisti\u2019s guide</a> and some help from friendly members of <a href=\"https://fosstodon.org\">Fosstodon</a>.
+    If you want to comment, you can do it if the comments are enabled on the post.
+    Your comments will also appear here if you comment on the <a href=\"https://fosstodon.org\">Fosstodon</a>
+    post containing a link to post on this website.</p>", "text": "What this will
+    be about what and why.\n\n(updated on 17.8.2020.)\nEffilicious is about all things
+    which are efficient and delicious, but not necessarily at the same time. You will
+    find here methods to do this and that as well as recipes for cooking. This about
+    covers the What.\nWhy? L\u2019art pour l\u2019art and maybe more. There is only
+    a small number of people who appreciate the fact that traditional Balkan axe is
+    very similar to the Japanese axe: they both have beards; that a Mole Cricket shares
+    with a Mole more than a name: they have similarly build front legs; and that paleontologists
+    were dead wrong to think all relations in animal kingdom can be deducted from
+    the fossils. Geneticists proved them dead wrong when they discovered genetic relationships
+    between completely differently looking animals and no relationship at all  between
+    some that were thought to be related. Why a Japanese axe is similar to a Balkan
+    one, is the same reason why a Mole Cricket has similar fore legs as a Mole. Those
+    pairs of tools, the axe and those legs, evolved to serve a common purpose: to
+    split wood with a blade that at the same time protects the axe handle, and to
+    dig through dirt. I\u2019ll write a post about this some day.\nSo there it is.
+    I\u2019ll try to IndieWeb this site using KEVQ\u2019s guide and keep comments
+    coming in this way. If you want to comment, well, set up a web site and do it
+    in this IndieWeb way or write me an email.\nThis site was IndieWeb enabled using
+    KEVQ\u2019s guide, Brian Wisti\u2019s guide and some help from friendly members
+    of Fosstodon. If you want to comment, you can do it if the comments are enabled
+    on the post. Your comments will also appear here if you comment on the Fosstodon
+    post containing a link to post on this website."}, "mention-of": "https://randomgeekery.org/post/2020/04/indieweb-h-cards/",
+    "wm-property": "mention-of", "wm-private": false, "rels": {"canonical": "https://effilicious.com/2020/06/01/what/"}}'
+  received: 2020-07-18 13:17:30.000000000 -07:00
+  url: https://effilicious.com/2020/06/01/what/
+- author_name: Jamie Tanna
+  author_photo: https://webmention.io/avatar/www.jvt.me/1a30a04da8e03ed78b17bd01777f3892c95de2a05f974eaa739b858aaa1749d4.png
+  author_url: https://www.jvt.me
+  class: like-of
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-11 09:15:13.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jamie Tanna", "photo":
+    "https://webmention.io/avatar/www.jvt.me/1a30a04da8e03ed78b17bd01777f3892c95de2a05f974eaa739b858aaa1749d4.png",
+    "url": "https://www.jvt.me"}, "url": "https://www.jvt.me/mf2/2020/04/elbuo/",
+    "published": "2020-04-11T18:15:13+02:00", "wm-received": "2020-04-11T16:19:48Z",
+    "wm-id": 781445, "wm-source": "https://www.jvt.me/mf2/2020/04/elbuo/", "wm-target":
+    "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "like-of": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/",
+    "wm-property": "like-of", "wm-private": false, "rels": {"canonical": "https://www.jvt.me/mf2/2020/04/elbuo/"}}'
+  received: 2020-04-11 09:19:48.000000000 -07:00
+  url: https://www.jvt.me/mf2/2020/04/elbuo/
+- author_name: genehack
+  author_photo: https://webmention.io/avatar/hackers.town/65d33ddabc41f9b8cf5004260512c5c0251c0fc6435bed0858eda38bb6093308.jpg
+  author_url: https://mastodon.social/@genehack
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      thanks!</p>
+    text: "@randomgeek thanks!"
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-11 10:36:06.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "genehack", "photo":
+    "https://webmention.io/avatar/hackers.town/65d33ddabc41f9b8cf5004260512c5c0251c0fc6435bed0858eda38bb6093308.jpg",
+    "url": "https://mastodon.social/@genehack"}, "url": "https://mastodon.social/@genehack/103981158645794146",
+    "published": "2020-04-11T17:36:06", "wm-received": "2020-04-11T17:44:02Z", "wm-id":
+    781467, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103978799785688146/103981158716186362",
+    "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> thanks!</p>", "text": "@randomgeek
+    thanks!"}, "in-reply-to": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-11 10:44:02.000000000 -07:00
+  url: https://mastodon.social/@genehack/103981158645794146
+- author_name: Jason McIntosh
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e6b312fa0dec6691bbfab2e33c5402effc5f9e46f1e21e98635323e053f9ee49.jpg
+  author_url: https://twitter.com/JmacDotOrg
+  class: repost-of
+  content:
+    html:
+    text: |-
+      Using microformats to build a profile page
+
+      Indieweb h-cards
+
+      randomgeekery.org/2020/04/11/ind…
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-11 05:58:37.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jason McIntosh", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/e6b312fa0dec6691bbfab2e33c5402effc5f9e46f1e21e98635323e053f9ee49.jpg",
+    "url": "https://twitter.com/JmacDotOrg"}, "url": "https://twitter.com/JmacDotOrg/status/1248958632047325184",
+    "published": "2020-04-11T12:58:37+00:00", "wm-received": "2020-04-11T13:22:21Z",
+    "wm-id": 781417, "wm-source": "https://brid-gy.appspot.com/repost/twitter/brianwisti/1248874646063153152/1248958632047325184",
+    "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "content":
+    {"text": "Using microformats to build a profile page\n\nIndieweb h-cards\n\nrandomgeekery.org/2020/04/11/ind\u2026"},
+    "repost-of": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property":
+    "repost-of", "wm-private": false}'
+  received: 2020-04-11 06:22:21.000000000 -07:00
+  url: https://twitter.com/JmacDotOrg/status/1248958632047325184
+- author_name: will stedden
+  author_photo: https://webmention.io/avatar/bonkerfield.org/156aef4af8e00ed3033daf1abb4eda61ace1d799a891d7e18b5b3209971a9742.jpg
+  author_url: https://bonkerfield.org/
+  class: in-reply-to
+  content:
+    html:
+    text: "Wow, this was such a  well-written post. I'm still just getting on my feet
+      with h-cards and webmentions, and this will help a lot.  PS, did you look at
+      the code for Martijn's h-card? \U0001F602"
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "will stedden", "photo":
+    "https://webmention.io/avatar/bonkerfield.org/156aef4af8e00ed3033daf1abb4eda61ace1d799a891d7e18b5b3209971a9742.jpg",
+    "url": "https://bonkerfield.org/"}, "url": "https://viewfoil.bonkerfield.org/2020/04/blog-post_25.html",
+    "published": null, "wm-received": "2020-04-11T07:48:06Z", "wm-id": 781332, "wm-source":
+    "https://viewfoil.bonkerfield.org/2020/04/blog-post_25.html", "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/",
+    "content": {"text": "Wow, this was such a  well-written post. I''m still just
+    getting on my feet with h-cards and webmentions, and this will help a lot.  PS,
+    did you look at the code for Martijn''s h-card? \ud83d\ude02"}, "in-reply-to":
+    "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property": "in-reply-to",
+    "wm-private": false, "rels": {"canonical": "https://viewfoil.bonkerfield.org/2020/04/blog-post_25.html"}}'
+  received: 2020-04-11 00:48:06.000000000 -07:00
+  url: https://viewfoil.bonkerfield.org/2020/04/blog-post_25.html
+- author_name: "\U0001D4E6\U0001D4F2\U0001D4F5\U0001D4F5 \U0001D4E2\U0001D4FD\U0001D4EE\U0001D4ED\U0001D4ED\U0001D4EE\U0001D4F7"
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/9afae6cd5ef4a09fe0be5316bbf129cd7d36d1475eb1711cfaf7db07ea606efb.png
+  author_url: https://twitter.com/bonkerfield
+  class: like-of
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "\ud835\udce6\ud835\udcf2\ud835\udcf5\ud835\udcf5
+    \ud835\udce2\ud835\udcfd\ud835\udcee\ud835\udced\ud835\udced\ud835\udcee\ud835\udcf7",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/9afae6cd5ef4a09fe0be5316bbf129cd7d36d1475eb1711cfaf7db07ea606efb.png",
+    "url": "https://twitter.com/bonkerfield"}, "url": "https://twitter.com/brianwisti/status/1248874646063153152#favorited-by-2646237098",
+    "published": null, "wm-received": "2020-04-11T08:23:03Z", "wm-id": 781337, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1248874646063153152/2646237098",
+    "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "like-of":
+    "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-11 01:23:03.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1248874646063153152#favorited-by-2646237098
+- author_name: Godzilla_Jonny
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/4060c59a519ee500c81cac78c50a6f6c06a7e46ac15944792ca5bef3126726c5.jpg
+  author_url: https://twitter.com/GodzillaJonny
+  class: like-of
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Godzilla_Jonny", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/4060c59a519ee500c81cac78c50a6f6c06a7e46ac15944792ca5bef3126726c5.jpg",
+    "url": "https://twitter.com/GodzillaJonny"}, "url": "https://twitter.com/brianwisti/status/1248874646063153152#favorited-by-1140164763256684544",
+    "published": null, "wm-received": "2020-04-11T09:37:52Z", "wm-id": 781367, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1248874646063153152/1140164763256684544",
+    "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "like-of":
+    "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-11 02:37:52.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1248874646063153152#favorited-by-1140164763256684544
+- author_name: lecramed
+  author_photo: https://webmention.io/avatar/hackers.town/4814d2fcab5adbc7a8e86d58fa3766eedd7c5a96d7cedc52f1ffa70b7b064c4d.gif
+  author_url: https://hackers.town/@lecramed
+  class: like-of
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "lecramed", "photo":
+    "https://webmention.io/avatar/hackers.town/4814d2fcab5adbc7a8e86d58fa3766eedd7c5a96d7cedc52f1ffa70b7b064c4d.gif",
+    "url": "https://hackers.town/@lecramed"}, "url": "https://hackers.town/@randomgeek/103978750222902464#favorited-by-108592",
+    "published": null, "wm-received": "2020-04-11T10:59:17Z", "wm-id": 781390, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103978750222902464/108592",
+    "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "like-of":
+    "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-11 03:59:17.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103978750222902464#favorited-by-108592
+- author_name: 'genehack says #masksUP'
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg
+  author_url: https://twitter.com/genehack
+  class: like-of
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "genehack says #masksUP",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg",
+    "url": "https://twitter.com/genehack"}, "url": "https://twitter.com/brianwisti/status/1248874646063153152#favorited-by-753743",
+    "published": null, "wm-received": "2020-04-11T12:05:05Z", "wm-id": 781399, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1248874646063153152/753743",
+    "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "like-of":
+    "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-11 05:05:05.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1248874646063153152#favorited-by-753743
+- author_name: Peter Antonius
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b9f3c9100136e57d6639a597f3f0a96aefc4fc39390f79608240b502adcc3066.jpg
+  author_url: https://twitter.com/Okkido
+  class: like-of
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Peter Antonius", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/b9f3c9100136e57d6639a597f3f0a96aefc4fc39390f79608240b502adcc3066.jpg",
+    "url": "https://twitter.com/Okkido"}, "url": "https://twitter.com/brianwisti/status/1248874646063153152#favorited-by-5399562",
+    "published": null, "wm-received": "2020-04-11T12:05:05Z", "wm-id": 781400, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1248874646063153152/5399562",
+    "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "like-of":
+    "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-11 05:05:05.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1248874646063153152#favorited-by-5399562
+- author_name: 'Sean is a #WarrenDemocrat'
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/d41b4f5d2e8c962499daf4e00d536061bd587160e5a7c02a865c4a33b01bc19c.jpg
+  author_url: https://twitter.com/qkslvrwolf
+  class: like-of
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Sean is a #WarrenDemocrat",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/d41b4f5d2e8c962499daf4e00d536061bd587160e5a7c02a865c4a33b01bc19c.jpg",
+    "url": "https://twitter.com/qkslvrwolf"}, "url": "https://twitter.com/brianwisti/status/1248874646063153152#favorited-by-19680676",
+    "published": null, "wm-received": "2020-04-11T13:21:57Z", "wm-id": 781415, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1248874646063153152/19680676",
+    "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "like-of":
+    "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-11 06:21:57.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1248874646063153152#favorited-by-19680676
+- author_name: Jason McIntosh
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e6b312fa0dec6691bbfab2e33c5402effc5f9e46f1e21e98635323e053f9ee49.jpg
+  author_url: https://twitter.com/JmacDotOrg
+  class: like-of
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jason McIntosh", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/e6b312fa0dec6691bbfab2e33c5402effc5f9e46f1e21e98635323e053f9ee49.jpg",
+    "url": "https://twitter.com/JmacDotOrg"}, "url": "https://twitter.com/brianwisti/status/1248874646063153152#favorited-by-14313860",
+    "published": null, "wm-received": "2020-04-11T13:21:58Z", "wm-id": 781416, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1248874646063153152/14313860",
+    "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "like-of":
+    "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-11 06:21:58.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1248874646063153152#favorited-by-14313860
+- author_name: 'Michael W :flan_molotov: Lucas'
+  author_photo: https://webmention.io/avatar/hackers.town/fcb5898a09ee49730719f2e769b2d095ae543b3368ec0f4c9a475701d9289fdf.jpg
+  author_url: https://bsd.network/@mwlucas
+  class: like-of
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Michael W :flan_molotov:
+    Lucas", "photo": "https://webmention.io/avatar/hackers.town/fcb5898a09ee49730719f2e769b2d095ae543b3368ec0f4c9a475701d9289fdf.jpg",
+    "url": "https://bsd.network/@mwlucas"}, "url": "https://hackers.town/@randomgeek/103980735420581210#favorited-by-9516",
+    "published": null, "wm-received": "2020-04-11T16:33:56Z", "wm-id": 781449, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103980735420581210/9516",
+    "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "like-of":
+    "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-11 09:33:56.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103980735420581210#favorited-by-9516
+- author_name: Approaching Utopia
+  author_photo: https://webmention.io/avatar/hackers.town/d31139830a33c383721b1afcc5257b98c0de8fb1c51a0114d35d40c7da1893ab.jpg
+  author_url: https://hackers.town/@estoricru
+  class: repost-of
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Approaching Utopia",
+    "photo": "https://webmention.io/avatar/hackers.town/d31139830a33c383721b1afcc5257b98c0de8fb1c51a0114d35d40c7da1893ab.jpg",
+    "url": "https://hackers.town/@estoricru"}, "url": "https://hackers.town/@randomgeek/103980735420581210#reblogged-by-84807",
+    "published": null, "wm-received": "2020-04-11T17:44:00Z", "wm-id": 781466, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/103980735420581210/84807",
+    "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "repost-of":
+    "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property": "repost-of",
+    "wm-private": false}'
+  received: 2020-04-11 10:44:00.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103980735420581210#reblogged-by-84807
+- author_name: genehack
+  author_photo: https://webmention.io/avatar/hackers.town/65d33ddabc41f9b8cf5004260512c5c0251c0fc6435bed0858eda38bb6093308.jpg
+  author_url: https://mastodon.social/@genehack
+  class: like-of
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "genehack", "photo":
+    "https://webmention.io/avatar/hackers.town/65d33ddabc41f9b8cf5004260512c5c0251c0fc6435bed0858eda38bb6093308.jpg",
+    "url": "https://mastodon.social/@genehack"}, "url": "https://hackers.town/@randomgeek/103978799785688146#favorited-by-24557",
+    "published": null, "wm-received": "2020-04-11T17:44:37Z", "wm-id": 781468, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103978799785688146/24557",
+    "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "like-of":
+    "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-11 10:44:37.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103978799785688146#favorited-by-24557
+- author_name: "/DΞV/ЯДИDФM"
+  author_photo: https://webmention.io/avatar/hackers.town/c32118ae82fdb4a4a6c2bb33fa01c479f716fb671e06d87e3d671c40876da995.gif
+  author_url: https://hackers.town/@devrandom
+  class: like-of
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "/D\u039eV/\u042f\u0414\u0418D\u0424M",
+    "photo": "https://webmention.io/avatar/hackers.town/c32118ae82fdb4a4a6c2bb33fa01c479f716fb671e06d87e3d671c40876da995.gif",
+    "url": "https://hackers.town/@devrandom"}, "url": "https://hackers.town/@randomgeek/103978750222902464#favorited-by-772",
+    "published": null, "wm-received": "2020-04-11T17:44:38Z", "wm-id": 781469, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103978750222902464/772",
+    "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "like-of":
+    "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-11 10:44:38.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103978750222902464#favorited-by-772
+- author_name: "NexUS \U0001F1FA\U0001F1F8 Software Developers ⭐️ ⭐️ ⭐️ ⭐️ ⭐️"
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/2223d6c08d3d90e67b6689ed31bf98b70df138713a72b2bf61aba50b05cf28bf.png
+  author_url: https://twitter.com/NexWebSites
+  class: like-of
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "NexUS \ud83c\uddfa\ud83c\uddf8
+    Software Developers \u2b50\ufe0f \u2b50\ufe0f \u2b50\ufe0f \u2b50\ufe0f \u2b50\ufe0f",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/2223d6c08d3d90e67b6689ed31bf98b70df138713a72b2bf61aba50b05cf28bf.png",
+    "url": "https://twitter.com/NexWebSites"}, "url": "https://twitter.com/brianwisti/status/1248874646063153152#favorited-by-145045845",
+    "published": null, "wm-received": "2020-04-11T20:28:23Z", "wm-id": 781498, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1248874646063153152/145045845",
+    "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "like-of":
+    "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-11 13:28:23.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1248874646063153152#favorited-by-145045845
+- author_name: HockeyBrain
+  author_photo: https://webmention.io/avatar/hackers.town/69b1cd9fea3cb26025188b8383275a1c6c7951c054f9671f796fbbc106a89022.png
+  author_url: https://lor.sh/@touristfromhell
+  class: like-of
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "HockeyBrain", "photo":
+    "https://webmention.io/avatar/hackers.town/69b1cd9fea3cb26025188b8383275a1c6c7951c054f9671f796fbbc106a89022.png",
+    "url": "https://lor.sh/@touristfromhell"}, "url": "https://hackers.town/@randomgeek/103978750222902464#favorited-by-127129",
+    "published": null, "wm-received": "2020-04-12T17:45:50Z", "wm-id": 781642, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103978750222902464/127129",
+    "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "like-of":
+    "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-12 10:45:50.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103978750222902464#favorited-by-127129
+- author_name: Kev Quirk
+  author_photo: ''
+  author_url: ''
+  class: mention-of
+  content:
+    html: |-
+      <h4>I wanted to utilise the IndieWeb to take ownership of my data and to make may site more connected. This post talks about how I’ve managed to do that.</h4><p>This website has been Webmention enabled for quite some time, but having a 4-day weekend here in the UK this weekend, I decided to spend some time hacking on this site to add more IndieWeb functionality.</p><h2>Indie-what now?</h2><p><em>IndieWeb!</em> You never heard of it? Basically it’s a way of using your own website as your entire gateway to the Internet. The essence of the whole thing is to post once, then choose where it’s shared from there.</p><p>If you want to learn more about why you think about should implementing the IndieWeb (IW) into your site, take a look at <a href="https://indieweb.org/why">their documentation</a>.</p><blockquote>
+      <p><strong>There are many reasons why</strong> you should use the IndieWeb, from controlling your experience on the web (instead of corporate algorithms), to deciding where and when to post your content and where it goes.</p>
+      The IndieWeb
+      </blockquote><p>I’ve talked about <a href="https://kevq.uk/why-you-should-own-your-own-domain/">why you should own your own domain</a>, but using the services that the IW offers, you can take that to the next level. That’s what I’ve now done with this site.</p><h2>H-Card</h2><p>A <code>h-card</code> is basically a very small profile about yourself with some links. It tells the IW what information about you should be considered a single source of truth.</p><p>A <code>h-card</code> can be as detailed, or a high-level as you like. <a href="http://microformats.org/wiki/microformats2#h-card">There are a tonne of elements</a> you can use in your <code>h-card</code>, but you can use as few or as many as you want. My <code>h-card</code> can be found on the homepage of this site:</p>
+      My h-card<p>Brian Wisti wrote a brilliant post on <a href="https://randomgeekery.org/2020/04/11/indieweb-h-cards/">how he setup his own h-card</a>. It breaks the whole process down to a really simple form, it’s well worth a read if you’re thinking about addinfg your own <code>h-card</code>.</p><p>Once you have finished your <code>h-card</code>, you can <a href="https://indiewebify.me/validate-h-card/">use this page</a> to validate it is working correctly. The result should look something like this:</p><p>Having a <code>h-card</code> configured and working means that other people and sites on the IW know how to get hold of me and where my social profiles are located.</p><h2>Webmentions</h2><p><a href="https://indieweb.org/Webmention">Webmentions</a> are basically comments that traverse the IndieWeb. So if I write a new post on here, then share it on <a href="https://fosstodon.org/@kev">my Mastodon profile</a> and people comment on that post, they will show up here as Webmentions.</p><p>What’s even cooler still, is if someone else writes a post on their blog and links to one of my posts, I will get a Webmention for that too. Pretty cool, huh?</p><p>I had to do some playing around with my CSS stylesheet to get Webmentions looking right on my site. They show up as WordPress comments, and <a href="https://kevq.uk/removing-comments/">I have them disabled</a>, so never needed to format them in my theme. I’m still not completely happy, but they look good enough for now. I’ll tweak the CSS when I get more time.</p><h2>IndieAuth</h2><p><a href="https://indieweb.org/IndieAuth">IndieAuth</a> is really cool. Basically, it allows you to login to any IW compatible site with your own website.</p><p>So if I wanted to login to the IndieWeb wiki, I <em>could </em>sign up for an account on their servers, or I could just authenticate using the IndieAuth configuration on this site.</p><h2>How do I implement the IndieWeb?</h2><p>If you’re running WordPress, like me, then it’s really easy. Just install the <a href="https://wordpress.org/plugins/indieweb/">IndieWeb plugin</a>, which will allow you to then install other plugins, like IndieAuth and Webmention.</p><p>In order to get IndieAuth to work, I had to add the following to my <code>.htacess</code> file:</p><pre># Enable IndieAuth
+      SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1</pre><p>To setup a <code>h-card</code>, I’d strong recommend you read through <a href="https://randomgeekery.org/2020/04/11/indieweb-h-cards/">Brian Wisti’s guide</a> on how he did it. If you’re familiar with some basic HTML and CSS, you should be fine.</p><p>You may also need to tweak some of the code for your website to get it working right, but it’s all pretty straightforward.</p><h2>Conclusion</h2><p>With a couple of hours spare, I’ve been able to make my website part of the IndieWeb, and I’m really happy with the result. I’m now finding my website to be much more connected and engaging. There’s still more I can do, but this is a good start, I think.</p><p>If you’ve never heard of the IW and want to get started too, the <a href="https://indieweb.org/Getting_Started">IndieWeb wiki</a> has a tonne of useful information to get you going. It can be a little daunting at first, but if you take it slow, it all starts to fall into place and make sense.</p><p>I for one am really happy I took the time to do this.</p>
+    text: |-
+      I wanted to utilise the IndieWeb to take ownership of my data and to make may site more connected. This post talks about how I’ve managed to do that.This website has been Webmention enabled for quite some time, but having a 4-day weekend here in the UK this weekend, I decided to spend some time hacking on this site to add more IndieWeb functionality.Indie-what now?IndieWeb! You never heard of it? Basically it’s a way of using your own website as your entire gateway to the Internet. The essence of the whole thing is to post once, then choose where it’s shared from there.If you want to learn more about why you think about should implementing the IndieWeb (IW) into your site, take a look at their documentation.
+      There are many reasons why you should use the IndieWeb, from controlling your experience on the web (instead of corporate algorithms), to deciding where and when to post your content and where it goes.
+      The IndieWeb
+      I’ve talked about why you should own your own domain, but using the services that the IW offers, you can take that to the next level. That’s what I’ve now done with this site.H-CardA h-card is basically a very small profile about yourself with some links. It tells the IW what information about you should be considered a single source of truth.A h-card can be as detailed, or a high-level as you like. There are a tonne of elements you can use in your h-card, but you can use as few or as many as you want. My h-card can be found on the homepage of this site:
+      My h-cardBrian Wisti wrote a brilliant post on how he setup his own h-card. It breaks the whole process down to a really simple form, it’s well worth a read if you’re thinking about addinfg your own h-card.Once you have finished your h-card, you can use this page to validate it is working correctly. The result should look something like this:Having a h-card configured and working means that other people and sites on the IW know how to get hold of me and where my social profiles are located.WebmentionsWebmentions are basically comments that traverse the IndieWeb. So if I write a new post on here, then share it on my Mastodon profile and people comment on that post, they will show up here as Webmentions.What’s even cooler still, is if someone else writes a post on their blog and links to one of my posts, I will get a Webmention for that too. Pretty cool, huh?I had to do some playing around with my CSS stylesheet to get Webmentions looking right on my site. They show up as WordPress comments, and I have them disabled, so never needed to format them in my theme. I’m still not completely happy, but they look good enough for now. I’ll tweak the CSS when I get more time.IndieAuthIndieAuth is really cool. Basically, it allows you to login to any IW compatible site with your own website.So if I wanted to login to the IndieWeb wiki, I could sign up for an account on their servers, or I could just authenticate using the IndieAuth configuration on this site.How do I implement the IndieWeb?If you’re running WordPress, like me, then it’s really easy. Just install the IndieWeb plugin, which will allow you to then install other plugins, like IndieAuth and Webmention.In order to get IndieAuth to work, I had to add the following to my .htacess file:# Enable IndieAuth
+      SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1To setup a h-card, I’d strong recommend you read through Brian Wisti’s guide on how he did it. If you’re familiar with some basic HTML and CSS, you should be fine.You may also need to tweak some of the code for your website to get it working right, but it’s all pretty straightforward.ConclusionWith a couple of hours spare, I’ve been able to make my website part of the IndieWeb, and I’m really happy with the result. I’m now finding my website to be much more connected and engaging. There’s still more I can do, but this is a good start, I think.If you’ve never heard of the IW and want to get started too, the IndieWeb wiki has a tonne of useful information to get you going. It can be a little daunting at first, but if you take it slow, it all starts to fall into place and make sense.I for one am really happy I took the time to do this.
+  entry_url: "/2020/04/11/indieweb-h-cards/"
+  h-type: entry
+  name: Implementing The IndieWeb Into My Website
+  photo: https://secure.gravatar.com/avatar/58c3ad7e67248570308ce24af26e91e0?s=40&d=mm&r=g
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Kev Quirk", "photo":
+    "", "url": ""}, "url": "https://kevq.uk/implementing-the-indieweb-into-my-website/",
+    "published": null, "wm-received": "2020-06-06T21:43:52Z", "wm-id": 807438, "wm-source":
+    "https://kevq.uk/implementing-the-indieweb-into-my-website/", "wm-target": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/",
+    "name": "Implementing The IndieWeb Into My Website", "photo": ["https://secure.gravatar.com/avatar/58c3ad7e67248570308ce24af26e91e0?s=40&d=mm&r=g",
+    "https://secure.gravatar.com/avatar/58c3ad7e67248570308ce24af26e91e0?s=150&d=mm&r=g",
+    "https://secure.gravatar.com/avatar/?s=45&d=mm&r=g"], "content": {"html": "<h4>I
+    wanted to utilise the IndieWeb to take ownership of my data and to make may site
+    more connected. This post talks about how I\u2019ve managed to do that.</h4><p>This
+    website has been Webmention enabled for quite some time, but having a 4-day weekend
+    here in the UK this weekend, I decided to spend some time hacking on this site
+    to add more IndieWeb functionality.</p><h2>Indie-what now?</h2><p><em>IndieWeb!</em>
+    You never heard of it? Basically it\u2019s a way of using your own website as
+    your entire gateway to the Internet. The essence of the whole thing is to post
+    once, then choose where it\u2019s shared from there.</p><p>If you want to learn
+    more about why you think about should implementing the IndieWeb (IW) into your
+    site, take a look at <a href=\"https://indieweb.org/why\">their documentation</a>.</p><blockquote>\n<p><strong>There
+    are many reasons why</strong> you should use the IndieWeb, from controlling your
+    experience on the web (instead of corporate algorithms), to deciding where and
+    when to post your content and where it goes.</p>\nThe IndieWeb\n</blockquote><p>I\u2019ve
+    talked about <a href=\"https://kevq.uk/why-you-should-own-your-own-domain/\">why
+    you should own your own domain</a>, but using the services that the IW offers,
+    you can take that to the next level. That\u2019s what I\u2019ve now done with
+    this site.</p><h2>H-Card</h2><p>A <code>h-card</code> is basically a very small
+    profile about yourself with some links. It tells the IW what information about
+    you should be considered a single source of truth.</p><p>A <code>h-card</code>
+    can be as detailed, or a high-level as you like. <a href=\"http://microformats.org/wiki/microformats2#h-card\">There
+    are a tonne of elements</a> you can use in your <code>h-card</code>, but you can
+    use as few or as many as you want. My <code>h-card</code> can be found on the
+    homepage of this site:</p>\nMy h-card<p>Brian Wisti wrote a brilliant post on
+    <a href=\"https://randomgeekery.org/2020/04/11/indieweb-h-cards/\">how he setup
+    his own h-card</a>. It breaks the whole process down to a really simple form,
+    it\u2019s well worth a read if you\u2019re thinking about addinfg your own <code>h-card</code>.</p><p>Once
+    you have finished your <code>h-card</code>, you can <a href=\"https://indiewebify.me/validate-h-card/\">use
+    this page</a> to validate it is working correctly. The result should look something
+    like this:</p><p>Having a <code>h-card</code> configured and working means that
+    other people and sites on the IW know how to get hold of me and where my social
+    profiles are located.</p><h2>Webmentions</h2><p><a href=\"https://indieweb.org/Webmention\">Webmentions</a>
+    are basically comments that traverse the IndieWeb. So if I write a new post on
+    here, then share it on <a href=\"https://fosstodon.org/@kev\">my Mastodon profile</a>
+    and people comment on that post, they will show up here as Webmentions.</p><p>What\u2019s
+    even cooler still, is if someone else writes a post on their blog and links to
+    one of my posts, I will get a Webmention for that too. Pretty cool, huh?</p><p>I
+    had to do some playing around with my CSS stylesheet to get Webmentions looking
+    right on my site. They show up as WordPress comments, and <a href=\"https://kevq.uk/removing-comments/\">I
+    have them disabled</a>, so never needed to format them in my theme. I\u2019m still
+    not completely happy, but they look good enough for now. I\u2019ll tweak the CSS
+    when I get more time.</p><h2>IndieAuth</h2><p><a href=\"https://indieweb.org/IndieAuth\">IndieAuth</a>
+    is really cool. Basically, it allows you to login to any IW compatible site with
+    your own website.</p><p>So if I wanted to login to the IndieWeb wiki, I <em>could
+    </em>sign up for an account on their servers, or I could just authenticate using
+    the IndieAuth configuration on this site.</p><h2>How do I implement the IndieWeb?</h2><p>If
+    you\u2019re running WordPress, like me, then it\u2019s really easy. Just install
+    the <a href=\"https://wordpress.org/plugins/indieweb/\">IndieWeb plugin</a>, which
+    will allow you to then install other plugins, like IndieAuth and Webmention.</p><p>In
+    order to get IndieAuth to work, I had to add the following to my <code>.htacess</code>
+    file:</p><pre># Enable IndieAuth\nSetEnvIf Authorization \"(.*)\" HTTP_AUTHORIZATION=$1</pre><p>To
+    setup a <code>h-card</code>, I\u2019d strong recommend you read through <a href=\"https://randomgeekery.org/2020/04/11/indieweb-h-cards/\">Brian
+    Wisti\u2019s guide</a> on how he did it. If you\u2019re familiar with some basic
+    HTML and CSS, you should be fine.</p><p>You may also need to tweak some of the
+    code for your website to get it working right, but it\u2019s all pretty straightforward.</p><h2>Conclusion</h2><p>With
+    a couple of hours spare, I\u2019ve been able to make my website part of the IndieWeb,
+    and I\u2019m really happy with the result. I\u2019m now finding my website to
+    be much more connected and engaging. There\u2019s still more I can do, but this
+    is a good start, I think.</p><p>If you\u2019ve never heard of the IW and want
+    to get started too, the <a href=\"https://indieweb.org/Getting_Started\">IndieWeb
+    wiki</a> has a tonne of useful information to get you going. It can be a little
+    daunting at first, but if you take it slow, it all starts to fall into place and
+    make sense.</p><p>I for one am really happy I took the time to do this.</p>",
+    "text": "I wanted to utilise the IndieWeb to take ownership of my data and to
+    make may site more connected. This post talks about how I\u2019ve managed to do
+    that.This website has been Webmention enabled for quite some time, but having
+    a 4-day weekend here in the UK this weekend, I decided to spend some time hacking
+    on this site to add more IndieWeb functionality.Indie-what now?IndieWeb! You never
+    heard of it? Basically it\u2019s a way of using your own website as your entire
+    gateway to the Internet. The essence of the whole thing is to post once, then
+    choose where it\u2019s shared from there.If you want to learn more about why you
+    think about should implementing the IndieWeb (IW) into your site, take a look
+    at their documentation.\nThere are many reasons why you should use the IndieWeb,
+    from controlling your experience on the web (instead of corporate algorithms),
+    to deciding where and when to post your content and where it goes.\nThe IndieWeb\nI\u2019ve
+    talked about why you should own your own domain, but using the services that the
+    IW offers, you can take that to the next level. That\u2019s what I\u2019ve now
+    done with this site.H-CardA h-card is basically a very small profile about yourself
+    with some links. It tells the IW what information about you should be considered
+    a single source of truth.A h-card can be as detailed, or a high-level as you like.
+    There are a tonne of elements you can use in your h-card, but you can use as few
+    or as many as you want. My h-card can be found on the homepage of this site:\nMy
+    h-cardBrian Wisti wrote a brilliant post on how he setup his own h-card. It breaks
+    the whole process down to a really simple form, it\u2019s well worth a read if
+    you\u2019re thinking about addinfg your own h-card.Once you have finished your
+    h-card, you can use this page to validate it is working correctly. The result
+    should look something like this:Having a h-card configured and working means that
+    other people and sites on the IW know how to get hold of me and where my social
+    profiles are located.WebmentionsWebmentions are basically comments that traverse
+    the IndieWeb. So if I write a new post on here, then share it on my Mastodon profile
+    and people comment on that post, they will show up here as Webmentions.What\u2019s
+    even cooler still, is if someone else writes a post on their blog and links to
+    one of my posts, I will get a Webmention for that too. Pretty cool, huh?I had
+    to do some playing around with my CSS stylesheet to get Webmentions looking right
+    on my site. They show up as WordPress comments, and I have them disabled, so never
+    needed to format them in my theme. I\u2019m still not completely happy, but they
+    look good enough for now. I\u2019ll tweak the CSS when I get more time.IndieAuthIndieAuth
+    is really cool. Basically, it allows you to login to any IW compatible site with
+    your own website.So if I wanted to login to the IndieWeb wiki, I could sign up
+    for an account on their servers, or I could just authenticate using the IndieAuth
+    configuration on this site.How do I implement the IndieWeb?If you\u2019re running
+    WordPress, like me, then it\u2019s really easy. Just install the IndieWeb plugin,
+    which will allow you to then install other plugins, like IndieAuth and Webmention.In
+    order to get IndieAuth to work, I had to add the following to my .htacess file:#
+    Enable IndieAuth\nSetEnvIf Authorization \"(.*)\" HTTP_AUTHORIZATION=$1To setup
+    a h-card, I\u2019d strong recommend you read through Brian Wisti\u2019s guide
+    on how he did it. If you\u2019re familiar with some basic HTML and CSS, you should
+    be fine.You may also need to tweak some of the code for your website to get it
+    working right, but it\u2019s all pretty straightforward.ConclusionWith a couple
+    of hours spare, I\u2019ve been able to make my website part of the IndieWeb, and
+    I\u2019m really happy with the result. I\u2019m now finding my website to be much
+    more connected and engaging. There\u2019s still more I can do, but this is a good
+    start, I think.If you\u2019ve never heard of the IW and want to get started too,
+    the IndieWeb wiki has a tonne of useful information to get you going. It can be
+    a little daunting at first, but if you take it slow, it all starts to fall into
+    place and make sense.I for one am really happy I took the time to do this."},
+    "mention-of": "https://randomgeekery.org/2020/04/11/indieweb-h-cards/", "wm-property":
+    "mention-of", "wm-private": false, "rels": {"canonical": "https://kevq.uk/implementing-the-indieweb-into-my-website/"}}'
+  received: 2020-06-06 14:43:52.000000000 -07:00
+  url: https://kevq.uk/implementing-the-indieweb-into-my-website/
+- url: https://www.jvt.me/mf2/2021/02/ukn9b/
+  author_name: Jamie Tanna
+  author_url: https://www.jvt.me
+  author_photo: https://webmention.io/avatar/www.jvt.me/1a30a04da8e03ed78b17bd01777f3892c95de2a05f974eaa739b858aaa1749d4.png
+  class: bookmark-of
+  entry_url: https://randomgeekery.org/post/2020/04/indieweb-h-cards/
+  h-type: entry
+  private: false
+  received: 2021-02-01 17:00:13.000000000 Z
+  published: 2021-02-01 16:56:32.000000000 -08:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Jamie Tanna","photo":"https://webmention.io/avatar/www.jvt.me/1a30a04da8e03ed78b17bd01777f3892c95de2a05f974eaa739b858aaa1749d4.png","url":"https://www.jvt.me"},"url":"https://www.jvt.me/mf2/2021/02/ukn9b/","published":"2021-02-01T16:56:32","wm-received":"2021-02-01T17:00:13Z","wm-id":1012715,"wm-source":"https://www.jvt.me/mf2/2021/02/ukn9b/","wm-target":"https://randomgeekery.org/post/2020/04/indieweb-h-cards/","syndication":["https://news.indieweb.org/en"],"bookmark-of":"https://randomgeekery.org/post/2020/04/indieweb-h-cards/","wm-property":"bookmark-of","wm-private":false,"rels":{"canonical":"https://www.jvt.me/mf2/2021/02/ukn9b/"}}'

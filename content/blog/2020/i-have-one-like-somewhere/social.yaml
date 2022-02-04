@@ -1,0 +1,25 @@
+---
+announcements: {}
+entry_path: content/note/2020/02/i-have-one-like-somewhere/index.md
+permalink: "/note/2020/02/i-have-one-like-somewhere/"
+responses:
+- author_name: Lord Bowlich
+  author_photo: https://webmention.io/avatar/hackers.town/33aa9e62f4e1b1c9fd5f2b0003e276d69c8a2acbd16e38f11eaa0f235603b561.jpg
+  author_url: https://hackers.town/@lordbowlich
+  class: like-of
+  entry_url: "/note/2020/49/i-have-one-like-somewhere/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Lord Bowlich", "photo":
+    "https://webmention.io/avatar/hackers.town/33aa9e62f4e1b1c9fd5f2b0003e276d69c8a2acbd16e38f11eaa0f235603b561.jpg",
+    "url": "https://hackers.town/@lordbowlich"}, "url": "https://hackers.town/@randomgeek/103684013321251265#favorited-by-71523",
+    "published": null, "wm-received": "2020-02-19T07:19:04Z", "wm-id": 758065, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103684013321251265/71523",
+    "wm-target": "https://randomgeekery.org/note/2020/49/i-have-one-like-somewhere/",
+    "like-of": "https://randomgeekery.org/note/2020/49/i-have-one-like-somewhere/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-02-18 23:19:04.000000000 -08:00
+  url: https://hackers.town/@randomgeek/103684013321251265#favorited-by-71523

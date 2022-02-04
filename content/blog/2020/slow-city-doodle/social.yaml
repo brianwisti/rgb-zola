@@ -1,0 +1,94 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104617719550214827
+  twitter: https://twitter.com/brianwisti/status/1289768405642424323
+entry_path: content/note/2020/08/slow-city-doodle/index.md
+permalink: "/note/2020/08/slow-city-doodle/"
+responses:
+- author_name: lil div selector
+  author_photo: https://webmention.io/avatar/hackers.town/99147635745124cd6cfd108186df2bd7163a1f000b2e63d7dd48232db6818ef7.jpg
+  author_url: https://hackers.town/@shaen
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      I really like that. Thats a phone doodle?</p>
+    text: "@randomgeek I really like that. Thats a phone doodle?"
+  entry_url: "/note/2020/08/slow-city-doodle/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-08-01 22:03:24.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "lil div selector", "photo":
+    "https://webmention.io/avatar/hackers.town/99147635745124cd6cfd108186df2bd7163a1f000b2e63d7dd48232db6818ef7.jpg",
+    "url": "https://hackers.town/@shaen"}, "url": "https://hackers.town/@shaen/104618040004142230",
+    "published": "2020-08-02T05:03:24", "wm-received": "2020-08-02T05:40:59Z", "wm-id":
+    835039, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104617719550214827/104618040004142230",
+    "wm-target": "https://randomgeekery.org/note/2020/08/slow-city-doodle/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> I really like that. Thats
+    a phone doodle?</p>", "text": "@randomgeek I really like that. Thats a phone doodle?"},
+    "in-reply-to": "https://randomgeekery.org/note/2020/08/slow-city-doodle/", "wm-property":
+    "in-reply-to", "wm-private": false}'
+  received: 2020-08-01 22:40:59.000000000 -07:00
+  url: https://hackers.town/@shaen/104618040004142230
+- author_name: Papa Bär
+  author_photo: https://webmention.io/avatar/hackers.town/c1b964ce3fbc53f4806973823177e41a057b458c54847aa5ee84bb6c582d65e9.png
+  author_url: https://hackers.town/@nobody
+  class: like-of
+  entry_url: "/note/2020/08/slow-city-doodle/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Papa B\u00e4r", "photo":
+    "https://webmention.io/avatar/hackers.town/c1b964ce3fbc53f4806973823177e41a057b458c54847aa5ee84bb6c582d65e9.png",
+    "url": "https://hackers.town/@nobody"}, "url": "https://hackers.town/@randomgeek/104617719550214827#favorited-by-24713",
+    "published": null, "wm-received": "2020-08-02T04:07:53Z", "wm-id": 835030, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104617719550214827/24713",
+    "wm-target": "https://randomgeekery.org/note/2020/08/slow-city-doodle/", "like-of":
+    "https://randomgeekery.org/note/2020/08/slow-city-doodle/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-08-01 21:07:53.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104617719550214827#favorited-by-24713
+- author_name: This Tweet is Antifa
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/fa5fe0fdb8dd6d8c08d0a177cdcd399a302b97ed315a541029cf125f3e6c31e0.jpg
+  author_url: https://twitter.com/ctownchick1
+  class: like-of
+  entry_url: "/note/2020/08/slow-city-doodle/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "This Tweet is Antifa",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/fa5fe0fdb8dd6d8c08d0a177cdcd399a302b97ed315a541029cf125f3e6c31e0.jpg",
+    "url": "https://twitter.com/ctownchick1"}, "url": "https://twitter.com/brianwisti/status/1289768405642424323#favorited-by-295426007",
+    "published": null, "wm-received": "2020-08-02T04:34:09Z", "wm-id": 835031, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1289768405642424323/295426007",
+    "wm-target": "https://randomgeekery.org/note/2020/08/slow-city-doodle/", "like-of":
+    "https://randomgeekery.org/note/2020/08/slow-city-doodle/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-08-01 21:34:09.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1289768405642424323#favorited-by-295426007
+- author_name: lil div selector
+  author_photo: https://webmention.io/avatar/hackers.town/99147635745124cd6cfd108186df2bd7163a1f000b2e63d7dd48232db6818ef7.jpg
+  author_url: https://hackers.town/@shaen
+  class: like-of
+  entry_url: "/note/2020/08/slow-city-doodle/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "lil div selector", "photo":
+    "https://webmention.io/avatar/hackers.town/99147635745124cd6cfd108186df2bd7163a1f000b2e63d7dd48232db6818ef7.jpg",
+    "url": "https://hackers.town/@shaen"}, "url": "https://hackers.town/@randomgeek/104617719550214827#favorited-by-46403",
+    "published": null, "wm-received": "2020-08-02T05:40:22Z", "wm-id": 835038, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104617719550214827/46403",
+    "wm-target": "https://randomgeekery.org/note/2020/08/slow-city-doodle/", "like-of":
+    "https://randomgeekery.org/note/2020/08/slow-city-doodle/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-08-01 22:40:22.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104617719550214827#favorited-by-46403

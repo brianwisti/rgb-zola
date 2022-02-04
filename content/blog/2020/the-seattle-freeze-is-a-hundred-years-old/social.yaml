@@ -1,0 +1,65 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104054210028790974
+  twitter: https://twitter.com/brianwisti/status/1253704077541879809
+entry_path: content/note/2020/04/the-seattle-freeze-is-a-hundred-years-old/index.md
+permalink: "/note/2020/04/the-seattle-freeze-is-a-hundred-years-old/"
+responses:
+- author_name: Grey
+  author_photo: https://webmention.io/avatar/hackers.town/ffc7bbc4a190f9f6796477b075fa789115617ba4ad260066914defbd2af0401f.jpg
+  author_url: https://wandering.shop/@hummingrain
+  class: repost-of
+  entry_url: "/note/2020/115/the-seattle-freeze-is-a-hundred-years-old/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Grey", "photo": "https://webmention.io/avatar/hackers.town/ffc7bbc4a190f9f6796477b075fa789115617ba4ad260066914defbd2af0401f.jpg",
+    "url": "https://wandering.shop/@hummingrain"}, "url": "https://hackers.town/@randomgeek/104054210028790974#reblogged-by-1963",
+    "published": null, "wm-received": "2020-04-24T16:42:31Z", "wm-id": 786637, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/104054210028790974/1963",
+    "wm-target": "https://randomgeekery.org/note/2020/115/the-seattle-freeze-is-a-hundred-years-old/",
+    "repost-of": "https://randomgeekery.org/note/2020/115/the-seattle-freeze-is-a-hundred-years-old/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-04-24 09:42:31.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104054210028790974#reblogged-by-1963
+- author_name: Grey
+  author_photo: https://webmention.io/avatar/hackers.town/ffc7bbc4a190f9f6796477b075fa789115617ba4ad260066914defbd2af0401f.jpg
+  author_url: https://wandering.shop/@hummingrain
+  class: like-of
+  entry_url: "/note/2020/115/the-seattle-freeze-is-a-hundred-years-old/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Grey", "photo": "https://webmention.io/avatar/hackers.town/ffc7bbc4a190f9f6796477b075fa789115617ba4ad260066914defbd2af0401f.jpg",
+    "url": "https://wandering.shop/@hummingrain"}, "url": "https://hackers.town/@randomgeek/104054210028790974#favorited-by-1963",
+    "published": null, "wm-received": "2020-04-24T16:42:31Z", "wm-id": 786638, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104054210028790974/1963",
+    "wm-target": "https://randomgeekery.org/note/2020/115/the-seattle-freeze-is-a-hundred-years-old/",
+    "like-of": "https://randomgeekery.org/note/2020/115/the-seattle-freeze-is-a-hundred-years-old/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-24 09:42:31.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104054210028790974#favorited-by-1963
+- author_name: hafnium (IV) oxide
+  author_photo: https://webmention.io/avatar/hackers.town/2026e932898447975b4acaf17161cdd16be98b6f6c80ad9d437701f3804ce1f3.png
+  author_url: https://wandering.shop/@hafnia
+  class: repost-of
+  entry_url: "/note/2020/115/the-seattle-freeze-is-a-hundred-years-old/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "hafnium (IV) oxide",
+    "photo": "https://webmention.io/avatar/hackers.town/2026e932898447975b4acaf17161cdd16be98b6f6c80ad9d437701f3804ce1f3.png",
+    "url": "https://wandering.shop/@hafnia"}, "url": "https://hackers.town/@randomgeek/104054210028790974#reblogged-by-26377",
+    "published": null, "wm-received": "2020-04-24T19:35:27Z", "wm-id": 786671, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/104054210028790974/26377",
+    "wm-target": "https://randomgeekery.org/note/2020/115/the-seattle-freeze-is-a-hundred-years-old/",
+    "repost-of": "https://randomgeekery.org/note/2020/115/the-seattle-freeze-is-a-hundred-years-old/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-04-24 12:35:27.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104054210028790974#reblogged-by-26377

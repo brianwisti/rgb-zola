@@ -1,0 +1,27 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104191542874551454
+  twitter: https://twitter.com/brianwisti/status/1262493428023246848
+entry_path: content/post/2020/05/letting-ruby-build-asciidoctor-files-for-hugo/index.md
+permalink: "/post/2020/05/letting-ruby-build-asciidoctor-files-for-hugo/"
+responses:
+- author_name: Kristoforo Arbaro
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/af4aa82fa4839e99c8fa9d912058520d8b6c2724060a749b3ab0ef5f1b4925c5.jpg
+  author_url: https://twitter.com/kristarbaro
+  class: like-of
+  entry_url: "/post/2020/05/letting-ruby-build-asciidoctor-files-for-hugo/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Kristoforo Arbaro",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/af4aa82fa4839e99c8fa9d912058520d8b6c2724060a749b3ab0ef5f1b4925c5.jpg",
+    "url": "https://twitter.com/kristarbaro"}, "url": "https://twitter.com/brianwisti/status/1262493428023246848#favorited-by-752039856436572160",
+    "published": null, "wm-received": "2020-05-18T22:20:08Z", "wm-id": 798107, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1262493428023246848/752039856436572160",
+    "wm-target": "https://randomgeekery.org/post/2020/05/letting-ruby-build-asciidoctor-files-for-hugo/",
+    "like-of": "https://randomgeekery.org/post/2020/05/letting-ruby-build-asciidoctor-files-for-hugo/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-18 15:20:08.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1262493428023246848#favorited-by-752039856436572160

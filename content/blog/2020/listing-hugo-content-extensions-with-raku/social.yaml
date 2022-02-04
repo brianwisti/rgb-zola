@@ -1,0 +1,67 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/103919841537181374
+  twitter: https://twitter.com/brianwisti/status/1245105076936617985
+entry_path: content/post/2020/03/listing-hugo-content-extensions-with-raku/index.md
+permalink: "/post/2020/03/listing-hugo-content-extensions-with-raku/"
+responses:
+- author_name: Jason McIntosh
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e6b312fa0dec6691bbfab2e33c5402effc5f9e46f1e21e98635323e053f9ee49.jpg
+  author_url: https://twitter.com/JmacDotOrg
+  class: like-of
+  entry_url: "/2020/03/31/listing-hugo-content-extensions-with-raku/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jason McIntosh", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/e6b312fa0dec6691bbfab2e33c5402effc5f9e46f1e21e98635323e053f9ee49.jpg",
+    "url": "https://twitter.com/JmacDotOrg"}, "url": "https://twitter.com/brianwisti/status/1245105076936617985#favorited-by-14313860",
+    "published": null, "wm-received": "2020-03-31T22:11:29Z", "wm-id": 777270, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1245105076936617985/14313860",
+    "wm-target": "https://randomgeekery.org/2020/03/31/listing-hugo-content-extensions-with-raku/",
+    "like-of": "https://randomgeekery.org/2020/03/31/listing-hugo-content-extensions-with-raku/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-03-31 15:11:29.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1245105076936617985#favorited-by-14313860
+- author_name: Andrew Fresh
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/722ca83d1b210ddd102c677020662ba8af4ef4102e0f9d90f6ff5f228f00f73d.jpg
+  author_url: https://twitter.com/AFresh1
+  class: like-of
+  entry_url: "/2020/03/31/listing-hugo-content-extensions-with-raku/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Andrew Fresh", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/722ca83d1b210ddd102c677020662ba8af4ef4102e0f9d90f6ff5f228f00f73d.jpg",
+    "url": "https://twitter.com/AFresh1"}, "url": "https://twitter.com/brianwisti/status/1245105076936617985#favorited-by-32763707",
+    "published": null, "wm-received": "2020-03-31T23:30:23Z", "wm-id": 777295, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1245105076936617985/32763707",
+    "wm-target": "https://randomgeekery.org/2020/03/31/listing-hugo-content-extensions-with-raku/",
+    "like-of": "https://randomgeekery.org/2020/03/31/listing-hugo-content-extensions-with-raku/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-03-31 16:30:23.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1245105076936617985#favorited-by-32763707
+- author_name: Olle Jonsson
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/126385c6988fbe9fd743b7cfe67f3b1c7d8e1a214daa333c2c59ddbb46547517.jpg
+  author_url: https://twitter.com/olleolleolle
+  class: like-of
+  entry_url: "/2020/03/31/listing-hugo-content-extensions-with-raku/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Olle Jonsson", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/126385c6988fbe9fd743b7cfe67f3b1c7d8e1a214daa333c2c59ddbb46547517.jpg",
+    "url": "https://twitter.com/olleolleolle"}, "url": "https://twitter.com/brianwisti/status/1245105076936617985#favorited-by-1482161",
+    "published": null, "wm-received": "2020-04-01T05:20:03Z", "wm-id": 777352, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1245105076936617985/1482161",
+    "wm-target": "https://randomgeekery.org/2020/03/31/listing-hugo-content-extensions-with-raku/",
+    "like-of": "https://randomgeekery.org/2020/03/31/listing-hugo-content-extensions-with-raku/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-03-31 22:20:03.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1245105076936617985#favorited-by-1482161

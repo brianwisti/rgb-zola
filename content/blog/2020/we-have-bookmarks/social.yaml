@@ -1,0 +1,18 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/105326691488457935
+  twitter: https://twitter.com/brianwisti/status/1335142957184409600
+entry_path: content/note/2020/12/we-have-bookmarks/index.md
+permalink: "/note/2020/12/we-have-bookmarks/"
+responses:
+- url: https://twitter.com/brianwisti/status/1335142957184409600#favorited-by-15570920
+  author_name: Zaki
+  author_url: https://twitter.com/zmughal
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/23399937fa53dfb1c5ea7829f32c641784a9a229f0fffb39c3ec5a3cf8d1d1a4.png
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2020/12/we-have-bookmarks/
+  h-type: entry
+  private: false
+  received: 2020-12-05 09:14:29.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Zaki","photo":"https://webmention.io/avatar/pbs.twimg.com/23399937fa53dfb1c5ea7829f32c641784a9a229f0fffb39c3ec5a3cf8d1d1a4.png","url":"https://twitter.com/zmughal"},"url":"https://twitter.com/brianwisti/status/1335142957184409600#favorited-by-15570920","published":null,"wm-received":"2020-12-05T09:14:29Z","wm-id":936992,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1335142957184409600/15570920","wm-target":"https://randomgeekery.org/note/2020/12/we-have-bookmarks/","like-of":"https://randomgeekery.org/note/2020/12/we-have-bookmarks/","wm-property":"like-of","wm-private":false}'

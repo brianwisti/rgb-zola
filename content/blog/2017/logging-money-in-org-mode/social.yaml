@@ -1,0 +1,29 @@
+---
+announcements: {}
+entry_path: content/post/2017/07/logging-money-in-org-mode/index.adoc.txt
+permalink: "/post/2017/07/logging-money-in-org-mode/"
+responses:
+- url: https://www.ravisagar.in/reply/thank-sharing-ideas-how-use-org-mode-expense-tracking
+  author_name: Ravi Sagar
+  author_url: https://www.ravisagar.in/
+  author_photo: https://webmention.io/avatar/www.ravisagar.in/27f6da4a30834c9cd95b846134cc6da30e268f2ef9e64d068f4945913e0a558e.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2017/07/logging-money-in-org-mode/
+  h-type: entry
+  private: false
+  received: 2020-11-21 10:29:00.000000000 Z
+  published: 2020-11-21 10:26:17.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Ravi Sagar","photo":"https://webmention.io/avatar/www.ravisagar.in/27f6da4a30834c9cd95b846134cc6da30e268f2ef9e64d068f4945913e0a558e.jpg","url":"https://www.ravisagar.in/"},"url":"https://www.ravisagar.in/reply/thank-sharing-ideas-how-use-org-mode-expense-tracking","published":"2020-11-21T10:26:17+00:00","wm-received":"2020-11-21T10:29:00Z","wm-id":919003,"wm-source":"https://www.ravisagar.in/reply/thank-sharing-ideas-how-use-org-mode-expense-tracking","wm-target":"https://randomgeekery.org/post/2017/07/logging-money-in-org-mode/","name":"Thank
+    for sharing ideas on how to use org mode for expense tracking","content":{"html":"<p>I
+    have always used spreadsheets for managing my expenses but it is slow. Since I
+    already use Org Mode I am now thinking of trying it. I got some ideas from your
+    article :)</p>","text":"I have always used spreadsheets for managing my expenses
+    but it is slow. Since I already use Org Mode I am now thinking of trying it. I
+    got some ideas from your article :)"},"in-reply-to":"https://randomgeekery.org/post/2017/07/logging-money-in-org-mode/","wm-property":"in-reply-to","wm-private":false,"rels":{"canonical":"https://www.ravisagar.in/reply/thank-sharing-ideas-how-use-org-mode-expense-tracking"}}'
+  content:
+    html: "<p>I have always used spreadsheets for managing my expenses but it is slow.
+      Since I already use Org Mode I am now thinking of trying it. I got some ideas
+      from your article :)</p>"
+    text: I have always used spreadsheets for managing my expenses but it is slow.
+      Since I already use Org Mode I am now thinking of trying it. I got some ideas
+      from your article :)

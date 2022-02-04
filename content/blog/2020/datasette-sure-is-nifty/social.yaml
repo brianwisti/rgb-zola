@@ -1,0 +1,118 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104119953630820970
+  twitter: https://twitter.com/brianwisti/status/1257911903919263747
+entry_path: content/note/2020/05/datasette-sure-is-nifty/index.md
+permalink: "/note/2020/05/datasette-sure-is-nifty/"
+responses:
+- author_name: Random Geek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  author_url: https://hackers.town/@randomgeek
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://mastodon.social/@bcongdon" class="u-url">@<span>bcongdon</span></a></span>
+      OH MY GOODNESS</p><p>on the one hand yay it looks like I get to scrap a half-dozen
+      unfinished scripts because he's got it covered.</p><p>OTOH aww there's no point
+      working on that half-dozen unfinished scripts because somebody else covered
+      it.</p>
+    text: "@bcongdon OH MY GOODNESSon the one hand yay it looks like I get to scrap
+      a half-dozen unfinished scripts because he's got it covered.OTOH aww there's
+      no point working on that half-dozen unfinished scripts because somebody else
+      covered it."
+  entry_url: "/note/2020/05/datasette-sure-is-nifty/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-06 08:30:11.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Random Geek", "photo":
+    "https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png",
+    "url": "https://hackers.town/@randomgeek"}, "url": "https://hackers.town/@randomgeek/104122221313675267",
+    "published": "2020-05-06T15:30:11", "wm-received": "2020-05-09T01:28:03Z", "wm-id":
+    794481, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104119953630820970/104122221313675267",
+    "wm-target": "https://randomgeekery.org/note/2020/05/datasette-sure-is-nifty/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@bcongdon\"
+    class=\"u-url\">@<span>bcongdon</span></a></span> OH MY GOODNESS</p><p>on the
+    one hand yay it looks like I get to scrap a half-dozen unfinished scripts because
+    he''s got it covered.</p><p>OTOH aww there''s no point working on that half-dozen
+    unfinished scripts because somebody else covered it.</p>", "text": "@bcongdon
+    OH MY GOODNESSon the one hand yay it looks like I get to scrap a half-dozen unfinished
+    scripts because he''s got it covered.OTOH aww there''s no point working on that
+    half-dozen unfinished scripts because somebody else covered it."}, "in-reply-to":
+    "https://randomgeekery.org/note/2020/05/datasette-sure-is-nifty/", "wm-property":
+    "in-reply-to", "wm-private": false}'
+  received: 2020-05-08 18:28:03.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104122221313675267
+- author_name: Benjamin Congdon
+  author_photo: https://webmention.io/avatar/hackers.town/8ec61914ddb0db0cc8836af2c998becafa3ef82889dd9ebe7424ef89242f666e.jpg
+  author_url: https://mastodon.social/@bcongdon
+  class: in-reply-to
+  content:
+    html: |-
+      <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span> Datasette is super neat!</p><p>Have you seen Simon's parallel project, Dogsheep? <a href="https://dogsheep.github.io/"><span>https://</span><span>dogsheep.github.io/</span><span></span></a> It has a lot more CLI utilities for loading data.</p>
+      <a href="https://dogsheep.github.io/">Dogsheep</a>
+    text: |-
+      @randomgeek Datasette is super neat!Have you seen Simon's parallel project, Dogsheep? https://dogsheep.github.io/ It has a lot more CLI utilities for loading data.
+      Dogsheep
+  entry_url: "/note/2020/05/datasette-sure-is-nifty/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-06 07:57:30.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Benjamin Congdon", "photo":
+    "https://webmention.io/avatar/hackers.town/8ec61914ddb0db0cc8836af2c998becafa3ef82889dd9ebe7424ef89242f666e.jpg",
+    "url": "https://mastodon.social/@bcongdon"}, "url": "https://mastodon.social/@bcongdon/104122092808624355",
+    "published": "2020-05-06T14:57:30", "wm-received": "2020-05-06T15:05:57Z", "wm-id":
+    793096, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104119953630820970/104122092863947880",
+    "wm-target": "https://randomgeekery.org/note/2020/05/datasette-sure-is-nifty/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> Datasette is super neat!</p><p>Have
+    you seen Simon''s parallel project, Dogsheep? <a href=\"https://dogsheep.github.io/\"><span>https://</span><span>dogsheep.github.io/</span><span></span></a>
+    It has a lot more CLI utilities for loading data.</p>\n<a href=\"https://dogsheep.github.io/\">Dogsheep</a>",
+    "text": "@randomgeek Datasette is super neat!Have you seen Simon''s parallel project,
+    Dogsheep? https://dogsheep.github.io/ It has a lot more CLI utilities for loading
+    data.\nDogsheep"}, "in-reply-to": "https://randomgeekery.org/note/2020/05/datasette-sure-is-nifty/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-05-06 08:05:57.000000000 -07:00
+  url: https://mastodon.social/@bcongdon/104122092808624355
+- author_name: tragically offbeat
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/4b7082bac6e33fc55b6ce42b05b321824dd4905ad33649fb4a5c7c737746ee12.jpg
+  author_url: https://twitter.com/whatimafter_
+  class: like-of
+  entry_url: "/note/2020/05/datasette-sure-is-nifty/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "tragically offbeat",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/4b7082bac6e33fc55b6ce42b05b321824dd4905ad33649fb4a5c7c737746ee12.jpg",
+    "url": "https://twitter.com/whatimafter_"}, "url": "https://twitter.com/brianwisti/status/1257911903919263747#favorited-by-3538001",
+    "published": null, "wm-received": "2020-05-06T14:48:27Z", "wm-id": 793094, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1257911903919263747/3538001",
+    "wm-target": "https://randomgeekery.org/note/2020/05/datasette-sure-is-nifty/",
+    "like-of": "https://randomgeekery.org/note/2020/05/datasette-sure-is-nifty/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-06 07:48:27.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1257911903919263747#favorited-by-3538001
+- author_name: Eλf Sternberg
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/ece0c5d662bc8815ecba319556b9f6cdefe6b65164874ddb91251dc1c554919b.png
+  author_url: https://twitter.com/elfsternberg
+  class: like-of
+  entry_url: "/note/2020/05/datasette-sure-is-nifty/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "E\u03bbf Sternberg",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/ece0c5d662bc8815ecba319556b9f6cdefe6b65164874ddb91251dc1c554919b.png",
+    "url": "https://twitter.com/elfsternberg"}, "url": "https://twitter.com/brianwisti/status/1257911903919263747#favorited-by-18141592",
+    "published": null, "wm-received": "2020-05-06T14:48:27Z", "wm-id": 793095, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1257911903919263747/18141592",
+    "wm-target": "https://randomgeekery.org/note/2020/05/datasette-sure-is-nifty/",
+    "like-of": "https://randomgeekery.org/note/2020/05/datasette-sure-is-nifty/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-06 07:48:27.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1257911903919263747#favorited-by-18141592

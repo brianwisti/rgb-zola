@@ -1,0 +1,67 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/103774313023211236
+  twitter: https://twitter.com/brianwisti/status/1235790515356004352
+entry_path: content/note/2020/03/today-in-personal-accomplishments/index.md
+permalink: "/note/2020/03/today-in-personal-accomplishments/"
+responses:
+- author_name: Jamie Gaskins
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/91ef7c0329377a82a841bff436e7d7af4441e399879cf524d5cff893f5d64aac.jpg
+  author_url: https://twitter.com/jamie_gaskins
+  class: like-of
+  entry_url: "/note/2020/65/today-in-personal-accomplishments/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jamie Gaskins", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/91ef7c0329377a82a841bff436e7d7af4441e399879cf524d5cff893f5d64aac.jpg",
+    "url": "https://twitter.com/jamie_gaskins"}, "url": "https://twitter.com/brianwisti/status/1235790515356004352#favorited-by-195645259",
+    "published": null, "wm-received": "2020-03-06T09:39:17Z", "wm-id": 765049, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1235790515356004352/195645259",
+    "wm-target": "https://randomgeekery.org/note/2020/65/today-in-personal-accomplishments/",
+    "like-of": "https://randomgeekery.org/note/2020/65/today-in-personal-accomplishments/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-03-06 01:39:17.000000000 -08:00
+  url: https://twitter.com/brianwisti/status/1235790515356004352#favorited-by-195645259
+- author_name: Ethan "Mr.E" Schoonover
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/75c14c0acd86e59b7da23e633eb6f7ab0aee5587d9628f85581526b7a53020b8.jpg
+  author_url: https://twitter.com/ethanschoonover
+  class: like-of
+  entry_url: "/note/2020/65/today-in-personal-accomplishments/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Ethan \"Mr.E\" Schoonover",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/75c14c0acd86e59b7da23e633eb6f7ab0aee5587d9628f85581526b7a53020b8.jpg",
+    "url": "https://twitter.com/ethanschoonover"}, "url": "https://twitter.com/brianwisti/status/1235790515356004352#favorited-by-263503",
+    "published": null, "wm-received": "2020-03-06T09:39:25Z", "wm-id": 765050, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1235790515356004352/263503",
+    "wm-target": "https://randomgeekery.org/note/2020/65/today-in-personal-accomplishments/",
+    "like-of": "https://randomgeekery.org/note/2020/65/today-in-personal-accomplishments/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-03-06 01:39:25.000000000 -08:00
+  url: https://twitter.com/brianwisti/status/1235790515356004352#favorited-by-263503
+- author_name: Deidre Adriano
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/68023470fed9e3c2987b5bb991ffd01af74b0894052ce2962377a30455328ad5.jpg
+  author_url: https://twitter.com/deedriano
+  class: like-of
+  entry_url: "/note/2020/65/today-in-personal-accomplishments/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Deidre Adriano", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/68023470fed9e3c2987b5bb991ffd01af74b0894052ce2962377a30455328ad5.jpg",
+    "url": "https://twitter.com/deedriano"}, "url": "https://twitter.com/brianwisti/status/1235790515356004352#favorited-by-43799528",
+    "published": null, "wm-received": "2020-03-06T09:39:35Z", "wm-id": 765051, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1235790515356004352/43799528",
+    "wm-target": "https://randomgeekery.org/note/2020/65/today-in-personal-accomplishments/",
+    "like-of": "https://randomgeekery.org/note/2020/65/today-in-personal-accomplishments/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-03-06 01:39:35.000000000 -08:00
+  url: https://twitter.com/brianwisti/status/1235790515356004352#favorited-by-43799528

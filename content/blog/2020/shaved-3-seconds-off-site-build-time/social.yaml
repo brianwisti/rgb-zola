@@ -1,0 +1,27 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104158790339266350
+  twitter: https://twitter.com/brianwisti/status/1260397246740398081
+entry_path: content/note/2020/05/shaved-3-seconds-off-site-build-time/index.md
+permalink: "/note/2020/05/shaved-3-seconds-off-site-build-time/"
+responses:
+- author_name: VM (Vicky) Brasseur
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/ec6dff46b5b91baa722538c4fb456e14b5c54af244f2aff767c81607dd93e760.png
+  author_url: https://twitter.com/vmbrasseur
+  class: like-of
+  entry_url: "/note/2020/05/shaved-3-seconds-off-site-build-time/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "VM (Vicky) Brasseur",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/ec6dff46b5b91baa722538c4fb456e14b5c54af244f2aff767c81607dd93e760.png",
+    "url": "https://twitter.com/vmbrasseur"}, "url": "https://twitter.com/brianwisti/status/1260397246740398081#favorited-by-63819362",
+    "published": null, "wm-received": "2020-05-13T04:38:50Z", "wm-id": 795577, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1260397246740398081/63819362",
+    "wm-target": "https://randomgeekery.org/note/2020/05/shaved-3-seconds-off-site-build-time/",
+    "like-of": "https://randomgeekery.org/note/2020/05/shaved-3-seconds-off-site-build-time/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-12 21:38:50.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1260397246740398081#favorited-by-63819362

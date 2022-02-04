@@ -1,0 +1,188 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104068641669767131
+  twitter: https://twitter.com/brianwisti/status/1254627759659376641
+entry_path: content/note/2020/04/patronize-me-on-liberapay/index.md
+permalink: "/note/2020/04/patronize-me-on-liberapay/"
+responses:
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: mention-of
+  content:
+    html: |-
+      Update: added a Stripe account to my <a href="https://twitter.com/liberapay">@liberapay</a> setup. This may resolve technical issues seen by <a href="https://twitter.com/wholemilk">@wholemilk</a>.
+      <a class="u-mention" href="https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/"></a>
+    text: 'Update: added a Stripe account to my @liberapay setup. This may resolve
+      technical issues seen by @wholemilk.'
+  entry_url: "/note/2020/117/patronize-me-on-liberapay/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-27 07:21:10.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1254777612703916033",
+    "published": "2020-04-27T14:21:10+00:00", "wm-received": "2020-04-27T14:57:41Z",
+    "wm-id": 787713, "wm-source": "https://brid-gy.appspot.com/post/twitter/brianwisti/1254777612703916033",
+    "wm-target": "https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/",
+    "content": {"html": "Update: added a Stripe account to my <a href=\"https://twitter.com/liberapay\">@liberapay</a>
+    setup. This may resolve technical issues seen by <a href=\"https://twitter.com/wholemilk\">@wholemilk</a>.\n<a
+    class=\"u-mention\" href=\"https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/\"></a>",
+    "text": "Update: added a Stripe account to my @liberapay setup. This may resolve
+    technical issues seen by @wholemilk."}, "mention-of": "https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/",
+    "wm-property": "mention-of", "wm-private": false}'
+  received: 2020-04-27 07:57:41.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1254777612703916033
+- author_name: Liberapay
+  author_photo: https://webmention.io/avatar/hackers.town/3661949452d6a571c904417d93ac3804e17d1d43b1d7750a291c7bf7f3620dd1.png
+  author_url: https://mastodon.xyz/@Liberapay
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      You should connect a Stripe account, so that your patrons won't have to go through
+      PayPal every time. <a href="https://liberapay.com/about/me/payment"><span>https://</span><span>liberapay.com/about/me/payment</span><span></span></a></p>
+    text: "@randomgeek You should connect a Stripe account, so that your patrons won't
+      have to go through PayPal every time. https://liberapay.com/about/me/payment"
+  entry_url: "/note/2020/117/patronize-me-on-liberapay/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-27 00:27:24.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Liberapay", "photo":
+    "https://webmention.io/avatar/hackers.town/3661949452d6a571c904417d93ac3804e17d1d43b1d7750a291c7bf7f3620dd1.png",
+    "url": "https://mastodon.xyz/@Liberapay"}, "url": "https://mastodon.xyz/@Liberapay/104069362096198869",
+    "published": "2020-04-27T07:27:24", "wm-received": "2020-04-27T07:42:44Z", "wm-id":
+    787488, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104068641669767131/104069362220086690",
+    "wm-target": "https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> You should connect a Stripe
+    account, so that your patrons won''t have to go through PayPal every time. <a
+    href=\"https://liberapay.com/about/me/payment\"><span>https://</span><span>liberapay.com/about/me/payment</span><span></span></a></p>",
+    "text": "@randomgeek You should connect a Stripe account, so that your patrons
+    won''t have to go through PayPal every time. https://liberapay.com/about/me/payment"},
+    "in-reply-to": "https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-27 00:42:44.000000000 -07:00
+  url: https://mastodon.xyz/@Liberapay/104069362096198869
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      Thank you! I sure will!
+      <a class="u-mention" href="https://twitter.com/wholemilk"></a>
+    text: Thank you! I sure will!
+  entry_url: "/note/2020/117/patronize-me-on-liberapay/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-26 22:01:23.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1254636740871991297",
+    "published": "2020-04-27T05:01:23+00:00", "wm-received": "2020-04-27T05:17:23Z",
+    "wm-id": 787461, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1254627759659376640/1254636740871991297",
+    "wm-target": "https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/",
+    "content": {"html": "Thank you! I sure will!\n<a class=\"u-mention\" href=\"https://twitter.com/wholemilk\"></a>",
+    "text": "Thank you! I sure will!"}, "in-reply-to": "https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-26 22:17:23.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1254636740871991297
+- author_name: "Rachel @ home \U0001F332\U0001F3D4\U0001F3DE\U0001F326"
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/815e24b554fc0a55401e58c3f5c19c3a75d240202a4624199da721ca44e07bcf.jpg
+  author_url: https://twitter.com/wholemilk
+  class: in-reply-to
+  content:
+    html: |-
+      Got a 504 when I tried to set it up &amp; sent them a support ticket about it.  Here's hoping they fix it soon, and when they do you should repost this :)
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: Got a 504 when I tried to set it up & sent them a support ticket about it.  Here's
+      hoping they fix it soon, and when they do you should repost this :)
+  entry_url: "/note/2020/117/patronize-me-on-liberapay/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-26 21:59:06.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Rachel @ home \ud83c\udf32\ud83c\udfd4\ud83c\udfde\ud83c\udf26",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/815e24b554fc0a55401e58c3f5c19c3a75d240202a4624199da721ca44e07bcf.jpg",
+    "url": "https://twitter.com/wholemilk"}, "url": "https://twitter.com/wholemilk/status/1254636165279346690",
+    "published": "2020-04-27T04:59:06+00:00", "wm-received": "2020-04-27T05:17:22Z",
+    "wm-id": 787460, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1254627759659376640/1254636165279346690",
+    "wm-target": "https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/",
+    "content": {"html": "Got a 504 when I tried to set it up &amp; sent them a support
+    ticket about it.  Here''s hoping they fix it soon, and when they do you should
+    repost this :)\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "Got
+    a 504 when I tried to set it up & sent them a support ticket about it.  Here''s
+    hoping they fix it soon, and when they do you should repost this :)"}, "in-reply-to":
+    "https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/", "wm-property":
+    "in-reply-to", "wm-private": false}'
+  received: 2020-04-26 22:17:22.000000000 -07:00
+  url: https://twitter.com/wholemilk/status/1254636165279346690
+- author_name: genehack in da house
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg
+  author_url: https://twitter.com/genehack
+  class: like-of
+  entry_url: "/note/2020/117/patronize-me-on-liberapay/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "genehack in da house",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg",
+    "url": "https://twitter.com/genehack"}, "url": "https://twitter.com/brianwisti/status/1254627759659376640#favorited-by-753743",
+    "published": null, "wm-received": "2020-04-27T04:38:25Z", "wm-id": 787451, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1254627759659376640/753743",
+    "wm-target": "https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/",
+    "like-of": "https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-26 21:38:25.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1254627759659376640#favorited-by-753743
+- author_name: 'Jason B :possum_cursing:'
+  author_photo: https://webmention.io/avatar/hackers.town/ff47db8ec31a1a71a8b41494c73d4f92528d2cca065dcb88c3cf82716b787ed3.png
+  author_url: https://bsd.network/@kusuriya
+  class: like-of
+  entry_url: "/note/2020/117/patronize-me-on-liberapay/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jason B :possum_cursing:",
+    "photo": "https://webmention.io/avatar/hackers.town/ff47db8ec31a1a71a8b41494c73d4f92528d2cca065dcb88c3cf82716b787ed3.png",
+    "url": "https://bsd.network/@kusuriya"}, "url": "https://hackers.town/@randomgeek/104068641669767131#favorited-by-9594",
+    "published": null, "wm-received": "2020-04-27T04:52:28Z", "wm-id": 787453, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104068641669767131/9594",
+    "wm-target": "https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/",
+    "like-of": "https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-26 21:52:28.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104068641669767131#favorited-by-9594
+- author_name: "Rachel @ home \U0001F332 \U0001F3D4 \U0001F3DE \U0001F326"
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/815e24b554fc0a55401e58c3f5c19c3a75d240202a4624199da721ca44e07bcf.jpg
+  author_url: https://twitter.com/wholemilk
+  class: like-of
+  entry_url: "/note/2020/117/patronize-me-on-liberapay/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Rachel @ home \ud83c\udf32
+    \ud83c\udfd4 \ud83c\udfde \ud83c\udf26", "photo": "https://webmention.io/avatar/pbs.twimg.com/815e24b554fc0a55401e58c3f5c19c3a75d240202a4624199da721ca44e07bcf.jpg",
+    "url": "https://twitter.com/wholemilk"}, "url": "https://twitter.com/brianwisti/status/1254627759659376640#favorited-by-14989163",
+    "published": null, "wm-received": "2020-04-27T05:17:26Z", "wm-id": 787462, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1254627759659376640/14989163",
+    "wm-target": "https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/",
+    "like-of": "https://randomgeekery.org/note/2020/117/patronize-me-on-liberapay/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-26 22:17:26.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1254627759659376640#favorited-by-14989163

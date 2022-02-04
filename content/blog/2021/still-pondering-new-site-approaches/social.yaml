@@ -1,0 +1,47 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/106056624258848192
+  twitter: https://twitter.com/brianwisti/status/1381858549781909504
+entry_path: content/post/2021/04-still-pondering-new-site-approaches/index.md
+permalink: "/post/2021/04/still-pondering-new-site-approaches/"
+responses:
+- url: https://twitter.com/brianwisti/status/1381858549781909504#favorited-by-12583982
+  author_name: "Jeff Triplett \U0001F637"
+  author_url: https://twitter.com/webology
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/8302c1d3082e106b821583b688daf14b8c457e1f13a914b3022b27f7a56359ee.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/04/still-pondering-new-site-approaches/
+  h-type: entry
+  private: false
+  received: 2021-04-13 12:24:34.000000000 Z
+  published:
+  raw: "{\"type\":\"entry\",\"author\":{\"type\":\"card\",\"name\":\"Jeff Triplett
+    \U0001F637\",\"photo\":\"https://webmention.io/avatar/pbs.twimg.com/8302c1d3082e106b821583b688daf14b8c457e1f13a914b3022b27f7a56359ee.jpg\",\"url\":\"https://twitter.com/webology\"},\"url\":\"https://twitter.com/brianwisti/status/1381858549781909504#favorited-by-12583982\",\"published\":null,\"wm-received\":\"2021-04-13T12:24:34Z\",\"wm-id\":1117902,\"wm-source\":\"https://brid.gy/like/twitter/brianwisti/1381858549781909504/12583982\",\"wm-target\":\"https://randomgeekery.org/post/2021/04/still-pondering-new-site-approaches/\",\"like-of\":\"https://randomgeekery.org/post/2021/04/still-pondering-new-site-approaches/\",\"wm-property\":\"like-of\",\"wm-private\":false}"
+- url: https://hackers.town/@randomgeek/106056624258848192#favorited-by-31871
+  author_name: Soh Kam Yung
+  author_url: https://mstdn.io/@sohkamyung
+  author_photo: https://webmention.io/avatar/hackers.town/8334c8c76ed0689f7d005e5e5632c42bd3906754847cdd7649e9091d1d756e36.png
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/04/still-pondering-new-site-approaches/
+  h-type: entry
+  private: false
+  received: 2021-04-13 12:38:29.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Soh Kam Yung","photo":"https://webmention.io/avatar/hackers.town/8334c8c76ed0689f7d005e5e5632c42bd3906754847cdd7649e9091d1d756e36.png","url":"https://mstdn.io/@sohkamyung"},"url":"https://hackers.town/@randomgeek/106056624258848192#favorited-by-31871","published":null,"wm-received":"2021-04-13T12:38:29Z","wm-id":1117918,"wm-source":"https://brid.gy/like/mastodon/@randomgeek@hackers.town/106056624258848192/31871","wm-target":"https://randomgeekery.org/post/2021/04/still-pondering-new-site-approaches/","like-of":"https://randomgeekery.org/post/2021/04/still-pondering-new-site-approaches/","wm-property":"like-of","wm-private":false}'
+- url: https://hackers.town/@drwho/106061085819053792
+  author_name: The Doctor
+  author_url: https://hackers.town/@drwho
+  author_photo: https://webmention.io/avatar/hackers.town/c9a98dcd2c27de62a773bd4c6146b1e0547fa289cd8b2b402f2f9113ff2b7aa1.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/04/still-pondering-new-site-approaches/
+  h-type: entry
+  private: false
+  received: 2021-04-14 02:22:46.000000000 Z
+  published: 2021-04-14 01:28:56.000000000 -07:00
+  raw: '{"type":"entry","author":{"type":"card","name":"The Doctor","photo":"https://webmention.io/avatar/hackers.town/c9a98dcd2c27de62a773bd4c6146b1e0547fa289cd8b2b402f2f9113ff2b7aa1.jpg","url":"https://hackers.town/@drwho"},"url":"https://hackers.town/@drwho/106061085819053792","published":"2021-04-14T01:28:56","wm-received":"2021-04-14T02:22:46Z","wm-id":1118735,"wm-source":"https://brid.gy/comment/mastodon/@randomgeek@hackers.town/106056624258848192/106061085819053792","wm-target":"https://randomgeekery.org/post/2021/04/still-pondering-new-site-approaches/","content":{"html":"<p><span
+    class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\" class=\"u-url\">@<span>randomgeek</span></a></span>
+    Pelican?</p>","text":"@randomgeek Pelican?"},"in-reply-to":"https://randomgeekery.org/post/2021/04/still-pondering-new-site-approaches/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      Pelican?</p>
+    text: "@randomgeek Pelican?"

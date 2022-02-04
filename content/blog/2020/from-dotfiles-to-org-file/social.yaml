@@ -1,0 +1,372 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104075340897518607
+  twitter: https://twitter.com/brianwisti/status/1255056188087111681
+entry_path: content/post/2020/04/from-dotfiles-to-org-file/index.md
+permalink: "/post/2020/04/from-dotfiles-to-org-file/"
+responses:
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      Oh yes, that is much easier to read now. Thanks for updating it!
+      <a class="u-mention" href="https://twitter.com/zzamboni"></a>
+    text: Oh yes, that is much easier to read now. Thanks for updating it!
+  entry_url: "/2020/04/28/from-dotfiles-to-org-file/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-28 18:15:11.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1255304592516173824",
+    "published": "2020-04-29T01:15:11+00:00", "wm-received": "2020-04-29T01:29:51Z",
+    "wm-id": 788382, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1255056188087111681/1255304592516173824",
+    "wm-target": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "content": {"html": "Oh yes, that is much easier to read now. Thanks for updating
+    it!\n<a class=\"u-mention\" href=\"https://twitter.com/zzamboni\"></a>", "text":
+    "Oh yes, that is much easier to read now. Thanks for updating it!"}, "in-reply-to":
+    "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/", "wm-property":
+    "in-reply-to", "wm-private": false}'
+  received: 2020-04-28 18:29:51.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1255304592516173824
+- author_name: Diego Zamboni
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81e49c58c9125ddca8be5919970150e08414b92055b5635d100f055c881a77b8.jpg
+  author_url: https://twitter.com/zzamboni
+  class: in-reply-to
+  content:
+    html: |-
+      Glad you liked the booklet! And "the formatting is better, for one thing" made me look and realize that the formatting on that Emacs config post was broken for some reason, fixed now. I do like the Leanpub formatting better too :)
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: Glad you liked the booklet! And "the formatting is better, for one thing"
+      made me look and realize that the formatting on that Emacs config post was broken
+      for some reason, fixed now. I do like the Leanpub formatting better too :)
+  entry_url: "/2020/04/28/from-dotfiles-to-org-file/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-28 13:52:03.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Diego Zamboni", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81e49c58c9125ddca8be5919970150e08414b92055b5635d100f055c881a77b8.jpg",
+    "url": "https://twitter.com/zzamboni"}, "url": "https://twitter.com/zzamboni/status/1255238370718093324",
+    "published": "2020-04-28T20:52:03+00:00", "wm-received": "2020-04-28T21:30:09Z",
+    "wm-id": 788325, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1255056188087111681/1255238370718093324",
+    "wm-target": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "content": {"html": "Glad you liked the booklet! And \"the formatting is better,
+    for one thing\" made me look and realize that the formatting on that Emacs config
+    post was broken for some reason, fixed now. I do like the Leanpub formatting better
+    too :)\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\"
+    href=\"https://twitter.com/brianwisti\"></a>", "text": "Glad you liked the booklet!
+    And \"the formatting is better, for one thing\" made me look and realize that
+    the formatting on that Emacs config post was broken for some reason, fixed now.
+    I do like the Leanpub formatting better too :)"}, "in-reply-to": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-28 14:30:09.000000000 -07:00
+  url: https://twitter.com/zzamboni/status/1255238370718093324
+- author_name: Diego Zamboni
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81e49c58c9125ddca8be5919970150e08414b92055b5635d100f055c881a77b8.jpg
+  author_url: https://twitter.com/zzamboni
+  class: repost-of
+  content:
+    html:
+    text: |-
+      at 1:30am they're all good ideas
+
+      From Dotfiles to Org File
+
+      randomgeekery.org/2020/04/28/fro…
+  entry_url: "/2020/04/28/from-dotfiles-to-org-file/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-28 07:45:37.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Diego Zamboni", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81e49c58c9125ddca8be5919970150e08414b92055b5635d100f055c881a77b8.jpg",
+    "url": "https://twitter.com/zzamboni"}, "url": "https://twitter.com/zzamboni/status/1255146155295469570",
+    "published": "2020-04-28T14:45:37+00:00", "wm-received": "2020-04-28T15:37:42Z",
+    "wm-id": 788154, "wm-source": "https://brid-gy.appspot.com/repost/twitter/brianwisti/1255056188087111681/1255146155295469570",
+    "wm-target": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "content": {"text": "at 1:30am they''re all good ideas\n\nFrom Dotfiles to Org
+    File\n\nrandomgeekery.org/2020/04/28/fro\u2026"}, "repost-of": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-04-28 08:37:42.000000000 -07:00
+  url: https://twitter.com/zzamboni/status/1255146155295469570
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      Ooh that could be fun to see.
+      <a class="u-mention" href="https://twitter.com/pdcawley"></a>
+    text: Ooh that could be fun to see.
+  entry_url: "/2020/04/28/from-dotfiles-to-org-file/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-28 07:43:55.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1255145728936038407",
+    "published": "2020-04-28T14:43:55+00:00", "wm-received": "2020-04-28T15:37:37Z",
+    "wm-id": 788153, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1255056188087111681/1255145728936038407",
+    "wm-target": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "content": {"html": "Ooh that could be fun to see.\n<a class=\"u-mention\" href=\"https://twitter.com/pdcawley\"></a>",
+    "text": "Ooh that could be fun to see."}, "in-reply-to": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-28 08:37:37.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1255145728936038407
+- author_name: "Dave @ Home \U0001F637"
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg
+  author_url: https://twitter.com/JacobyDave
+  class: in-reply-to
+  content:
+    html: |-
+      I think I should get that book.
+
+      I've liked <a href="https://twitter.com/zzamboni">@zzamboni</a> for decades.
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: |-
+      I think I should get that book.
+
+      I've liked @zzamboni for decades.
+  entry_url: "/2020/04/28/from-dotfiles-to-org-file/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-28 07:39:56.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Dave @ Home \ud83d\ude37",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg",
+    "url": "https://twitter.com/JacobyDave"}, "url": "https://twitter.com/JacobyDave/status/1255144722697342976",
+    "published": "2020-04-28T14:39:56+00:00", "wm-received": "2020-04-28T15:37:29Z",
+    "wm-id": 788150, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1255056188087111681/1255144722697342976",
+    "wm-target": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "content": {"html": "I think I should get that book.\n\nI''ve liked <a href=\"https://twitter.com/zzamboni\">@zzamboni</a>
+    for decades.\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "I
+    think I should get that book.\n\nI''ve liked @zzamboni for decades."}, "in-reply-to":
+    "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/", "wm-property":
+    "in-reply-to", "wm-private": false}'
+  received: 2020-04-28 08:37:29.000000000 -07:00
+  url: https://twitter.com/JacobyDave/status/1255144722697342976
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      I wouldn't be surprised if they're already doing something like this!
+      <a class="u-mention" href="https://twitter.com/taskboy3000"></a>
+    text: I wouldn't be surprised if they're already doing something like this!
+  entry_url: "/2020/04/28/from-dotfiles-to-org-file/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-28 07:37:20.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1255144069312835587",
+    "published": "2020-04-28T14:37:20+00:00", "wm-received": "2020-04-28T15:37:30Z",
+    "wm-id": 788151, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1255056188087111681/1255144069312835587",
+    "wm-target": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "content": {"html": "I wouldn''t be surprised if they''re already doing something
+    like this!\n<a class=\"u-mention\" href=\"https://twitter.com/taskboy3000\"></a>",
+    "text": "I wouldn''t be surprised if they''re already doing something like this!"},
+    "in-reply-to": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-28 08:37:30.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1255144069312835587
+- author_name: Joe Johnston
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/5e6623bacb471fb0b4c165bc4faf8f490fc33567c5160314a090f9e613c58f1a.jpg
+  author_url: https://twitter.com/taskboy3000
+  class: in-reply-to
+  content:
+    html: |-
+      This madness is hilarious.  We have some hardcore org mode users at work who will love this.
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: This madness is hilarious.  We have some hardcore org mode users at work
+      who will love this.
+  entry_url: "/2020/04/28/from-dotfiles-to-org-file/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-28 03:46:06.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Joe Johnston", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/5e6623bacb471fb0b4c165bc4faf8f490fc33567c5160314a090f9e613c58f1a.jpg",
+    "url": "https://twitter.com/taskboy3000"}, "url": "https://twitter.com/taskboy3000/status/1255085878764089351",
+    "published": "2020-04-28T10:46:06+00:00", "wm-received": "2020-04-28T11:25:44Z",
+    "wm-id": 788077, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1255056188087111681/1255085878764089351",
+    "wm-target": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "content": {"html": "This madness is hilarious.  We have some hardcore org mode
+    users at work who will love this.\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "This
+    madness is hilarious.  We have some hardcore org mode users at work who will love
+    this."}, "in-reply-to": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-28 04:25:44.000000000 -07:00
+  url: https://twitter.com/taskboy3000/status/1255085878764089351
+- author_name: Piers Cawley
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/9b24763c62ea0b260b839843a738e36b0c5e446f9b6071bb7029905027f18db8.jpg
+  author_url: https://twitter.com/pdcawley
+  class: in-reply-to
+  content:
+    html: "Nice. \n\nActually… really nice. I think I might end up doing that.\n\nI
+      wonder how much of my /etc/* could stand to be done in literate style too?\n<a
+      class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\"
+      href=\"https://twitter.com/brianwisti\"></a>"
+    text: "Nice. \n\nActually… really nice. I think I might end up doing that.\n\nI
+      wonder how much of my /etc/* could stand to be done in literate style too?"
+  entry_url: "/2020/04/28/from-dotfiles-to-org-file/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-28 03:34:06.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Piers Cawley", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/9b24763c62ea0b260b839843a738e36b0c5e446f9b6071bb7029905027f18db8.jpg",
+    "url": "https://twitter.com/pdcawley"}, "url": "https://twitter.com/pdcawley/status/1255082858298912768",
+    "published": "2020-04-28T10:34:06+00:00", "wm-received": "2020-04-28T10:44:55Z",
+    "wm-id": 788066, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1255056188087111681/1255082858298912768",
+    "wm-target": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "content": {"html": "Nice. \n\nActually\u2026 really nice. I think I might end
+    up doing that.\n\nI wonder how much of my /etc/* could stand to be done in literate
+    style too?\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "Nice.
+    \n\nActually\u2026 really nice. I think I might end up doing that.\n\nI wonder
+    how much of my /etc/* could stand to be done in literate style too?"}, "in-reply-to":
+    "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/", "wm-property":
+    "in-reply-to", "wm-private": false}'
+  received: 2020-04-28 03:44:55.000000000 -07:00
+  url: https://twitter.com/pdcawley/status/1255082858298912768
+- author_name: 'spelk :mxlinux:'
+  author_photo: https://webmention.io/avatar/hackers.town/7389f0b1fe040c5d6f91503c1be849156557e137b92499e93b57a400ea34a844.png
+  author_url: https://linuxrocks.online/@spelk
+  class: repost-of
+  entry_url: "/2020/04/28/from-dotfiles-to-org-file/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "spelk :mxlinux:", "photo":
+    "https://webmention.io/avatar/hackers.town/7389f0b1fe040c5d6f91503c1be849156557e137b92499e93b57a400ea34a844.png",
+    "url": "https://linuxrocks.online/@spelk"}, "url": "https://hackers.town/@randomgeek/104075340897518607#reblogged-by-34103",
+    "published": null, "wm-received": "2020-04-28T09:07:38Z", "wm-id": 788046, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/104075340897518607/34103",
+    "wm-target": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "repost-of": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-04-28 02:07:38.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104075340897518607#reblogged-by-34103
+- author_name: Rohan Verma
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/0f837ee15114873d51d0e2d1f84d30dbc64a85f21e55ea1547f76dd30e8ccef4.jpg
+  author_url: https://twitter.com/rhnvrm
+  class: like-of
+  entry_url: "/2020/04/28/from-dotfiles-to-org-file/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Rohan Verma", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/0f837ee15114873d51d0e2d1f84d30dbc64a85f21e55ea1547f76dd30e8ccef4.jpg",
+    "url": "https://twitter.com/rhnvrm"}, "url": "https://twitter.com/brianwisti/status/1255056188087111681#favorited-by-198124406",
+    "published": null, "wm-received": "2020-04-28T09:47:13Z", "wm-id": 788048, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1255056188087111681/198124406",
+    "wm-target": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "like-of": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-28 02:47:13.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1255056188087111681#favorited-by-198124406
+- author_name: Joe Johnston
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/5e6623bacb471fb0b4c165bc4faf8f490fc33567c5160314a090f9e613c58f1a.jpg
+  author_url: https://twitter.com/taskboy3000
+  class: like-of
+  entry_url: "/2020/04/28/from-dotfiles-to-org-file/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Joe Johnston", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/5e6623bacb471fb0b4c165bc4faf8f490fc33567c5160314a090f9e613c58f1a.jpg",
+    "url": "https://twitter.com/taskboy3000"}, "url": "https://twitter.com/brianwisti/status/1255056188087111681#favorited-by-40714930",
+    "published": null, "wm-received": "2020-04-28T10:44:55Z", "wm-id": 788065, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1255056188087111681/40714930",
+    "wm-target": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "like-of": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-28 03:44:55.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1255056188087111681#favorited-by-40714930
+- author_name: Walt Mankowski
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e8553184101d9e3c54cebafd67bf786fca5cbca013b813161ebb8f1f130797dd.gif
+  author_url: https://twitter.com/walt_man
+  class: like-of
+  entry_url: "/2020/04/28/from-dotfiles-to-org-file/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Walt Mankowski", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/e8553184101d9e3c54cebafd67bf786fca5cbca013b813161ebb8f1f130797dd.gif",
+    "url": "https://twitter.com/walt_man"}, "url": "https://twitter.com/brianwisti/status/1255056188087111681#favorited-by-15456791",
+    "published": null, "wm-received": "2020-04-28T10:44:57Z", "wm-id": 788067, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1255056188087111681/15456791",
+    "wm-target": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "like-of": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-28 03:44:57.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1255056188087111681#favorited-by-15456791
+- author_name: ߋߡۺ৩֎
+  author_photo: https://webmention.io/avatar/hackers.town/7ec632d740c25fd3a884058a5109e15a4e361519904ea34301f529cc00bffe19.png
+  author_url: https://hackers.town/@y0x3y
+  class: like-of
+  entry_url: "/2020/04/28/from-dotfiles-to-org-file/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "\u07cb\u07e1\u06fa\u09e9\u058e",
+    "photo": "https://webmention.io/avatar/hackers.town/7ec632d740c25fd3a884058a5109e15a4e361519904ea34301f529cc00bffe19.png",
+    "url": "https://hackers.town/@y0x3y"}, "url": "https://hackers.town/@randomgeek/104075340897518607#favorited-by-47168",
+    "published": null, "wm-received": "2020-04-28T11:30:04Z", "wm-id": 788079, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104075340897518607/47168",
+    "wm-target": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "like-of": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-28 04:30:04.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104075340897518607#favorited-by-47168
+- author_name: Diego Zamboni
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81e49c58c9125ddca8be5919970150e08414b92055b5635d100f055c881a77b8.jpg
+  author_url: https://twitter.com/zzamboni
+  class: like-of
+  entry_url: "/2020/04/28/from-dotfiles-to-org-file/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Diego Zamboni", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81e49c58c9125ddca8be5919970150e08414b92055b5635d100f055c881a77b8.jpg",
+    "url": "https://twitter.com/zzamboni"}, "url": "https://twitter.com/brianwisti/status/1255056188087111681#favorited-by-2730941",
+    "published": null, "wm-received": "2020-04-28T15:37:35Z", "wm-id": 788152, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1255056188087111681/2730941",
+    "wm-target": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "like-of": "https://randomgeekery.org/2020/04/28/from-dotfiles-to-org-file/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-28 08:37:35.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1255056188087111681#favorited-by-2730941

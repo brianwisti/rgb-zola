@@ -1,0 +1,47 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104129350946938060
+  twitter: https://twitter.com/brianwisti/status/1258513226649620480
+entry_path: content/note/2020/05/made-an-emacs-binding-for-config-quick-edit/index.md
+permalink: "/note/2020/05/made-an-emacs-binding-for-config-quick-edit/"
+responses:
+- author_name: 'spelk :mxlinux:'
+  author_photo: https://webmention.io/avatar/hackers.town/7389f0b1fe040c5d6f91503c1be849156557e137b92499e93b57a400ea34a844.png
+  author_url: https://linuxrocks.online/@spelk
+  class: repost-of
+  entry_url: "/note/2020/05/made-an-emacs-binding-for-config-quick-edit/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "spelk :mxlinux:", "photo":
+    "https://webmention.io/avatar/hackers.town/7389f0b1fe040c5d6f91503c1be849156557e137b92499e93b57a400ea34a844.png",
+    "url": "https://linuxrocks.online/@spelk"}, "url": "https://hackers.town/@randomgeek/104129350946938060#reblogged-by-34103",
+    "published": null, "wm-received": "2020-05-07T22:34:35Z", "wm-id": 793914, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/104129350946938060/34103",
+    "wm-target": "https://randomgeekery.org/note/2020/05/made-an-emacs-binding-for-config-quick-edit/",
+    "repost-of": "https://randomgeekery.org/note/2020/05/made-an-emacs-binding-for-config-quick-edit/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-05-07 15:34:35.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104129350946938060#reblogged-by-34103
+- author_name: Diego Zamboni
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81e49c58c9125ddca8be5919970150e08414b92055b5635d100f055c881a77b8.jpg
+  author_url: https://twitter.com/zzamboni
+  class: like-of
+  entry_url: "/note/2020/05/made-an-emacs-binding-for-config-quick-edit/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Diego Zamboni", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81e49c58c9125ddca8be5919970150e08414b92055b5635d100f055c881a77b8.jpg",
+    "url": "https://twitter.com/zzamboni"}, "url": "https://twitter.com/brianwisti/status/1258513226649620480#favorited-by-2730941",
+    "published": null, "wm-received": "2020-05-07T22:56:52Z", "wm-id": 793967, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1258513226649620480/2730941",
+    "wm-target": "https://randomgeekery.org/note/2020/05/made-an-emacs-binding-for-config-quick-edit/",
+    "like-of": "https://randomgeekery.org/note/2020/05/made-an-emacs-binding-for-config-quick-edit/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-07 15:56:52.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1258513226649620480#favorited-by-2730941

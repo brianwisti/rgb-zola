@@ -1,0 +1,30 @@
++++
+title = "tmux and laundry art"
+date = "2019-07-15 17:25:36-07:00"
+draft = false
+aliases = [ "/note/2019/196/tmux-and-laundry-art/", "/note/2019/07/tmux-and-laundry-art/",]
+
+[taxonomies]
+category = [ "note",]
+tags = [ "tmux", "art", "mine", "work trip", "i have clean underwear now", "and a proper timestamp", "life is good",]
+
+[extra.cover_image]
+caption = "I drew this while doing laundry Sunday"
+path = "cover.jpg"
+
++++
+
+I made a [toot][] and then I realized it's the sort of thing that should be
+a note here for the next time I forget.
+
+[toot]: https://hackers.town/@randomgeek/102448275832514625
+
+> Sure I got work stuff done today but my biggest accomplishment was getting tmux
+> to show [ISO 8601][] time in the status bar.
+>
+>     set -g status-right "%Y-%m-%dT%H:%M%z"
+
+[ISO 8601]: https://en.wikipedia.org/wiki/ISO_8601
+
+Might as well share yesterday's laundry day doodle while I'm at it. Very
+bright. I blame California.

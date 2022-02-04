@@ -1,0 +1,19 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/105732993013826473
+  twitter: https://twitter.com/brianwisti/status/1361146116495060992
+  dev-to: https://dev.to/brianwisti/note-testing-a-thing-ad3
+entry_path: content/note/2021/02/testing-a-thing/index.adoc.txt
+permalink: "/note/2021/02/testing-a-thing/"
+responses:
+- url: https://twitter.com/brianwisti/status/1361146116495060992#favorited-by-1288625175613845515
+  author_name: Martha D'Almeida
+  author_url: https://twitter.com/MarthaDAlmeida
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/f511cca16827c8d3c2e7e572f3ace2bf5a1622d6e96b5b89ec2d27ce374dde49.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/02/testing-a-thing/
+  h-type: entry
+  private: false
+  received: 2021-02-15 06:03:28.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Martha D''Almeida","photo":"https://webmention.io/avatar/pbs.twimg.com/f511cca16827c8d3c2e7e572f3ace2bf5a1622d6e96b5b89ec2d27ce374dde49.jpg","url":"https://twitter.com/MarthaDAlmeida"},"url":"https://twitter.com/brianwisti/status/1361146116495060992#favorited-by-1288625175613845515","published":null,"wm-received":"2021-02-15T06:03:28Z","wm-id":1031775,"wm-source":"https://brid.gy/like/twitter/brianwisti/1361146116495060992/1288625175613845515","wm-target":"https://randomgeekery.org/note/2021/02/testing-a-thing/","like-of":"https://randomgeekery.org/note/2021/02/testing-a-thing/","wm-property":"like-of","wm-private":false}'

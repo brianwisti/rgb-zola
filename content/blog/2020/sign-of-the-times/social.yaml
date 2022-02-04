@@ -1,0 +1,47 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/103950190497107568
+  twitter: https://twitter.com/brianwisti/status/1247046975087927296
+entry_path: content/note/2020/04/sign-of-the-times/index.md
+permalink: "/note/2020/04/sign-of-the-times/"
+responses:
+- author_name: Sarah Peony(She/They)
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/115d5b49db52d08cc535f1d9cca329186d50faf7827bd123690506cda80f1e08.jpg
+  author_url: https://twitter.com/sarah__p
+  class: like-of
+  entry_url: "/note/2020/96/sign-of-the-times/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Sarah Peony(She/They)",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/115d5b49db52d08cc535f1d9cca329186d50faf7827bd123690506cda80f1e08.jpg",
+    "url": "https://twitter.com/sarah__p"}, "url": "https://twitter.com/brianwisti/status/1247046975087927296#favorited-by-7578712",
+    "published": null, "wm-received": "2020-04-06T06:54:54Z", "wm-id": 779103, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1247046975087927296/7578712",
+    "wm-target": "https://randomgeekery.org/note/2020/96/sign-of-the-times/", "like-of":
+    "https://randomgeekery.org/note/2020/96/sign-of-the-times/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-05 23:54:54.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1247046975087927296#favorited-by-7578712
+- author_name: feonixrift
+  author_photo: https://webmention.io/avatar/hackers.town/a2c0e1fc1a6c8f220d1b0804a2bf5f9092ba3f0f8ebe165772b3e235af3d8694.jpg
+  author_url: https://hackers.town/@feonixrift
+  class: like-of
+  entry_url: "/note/2020/96/sign-of-the-times/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "feonixrift", "photo":
+    "https://webmention.io/avatar/hackers.town/a2c0e1fc1a6c8f220d1b0804a2bf5f9092ba3f0f8ebe165772b3e235af3d8694.jpg",
+    "url": "https://hackers.town/@feonixrift"}, "url": "https://hackers.town/@randomgeek/103950190497107568#favorited-by-44584",
+    "published": null, "wm-received": "2020-04-06T07:59:26Z", "wm-id": 779108, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103950190497107568/44584",
+    "wm-target": "https://randomgeekery.org/note/2020/96/sign-of-the-times/", "like-of":
+    "https://randomgeekery.org/note/2020/96/sign-of-the-times/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-06 00:59:26.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103950190497107568#favorited-by-44584

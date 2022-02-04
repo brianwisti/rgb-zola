@@ -1,0 +1,565 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/105646216242335369
+  twitter: https://twitter.com/brianwisti/status/1355592419006414851
+entry_path: content/post/2021/01-looks-like-sublime-text-is-shifting-to-a-subscription-plan/index.md
+permalink: "/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/"
+responses:
+- url: https://twitter.com/webology/status/1355594060485042177
+  author_name: "Jeff Triplett \U0001F637"
+  author_url: https://twitter.com/webology
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/8302c1d3082e106b821583b688daf14b8c457e1f13a914b3022b27f7a56359ee.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 20:38:49.000000000 Z
+  published: 2021-01-30 19:09:44.000000000 +00:00
+  raw: "{\"type\":\"entry\",\"author\":{\"type\":\"card\",\"name\":\"Jeff Triplett
+    \U0001F637\",\"photo\":\"https://webmention.io/avatar/pbs.twimg.com/8302c1d3082e106b821583b688daf14b8c457e1f13a914b3022b27f7a56359ee.jpg\",\"url\":\"https://twitter.com/webology\"},\"url\":\"https://twitter.com/webology/status/1355594060485042177\",\"published\":\"2021-01-30T19:09:44+00:00\",\"wm-received\":\"2021-01-30T20:38:49Z\",\"wm-id\":1010208,\"wm-source\":\"https://brid-gy.appspot.com/comment/twitter/brianwisti/1355592419006414851/1355594060485042177\",\"wm-target\":\"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/\",\"content\":{\"html\":\"As
+    someone who's used them for years, and I will gladly pay them a subscription for
+    updates. (says with lots of guilt and that dreaded UNREGISTERED text in my title
+    bar)\\n<a class=\\\"u-mention\\\" href=\\\"https://randomgeekery.org/\\\"></a>\\n<a
+    class=\\\"u-mention\\\" href=\\\"https://twitter.com/brianwisti\\\"></a>\",\"text\":\"As
+    someone who's used them for years, and I will gladly pay them a subscription for
+    updates. (says with lots of guilt and that dreaded UNREGISTERED text in my title
+    bar)\"},\"in-reply-to\":\"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/\",\"wm-property\":\"in-reply-to\",\"wm-private\":false}"
+  content:
+    html: |-
+      As someone who's used them for years, and I will gladly pay them a subscription for updates. (says with lots of guilt and that dreaded UNREGISTERED text in my title bar)
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: As someone who's used them for years, and I will gladly pay them a subscription
+      for updates. (says with lots of guilt and that dreaded UNREGISTERED text in
+      my title bar)
+- url: https://twitter.com/joe_no_privacy/status/1355594331696979969
+  author_name: HAIL THE ORB
+  author_url: https://twitter.com/joe_no_privacy
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/fa36c8038792889bc0b7811d7aed64125523c1216baf266e744f01c364bcb1ba.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 20:38:49.000000000 Z
+  published: 2021-01-30 19:10:49.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"HAIL THE ORB","photo":"https://webmention.io/avatar/pbs.twimg.com/fa36c8038792889bc0b7811d7aed64125523c1216baf266e744f01c364bcb1ba.jpg","url":"https://twitter.com/joe_no_privacy"},"url":"https://twitter.com/joe_no_privacy/status/1355594331696979969","published":"2021-01-30T19:10:49+00:00","wm-received":"2021-01-30T20:38:49Z","wm-id":1010209,"wm-source":"https://brid-gy.appspot.com/comment/twitter/brianwisti/1355592419006414851/1355594331696979969","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"I
+    feel like there needs to be clearer terminology to distinguish between \"subscriptions\"
+    that are basically just annual upgrade licenses and \"subscriptions\" that cut
+    off your access if you stop paying\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>","text":"I feel
+    like there needs to be clearer terminology to distinguish between \"subscriptions\"
+    that are basically just annual upgrade licenses and \"subscriptions\" that cut
+    off your access if you stop paying"},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: |-
+      I feel like there needs to be clearer terminology to distinguish between "subscriptions" that are basically just annual upgrade licenses and "subscriptions" that cut off your access if you stop paying
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: I feel like there needs to be clearer terminology to distinguish between
+      "subscriptions" that are basically just annual upgrade licenses and "subscriptions"
+      that cut off your access if you stop paying
+- url: https://twitter.com/rabcyr_alt/status/1355593660704944128
+  author_name: ashley (200)
+  author_url: https://twitter.com/rabcyr_alt
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/368ce1ba76d1edab0ea6d48818fa29764e52a186877695c2b25c0e0bbeaa9e9b.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 20:38:54.000000000 Z
+  published: 2021-01-30 19:08:09.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"ashley (200)","photo":"https://webmention.io/avatar/pbs.twimg.com/368ce1ba76d1edab0ea6d48818fa29764e52a186877695c2b25c0e0bbeaa9e9b.jpg","url":"https://twitter.com/rabcyr_alt"},"url":"https://twitter.com/rabcyr_alt/status/1355593660704944128","published":"2021-01-30T19:08:09+00:00","wm-received":"2021-01-30T20:38:54Z","wm-id":1010210,"wm-source":"https://brid-gy.appspot.com/comment/twitter/brianwisti/1355592419006414851/1355593660704944128","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"20
+    years from now we’re gonna have to subscribe to our stoves and washing machines
+    and whatnot, aren’t we\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>","text":"20 years
+    from now we’re gonna have to subscribe to our stoves and washing machines and
+    whatnot, aren’t we"},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: |-
+      20 years from now we’re gonna have to subscribe to our stoves and washing machines and whatnot, aren’t we
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: 20 years from now we’re gonna have to subscribe to our stoves and washing
+      machines and whatnot, aren’t we
+- url: https://twitter.com/holophrastic_an/status/1355593372552073216
+  author_name: Andrew Nelson
+  author_url: https://twitter.com/holophrastic_an
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/63e8a4a7ac1ead047399d0edf34da6e28316dc339b5d550328b24d8b59c90f93.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 20:38:54.000000000 Z
+  published: 2021-01-30 19:07:00.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Andrew Nelson","photo":"https://webmention.io/avatar/pbs.twimg.com/63e8a4a7ac1ead047399d0edf34da6e28316dc339b5d550328b24d8b59c90f93.jpg","url":"https://twitter.com/holophrastic_an"},"url":"https://twitter.com/holophrastic_an/status/1355593372552073216","published":"2021-01-30T19:07:00+00:00","wm-received":"2021-01-30T20:38:54Z","wm-id":1010211,"wm-source":"https://brid-gy.appspot.com/comment/twitter/brianwisti/1355592419006414851/1355593372552073216","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"Headline
+    scared me a bit, but that’s not a bad change!\n\nI haven’t used ST in years but
+    I always liked it, and I’m glad to see it still kicking.\n<a class=\"u-mention\"
+    href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>","text":"Headline
+    scared me a bit, but that’s not a bad change!\n\nI haven’t used ST in years but
+    I always liked it, and I’m glad to see it still kicking."},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: |-
+      Headline scared me a bit, but that’s not a bad change!
+
+      I haven’t used ST in years but I always liked it, and I’m glad to see it still kicking.
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: |-
+      Headline scared me a bit, but that’s not a bad change!
+
+      I haven’t used ST in years but I always liked it, and I’m glad to see it still kicking.
+- url: https://twitter.com/brianwisti/status/1355595097794994178
+  author_name: brIan wisti
+  author_url: https://twitter.com/brianwisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/9ac97bc7a07a8f18cd153286ee09b17a34057de4f17645f5a9ebda72b93ecfd8.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 20:38:58.000000000 Z
+  published: 2021-01-30 19:13:51.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"brIan wisti","photo":"https://webmention.io/avatar/pbs.twimg.com/9ac97bc7a07a8f18cd153286ee09b17a34057de4f17645f5a9ebda72b93ecfd8.jpg","url":"https://twitter.com/brianwisti"},"url":"https://twitter.com/brianwisti/status/1355595097794994178","published":"2021-01-30T19:13:51+00:00","wm-received":"2021-01-30T20:38:58Z","wm-id":1010212,"wm-source":"https://brid-gy.appspot.com/comment/twitter/brianwisti/1355592419006414851/1355595097794994178","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"Tentatively
+    thinking that it''s worth the price of a v3 license to get at the dev builds.
+    They''ve got actual staff now, and the build release cadence looks pretty good.\n<a
+    class=\"u-mention\" href=\"https://twitter.com/webology\"></a>","text":"Tentatively
+    thinking that it''s worth the price of a v3 license to get at the dev builds.
+    They''ve got actual staff now, and the build release cadence looks pretty good."},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: |-
+      Tentatively thinking that it's worth the price of a v3 license to get at the dev builds. They've got actual staff now, and the build release cadence looks pretty good.
+      <a class="u-mention" href="https://twitter.com/webology"></a>
+    text: Tentatively thinking that it's worth the price of a v3 license to get at
+      the dev builds. They've got actual staff now, and the build release cadence
+      looks pretty good.
+- url: https://twitter.com/brianwisti/status/1355594041262399491
+  author_name: brIan wisti
+  author_url: https://twitter.com/brianwisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/9ac97bc7a07a8f18cd153286ee09b17a34057de4f17645f5a9ebda72b93ecfd8.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 20:38:58.000000000 Z
+  published: 2021-01-30 19:09:39.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"brIan wisti","photo":"https://webmention.io/avatar/pbs.twimg.com/9ac97bc7a07a8f18cd153286ee09b17a34057de4f17645f5a9ebda72b93ecfd8.jpg","url":"https://twitter.com/brianwisti"},"url":"https://twitter.com/brianwisti/status/1355594041262399491","published":"2021-01-30T19:09:39+00:00","wm-received":"2021-01-30T20:38:58Z","wm-id":1010213,"wm-source":"https://brid-gy.appspot.com/comment/twitter/brianwisti/1355592419006414851/1355594041262399491","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"I''ve
+    never been a heavy ST user. That version cycle was just too slow for me. But I
+    loved the capabilities, and the price was good. Bought a v3 license a while back
+    for moral support.\n<a class=\"u-mention\" href=\"https://twitter.com/holophrastic_an\"></a>","text":"I''ve
+    never been a heavy ST user. That version cycle was just too slow for me. But I
+    loved the capabilities, and the price was good. Bought a v3 license a while back
+    for moral support."},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: |-
+      I've never been a heavy ST user. That version cycle was just too slow for me. But I loved the capabilities, and the price was good. Bought a v3 license a while back for moral support.
+      <a class="u-mention" href="https://twitter.com/holophrastic_an"></a>
+    text: I've never been a heavy ST user. That version cycle was just too slow for
+      me. But I loved the capabilities, and the price was good. Bought a v3 license
+      a while back for moral support.
+- url: https://twitter.com/brianwisti/status/1355592419006414851#favorited-by-84984982
+  author_name: Mark Rushing
+  author_url: https://twitter.com/adaptiveoptics
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/cdad9ddf6865931c8b48aa3816f89d12812b124fdef5092bc641ab7d037b57b4.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 20:38:59.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Mark Rushing","photo":"https://webmention.io/avatar/pbs.twimg.com/cdad9ddf6865931c8b48aa3816f89d12812b124fdef5092bc641ab7d037b57b4.jpg","url":"https://twitter.com/adaptiveoptics"},"url":"https://twitter.com/brianwisti/status/1355592419006414851#favorited-by-84984982","published":null,"wm-received":"2021-01-30T20:38:59Z","wm-id":1010214,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1355592419006414851/84984982","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","like-of":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1355592419006414851#favorited-by-259792560
+  author_name: Andrew Nelson
+  author_url: https://twitter.com/holophrastic_an
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/63e8a4a7ac1ead047399d0edf34da6e28316dc339b5d550328b24d8b59c90f93.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 20:39:00.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Andrew Nelson","photo":"https://webmention.io/avatar/pbs.twimg.com/63e8a4a7ac1ead047399d0edf34da6e28316dc339b5d550328b24d8b59c90f93.jpg","url":"https://twitter.com/holophrastic_an"},"url":"https://twitter.com/brianwisti/status/1355592419006414851#favorited-by-259792560","published":null,"wm-received":"2021-01-30T20:39:00Z","wm-id":1010215,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1355592419006414851/259792560","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","like-of":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/joe_no_privacy/status/1355596158651916292
+  author_name: HAIL THE ORB
+  author_url: https://twitter.com/joe_no_privacy
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/fa36c8038792889bc0b7811d7aed64125523c1216baf266e744f01c364bcb1ba.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 20:39:02.000000000 Z
+  published: 2021-01-30 19:18:04.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"HAIL THE ORB","photo":"https://webmention.io/avatar/pbs.twimg.com/fa36c8038792889bc0b7811d7aed64125523c1216baf266e744f01c364bcb1ba.jpg","url":"https://twitter.com/joe_no_privacy"},"url":"https://twitter.com/joe_no_privacy/status/1355596158651916292","published":"2021-01-30T19:18:04+00:00","wm-received":"2021-01-30T20:39:02Z","wm-id":1010216,"wm-source":"https://brid-gy.appspot.com/comment/twitter/brianwisti/1355592419006414851/1355596158651916292","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"yep.
+    I ended up realizing basically the same thing right after I tweeted. I feel like
+    companies should be required to use that terminology too\n<a class=\"u-mention\"
+    href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>","text":"yep.
+    I ended up realizing basically the same thing right after I tweeted. I feel like
+    companies should be required to use that terminology too"},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: |-
+      yep. I ended up realizing basically the same thing right after I tweeted. I feel like companies should be required to use that terminology too
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: yep. I ended up realizing basically the same thing right after I tweeted.
+      I feel like companies should be required to use that terminology too
+- url: https://twitter.com/brianwisti/status/1355592419006414851#favorited-by-838196180366442496
+  author_name: HAIL THE ORB
+  author_url: https://twitter.com/joe_no_privacy
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/fa36c8038792889bc0b7811d7aed64125523c1216baf266e744f01c364bcb1ba.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 20:39:02.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"HAIL THE ORB","photo":"https://webmention.io/avatar/pbs.twimg.com/fa36c8038792889bc0b7811d7aed64125523c1216baf266e744f01c364bcb1ba.jpg","url":"https://twitter.com/joe_no_privacy"},"url":"https://twitter.com/brianwisti/status/1355592419006414851#favorited-by-838196180366442496","published":null,"wm-received":"2021-01-30T20:39:02Z","wm-id":1010217,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1355592419006414851/838196180366442496","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","like-of":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1355592419006414851#favorited-by-14106454
+  author_name: Steven R. Baker
+  author_url: https://twitter.com/srbaker
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/fc38c1ca3f89c6a87c8286cc5be0f4f0cd807d041f0c87272ea9844aa2d68aa9.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 20:39:03.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Steven R. Baker","photo":"https://webmention.io/avatar/pbs.twimg.com/fc38c1ca3f89c6a87c8286cc5be0f4f0cd807d041f0c87272ea9844aa2d68aa9.jpg","url":"https://twitter.com/srbaker"},"url":"https://twitter.com/brianwisti/status/1355592419006414851#favorited-by-14106454","published":null,"wm-received":"2021-01-30T20:39:03Z","wm-id":1010218,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1355592419006414851/14106454","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","like-of":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/JackDLinke/status/1355617805752786945
+  author_name: "/home/jacklinke/ \U0001FA85"
+  author_url: https://twitter.com/JackDLinke
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/49dd4af13c3da0a0b9079732af7f93e4f3b14d6da07a40012c21377b774c0e58.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 21:27:58.000000000 Z
+  published: 2021-01-30 20:44:05.000000000 +00:00
+  raw: "{\"type\":\"entry\",\"author\":{\"type\":\"card\",\"name\":\"/home/jacklinke/
+    \U0001FA85\",\"photo\":\"https://webmention.io/avatar/pbs.twimg.com/49dd4af13c3da0a0b9079732af7f93e4f3b14d6da07a40012c21377b774c0e58.jpg\",\"url\":\"https://twitter.com/JackDLinke\"},\"url\":\"https://twitter.com/JackDLinke/status/1355617805752786945\",\"published\":\"2021-01-30T20:44:05+00:00\",\"wm-received\":\"2021-01-30T21:27:58Z\",\"wm-id\":1010228,\"wm-source\":\"https://brid-gy.appspot.com/comment/twitter/brianwisti/1355592419006414851/1355617805752786945\",\"wm-target\":\"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/\",\"content\":{\"html\":\"Right.
+    I got the registration popup moments before becoming distracted by Twitter and
+    seeing this tweet \U0001F606\\n\\nSL3 really is so good. One of the very first
+    things I install on any new computer.\\n\\nWould pay for updates.\\n<a class=\\\"u-mention\\\"
+    href=\\\"https://randomgeekery.org/\\\"></a>\\n<a class=\\\"u-mention\\\" href=\\\"https://twitter.com/brianwisti\\\"></a>\\n<a
+    class=\\\"u-mention\\\" href=\\\"https://twitter.com/webology\\\"></a>\",\"text\":\"Right.
+    I got the registration popup moments before becoming distracted by Twitter and
+    seeing this tweet \U0001F606\\n\\nSL3 really is so good. One of the very first
+    things I install on any new computer.\\n\\nWould pay for updates.\"},\"in-reply-to\":\"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/\",\"wm-property\":\"in-reply-to\",\"wm-private\":false}"
+  content:
+    html: "Right. I got the registration popup moments before becoming distracted
+      by Twitter and seeing this tweet \U0001F606\n\nSL3 really is so good. One of
+      the very first things I install on any new computer.\n\nWould pay for updates.\n<a
+      class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\"
+      href=\"https://twitter.com/brianwisti\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/webology\"></a>"
+    text: "Right. I got the registration popup moments before becoming distracted
+      by Twitter and seeing this tweet \U0001F606\n\nSL3 really is so good. One of
+      the very first things I install on any new computer.\n\nWould pay for updates."
+- url: https://pleroma.kemonine.info/objects/1264c6bf-ddcd-4c3a-b870-9eb4bbc6c960
+  author_name: KemoNine
+  author_url: https://pleroma.kemonine.info/users/kemonine
+  author_photo: https://webmention.io/avatar/hackers.town/85887d852718f171f1ea65079b0d730c3d05740cc348f11de294f95ecb4fa026.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 22:19:34.000000000 Z
+  published: 2021-01-30 19:38:36.000000000 -08:00
+  raw: '{"type":"entry","author":{"type":"card","name":"KemoNine","photo":"https://webmention.io/avatar/hackers.town/85887d852718f171f1ea65079b0d730c3d05740cc348f11de294f95ecb4fa026.jpg","url":"https://pleroma.kemonine.info/users/kemonine"},"url":"https://pleroma.kemonine.info/objects/1264c6bf-ddcd-4c3a-b870-9eb4bbc6c960","published":"2021-01-30T19:38:36","wm-received":"2021-01-30T22:19:34Z","wm-id":1010241,"wm-source":"https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/105646216242335369/105646359720210793","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"<span
+    class=\"h-card\"><a class=\"u-url\" href=\"https://hackers.town/@randomgeek\">@<span>randomgeek</span></a></span>
+    possibly ; we''ll see<br /><br />as long as the next CEO isn''t ballmer esque
+    we should be ok...","text":"@randomgeek possibly ; we''ll see\n\nas long as the
+    next CEO isn''t ballmer esque we should be ok..."},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <span class="h-card"><a class="u-url" href="https://hackers.town/@randomgeek">@<span>randomgeek</span></a></span>
+      possibly ; we'll see<br /><br />as long as the next CEO isn't ballmer esque
+      we should be ok...
+    text: |-
+      @randomgeek possibly ; we'll see
+
+      as long as the next CEO isn't ballmer esque we should be ok...
+- url: https://hackers.town/@randomgeek/105646352471428348
+  author_name: Random Geek
+  author_url: https://hackers.town/@randomgeek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 22:19:34.000000000 Z
+  published: 2021-01-30 19:36:47.000000000 -08:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Random Geek","photo":"https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png","url":"https://hackers.town/@randomgeek"},"url":"https://hackers.town/@randomgeek/105646352471428348","published":"2021-01-30T19:36:47","wm-received":"2021-01-30T22:19:34Z","wm-id":1010242,"wm-source":"https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/105646216242335369/105646352471428348","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"<p><span
+    class=\"h-card\"><a href=\"https://pleroma.kemonine.info/users/kemonine\" class=\"u-url\">@<span>kemonine</span></a></span>
+    most likely, but given Microsoft''s long term reputation, such a fork would probably
+    whither and any patent-safe bits mined for other projects.</p>","text":"@kemonine
+    most likely, but given Microsoft''s long term reputation, such a fork would probably
+    whither and any patent-safe bits mined for other projects."},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <p><span class="h-card"><a href="https://pleroma.kemonine.info/users/kemonine"
+      class="u-url">@<span>kemonine</span></a></span> most likely, but given Microsoft's
+      long term reputation, such a fork would probably whither and any patent-safe
+      bits mined for other projects.</p>
+    text: "@kemonine most likely, but given Microsoft's long term reputation, such
+      a fork would probably whither and any patent-safe bits mined for other projects."
+- url: https://pleroma.kemonine.info/objects/7eeece34-66e3-46ce-8860-688cbf0818b0
+  author_name: KemoNine
+  author_url: https://pleroma.kemonine.info/users/kemonine
+  author_photo: https://webmention.io/avatar/hackers.town/85887d852718f171f1ea65079b0d730c3d05740cc348f11de294f95ecb4fa026.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 22:19:37.000000000 Z
+  published: 2021-01-30 19:34:35.000000000 -08:00
+  raw: '{"type":"entry","author":{"type":"card","name":"KemoNine","photo":"https://webmention.io/avatar/hackers.town/85887d852718f171f1ea65079b0d730c3d05740cc348f11de294f95ecb4fa026.jpg","url":"https://pleroma.kemonine.info/users/kemonine"},"url":"https://pleroma.kemonine.info/objects/7eeece34-66e3-46ce-8860-688cbf0818b0","published":"2021-01-30T19:34:35","wm-received":"2021-01-30T22:19:37Z","wm-id":1010243,"wm-source":"https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/105646216242335369/105646343903690498","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"<span
+    class=\"h-card\"><a class=\"u-url\" href=\"https://hackers.town/@randomgeek\">@<span>randomgeek</span></a></span>
+    that''s fair<br /><br />they''ve done a good job with vscode and speeding it up
+    over time ; early on it was pretty rough but these days i have few complaints
+    beyond ''why electron???''","text":"@randomgeek that''s fair\n\nthey''ve done
+    a good job with vscode and speeding it up over time ; early on it was pretty rough
+    but these days i have few complaints beyond ''why electron???''"},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <span class="h-card"><a class="u-url" href="https://hackers.town/@randomgeek">@<span>randomgeek</span></a></span>
+      that's fair<br /><br />they've done a good job with vscode and speeding it up
+      over time ; early on it was pretty rough but these days i have few complaints
+      beyond 'why electron???'
+    text: |-
+      @randomgeek that's fair
+
+      they've done a good job with vscode and speeding it up over time ; early on it was pretty rough but these days i have few complaints beyond 'why electron???'
+- url: https://hackers.town/@randomgeek/105646373485991693
+  author_name: Random Geek
+  author_url: https://hackers.town/@randomgeek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 22:19:42.000000000 Z
+  published: 2021-01-30 19:42:08.000000000 -08:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Random Geek","photo":"https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png","url":"https://hackers.town/@randomgeek"},"url":"https://hackers.town/@randomgeek/105646373485991693","published":"2021-01-30T19:42:08","wm-received":"2021-01-30T22:19:42Z","wm-id":1010244,"wm-source":"https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/105646216242335369/105646373485991693","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"<p><span
+    class=\"h-card\"><a href=\"https://pleroma.kemonine.info/users/kemonine\" class=\"u-url\">@<span>kemonine</span></a></span>
+    and yeah I''ve got few complaints when using VS Code (as long as I remember not
+    to open multi-GB CVS files in in) but I *am* still a little sore about Atom being
+    essentially abandoned the day MS Github was mentioned.</p>","text":"@kemonine
+    and yeah I''ve got few complaints when using VS Code (as long as I remember not
+    to open multi-GB CVS files in in) but I *am* still a little sore about Atom being
+    essentially abandoned the day MS Github was mentioned."},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <p><span class="h-card"><a href="https://pleroma.kemonine.info/users/kemonine"
+      class="u-url">@<span>kemonine</span></a></span> and yeah I've got few complaints
+      when using VS Code (as long as I remember not to open multi-GB CVS files in
+      in) but I *am* still a little sore about Atom being essentially abandoned the
+      day MS Github was mentioned.</p>
+    text: "@kemonine and yeah I've got few complaints when using VS Code (as long
+      as I remember not to open multi-GB CVS files in in) but I *am* still a little
+      sore about Atom being essentially abandoned the day MS Github was mentioned."
+- url: https://hackers.town/@randomgeek/105646343943243180
+  author_name: Random Geek
+  author_url: https://hackers.town/@randomgeek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 22:19:42.000000000 Z
+  published: 2021-01-30 19:34:37.000000000 -08:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Random Geek","photo":"https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png","url":"https://hackers.town/@randomgeek"},"url":"https://hackers.town/@randomgeek/105646343943243180","published":"2021-01-30T19:34:37","wm-received":"2021-01-30T22:19:42Z","wm-id":1010245,"wm-source":"https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/105646216242335369/105646343943243180","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"<p><span
+    class=\"h-card\"><a href=\"https://pleroma.kemonine.info/users/kemonine\" class=\"u-url\">@<span>kemonine</span></a></span>
+    Besides, VS Code needs to dominate to survive. The core might be open source,
+    but it only gets its development pace while it''s a darling at corporate.</p><p>Sublime
+    doesn''t need to dominate, it just needs to be healthy.</p>","text":"@kemonine
+    Besides, VS Code needs to dominate to survive. The core might be open source,
+    but it only gets its development pace while it''s a darling at corporate.Sublime
+    doesn''t need to dominate, it just needs to be healthy."},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <p><span class="h-card"><a href="https://pleroma.kemonine.info/users/kemonine"
+      class="u-url">@<span>kemonine</span></a></span> Besides, VS Code needs to dominate
+      to survive. The core might be open source, but it only gets its development
+      pace while it's a darling at corporate.</p><p>Sublime doesn't need to dominate,
+      it just needs to be healthy.</p>
+    text: "@kemonine Besides, VS Code needs to dominate to survive. The core might
+      be open source, but it only gets its development pace while it's a darling at
+      corporate.Sublime doesn't need to dominate, it just needs to be healthy."
+- url: https://pleroma.kemonine.info/objects/ede0a69c-cd7d-453e-b2b2-2e8a6a419552
+  author_name: KemoNine
+  author_url: https://pleroma.kemonine.info/users/kemonine
+  author_photo: https://webmention.io/avatar/hackers.town/85887d852718f171f1ea65079b0d730c3d05740cc348f11de294f95ecb4fa026.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 22:19:45.000000000 Z
+  published: 2021-01-30 19:09:05.000000000 -08:00
+  raw: '{"type":"entry","author":{"type":"card","name":"KemoNine","photo":"https://webmention.io/avatar/hackers.town/85887d852718f171f1ea65079b0d730c3d05740cc348f11de294f95ecb4fa026.jpg","url":"https://pleroma.kemonine.info/users/kemonine"},"url":"https://pleroma.kemonine.info/objects/ede0a69c-cd7d-453e-b2b2-2e8a6a419552","published":"2021-01-30T19:09:05","wm-received":"2021-01-30T22:19:45Z","wm-id":1010246,"wm-source":"https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/105646216242335369/105646243584485288","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"<span
+    class=\"h-card\"><a class=\"u-url\" href=\"https://hackers.town/@randomgeek\">@<span>randomgeek</span></a></span>
+    They are still deving it?<br /><br />VSCode seems to have done a great job of
+    stomping all over that one","text":"@randomgeek They are still deving it?\n\nVSCode
+    seems to have done a great job of stomping all over that one"},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <span class="h-card"><a class="u-url" href="https://hackers.town/@randomgeek">@<span>randomgeek</span></a></span>
+      They are still deving it?<br /><br />VSCode seems to have done a great job of
+      stomping all over that one
+    text: |-
+      @randomgeek They are still deving it?
+
+      VSCode seems to have done a great job of stomping all over that one
+- url: https://hackers.town/@randomgeek/105646336110154695
+  author_name: Random Geek
+  author_url: https://hackers.town/@randomgeek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 22:19:45.000000000 Z
+  published: 2021-01-30 19:32:38.000000000 -08:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Random Geek","photo":"https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png","url":"https://hackers.town/@randomgeek"},"url":"https://hackers.town/@randomgeek/105646336110154695","published":"2021-01-30T19:32:38","wm-received":"2021-01-30T22:19:45Z","wm-id":1010247,"wm-source":"https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/105646216242335369/105646336110154695","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"<p><span
+    class=\"h-card\"><a href=\"https://pleroma.kemonine.info/users/kemonine\" class=\"u-url\">@<span>kemonine</span></a></span>
+    I was thinking the same thing until I loaded the ST dev build and was reminded
+    how much Electron slows everything down for VS Code.</p><p>Plus I''d rather write
+    my extensions in Python than TypeScript, but that''s just preference.</p>","text":"@kemonine
+    I was thinking the same thing until I loaded the ST dev build and was reminded
+    how much Electron slows everything down for VS Code.Plus I''d rather write my
+    extensions in Python than TypeScript, but that''s just preference."},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <p><span class="h-card"><a href="https://pleroma.kemonine.info/users/kemonine"
+      class="u-url">@<span>kemonine</span></a></span> I was thinking the same thing
+      until I loaded the ST dev build and was reminded how much Electron slows everything
+      down for VS Code.</p><p>Plus I'd rather write my extensions in Python than TypeScript,
+      but that's just preference.</p>
+    text: "@kemonine I was thinking the same thing until I loaded the ST dev build
+      and was reminded how much Electron slows everything down for VS Code.Plus I'd
+      rather write my extensions in Python than TypeScript, but that's just preference."
+- url: https://hackers.town/@randomgeek/105646377660000958
+  author_name: Random Geek
+  author_url: https://hackers.town/@randomgeek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 22:20:00.000000000 Z
+  published: 2021-01-30 19:43:12.000000000 -08:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Random Geek","photo":"https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png","url":"https://hackers.town/@randomgeek"},"url":"https://hackers.town/@randomgeek/105646377660000958","published":"2021-01-30T19:43:12","wm-received":"2021-01-30T22:20:00Z","wm-id":1010248,"wm-source":"https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/105646216242335369/105646377660000958","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"<p><span
+    class=\"h-card\"><a href=\"https://pleroma.kemonine.info/users/kemonine\" class=\"u-url\">@<span>kemonine</span></a></span>
+    OTOH Github screwed Atom over first by start closed then opening when enough people
+    complained. Lost real important initial momentum.</p>","text":"@kemonine OTOH
+    Github screwed Atom over first by start closed then opening when enough people
+    complained. Lost real important initial momentum."},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <p><span class="h-card"><a href="https://pleroma.kemonine.info/users/kemonine"
+      class="u-url">@<span>kemonine</span></a></span> OTOH Github screwed Atom over
+      first by start closed then opening when enough people complained. Lost real
+      important initial momentum.</p>
+    text: "@kemonine OTOH Github screwed Atom over first by start closed then opening
+      when enough people complained. Lost real important initial momentum."
+- url: https://pleroma.kemonine.info/objects/1af6efc3-1948-4858-a901-4e3a893bf82c
+  author_name: KemoNine
+  author_url: https://pleroma.kemonine.info/users/kemonine
+  author_photo: https://webmention.io/avatar/hackers.town/85887d852718f171f1ea65079b0d730c3d05740cc348f11de294f95ecb4fa026.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 22:20:06.000000000 Z
+  published: 2021-01-30 19:35:08.000000000 -08:00
+  raw: '{"type":"entry","author":{"type":"card","name":"KemoNine","photo":"https://webmention.io/avatar/hackers.town/85887d852718f171f1ea65079b0d730c3d05740cc348f11de294f95ecb4fa026.jpg","url":"https://pleroma.kemonine.info/users/kemonine"},"url":"https://pleroma.kemonine.info/objects/1af6efc3-1948-4858-a901-4e3a893bf82c","published":"2021-01-30T19:35:08","wm-received":"2021-01-30T22:20:06Z","wm-id":1010249,"wm-source":"https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/105646216242335369/105646346045441412","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"<span
+    class=\"h-card\"><a class=\"u-url\" href=\"https://hackers.town/@randomgeek\">@<span>randomgeek</span></a></span>
+    i have a feeling that vs code will get forked and continue on if it''s abandoned
+    by the mother ship ever","text":"@randomgeek i have a feeling that vs code will
+    get forked and continue on if it''s abandoned by the mother ship ever"},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <span class="h-card"><a class="u-url" href="https://hackers.town/@randomgeek">@<span>randomgeek</span></a></span>
+      i have a feeling that vs code will get forked and continue on if it's abandoned
+      by the mother ship ever
+    text: "@randomgeek i have a feeling that vs code will get forked and continue
+      on if it's abandoned by the mother ship ever"
+- url: https://twitter.com/brianwisti/status/1355592419006414851#favorited-by-759529352
+  author_name: Kai
+  author_url: https://twitter.com/kai___desu
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/757f0a55ec19e712491a43ca790a73083437d826c0797bbfc49b98ef211d27ac.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-30 22:22:17.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Kai","photo":"https://webmention.io/avatar/pbs.twimg.com/757f0a55ec19e712491a43ca790a73083437d826c0797bbfc49b98ef211d27ac.jpg","url":"https://twitter.com/kai___desu"},"url":"https://twitter.com/brianwisti/status/1355592419006414851#favorited-by-759529352","published":null,"wm-received":"2021-01-30T22:22:17Z","wm-id":1010251,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1355592419006414851/759529352","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","like-of":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/MikeHerman/status/1355886734941294592
+  author_name: Michael Herman
+  author_url: https://twitter.com/MikeHerman
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/5db18d741ae5b8550e2c7ffd539bbb2fd3cacbe519e352a01a11079dba7cf1b7.jpg
+  class: repost-of
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-01-31 22:05:15.000000000 Z
+  published: 2021-01-31 14:32:43.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Michael Herman","photo":"https://webmention.io/avatar/pbs.twimg.com/5db18d741ae5b8550e2c7ffd539bbb2fd3cacbe519e352a01a11079dba7cf1b7.jpg","url":"https://twitter.com/MikeHerman"},"url":"https://twitter.com/MikeHerman/status/1355886734941294592","published":"2021-01-31T14:32:43+00:00","wm-received":"2021-01-31T22:05:15Z","wm-id":1011533,"wm-source":"https://brid-gy.appspot.com/repost/twitter/brianwisti/1355592419006414851/1355886734941294592","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"text":"I
+    wrote a post:\n\nLooks like Sublime Text is shifting to a subscription plan\n\n#Editors
+    #SublimeText #Blog\n\nrandomgeekery.org/post/2021/01/l…"},"repost-of":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"repost-of","wm-private":false}'
+  content:
+    text: |-
+      I wrote a post:
+
+      Looks like Sublime Text is shifting to a subscription plan
+
+      #Editors #SublimeText #Blog
+
+      randomgeekery.org/post/2021/01/l…
+- url: https://twitter.com/bmann/status/1358556443222417409
+  author_name: Boris Mann
+  author_url: https://twitter.com/bmann
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/d04ec5ca2ba703c703d7456d7577d0c5dcef81882441743498c6971c0ddcf32a.jpg
+  class: mention-of
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-02-07 23:59:21.000000000 Z
+  published: 2021-02-07 23:21:11.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Boris Mann","photo":"https://webmention.io/avatar/pbs.twimg.com/d04ec5ca2ba703c703d7456d7577d0c5dcef81882441743498c6971c0ddcf32a.jpg","url":"https://twitter.com/bmann"},"url":"https://twitter.com/bmann/status/1358556443222417409","published":"2021-02-07T23:21:11+00:00","wm-received":"2021-02-07T23:59:21Z","wm-id":1020777,"wm-source":"https://brid.gy/post/twitter/brianwisti/1358556443222417409","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"Looks
+    like Sublime Text is moving to a subscription model, plus videos on new features,
+    post by <a href=\"https://twitter.com/brianwisti\">@brianwisti</a>\n\nLots of
+    <a href=\"https://twitter.com/search?q=%23indiebiz\">#indiebiz</a> experiments
+    around charging for software. <a href=\"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/\">randomgeekery.org/post/2021/01/l…</a>","text":"Looks
+    like Sublime Text is moving to a subscription model, plus videos on new features,
+    post by @brianwisti\n\nLots of #indiebiz experiments around charging for software.
+    randomgeekery.org/post/2021/01/l…"},"mention-of":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"mention-of","wm-private":false}'
+  content:
+    html: |-
+      Looks like Sublime Text is moving to a subscription model, plus videos on new features, post by <a href="https://twitter.com/brianwisti">@brianwisti</a>
+
+      Lots of <a href="https://twitter.com/search?q=%23indiebiz">#indiebiz</a> experiments around charging for software. <a href="https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/">randomgeekery.org/post/2021/01/l…</a>
+    text: |-
+      Looks like Sublime Text is moving to a subscription model, plus videos on new features, post by @brianwisti
+
+      Lots of #indiebiz experiments around charging for software. randomgeekery.org/post/2021/01/l…
+- url: https://twitter.com/brianwisti/status/1358558731844296705
+  author_name: brIan wisti
+  author_url: https://twitter.com/brianwisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/9ac97bc7a07a8f18cd153286ee09b17a34057de4f17645f5a9ebda72b93ecfd8.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/
+  h-type: entry
+  private: false
+  received: 2021-02-08 02:38:47.000000000 Z
+  published: 2021-02-07 23:30:17.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"brIan wisti","photo":"https://webmention.io/avatar/pbs.twimg.com/9ac97bc7a07a8f18cd153286ee09b17a34057de4f17645f5a9ebda72b93ecfd8.jpg","url":"https://twitter.com/brianwisti"},"url":"https://twitter.com/brianwisti/status/1358558731844296705","published":"2021-02-07T23:30:17+00:00","wm-received":"2021-02-08T02:38:47Z","wm-id":1020975,"wm-source":"https://brid.gy/comment/twitter/bmann/1358556443222417409/1358558731844296705","wm-target":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","content":{"html":"Lots
+    of mental baggage around version numbers. Sublime Text in particular is suddenly
+    bursting with activity since moving from \"do we have enough features for v4?\"
+    to \"here''s another dev release!\"\n<a class=\"u-mention\" href=\"https://blog.bmannconsulting.com/\"></a>\n<a
+    class=\"u-mention\" href=\"https://fission.codes/discord\"></a>\n<a class=\"u-mention\"
+    href=\"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/\"></a>\n<a
+    class=\"u-mention\" href=\"https://talk.fission.codes/\"></a>\n<a class=\"u-mention\"
+    href=\"https://twitter.com/bmann\"></a>","text":"Lots of mental baggage around
+    version numbers. Sublime Text in particular is suddenly bursting with activity
+    since moving from \"do we have enough features for v4?\" to \"here''s another
+    dev release!\""},"in-reply-to":"https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: |-
+      Lots of mental baggage around version numbers. Sublime Text in particular is suddenly bursting with activity since moving from "do we have enough features for v4?" to "here's another dev release!"
+      <a class="u-mention" href="https://blog.bmannconsulting.com/"></a>
+      <a class="u-mention" href="https://fission.codes/discord"></a>
+      <a class="u-mention" href="https://randomgeekery.org/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription-plan/"></a>
+      <a class="u-mention" href="https://talk.fission.codes/"></a>
+      <a class="u-mention" href="https://twitter.com/bmann"></a>
+    text: Lots of mental baggage around version numbers. Sublime Text in particular
+      is suddenly bursting with activity since moving from "do we have enough features
+      for v4?" to "here's another dev release!"

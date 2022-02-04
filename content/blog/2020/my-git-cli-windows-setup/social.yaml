@@ -1,0 +1,244 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104369116448743323
+  twitter: https://twitter.com/brianwisti/status/1273858010335580162
+entry_path: content/post/2020/06-my-git-cli-windows-setup/index.md
+permalink: "/post/2020/06/my-git-cli-windows-setup/"
+responses:
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: mention-of
+  content:
+    html: |-
+      resharing for the daylight crowd
+      <a class="u-mention" href="https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/"></a>
+    text: resharing for the daylight crowd
+  entry_url: "/post/2020/06/my-git-cli-windows-setup/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-06-19 09:21:03.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1274014338777399297",
+    "published": "2020-06-19T16:21:03+00:00", "wm-received": "2020-06-19T16:21:24Z",
+    "wm-id": 812426, "wm-source": "https://brid-gy.appspot.com/post/twitter/brianwisti/1274014338777399297",
+    "wm-target": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "content": {"html": "resharing for the daylight crowd\n<a class=\"u-mention\"
+    href=\"https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/\"></a>",
+    "text": "resharing for the daylight crowd"}, "mention-of": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "wm-property": "mention-of", "wm-private": false}'
+  received: 2020-06-19 09:21:24.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1274014338777399297
+- author_name: R¥
+  author_photo: https://webmention.io/avatar/hackers.town/30067bf4cf58f6c429d3bd820275714162b4112a283729ec710737a80490088f.jpg
+  author_url: https://hackers.town/@ryen
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span><br
+      />Thank you for doing the work so I don't have to.</p>
+    text: |-
+      @randomgeek
+      Thank you for doing the work so I don't have to.
+  entry_url: "/post/2020/06/my-git-cli-windows-setup/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-06-19 01:14:30.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "R\u00a5", "photo": "https://webmention.io/avatar/hackers.town/30067bf4cf58f6c429d3bd820275714162b4112a283729ec710737a80490088f.jpg",
+    "url": "https://hackers.town/@ryen"}, "url": "https://hackers.town/@ryen/104369649778672711",
+    "published": "2020-06-19T08:14:30", "wm-received": "2020-06-19T10:58:00Z", "wm-id":
+    812281, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104369116448743323/104369649778672711",
+    "wm-target": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span><br />Thank you for doing the
+    work so I don''t have to.</p>", "text": "@randomgeek\nThank you for doing the
+    work so I don''t have to."}, "in-reply-to": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-06-19 03:58:00.000000000 -07:00
+  url: https://hackers.town/@ryen/104369649778672711
+- author_name: Soh Kam Yung
+  author_photo: https://webmention.io/avatar/hackers.town/8334c8c76ed0689f7d005e5e5632c42bd3906754847cdd7649e9091d1d756e36.png
+  author_url: https://mstdn.io/@sohkamyung
+  class: in-reply-to
+  content:
+    html: |-
+      <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span> BTW, I recall some issues with git on windows due to special Windows files like AUX, CON, etc. Hope that doesn't bite you.</p><p>A link: [ <a href="https://stackoverflow.com/questions/48960479/unable-to-index-file/48960606#48960606"><span>https://</span><span>stackoverflow.com/questions/48</span><span>960479/unable-to-index-file/48960606#48960606</span></a> ]</p>
+      <a href="https://stackoverflow.com/questions/48960479/unable-to-index-file/48960606#48960606">Unable to index file</a>
+    text: |-
+      @randomgeek BTW, I recall some issues with git on windows due to special Windows files like AUX, CON, etc. Hope that doesn't bite you.A link: [ https://stackoverflow.com/questions/48960479/unable-to-index-file/48960606#48960606 ]
+      Unable to index file
+  entry_url: "/post/2020/06/my-git-cli-windows-setup/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-06-18 23:37:00.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Soh Kam Yung", "photo":
+    "https://webmention.io/avatar/hackers.town/8334c8c76ed0689f7d005e5e5632c42bd3906754847cdd7649e9091d1d756e36.png",
+    "url": "https://mstdn.io/@sohkamyung"}, "url": "https://mstdn.io/@sohkamyung/104369266407706991",
+    "published": "2020-06-19T06:37:00", "wm-received": "2020-06-19T10:57:57Z", "wm-id":
+    812279, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104369116448743323/104369266483382731",
+    "wm-target": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> BTW, I recall some issues
+    with git on windows due to special Windows files like AUX, CON, etc. Hope that
+    doesn''t bite you.</p><p>A link: [ <a href=\"https://stackoverflow.com/questions/48960479/unable-to-index-file/48960606#48960606\"><span>https://</span><span>stackoverflow.com/questions/48</span><span>960479/unable-to-index-file/48960606#48960606</span></a>
+    ]</p>\n<a href=\"https://stackoverflow.com/questions/48960479/unable-to-index-file/48960606#48960606\">Unable
+    to index file</a>", "text": "@randomgeek BTW, I recall some issues with git on
+    windows due to special Windows files like AUX, CON, etc. Hope that doesn''t bite
+    you.A link: [ https://stackoverflow.com/questions/48960479/unable-to-index-file/48960606#48960606
+    ]\nUnable to index file"}, "in-reply-to": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-06-19 03:57:57.000000000 -07:00
+  url: https://mstdn.io/@sohkamyung/104369266407706991
+- author_name: Soh Kam Yung
+  author_photo: https://webmention.io/avatar/hackers.town/8334c8c76ed0689f7d005e5e5632c42bd3906754847cdd7649e9091d1d756e36.png
+  author_url: https://mstdn.io/@sohkamyung
+  class: in-reply-to
+  content:
+    html: '<p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      Curious: would using git via WSL (Windows Subsystem for Linux) be an alternative?</p>'
+    text: "@randomgeek Curious: would using git via WSL (Windows Subsystem for Linux)
+      be an alternative?"
+  entry_url: "/post/2020/06/my-git-cli-windows-setup/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-06-18 23:33:14.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Soh Kam Yung", "photo":
+    "https://webmention.io/avatar/hackers.town/8334c8c76ed0689f7d005e5e5632c42bd3906754847cdd7649e9091d1d756e36.png",
+    "url": "https://mstdn.io/@sohkamyung"}, "url": "https://mstdn.io/@sohkamyung/104369251602860800",
+    "published": "2020-06-19T06:33:14", "wm-received": "2020-06-19T10:57:58Z", "wm-id":
+    812280, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104369116448743323/104369251685210935",
+    "wm-target": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> Curious: would using git via
+    WSL (Windows Subsystem for Linux) be an alternative?</p>", "text": "@randomgeek
+    Curious: would using git via WSL (Windows Subsystem for Linux) be an alternative?"},
+    "in-reply-to": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-06-19 03:57:58.000000000 -07:00
+  url: https://mstdn.io/@sohkamyung/104369251602860800
+- author_name: R¥
+  author_photo: https://webmention.io/avatar/hackers.town/30067bf4cf58f6c429d3bd820275714162b4112a283729ec710737a80490088f.jpg
+  author_url: https://hackers.town/@ryen
+  class: like-of
+  entry_url: "/post/2020/06/my-git-cli-windows-setup/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "R\u00a5", "photo": "https://webmention.io/avatar/hackers.town/30067bf4cf58f6c429d3bd820275714162b4112a283729ec710737a80490088f.jpg",
+    "url": "https://hackers.town/@ryen"}, "url": "https://hackers.town/@randomgeek/104369116448743323#favorited-by-44063",
+    "published": null, "wm-received": "2020-06-19T10:58:00Z", "wm-id": 812282, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104369116448743323/44063",
+    "wm-target": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "like-of": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-06-19 03:58:00.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104369116448743323#favorited-by-44063
+- author_name: Soh Kam Yung
+  author_photo: https://webmention.io/avatar/hackers.town/8334c8c76ed0689f7d005e5e5632c42bd3906754847cdd7649e9091d1d756e36.png
+  author_url: https://mstdn.io/@sohkamyung
+  class: like-of
+  entry_url: "/post/2020/06/my-git-cli-windows-setup/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Soh Kam Yung", "photo":
+    "https://webmention.io/avatar/hackers.town/8334c8c76ed0689f7d005e5e5632c42bd3906754847cdd7649e9091d1d756e36.png",
+    "url": "https://mstdn.io/@sohkamyung"}, "url": "https://hackers.town/@randomgeek/104369116448743323#favorited-by-31871",
+    "published": null, "wm-received": "2020-06-19T10:58:02Z", "wm-id": 812283, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104369116448743323/31871",
+    "wm-target": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "like-of": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-06-19 03:58:02.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104369116448743323#favorited-by-31871
+- author_name: Grey
+  author_photo: https://webmention.io/avatar/hackers.town/ffc7bbc4a190f9f6796477b075fa789115617ba4ad260066914defbd2af0401f.jpg
+  author_url: https://wandering.shop/@hummingrain
+  class: like-of
+  entry_url: "/post/2020/06/my-git-cli-windows-setup/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Grey", "photo": "https://webmention.io/avatar/hackers.town/ffc7bbc4a190f9f6796477b075fa789115617ba4ad260066914defbd2af0401f.jpg",
+    "url": "https://wandering.shop/@hummingrain"}, "url": "https://hackers.town/@randomgeek/104369116448743323#favorited-by-1963",
+    "published": null, "wm-received": "2020-06-19T10:58:03Z", "wm-id": 812284, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104369116448743323/1963",
+    "wm-target": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "like-of": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-06-19 03:58:03.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104369116448743323#favorited-by-1963
+- author_name: "Ana Ulin \U0001F63B"
+  author_photo: https://webmention.io/avatar/hackers.town/66eb09d3f09bc1ad20bc29212f90a2f385630c04d310b2276ef3b681b39dbae8.jpg
+  author_url: https://social.coop/@anaulin
+  class: like-of
+  entry_url: "/post/2020/06/my-git-cli-windows-setup/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Ana Ulin \ud83d\ude3b",
+    "photo": "https://webmention.io/avatar/hackers.town/66eb09d3f09bc1ad20bc29212f90a2f385630c04d310b2276ef3b681b39dbae8.jpg",
+    "url": "https://social.coop/@anaulin"}, "url": "https://hackers.town/@randomgeek/104369116448743323#favorited-by-24490",
+    "published": null, "wm-received": "2020-06-19T10:58:29Z", "wm-id": 812285, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104369116448743323/24490",
+    "wm-target": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "like-of": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-06-19 03:58:29.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104369116448743323#favorited-by-24490
+- author_name: Bran Mac Muffin
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/0c52b160ed86ede3a97b1b00f6d97bd71aca1d15b8180293e0b78cd1a51cec84.png
+  author_url: https://twitter.com/BranMacMuffin
+  class: like-of
+  entry_url: "/post/2020/06/my-git-cli-windows-setup/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Bran Mac Muffin", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/0c52b160ed86ede3a97b1b00f6d97bd71aca1d15b8180293e0b78cd1a51cec84.png",
+    "url": "https://twitter.com/BranMacMuffin"}, "url": "https://twitter.com/brianwisti/status/1273858010335580162#favorited-by-38417649",
+    "published": null, "wm-received": "2020-06-19T17:34:52Z", "wm-id": 812462, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1273858010335580162/38417649",
+    "wm-target": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "like-of": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-06-19 10:34:52.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1273858010335580162#favorited-by-38417649
+- author_name: Andrew Kehrig
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/ee4660857c086f57e22e61335afe9cfff69aa07662fe2eeafb9e013c85d7f8e1.jpg
+  author_url: https://twitter.com/andrewkehrig
+  class: like-of
+  entry_url: "/post/2020/06/my-git-cli-windows-setup/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Andrew Kehrig", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/ee4660857c086f57e22e61335afe9cfff69aa07662fe2eeafb9e013c85d7f8e1.jpg",
+    "url": "https://twitter.com/andrewkehrig"}, "url": "https://twitter.com/brianwisti/status/1273858010335580162#favorited-by-2622531",
+    "published": null, "wm-received": "2020-06-19T17:34:53Z", "wm-id": 812463, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1273858010335580162/2622531",
+    "wm-target": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "like-of": "https://randomgeekery.org/post/2020/06/my-git-cli-windows-setup/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-06-19 10:34:53.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1273858010335580162#favorited-by-2622531

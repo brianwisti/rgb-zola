@@ -1,0 +1,116 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/105251184292723132
+  twitter: https://twitter.com/brianwisti/status/1330310414333341698
+entry_path: content/post/2020/11-naming-things-in-tmux/index.md
+permalink: "/post/2020/11/naming-things-in-tmux/"
+responses:
+- url: https://hackers.town/@randomgeek/105251184292723132#favorited-by-47168
+  author_name: ߋߡۺ৩֎
+  author_url: https://hackers.town/@y0x3y
+  author_photo: https://webmention.io/avatar/hackers.town/7ec632d740c25fd3a884058a5109e15a4e361519904ea34301f529cc00bffe19.png
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2020/11/naming-things-in-tmux/
+  h-type: entry
+  private: false
+  received: 2020-11-22 03:04:13.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"ߋߡۺ৩֎","photo":"https://webmention.io/avatar/hackers.town/7ec632d740c25fd3a884058a5109e15a4e361519904ea34301f529cc00bffe19.png","url":"https://hackers.town/@y0x3y"},"url":"https://hackers.town/@randomgeek/105251184292723132#favorited-by-47168","published":null,"wm-received":"2020-11-22T03:04:13Z","wm-id":919556,"wm-source":"https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/105251184292723132/47168","wm-target":"https://randomgeekery.org/post/2020/11/naming-things-in-tmux/","like-of":"https://randomgeekery.org/post/2020/11/naming-things-in-tmux/","wm-property":"like-of","wm-private":false}'
+- url: https://hackers.town/@randomgeek/105251184292723132#favorited-by-70463
+  author_name: requiem
+  author_url: https://hackers.town/@requiem
+  author_photo: https://webmention.io/avatar/hackers.town/59c122b3e8a848bc74eda56223c6fa4f1979b76b027d48062effe3ac8c8b15e4.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2020/11/naming-things-in-tmux/
+  h-type: entry
+  private: false
+  received: 2020-11-22 11:12:48.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"requiem","photo":"https://webmention.io/avatar/hackers.town/59c122b3e8a848bc74eda56223c6fa4f1979b76b027d48062effe3ac8c8b15e4.jpg","url":"https://hackers.town/@requiem"},"url":"https://hackers.town/@randomgeek/105251184292723132#favorited-by-70463","published":null,"wm-received":"2020-11-22T11:12:48Z","wm-id":919996,"wm-source":"https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/105251184292723132/70463","wm-target":"https://randomgeekery.org/post/2020/11/naming-things-in-tmux/","like-of":"https://randomgeekery.org/post/2020/11/naming-things-in-tmux/","wm-property":"like-of","wm-private":false}'
+- url: https://hackers.town/@randomgeek/105251184292723132#reblogged-by-70463
+  author_name: requiem
+  author_url: https://hackers.town/@requiem
+  author_photo: https://webmention.io/avatar/hackers.town/59c122b3e8a848bc74eda56223c6fa4f1979b76b027d48062effe3ac8c8b15e4.jpg
+  class: repost-of
+  entry_url: https://randomgeekery.org/post/2020/11/naming-things-in-tmux/
+  h-type: entry
+  private: false
+  received: 2020-11-22 11:12:48.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"requiem","photo":"https://webmention.io/avatar/hackers.town/59c122b3e8a848bc74eda56223c6fa4f1979b76b027d48062effe3ac8c8b15e4.jpg","url":"https://hackers.town/@requiem"},"url":"https://hackers.town/@randomgeek/105251184292723132#reblogged-by-70463","published":null,"wm-received":"2020-11-22T11:12:48Z","wm-id":919997,"wm-source":"https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/105251184292723132/70463","wm-target":"https://randomgeekery.org/post/2020/11/naming-things-in-tmux/","repost-of":"https://randomgeekery.org/post/2020/11/naming-things-in-tmux/","wm-property":"repost-of","wm-private":false}'
+- url: https://hackers.town/@randomgeek/105251184292723132#favorited-by-30034
+  author_name: Darkstar
+  author_url: https://mastodon.nl/@darkstar
+  author_photo: https://webmention.io/avatar/hackers.town/362d16b83ed67644769505271e9791a34d2314677240520fb7b665b10fd0f52b.png
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2020/11/naming-things-in-tmux/
+  h-type: entry
+  private: false
+  received: 2020-11-22 11:57:57.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Darkstar","photo":"https://webmention.io/avatar/hackers.town/362d16b83ed67644769505271e9791a34d2314677240520fb7b665b10fd0f52b.png","url":"https://mastodon.nl/@darkstar"},"url":"https://hackers.town/@randomgeek/105251184292723132#favorited-by-30034","published":null,"wm-received":"2020-11-22T11:57:57Z","wm-id":920063,"wm-source":"https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/105251184292723132/30034","wm-target":"https://randomgeekery.org/post/2020/11/naming-things-in-tmux/","like-of":"https://randomgeekery.org/post/2020/11/naming-things-in-tmux/","wm-property":"like-of","wm-private":false}'
+- url: https://cybre.space/@grimmware/105253930790602974
+  author_name: grimmware
+  author_url: https://cybre.space/@grimmware
+  author_photo: https://webmention.io/avatar/hackers.town/52f26908019dcd59c0cae69a64802d145863b48621ebaeb9e95bc9a119ea4a98.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2020/11/naming-things-in-tmux/
+  h-type: entry
+  private: false
+  received: 2020-11-22 12:45:47.000000000 Z
+  published: 2020-11-22 12:18:48.000000000 -08:00
+  raw: '{"type":"entry","author":{"type":"card","name":"grimmware","photo":"https://webmention.io/avatar/hackers.town/52f26908019dcd59c0cae69a64802d145863b48621ebaeb9e95bc9a119ea4a98.jpg","url":"https://cybre.space/@grimmware"},"url":"https://cybre.space/@grimmware/105253930790602974","published":"2020-11-22T12:18:48","wm-received":"2020-11-22T12:45:47Z","wm-id":920111,"wm-source":"https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/105251184292723132/105253930913490521","wm-target":"https://randomgeekery.org/post/2020/11/naming-things-in-tmux/","content":{"html":"<p><span
+    class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\" class=\"u-url\">@<span>randomgeek</span></a></span>
+    <span class=\"h-card\"><a href=\"https://hackers.town/@requiem\" class=\"u-url\">@<span>requiem</span></a></span>
+    I’ve recently started using a very similar workflow and it stops me aimlessly
+    cycling through windows.</p><p>Worth a mention is &lt;leader&gt;-w which will
+    interactively show all sessions and windows with preview and selection!</p>","text":"@randomgeek
+    @requiem I’ve recently started using a very similar workflow and it stops me aimlessly
+    cycling through windows.Worth a mention is <leader>-w which will interactively
+    show all sessions and windows with preview and selection!"},"in-reply-to":"https://randomgeekery.org/post/2020/11/naming-things-in-tmux/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      <span class="h-card"><a href="https://hackers.town/@requiem" class="u-url">@<span>requiem</span></a></span>
+      I’ve recently started using a very similar workflow and it stops me aimlessly
+      cycling through windows.</p><p>Worth a mention is &lt;leader&gt;-w which will
+      interactively show all sessions and windows with preview and selection!</p>
+    text: "@randomgeek @requiem I’ve recently started using a very similar workflow
+      and it stops me aimlessly cycling through windows.Worth a mention is <leader>-w
+      which will interactively show all sessions and windows with preview and selection!"
+- url: https://hackers.town/@randomgeek/105253940562384282
+  author_name: Random Geek
+  author_url: https://hackers.town/@randomgeek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2020/11/naming-things-in-tmux/
+  h-type: entry
+  private: false
+  received: 2020-11-22 12:45:51.000000000 Z
+  published: 2020-11-22 12:21:17.000000000 -08:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Random Geek","photo":"https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png","url":"https://hackers.town/@randomgeek"},"url":"https://hackers.town/@randomgeek/105253940562384282","published":"2020-11-22T12:21:17","wm-received":"2020-11-22T12:45:51Z","wm-id":920112,"wm-source":"https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/105251184292723132/105253940562384282","wm-target":"https://randomgeekery.org/post/2020/11/naming-things-in-tmux/","content":{"html":"<p><span
+    class=\"h-card\"><a href=\"https://cybre.space/@grimmware\" class=\"u-url\">@<span>grimmware</span></a></span>
+    <span class=\"h-card\"><a href=\"https://hackers.town/@requiem\" class=\"u-url\">@<span>requiem</span></a></span>
+    I thought about digging into choose-tree, but it could easily have double the
+    length of the post. Just so much to explore in that one command!</p>","text":"@grimmware
+    @requiem I thought about digging into choose-tree, but it could easily have double
+    the length of the post. Just so much to explore in that one command!"},"in-reply-to":"https://randomgeekery.org/post/2020/11/naming-things-in-tmux/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <p><span class="h-card"><a href="https://cybre.space/@grimmware" class="u-url">@<span>grimmware</span></a></span>
+      <span class="h-card"><a href="https://hackers.town/@requiem" class="u-url">@<span>requiem</span></a></span>
+      I thought about digging into choose-tree, but it could easily have double the
+      length of the post. Just so much to explore in that one command!</p>
+    text: "@grimmware @requiem I thought about digging into choose-tree, but it could
+      easily have double the length of the post. Just so much to explore in that one
+      command!"
+- url: https://hackers.town/@randomgeek/105251184292723132#favorited-by-28996
+  author_name: "\U0001F480Undead Bill\U0001F480"
+  author_url: https://bsd.network/@bill
+  author_photo: https://webmention.io/avatar/hackers.town/f50e219c7100ba7c2dc73367ad6d9170a4a629b44f833b7d792db3f2f1b7a8c9.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2020/11/naming-things-in-tmux/
+  h-type: entry
+  private: false
+  received: 2020-11-22 13:33:18.000000000 Z
+  published:
+  raw: "{\"type\":\"entry\",\"author\":{\"type\":\"card\",\"name\":\"\U0001F480Undead
+    Bill\U0001F480\",\"photo\":\"https://webmention.io/avatar/hackers.town/f50e219c7100ba7c2dc73367ad6d9170a4a629b44f833b7d792db3f2f1b7a8c9.jpg\",\"url\":\"https://bsd.network/@bill\"},\"url\":\"https://hackers.town/@randomgeek/105251184292723132#favorited-by-28996\",\"published\":null,\"wm-received\":\"2020-11-22T13:33:18Z\",\"wm-id\":920130,\"wm-source\":\"https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/105251184292723132/28996\",\"wm-target\":\"https://randomgeekery.org/post/2020/11/naming-things-in-tmux/\",\"like-of\":\"https://randomgeekery.org/post/2020/11/naming-things-in-tmux/\",\"wm-property\":\"like-of\",\"wm-private\":false}"

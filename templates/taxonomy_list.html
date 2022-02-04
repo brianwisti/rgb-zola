@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block title_head %}{{ taxonomy.name }} | {{ config.title }}{% endblock %}
+
+{% block content %}
+  <nav class="breadcrumb">
+    <ul class="breadcrumb-list">
+      <li class="breadcrumb-item">
+        <a class="breadcrumb-link" href="/">{{ config.title }}</a>
+      </li>
+      <li class="breadcrumb-item active">
+        <a class="breadcrumb-link" href="{{ current_url | safe }}">{{ taxonomy.name }}</a>
+      </li>
+    </ul>
+  </nav>
+  <section>
+    <header>
+      <h1>{{ taxonomy.name }}</h1>
+    </header>
+
+    {% for term in terms %}
+      <section>
+        <a href="{{ term.permalink | safe }}">{{ term.name }}</a>
+      </section>
+    {% endfor %}
+  </section>
+{% endblock content %}

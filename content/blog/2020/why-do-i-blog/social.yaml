@@ -1,0 +1,215 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104044038344776759
+  twitter: https://twitter.com/brianwisti/status/1253052771793846273
+entry_path: content/note/2020/04/why-do-i-blog/index.md
+permalink: "/note/2020/04/why-do-i-blog/"
+responses:
+- author_name: Random Geek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  author_url: https://hackers.town/@randomgeek
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@nomad" class="u-url">@<span>nomad</span></a></span>
+      No I blog because <em>too many</em> people listen when I shout from a box on
+      the street corner.</p><p>If I wanted an audience, why would I be going off about
+      indieweb, command line tools that nobody needs, and that drawing from when I
+      couldn't fall asleep?</p>
+    text: "@nomad No I blog because too many people listen when I shout from a box
+      on the street corner.If I wanted an audience, why would I be going off about
+      indieweb, command line tools that nobody needs, and that drawing from when I
+      couldn't fall asleep?"
+  entry_url: "/note/2020/113/why-do-i-blog/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-22 13:17:55.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Random Geek", "photo":
+    "https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png",
+    "url": "https://hackers.town/@randomgeek"}, "url": "https://hackers.town/@randomgeek/104044080320902662",
+    "published": "2020-04-22T20:17:55", "wm-received": "2020-04-22T20:29:45Z", "wm-id":
+    785786, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104044038344776759/104044080320902662",
+    "wm-target": "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@nomad\" class=\"u-url\">@<span>nomad</span></a></span>
+    No I blog because <em>too many</em> people listen when I shout from a box on the
+    street corner.</p><p>If I wanted an audience, why would I be going off about indieweb,
+    command line tools that nobody needs, and that drawing from when I couldn''t fall
+    asleep?</p>", "text": "@nomad No I blog because too many people listen when I
+    shout from a box on the street corner.If I wanted an audience, why would I be
+    going off about indieweb, command line tools that nobody needs, and that drawing
+    from when I couldn''t fall asleep?"}, "in-reply-to": "https://randomgeekery.org/note/2020/113/why-do-i-blog/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-22 13:29:45.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104044080320902662
+- author_name: Random Geek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  author_url: https://hackers.town/@randomgeek
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://fosstodon.org/@kev" class="u-url">@<span>kev</span></a></span>
+      aaand I replied to the wrong toot. Today's coffee is defective.</p>
+    text: "@kev aaand I replied to the wrong toot. Today's coffee is defective."
+  entry_url: "/note/2020/113/why-do-i-blog/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-22 13:13:33.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Random Geek", "photo":
+    "https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png",
+    "url": "https://hackers.town/@randomgeek"}, "url": "https://hackers.town/@randomgeek/104044063162225096",
+    "published": "2020-04-22T20:13:33", "wm-received": "2020-04-22T20:29:42Z", "wm-id":
+    785784, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104044060321452397/104044063162225096",
+    "wm-target": "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@kev\" class=\"u-url\">@<span>kev</span></a></span>
+    aaand I replied to the wrong toot. Today''s coffee is defective.</p>", "text":
+    "@kev aaand I replied to the wrong toot. Today''s coffee is defective."}, "in-reply-to":
+    "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "wm-property": "in-reply-to",
+    "wm-private": false}'
+  received: 2020-04-22 13:29:42.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104044063162225096
+- author_name: nomad
+  author_photo: https://webmention.io/avatar/hackers.town/6a0de45530e7979dd3de275b0d85c94277508c26e44805c7e20b5009d5321224.jpg
+  author_url: https://hackers.town/@nomad
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      You blog because no one listens when you shout from a box on the street corner.</p>
+    text: "@randomgeek You blog because no one listens when you shout from a box on
+      the street corner."
+  entry_url: "/note/2020/113/why-do-i-blog/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-22 13:10:28.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "nomad", "photo": "https://webmention.io/avatar/hackers.town/6a0de45530e7979dd3de275b0d85c94277508c26e44805c7e20b5009d5321224.jpg",
+    "url": "https://hackers.town/@nomad"}, "url": "https://hackers.town/@nomad/104044051061948698",
+    "published": "2020-04-22T20:10:28", "wm-received": "2020-04-22T20:29:43Z", "wm-id":
+    785785, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104044038344776759/104044051061948698",
+    "wm-target": "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> You blog because no one listens
+    when you shout from a box on the street corner.</p>", "text": "@randomgeek You
+    blog because no one listens when you shout from a box on the street corner."},
+    "in-reply-to": "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "wm-property":
+    "in-reply-to", "wm-private": false}'
+  received: 2020-04-22 13:29:43.000000000 -07:00
+  url: https://hackers.town/@nomad/104044051061948698
+- author_name: Charles Stanhope
+  author_photo: https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg
+  author_url: https://social.coop/@cstanhope
+  class: like-of
+  entry_url: "/note/2020/113/why-do-i-blog/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Charles Stanhope", "photo":
+    "https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg",
+    "url": "https://social.coop/@cstanhope"}, "url": "https://hackers.town/@randomgeek/104044038344776759#favorited-by-2439",
+    "published": null, "wm-received": "2020-04-22T20:29:46Z", "wm-id": 785787, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104044038344776759/2439",
+    "wm-target": "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "like-of":
+    "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-22 13:29:46.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104044038344776759#favorited-by-2439
+- author_name: Jon
+  author_photo: https://webmention.io/avatar/hackers.town/61962720fa1e9a4a8907bc8424f90babec1e7967a07c6c9ca0bf56e76d4ab609.jpg
+  author_url: https://hackers.town/@jonw
+  class: like-of
+  entry_url: "/note/2020/113/why-do-i-blog/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jon", "photo": "https://webmention.io/avatar/hackers.town/61962720fa1e9a4a8907bc8424f90babec1e7967a07c6c9ca0bf56e76d4ab609.jpg",
+    "url": "https://hackers.town/@jonw"}, "url": "https://hackers.town/@randomgeek/104044038344776759#favorited-by-73157",
+    "published": null, "wm-received": "2020-04-22T20:29:51Z", "wm-id": 785788, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104044038344776759/73157",
+    "wm-target": "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "like-of":
+    "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-22 13:29:51.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104044038344776759#favorited-by-73157
+- author_name: Jon
+  author_photo: https://webmention.io/avatar/hackers.town/61962720fa1e9a4a8907bc8424f90babec1e7967a07c6c9ca0bf56e76d4ab609.jpg
+  author_url: https://hackers.town/@jonw
+  class: repost-of
+  entry_url: "/note/2020/113/why-do-i-blog/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jon", "photo": "https://webmention.io/avatar/hackers.town/61962720fa1e9a4a8907bc8424f90babec1e7967a07c6c9ca0bf56e76d4ab609.jpg",
+    "url": "https://hackers.town/@jonw"}, "url": "https://hackers.town/@randomgeek/104044038344776759#reblogged-by-73157",
+    "published": null, "wm-received": "2020-04-22T20:29:52Z", "wm-id": 785789, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/104044038344776759/73157",
+    "wm-target": "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "repost-of":
+    "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "wm-property": "repost-of",
+    "wm-private": false}'
+  received: 2020-04-22 13:29:52.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104044038344776759#reblogged-by-73157
+- author_name: Yanick
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg
+  author_url: https://twitter.com/yenzie
+  class: like-of
+  entry_url: "/note/2020/113/why-do-i-blog/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Yanick", "photo": "https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg",
+    "url": "https://twitter.com/yenzie"}, "url": "https://twitter.com/brianwisti/status/1253052771793846273#favorited-by-18431216",
+    "published": null, "wm-received": "2020-04-22T21:21:30Z", "wm-id": 785795, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1253052771793846273/18431216",
+    "wm-target": "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "like-of":
+    "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-22 14:21:30.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1253052771793846273#favorited-by-18431216
+- author_name: 'genehack says #masksUP'
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg
+  author_url: https://twitter.com/genehack
+  class: like-of
+  entry_url: "/note/2020/113/why-do-i-blog/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "genehack says #masksUP",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg",
+    "url": "https://twitter.com/genehack"}, "url": "https://twitter.com/brianwisti/status/1253052771793846273#favorited-by-753743",
+    "published": null, "wm-received": "2020-04-22T21:21:30Z", "wm-id": 785796, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1253052771793846273/753743",
+    "wm-target": "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "like-of":
+    "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-22 14:21:30.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1253052771793846273#favorited-by-753743
+- author_name: Dingo
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/f30d61cbd2a716b78d81f990568a9c4104d08a246c0b67a21eab02f3f1422f9a.jpg
+  author_url: https://twitter.com/MadLutian
+  class: like-of
+  entry_url: "/note/2020/113/why-do-i-blog/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Dingo", "photo": "https://webmention.io/avatar/pbs.twimg.com/f30d61cbd2a716b78d81f990568a9c4104d08a246c0b67a21eab02f3f1422f9a.jpg",
+    "url": "https://twitter.com/MadLutian"}, "url": "https://twitter.com/brianwisti/status/1253052771793846273#favorited-by-300489029",
+    "published": null, "wm-received": "2020-04-22T21:21:34Z", "wm-id": 785797, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1253052771793846273/300489029",
+    "wm-target": "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "like-of":
+    "https://randomgeekery.org/note/2020/113/why-do-i-blog/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-22 14:21:34.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1253052771793846273#favorited-by-300489029

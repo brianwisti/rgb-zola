@@ -1,0 +1,116 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/105851186676748121
+  twitter: https://twitter.com/brianwisti/status/1368710502763880448
+entry_path: content/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/index.adoc.txt
+permalink: "/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/"
+responses:
+- url: https://twitter.com/brianwisti/status/1368710502763880448#favorited-by-18141592
+  author_name: Eλf Sternberg
+  author_url: https://twitter.com/elfsternberg
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/ece0c5d662bc8815ecba319556b9f6cdefe6b65164874ddb91251dc1c554919b.png
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/
+  h-type: entry
+  private: false
+  received: 2021-03-08 00:23:26.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Eλf Sternberg","photo":"https://webmention.io/avatar/pbs.twimg.com/ece0c5d662bc8815ecba319556b9f6cdefe6b65164874ddb91251dc1c554919b.png","url":"https://twitter.com/elfsternberg"},"url":"https://twitter.com/brianwisti/status/1368710502763880448#favorited-by-18141592","published":null,"wm-received":"2021-03-08T00:23:26Z","wm-id":1061006,"wm-source":"https://brid.gy/like/twitter/brianwisti/1368710502763880448/18141592","wm-target":"https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/","like-of":"https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1368724179734818817
+  author_name: brian wisti
+  author_url: https://twitter.com/brianwisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/99a553604415193cb4d64fd46a06e098fd8a607ba18ef4ba95c1d9ebf471b34e.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/
+  h-type: entry
+  private: false
+  received: 2021-03-08 01:06:14.000000000 Z
+  published: 2021-03-08 00:44:08.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"brian wisti","photo":"https://webmention.io/avatar/pbs.twimg.com/99a553604415193cb4d64fd46a06e098fd8a607ba18ef4ba95c1d9ebf471b34e.jpg","url":"https://twitter.com/brianwisti"},"url":"https://twitter.com/brianwisti/status/1368724179734818817","published":"2021-03-08T00:44:08+00:00","wm-received":"2021-03-08T01:06:14Z","wm-id":1061052,"wm-source":"https://brid.gy/comment/twitter/brianwisti/1368710502763880448/1368724179734818817","wm-target":"https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/","content":{"html":"Parse
+    text with Perl? In this economy?\n<a class=\"u-mention\" href=\"https://twitter.com/perigrin\"></a>","text":"Parse
+    text with Perl? In this economy?"},"in-reply-to":"https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: |-
+      Parse text with Perl? In this economy?
+      <a class="u-mention" href="https://twitter.com/perigrin"></a>
+    text: Parse text with Perl? In this economy?
+- url: https://twitter.com/genehack/status/1368728834585939969
+  author_name: genehack does not have a clever handle right now
+  author_url: https://twitter.com/genehack
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/d7714fdf726926111b9bf3dfeb68cd97a8e9ea8b1821931885e216a3d0744952.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/
+  h-type: entry
+  private: false
+  received: 2021-03-08 01:06:14.000000000 Z
+  published: 2021-03-08 01:02:38.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"genehack does not have a clever
+    handle right now","photo":"https://webmention.io/avatar/pbs.twimg.com/d7714fdf726926111b9bf3dfeb68cd97a8e9ea8b1821931885e216a3d0744952.jpg","url":"https://twitter.com/genehack"},"url":"https://twitter.com/genehack/status/1368728834585939969","published":"2021-03-08T01:02:38+00:00","wm-received":"2021-03-08T01:06:14Z","wm-id":1061053,"wm-source":"https://brid.gy/comment/twitter/brianwisti/1368710502763880448/1368728834585939969","wm-target":"https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/","content":{"html":"Probably
+    one of those people that goes around pointing out Markdown is technically a superset
+    of HTML.\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>\n<a class=\"u-mention\"
+    href=\"https://twitter.com/perigrin\"></a>","text":"Probably one of those people
+    that goes around pointing out Markdown is technically a superset of HTML."},"in-reply-to":"https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: |-
+      Probably one of those people that goes around pointing out Markdown is technically a superset of HTML.
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+      <a class="u-mention" href="https://twitter.com/perigrin"></a>
+    text: Probably one of those people that goes around pointing out Markdown is technically
+      a superset of HTML.
+- url: https://twitter.com/perigrin/status/1368723122585825282
+  author_name: Chris (usually)
+  author_url: https://twitter.com/perigrin
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/74bd1848a9104abc6a0b17fe66a87362aca520bf95f63fc74865fbfea3757a7d.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/
+  h-type: entry
+  private: false
+  received: 2021-03-08 01:06:43.000000000 Z
+  published: 2021-03-08 00:39:56.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Chris (usually)","photo":"https://webmention.io/avatar/pbs.twimg.com/74bd1848a9104abc6a0b17fe66a87362aca520bf95f63fc74865fbfea3757a7d.jpg","url":"https://twitter.com/perigrin"},"url":"https://twitter.com/perigrin/status/1368723122585825282","published":"2021-03-08T00:39:56+00:00","wm-received":"2021-03-08T01:06:43Z","wm-id":1061054,"wm-source":"https://brid.gy/comment/twitter/brianwisti/1368710502763880448/1368723122585825282","wm-target":"https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/","content":{"html":"He
+    probably thinks you can knock up a simple Perl script to format Markdown too.\n<a
+    class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\"
+    href=\"https://twitter.com/brianwisti\"></a>","text":"He probably thinks you can
+    knock up a simple Perl script to format Markdown too."},"in-reply-to":"https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: |-
+      He probably thinks you can knock up a simple Perl script to format Markdown too.
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: He probably thinks you can knock up a simple Perl script to format Markdown
+      too.
+- url: https://twitter.com/gizmomathboy/status/1368778347799515142
+  author_name: Gizmo Mathboy
+  author_url: https://twitter.com/gizmomathboy
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/6e8f59250ff9a90bb96e95328801a297c1dc873c30eb29040638bf8b525e5184.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/
+  h-type: entry
+  private: false
+  received: 2021-03-08 04:42:50.000000000 Z
+  published: 2021-03-08 04:19:23.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Gizmo Mathboy","photo":"https://webmention.io/avatar/pbs.twimg.com/6e8f59250ff9a90bb96e95328801a297c1dc873c30eb29040638bf8b525e5184.jpg","url":"https://twitter.com/gizmomathboy"},"url":"https://twitter.com/gizmomathboy/status/1368778347799515142","published":"2021-03-08T04:19:23+00:00","wm-received":"2021-03-08T04:42:50Z","wm-id":1061250,"wm-source":"https://brid.gy/comment/twitter/brianwisti/1368710502763880448/1368778347799515142","wm-target":"https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/","content":{"html":"hey
+    buddy, I have some regex I''d like to sell ya\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>\n<a class=\"u-mention\"
+    href=\"https://twitter.com/perigrin\"></a>","text":"hey buddy, I have some regex
+    I''d like to sell ya"},"in-reply-to":"https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: |-
+      hey buddy, I have some regex I'd like to sell ya
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+      <a class="u-mention" href="https://twitter.com/perigrin"></a>
+    text: hey buddy, I have some regex I'd like to sell ya
+- url: https://hackers.town/@randomgeek/105851186676748121#favorited-by-108592
+  author_name: lecramed
+  author_url: https://hackers.town/@lecramed
+  author_photo: https://webmention.io/avatar/hackers.town/c56e19da8ad912ad6c99cd7701fe42e34a203749d8d1e0ccb83d8db83c4a51b8.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/
+  h-type: entry
+  private: false
+  received: 2021-03-08 13:03:44.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"lecramed","photo":"https://webmention.io/avatar/hackers.town/c56e19da8ad912ad6c99cd7701fe42e34a203749d8d1e0ccb83d8db83c4a51b8.jpg","url":"https://hackers.town/@lecramed"},"url":"https://hackers.town/@randomgeek/105851186676748121#favorited-by-108592","published":null,"wm-received":"2021-03-08T13:03:44Z","wm-id":1061697,"wm-source":"https://brid.gy/like/mastodon/@randomgeek@hackers.town/105851186676748121/108592","wm-target":"https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/","like-of":"https://randomgeekery.org/note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/","wm-property":"like-of","wm-private":false}'

@@ -1,0 +1,27 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/103791810073034057
+  twitter: https://twitter.com/brianwisti/status/1236910866769076225
+entry_path: content/note/2020/03/passing-tests-is-now-required-to-push/index.md
+permalink: "/note/2020/03/passing-tests-is-now-required-to-push/"
+responses:
+- author_name: "Ferdi F. Zebua \U0001F30F"
+  author_photo: https://webmention.io/avatar/hackers.town/a81b0db6114a3065e79fa58906f3c0875a5b0bc4e491c89f074a69a1943edb4d.jpg
+  author_url: https://mastodon.cloud/@FerdiZ
+  class: like-of
+  entry_url: "/note/2020/68/passing-tests-is-now-required-to-push/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Ferdi F. Zebua \ud83c\udf0f",
+    "photo": "https://webmention.io/avatar/hackers.town/a81b0db6114a3065e79fa58906f3c0875a5b0bc4e491c89f074a69a1943edb4d.jpg",
+    "url": "https://mastodon.cloud/@FerdiZ"}, "url": "https://hackers.town/@randomgeek/103791810073034057#favorited-by-4011",
+    "published": null, "wm-received": "2020-03-09T10:40:49Z", "wm-id": 766158, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103791810073034057/4011",
+    "wm-target": "https://randomgeekery.org/note/2020/68/passing-tests-is-now-required-to-push/",
+    "like-of": "https://randomgeekery.org/note/2020/68/passing-tests-is-now-required-to-push/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-03-09 03:40:49.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103791810073034057#favorited-by-4011

@@ -1,0 +1,79 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/105185266968641437
+  twitter: https://twitter.com/brianwisti/status/1326091836738461696
+entry_path: content/post/2020/11-using-the-webmention-io-api/index.md
+permalink: "/post/2020/11/using-the-webmentionio-api/"
+responses:
+- url: https://hackers.town/@randomgeek/105185266968641437#favorited-by-47168
+  author_name: ߋߡۺ৩֎
+  author_url: https://hackers.town/@y0x3y
+  author_photo: https://webmention.io/avatar/hackers.town/7ec632d740c25fd3a884058a5109e15a4e361519904ea34301f529cc00bffe19.png
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/
+  h-type: entry
+  private: false
+  received: 2020-11-10 14:04:39.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"ߋߡۺ৩֎","photo":"https://webmention.io/avatar/hackers.town/7ec632d740c25fd3a884058a5109e15a4e361519904ea34301f529cc00bffe19.png","url":"https://hackers.town/@y0x3y"},"url":"https://hackers.town/@randomgeek/105185266968641437#favorited-by-47168","published":null,"wm-received":"2020-11-10T14:04:39Z","wm-id":905498,"wm-source":"https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/105185266968641437/47168","wm-target":"https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/","like-of":"https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/","wm-property":"like-of","wm-private":false}'
+- url: https://hackers.town/@randomgeek/105185266968641437#favorited-by-108759
+  author_name: Bascht
+  author_url: https://social.yakshed.org/@bascht
+  author_photo: https://webmention.io/avatar/hackers.town/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/
+  h-type: entry
+  private: false
+  received: 2020-11-10 14:04:40.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Bascht","photo":"https://webmention.io/avatar/hackers.town/c38d71338cbad383865d4cd6aa7cdf8f8b5d3e8b412af6ab8e02e9c8b1506812.jpg","url":"https://social.yakshed.org/@bascht"},"url":"https://hackers.town/@randomgeek/105185266968641437#favorited-by-108759","published":null,"wm-received":"2020-11-10T14:04:40Z","wm-id":905499,"wm-source":"https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/105185266968641437/108759","wm-target":"https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/","like-of":"https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/","wm-property":"like-of","wm-private":false}'
+- url: https://lobste.rs/s/fn9dss
+  author_name: bcongdon
+  author_url: https://lobste.rs/u/bcongdon
+  author_photo: ''
+  class: repost-of
+  entry_url: https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/
+  h-type: entry
+  private: false
+  received: 2020-11-11 15:45:36.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"bcongdon","photo":"","url":"https://lobste.rs/u/bcongdon"},"url":"https://lobste.rs/s/fn9dss","published":null,"wm-received":"2020-11-11T15:45:36Z","wm-id":906790,"wm-source":"https://lobste.rs/s/fn9dss","wm-target":"https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/","repost-of":"https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/","wm-property":"repost-of","wm-private":false}'
+- url: https://twitter.com/lobsters/status/1326559131495325697
+  author_name: Lobsters
+  author_url: https://twitter.com/lobsters
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e3268170b54c9161a592561cbf819dacf562412f24ea1437f5afa36fc4f69bba.jpg
+  class: mention-of
+  entry_url: https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/
+  h-type: entry
+  private: false
+  received: 2020-11-11 16:32:46.000000000 Z
+  published: 2020-11-11 16:15:17.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Lobsters","photo":"https://webmention.io/avatar/pbs.twimg.com/e3268170b54c9161a592561cbf819dacf562412f24ea1437f5afa36fc4f69bba.jpg","url":"https://twitter.com/lobsters"},"url":"https://twitter.com/lobsters/status/1326559131495325697","published":"2020-11-11T16:15:17+00:00","wm-received":"2020-11-11T16:32:46Z","wm-id":906866,"wm-source":"https://brid-gy.appspot.com/post/twitter/brianwisti/1326559131495325697","wm-target":"https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/","content":{"html":"Using
+    the <a href=\"http://Webmention.io\">Webmention.io</a> API\n<a href=\"https://lobste.rs/s/fn9dss\">lobste.rs/s/fn9dss</a>
+    <a href=\"https://twitter.com/search?q=%23web\">#web</a>\n<a href=\"https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/\">randomgeekery.org/post/2020/11/u…</a>\n\n<a
+    class=\"u-mention\" href=\"http://webmention.io/\"></a>\n<a class=\"u-mention\"
+    href=\"https://webmention.io/\"></a>","text":"Using the Webmention.io API\nlobste.rs/s/fn9dss
+    #web\nrandomgeekery.org/post/2020/11/u…"},"mention-of":"https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/","wm-property":"mention-of","wm-private":false}'
+  content:
+    html: |-
+      Using the <a href="http://Webmention.io">Webmention.io</a> API
+      <a href="https://lobste.rs/s/fn9dss">lobste.rs/s/fn9dss</a> <a href="https://twitter.com/search?q=%23web">#web</a>
+      <a href="https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/">randomgeekery.org/post/2020/11/u…</a>
+
+      <a class="u-mention" href="http://webmention.io/"></a>
+      <a class="u-mention" href="https://webmention.io/"></a>
+    text: |-
+      Using the Webmention.io API
+      lobste.rs/s/fn9dss #web
+      randomgeekery.org/post/2020/11/u…
+- url: https://twitter.com/brianwisti/status/1326091836738461696#favorited-by-777135009933262849
+  author_name: HTTPie
+  author_url: https://twitter.com/httpie
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/0a878f671ec0e412b958e000729c258c39b0041b297670c1a0393ad95a8f42ca.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/
+  h-type: entry
+  private: false
+  received: 2020-11-11 18:18:38.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"HTTPie","photo":"https://webmention.io/avatar/pbs.twimg.com/0a878f671ec0e412b958e000729c258c39b0041b297670c1a0393ad95a8f42ca.jpg","url":"https://twitter.com/httpie"},"url":"https://twitter.com/brianwisti/status/1326091836738461696#favorited-by-777135009933262849","published":null,"wm-received":"2020-11-11T18:18:38Z","wm-id":906936,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1326091836738461696/777135009933262849","wm-target":"https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/","like-of":"https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/","wm-property":"like-of","wm-private":false}'

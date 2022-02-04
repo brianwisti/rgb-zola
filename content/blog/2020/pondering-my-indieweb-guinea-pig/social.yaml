@@ -1,0 +1,106 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104108152121137583
+  twitter: https://twitter.com/brianwisti/status/1257156355573428224
+entry_path: content/note/2020/05/pondering-my-indieweb-guinea-pig/index.md
+permalink: "/note/2020/05/pondering-my-indieweb-guinea-pig/"
+responses:
+- author_name: ''
+  author_photo: ''
+  author_url: ''
+  class: like-of
+  content:
+    html:
+    text: 'Liked: Pondering My Indieweb Guinea Pig, by Brian Wisti'
+  entry_url: "/note/2020/05/pondering-my-indieweb-guinea-pig/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-07 17:00:00.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "", "photo": "", "url":
+    ""}, "url": "https://jmac.org/notes/hi-brian.html", "published": "2020-05-08T00:00:00",
+    "wm-received": "2020-05-08T21:37:15Z", "wm-id": 794424, "wm-source": "https://jmac.org/notes/hi-brian.html",
+    "wm-target": "https://randomgeekery.org/note/2020/05/pondering-my-indieweb-guinea-pig/",
+    "content": {"text": "Liked: Pondering My Indieweb Guinea Pig, by Brian Wisti"},
+    "like-of": "https://randomgeekery.org/note/2020/05/pondering-my-indieweb-guinea-pig/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-08 14:37:15.000000000 -07:00
+  url: https://jmac.org/notes/hi-brian.html
+- author_name: Grey
+  author_photo: https://webmention.io/avatar/hackers.town/ffc7bbc4a190f9f6796477b075fa789115617ba4ad260066914defbd2af0401f.jpg
+  author_url: https://wandering.shop/@hummingrain
+  class: repost-of
+  entry_url: "/note/2020/05/pondering-my-indieweb-guinea-pig/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Grey", "photo": "https://webmention.io/avatar/hackers.town/ffc7bbc4a190f9f6796477b075fa789115617ba4ad260066914defbd2af0401f.jpg",
+    "url": "https://wandering.shop/@hummingrain"}, "url": "https://hackers.town/@randomgeek/104108152121137583#reblogged-by-1963",
+    "published": null, "wm-received": "2020-05-04T04:08:29Z", "wm-id": 792209, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/104108152121137583/1963",
+    "wm-target": "https://randomgeekery.org/note/2020/05/pondering-my-indieweb-guinea-pig/",
+    "repost-of": "https://randomgeekery.org/note/2020/05/pondering-my-indieweb-guinea-pig/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-05-03 21:08:29.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104108152121137583#reblogged-by-1963
+- author_name: Grey
+  author_photo: https://webmention.io/avatar/hackers.town/ffc7bbc4a190f9f6796477b075fa789115617ba4ad260066914defbd2af0401f.jpg
+  author_url: https://wandering.shop/@hummingrain
+  class: like-of
+  entry_url: "/note/2020/05/pondering-my-indieweb-guinea-pig/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Grey", "photo": "https://webmention.io/avatar/hackers.town/ffc7bbc4a190f9f6796477b075fa789115617ba4ad260066914defbd2af0401f.jpg",
+    "url": "https://wandering.shop/@hummingrain"}, "url": "https://hackers.town/@randomgeek/104108152121137583#favorited-by-1963",
+    "published": null, "wm-received": "2020-05-04T04:08:29Z", "wm-id": 792210, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104108152121137583/1963",
+    "wm-target": "https://randomgeekery.org/note/2020/05/pondering-my-indieweb-guinea-pig/",
+    "like-of": "https://randomgeekery.org/note/2020/05/pondering-my-indieweb-guinea-pig/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-03 21:08:29.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104108152121137583#favorited-by-1963
+- author_name: JP
+  author_photo: https://webmention.io/avatar/hackers.town/d9957ab4b4b33f76ab301d61befea812ebb5ae42f7ff92c051910567be99bf76.png
+  author_url: https://hackers.town/@pixelpaperyarn
+  class: like-of
+  entry_url: "/note/2020/05/pondering-my-indieweb-guinea-pig/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "JP", "photo": "https://webmention.io/avatar/hackers.town/d9957ab4b4b33f76ab301d61befea812ebb5ae42f7ff92c051910567be99bf76.png",
+    "url": "https://hackers.town/@pixelpaperyarn"}, "url": "https://hackers.town/@randomgeek/104108152121137583#favorited-by-44797",
+    "published": null, "wm-received": "2020-05-04T04:55:27Z", "wm-id": 792238, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104108152121137583/44797",
+    "wm-target": "https://randomgeekery.org/note/2020/05/pondering-my-indieweb-guinea-pig/",
+    "like-of": "https://randomgeekery.org/note/2020/05/pondering-my-indieweb-guinea-pig/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-03 21:55:27.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104108152121137583#favorited-by-44797
+- author_name: "Dave @ Home \U0001F637"
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg
+  author_url: https://twitter.com/JacobyDave
+  class: like-of
+  entry_url: "/note/2020/05/pondering-my-indieweb-guinea-pig/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Dave @ Home \ud83d\ude37",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg",
+    "url": "https://twitter.com/JacobyDave"}, "url": "https://twitter.com/brianwisti/status/1257156355573428224#favorited-by-15087660",
+    "published": null, "wm-received": "2020-05-04T05:36:37Z", "wm-id": 792255, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1257156355573428224/15087660",
+    "wm-target": "https://randomgeekery.org/note/2020/05/pondering-my-indieweb-guinea-pig/",
+    "like-of": "https://randomgeekery.org/note/2020/05/pondering-my-indieweb-guinea-pig/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-03 22:36:37.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1257156355573428224#favorited-by-15087660

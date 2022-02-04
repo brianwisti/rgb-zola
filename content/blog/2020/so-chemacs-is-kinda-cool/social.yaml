@@ -1,0 +1,264 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104408712351182709
+  twitter: https://twitter.com/brianwisti/status/1276392251489476608
+entry_path: content/note/2020/06/so-chemacs-is-kinda-cool/index.md
+permalink: "/note/2020/06/so-chemacs-is-kinda-cool/"
+responses:
+- author_name: Arne Brasseur
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/189cb3c0f69a929ee75fe2555e93ae4eb1eee3b224383399ed4786135f14da34.jpg
+  author_url: https://twitter.com/plexus
+  class: mention-of
+  content:
+    html: <a href="https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/">randomgeekery.org/note/2020/06/s…</a>
+      &lt;3
+    text: randomgeekery.org/note/2020/06/s… <3
+  entry_url: "/note/2020/06/so-chemacs-is-kinda-cool/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-06-29 01:33:46.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Arne Brasseur", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/189cb3c0f69a929ee75fe2555e93ae4eb1eee3b224383399ed4786135f14da34.jpg",
+    "url": "https://twitter.com/plexus"}, "url": "https://twitter.com/plexus/status/1277520625649754113",
+    "published": "2020-06-29T08:33:46+00:00", "wm-received": "2020-06-29T09:23:37Z",
+    "wm-id": 817429, "wm-source": "https://brid-gy.appspot.com/post/twitter/brianwisti/1277520625649754113",
+    "wm-target": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "content": {"html": "<a href=\"https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/\">randomgeekery.org/note/2020/06/s\u2026</a>
+    &lt;3", "text": "randomgeekery.org/note/2020/06/s\u2026 <3"}, "mention-of": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "wm-property": "mention-of", "wm-private": false}'
+  received: 2020-06-29 02:23:37.000000000 -07:00
+  url: https://twitter.com/plexus/status/1277520625649754113
+- author_name: Jumpei KAWAMI
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/f7486e0fec5fbbceb1015e5ced46affede3864852643a37a2c1d45d6261d91e9.jpg
+  author_url: https://twitter.com/junkw
+  class: repost-of
+  content:
+    html:
+    text: |-
+      I wrote a note:
+
+      so chemacs is kinda cool
+
+      #Emacs #Orgconfig #Blog
+
+      randomgeekery.org/note/2020/06/s…
+  entry_url: "/note/2020/06/so-chemacs-is-kinda-cool/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-06-26 17:40:24.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jumpei KAWAMI", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/f7486e0fec5fbbceb1015e5ced46affede3864852643a37a2c1d45d6261d91e9.jpg",
+    "url": "https://twitter.com/junkw"}, "url": "https://twitter.com/junkw/status/1276676720905633793",
+    "published": "2020-06-27T00:40:24+00:00", "wm-received": "2020-06-27T01:07:34Z",
+    "wm-id": 815998, "wm-source": "https://brid-gy.appspot.com/repost/twitter/brianwisti/1276392251489476608/1276676720905633793",
+    "wm-target": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "content": {"text": "I wrote a note:\n\nso chemacs is kinda cool\n\n#Emacs #Orgconfig
+    #Blog\n\nrandomgeekery.org/note/2020/06/s\u2026"}, "repost-of": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-06-26 18:07:34.000000000 -07:00
+  url: https://twitter.com/junkw/status/1276676720905633793
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      Oh in that case yes it totally is!
+
+      Just give it time before someone adds a chemacs-build installation layer over this.
+      <a class="u-mention" href="https://twitter.com/genehack"></a>
+    text: |-
+      Oh in that case yes it totally is!
+
+      Just give it time before someone adds a chemacs-build installation layer over this.
+  entry_url: "/note/2020/06/so-chemacs-is-kinda-cool/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-06-25 23:02:34.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1276395407703040000",
+    "published": "2020-06-26T06:02:34+00:00", "wm-received": "2020-06-26T06:26:20Z",
+    "wm-id": 815401, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1276392251489476608/1276395407703040000",
+    "wm-target": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "content": {"html": "Oh in that case yes it totally is!\n\nJust give it time before
+    someone adds a chemacs-build installation layer over this.\n<a class=\"u-mention\"
+    href=\"https://twitter.com/genehack\"></a>", "text": "Oh in that case yes it totally
+    is!\n\nJust give it time before someone adds a chemacs-build installation layer
+    over this."}, "in-reply-to": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-06-25 23:26:20.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1276395407703040000
+- author_name: just john sez “Black Lives Matter”
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg
+  author_url: https://twitter.com/genehack
+  class: in-reply-to
+  content:
+    html: |-
+      I don’t think that’s a thing, just trying to analogize to plenv or nvm or pythonenv
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: I don’t think that’s a thing, just trying to analogize to plenv or nvm or
+      pythonenv
+  entry_url: "/note/2020/06/so-chemacs-is-kinda-cool/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-06-25 23:00:15.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "just john sez \u201cBlack
+    Lives Matter\u201d", "photo": "https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg",
+    "url": "https://twitter.com/genehack"}, "url": "https://twitter.com/genehack/status/1276394825462345728",
+    "published": "2020-06-26T06:00:15+00:00", "wm-received": "2020-06-26T06:26:19Z",
+    "wm-id": 815400, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1276392251489476608/1276394825462345728",
+    "wm-target": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "content": {"html": "I don\u2019t think that\u2019s a thing, just trying to analogize
+    to plenv or nvm or pythonenv\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "I
+    don\u2019t think that\u2019s a thing, just trying to analogize to plenv or nvm
+    or pythonenv"}, "in-reply-to": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-06-25 23:26:19.000000000 -07:00
+  url: https://twitter.com/genehack/status/1276394825462345728
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      Lots of noise in web searches for "emacsenv" but I suspect yes!
+      <a class="u-mention" href="https://twitter.com/genehack"></a>
+    text: Lots of noise in web searches for "emacsenv" but I suspect yes!
+  entry_url: "/note/2020/06/so-chemacs-is-kinda-cool/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-06-25 22:58:20.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1276394345747243009",
+    "published": "2020-06-26T05:58:20+00:00", "wm-received": "2020-06-26T06:26:17Z",
+    "wm-id": 815399, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1276392251489476608/1276394345747243009",
+    "wm-target": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "content": {"html": "Lots of noise in web searches for \"emacsenv\" but I suspect
+    yes!\n<a class=\"u-mention\" href=\"https://twitter.com/genehack\"></a>", "text":
+    "Lots of noise in web searches for \"emacsenv\" but I suspect yes!"}, "in-reply-to":
+    "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/", "wm-property":
+    "in-reply-to", "wm-private": false}'
+  received: 2020-06-25 23:26:17.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1276394345747243009
+- author_name: just john sez “Black Lives Matter”
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg
+  author_url: https://twitter.com/genehack
+  class: in-reply-to
+  content:
+    html: |-
+      Is this like emacsenv but on a config level?
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: Is this like emacsenv but on a config level?
+  entry_url: "/note/2020/06/so-chemacs-is-kinda-cool/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-06-25 22:56:15.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "just john sez \u201cBlack
+    Lives Matter\u201d", "photo": "https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg",
+    "url": "https://twitter.com/genehack"}, "url": "https://twitter.com/genehack/status/1276393820272209920",
+    "published": "2020-06-26T05:56:15+00:00", "wm-received": "2020-06-26T06:26:17Z",
+    "wm-id": 815398, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1276392251489476608/1276393820272209920",
+    "wm-target": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "content": {"html": "Is this like emacsenv but on a config level?\n<a class=\"u-mention\"
+    href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>",
+    "text": "Is this like emacsenv but on a config level?"}, "in-reply-to": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-06-25 23:26:17.000000000 -07:00
+  url: https://twitter.com/genehack/status/1276393820272209920
+- author_name: Rohan Verma
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/0f837ee15114873d51d0e2d1f84d30dbc64a85f21e55ea1547f76dd30e8ccef4.jpg
+  author_url: https://twitter.com/rhnvrm
+  class: like-of
+  entry_url: "/note/2020/06/so-chemacs-is-kinda-cool/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Rohan Verma", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/0f837ee15114873d51d0e2d1f84d30dbc64a85f21e55ea1547f76dd30e8ccef4.jpg",
+    "url": "https://twitter.com/rhnvrm"}, "url": "https://twitter.com/brianwisti/status/1276392251489476608#favorited-by-198124406",
+    "published": null, "wm-received": "2020-06-26T06:26:21Z", "wm-id": 815402, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1276392251489476608/198124406",
+    "wm-target": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "like-of": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-06-25 23:26:21.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1276392251489476608#favorited-by-198124406
+- author_name: 'spelk :mxlinux:'
+  author_photo: https://webmention.io/avatar/hackers.town/7389f0b1fe040c5d6f91503c1be849156557e137b92499e93b57a400ea34a844.png
+  author_url: https://linuxrocks.online/@spelk
+  class: repost-of
+  entry_url: "/note/2020/06/so-chemacs-is-kinda-cool/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "spelk :mxlinux:", "photo":
+    "https://webmention.io/avatar/hackers.town/7389f0b1fe040c5d6f91503c1be849156557e137b92499e93b57a400ea34a844.png",
+    "url": "https://linuxrocks.online/@spelk"}, "url": "https://hackers.town/@randomgeek/104408712351182709#reblogged-by-34103",
+    "published": null, "wm-received": "2020-06-26T09:43:29Z", "wm-id": 815457, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/104408712351182709/34103",
+    "wm-target": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "repost-of": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-06-26 02:43:29.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104408712351182709#reblogged-by-34103
+- author_name: Bryan Riddle
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/355944f052cf4a4dc7c13de350bdf9e16dbc6bd0c68663c2c9cd4a97d5834ddf.jpg
+  author_url: https://twitter.com/bryanlovesdata
+  class: like-of
+  entry_url: "/note/2020/06/so-chemacs-is-kinda-cool/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Bryan Riddle", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/355944f052cf4a4dc7c13de350bdf9e16dbc6bd0c68663c2c9cd4a97d5834ddf.jpg",
+    "url": "https://twitter.com/bryanlovesdata"}, "url": "https://twitter.com/brianwisti/status/1276392251489476608#favorited-by-92922097",
+    "published": null, "wm-received": "2020-06-26T12:51:54Z", "wm-id": 815557, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1276392251489476608/92922097",
+    "wm-target": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "like-of": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-06-26 05:51:54.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1276392251489476608#favorited-by-92922097
+- author_name: Nsukami _ | 巣神
+  author_photo: https://webmention.io/avatar/hackers.town/b943eba65ed1cb8da87066a2418cb404b1f34c1651a4e3486101f40a8723d47c.jpg
+  author_url: https://mastodon.social/@lemeteore
+  class: like-of
+  entry_url: "/note/2020/06/so-chemacs-is-kinda-cool/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Nsukami _ | \u5de3\u795e",
+    "photo": "https://webmention.io/avatar/hackers.town/b943eba65ed1cb8da87066a2418cb404b1f34c1651a4e3486101f40a8723d47c.jpg",
+    "url": "https://mastodon.social/@lemeteore"}, "url": "https://hackers.town/@randomgeek/104408712351182709#favorited-by-17512",
+    "published": null, "wm-received": "2020-06-27T20:15:18Z", "wm-id": 816748, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104408712351182709/17512",
+    "wm-target": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "like-of": "https://randomgeekery.org/note/2020/06/so-chemacs-is-kinda-cool/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-06-27 13:15:18.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104408712351182709#favorited-by-17512

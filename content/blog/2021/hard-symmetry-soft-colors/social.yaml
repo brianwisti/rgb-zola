@@ -1,0 +1,51 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/105844728472378654
+  twitter: https://twitter.com/brianwisti/status/1368297149218369540
+entry_path: content/post/2021/03-hard-symmetry-soft-colors/index.adoc.txt
+permalink: "/post/2021/03/hard-symmetry-soft-colors/"
+responses:
+- url: https://twitter.com/brianwisti/status/1368297149218369540#favorited-by-15770872
+  author_name: Naomi Parkhurst
+  author_url: https://twitter.com/naogannet
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e4076874b3f1b5478c18e6910c119d29e344904c598f041c0ad7466080938952.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/03/hard-symmetry-soft-colors/
+  h-type: entry
+  private: false
+  received: 2021-03-06 22:00:29.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Naomi Parkhurst","photo":"https://webmention.io/avatar/pbs.twimg.com/e4076874b3f1b5478c18e6910c119d29e344904c598f041c0ad7466080938952.jpg","url":"https://twitter.com/naogannet"},"url":"https://twitter.com/brianwisti/status/1368297149218369540#favorited-by-15770872","published":null,"wm-received":"2021-03-06T22:00:29Z","wm-id":1059809,"wm-source":"https://brid.gy/like/twitter/brianwisti/1368297149218369540/15770872","wm-target":"https://randomgeekery.org/post/2021/03/hard-symmetry-soft-colors/","like-of":"https://randomgeekery.org/post/2021/03/hard-symmetry-soft-colors/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1368297149218369540#favorited-by-3091899947
+  author_name: Haya
+  author_url: https://twitter.com/Sihayanami
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/c21bfd2febfbabdd0ea55af7f42a8b410d277dd83bae75a7a50a43189f3a6525.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/03/hard-symmetry-soft-colors/
+  h-type: entry
+  private: false
+  received: 2021-03-06 23:35:20.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Haya","photo":"https://webmention.io/avatar/pbs.twimg.com/c21bfd2febfbabdd0ea55af7f42a8b410d277dd83bae75a7a50a43189f3a6525.jpg","url":"https://twitter.com/Sihayanami"},"url":"https://twitter.com/brianwisti/status/1368297149218369540#favorited-by-3091899947","published":null,"wm-received":"2021-03-06T23:35:20Z","wm-id":1059828,"wm-source":"https://brid.gy/like/twitter/brianwisti/1368297149218369540/3091899947","wm-target":"https://randomgeekery.org/post/2021/03/hard-symmetry-soft-colors/","like-of":"https://randomgeekery.org/post/2021/03/hard-symmetry-soft-colors/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/tomivek/status/1368350960649707520
+  author_name: Tomislav Ivek
+  author_url: https://twitter.com/tomivek
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/537b28c00266c9c788fcc38b6dda846d93fd78485bc8c7a519c0f2d514d8e041.jpg
+  class: repost-of
+  entry_url: https://randomgeekery.org/post/2021/03/hard-symmetry-soft-colors/
+  h-type: entry
+  private: false
+  received: 2021-03-07 07:39:39.000000000 Z
+  published: 2021-03-07 00:01:06.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Tomislav Ivek","photo":"https://webmention.io/avatar/pbs.twimg.com/537b28c00266c9c788fcc38b6dda846d93fd78485bc8c7a519c0f2d514d8e041.jpg","url":"https://twitter.com/tomivek"},"url":"https://twitter.com/tomivek/status/1368350960649707520","published":"2021-03-07T00:01:06+00:00","wm-received":"2021-03-07T07:39:39Z","wm-id":1060244,"wm-source":"https://brid.gy/repost/twitter/brianwisti/1368297149218369540/1368350960649707520","wm-target":"https://randomgeekery.org/post/2021/03/hard-symmetry-soft-colors/","content":{"text":"Linea
+    needs a time tracker\n\nHard symmetry soft colors\n\n#Drawing #ColorMe #LineaSketch
+    #Blog\n\nrandomgeekery.org/post/2021/03/h…"},"repost-of":"https://randomgeekery.org/post/2021/03/hard-symmetry-soft-colors/","wm-property":"repost-of","wm-private":false}'
+  content:
+    text: |-
+      Linea needs a time tracker
+
+      Hard symmetry soft colors
+
+      #Drawing #ColorMe #LineaSketch #Blog
+
+      randomgeekery.org/post/2021/03/h…

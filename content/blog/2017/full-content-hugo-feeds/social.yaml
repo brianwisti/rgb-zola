@@ -1,0 +1,24 @@
+---
+announcements:
+  twitter: 'twitter: https://twitter.com/brianwisti/status/908887290050527232'
+entry_path: content/post/2017/09/full-content-hugo-feeds/index.adoc.txt
+permalink: "/post/2017/09/full-content-hugo-feeds/"
+responses:
+- author_name: ''
+  author_photo: ''
+  author_url: ''
+  class: mention-of
+  entry_url: "/2017/09/15/full-content-hugo-feeds/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "", "photo": "", "url":
+    ""}, "url": "https://rsscircus.com/les-flux-rss-maintenant-framablog/", "published":
+    null, "wm-received": "2020-07-19T16:43:45Z", "wm-id": 828813, "wm-source": "https://rsscircus.com/les-flux-rss-maintenant-framablog/",
+    "wm-target": "https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/",
+    "mention-of": "https://randomgeekery.org/2017/09/15/full-content-hugo-feeds/",
+    "wm-property": "mention-of", "wm-private": false}'
+  received: 2020-07-19 09:43:45.000000000 -07:00
+  url: https://rsscircus.com/les-flux-rss-maintenant-framablog/

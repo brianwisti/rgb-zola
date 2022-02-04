@@ -1,0 +1,133 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104922899732655803
+  twitter: https://twitter.com/brianwisti/status/1309300270313152513
+entry_path: content/note/2020/09/i-have-a-society6-shop/index.md
+permalink: "/note/2020/09/i-have-a-society6-shop/"
+responses:
+- author_name: Random Geek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  author_url: https://hackers.town/@randomgeek
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://wandering.shop/@hummingrain" class="u-url">@<span>hummingrain</span></a></span>
+      Mind you my design is available on a credenza because I clicked the credenza
+      button.</p><p>But I clicked the credenza button because they had it there.</p>
+    text: "@hummingrain Mind you my design is available on a credenza because I clicked
+      the credenza button.But I clicked the credenza button because they had it there."
+  entry_url: "/note/2020/09/i-have-a-society6-shop/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-09-24 18:52:37.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Random Geek", "photo":
+    "https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png",
+    "url": "https://hackers.town/@randomgeek"}, "url": "https://hackers.town/@randomgeek/104923054533234599",
+    "published": "2020-09-25T01:52:37", "wm-received": "2020-09-25T19:52:53Z", "wm-id":
+    857782, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104922899732655803/104923054533234599",
+    "wm-target": "https://randomgeekery.org/note/2020/09/i-have-a-society6-shop/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://wandering.shop/@hummingrain\"
+    class=\"u-url\">@<span>hummingrain</span></a></span> Mind you my design is available
+    on a credenza because I clicked the credenza button.</p><p>But I clicked the credenza
+    button because they had it there.</p>", "text": "@hummingrain Mind you my design
+    is available on a credenza because I clicked the credenza button.But I clicked
+    the credenza button because they had it there."}, "in-reply-to": "https://randomgeekery.org/note/2020/09/i-have-a-society6-shop/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-09-25 12:52:53.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104923054533234599
+- author_name: Random Geek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  author_url: https://hackers.town/@randomgeek
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://wandering.shop/@hummingrain" class="u-url">@<span>hummingrain</span></a></span>
+      It caught my attention. Which probably makes sense.</p>
+    text: "@hummingrain It caught my attention. Which probably makes sense."
+  entry_url: "/note/2020/09/i-have-a-society6-shop/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-09-24 18:26:58.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Random Geek", "photo":
+    "https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png",
+    "url": "https://hackers.town/@randomgeek"}, "url": "https://hackers.town/@randomgeek/104922953719420926",
+    "published": "2020-09-25T01:26:58", "wm-received": "2020-09-25T19:52:26Z", "wm-id":
+    857781, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104922899732655803/104922953719420926",
+    "wm-target": "https://randomgeekery.org/note/2020/09/i-have-a-society6-shop/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://wandering.shop/@hummingrain\"
+    class=\"u-url\">@<span>hummingrain</span></a></span> It caught my attention. Which
+    probably makes sense.</p>", "text": "@hummingrain It caught my attention. Which
+    probably makes sense."}, "in-reply-to": "https://randomgeekery.org/note/2020/09/i-have-a-society6-shop/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-09-25 12:52:26.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104922953719420926
+- author_name: Grey
+  author_photo: https://webmention.io/avatar/hackers.town/ffc7bbc4a190f9f6796477b075fa789115617ba4ad260066914defbd2af0401f.jpg
+  author_url: https://wandering.shop/@hummingrain
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      Read the post, thought you were kidding about the credenza.</p><p>You were,
+      in fact, not kidding o_O</p>
+    text: "@randomgeek Read the post, thought you were kidding about the credenza.You
+      were, in fact, not kidding o_O"
+  entry_url: "/note/2020/09/i-have-a-society6-shop/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-09-24 18:25:04.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Grey", "photo": "https://webmention.io/avatar/hackers.town/ffc7bbc4a190f9f6796477b075fa789115617ba4ad260066914defbd2af0401f.jpg",
+    "url": "https://wandering.shop/@hummingrain"}, "url": "https://wandering.shop/@hummingrain/104922946241295593",
+    "published": "2020-09-25T01:25:04", "wm-received": "2020-09-25T19:52:25Z", "wm-id":
+    857780, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104922899732655803/104922946265953659",
+    "wm-target": "https://randomgeekery.org/note/2020/09/i-have-a-society6-shop/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> Read the post, thought you
+    were kidding about the credenza.</p><p>You were, in fact, not kidding o_O</p>",
+    "text": "@randomgeek Read the post, thought you were kidding about the credenza.You
+    were, in fact, not kidding o_O"}, "in-reply-to": "https://randomgeekery.org/note/2020/09/i-have-a-society6-shop/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-09-25 12:52:25.000000000 -07:00
+  url: https://wandering.shop/@hummingrain/104922946241295593
+- author_name: CAOMouse
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/4758c331de1e21a4779071e8e3e6c343ed01bfb8378a1953d074ad940b3b5a7e.jpg
+  author_url: https://twitter.com/MouseCao
+  class: like-of
+  entry_url: "/note/2020/09/i-have-a-society6-shop/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "CAOMouse", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/4758c331de1e21a4779071e8e3e6c343ed01bfb8378a1953d074ad940b3b5a7e.jpg",
+    "url": "https://twitter.com/MouseCao"}, "url": "https://twitter.com/brianwisti/status/1309300270313152513#favorited-by-1163423463731712000",
+    "published": null, "wm-received": "2020-09-25T02:04:50Z", "wm-id": 857244, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1309300270313152513/1163423463731712000",
+    "wm-target": "https://randomgeekery.org/note/2020/09/i-have-a-society6-shop/",
+    "like-of": "https://randomgeekery.org/note/2020/09/i-have-a-society6-shop/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-09-24 19:04:50.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1309300270313152513#favorited-by-1163423463731712000
+- author_name: Yanick
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg
+  author_url: https://twitter.com/yenzie
+  class: like-of
+  entry_url: "/note/2020/09/i-have-a-society6-shop/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Yanick", "photo": "https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg",
+    "url": "https://twitter.com/yenzie"}, "url": "https://twitter.com/brianwisti/status/1309300270313152513#favorited-by-18431216",
+    "published": null, "wm-received": "2020-09-25T03:11:02Z", "wm-id": 857325, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1309300270313152513/18431216",
+    "wm-target": "https://randomgeekery.org/note/2020/09/i-have-a-society6-shop/",
+    "like-of": "https://randomgeekery.org/note/2020/09/i-have-a-society6-shop/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-09-24 20:11:02.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1309300270313152513#favorited-by-18431216

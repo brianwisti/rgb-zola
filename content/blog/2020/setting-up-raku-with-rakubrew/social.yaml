@@ -1,0 +1,465 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104197809035525306
+  twitter: https://twitter.com/brianwisti/status/1262894396938293249
+entry_path: content/post/2020/05-setting-up-raku-with-rakubrew/index.md
+permalink: "/post/2020/05/setting-up-raku-with-rakubrew/"
+responses:
+- author_name: ''
+  author_photo: ''
+  author_url: ''
+  class: mention-of
+  entry_url: "/post/2020/05/setting-up-raku-with-rakubrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "", "photo": "", "url":
+    ""}, "url": "http://rakudoweekly.blog/2020/06/01/2020-21-22-four-by-wenzel/",
+    "published": null, "wm-received": "2020-06-01T11:39:33Z", "wm-id": 804653, "wm-source":
+    "http://rakudoweekly.blog/2020/06/01/2020-21-22-four-by-wenzel/", "wm-target":
+    "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakubrew/", "mention-of":
+    "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakubrew/", "wm-property":
+    "mention-of", "wm-private": false, "rels": {"canonical": "https://rakudoweekly.blog/2020/06/01/2020-21-22-four-by-wenzel/"}}'
+  received: 2020-06-01 04:39:33.000000000 -07:00
+  url: https://rakudoweekly.blog/2020/06/01/2020-21-22-four-by-wenzel/
+- author_name: Raku programming language newsfeed
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/6f03f07d19c56c610d7b553b4dc2d96b46dd05eacb9b800ed537f64dc47db60b.jpg
+  author_url: https://twitter.com/raku_news
+  class: repost-of
+  content:
+    html:
+    text: |-
+      Rakudobrew changed its name since last I looked
+
+      Setting up Raku with Rakudobrew
+
+      #Rakulang #Blog
+
+      randomgeekery.org/post/2020/05/s…
+  entry_url: "/post/2020/05/setting-up-raku-with-rakudobrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-20 00:23:27.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Raku programming language
+    newsfeed", "photo": "https://webmention.io/avatar/pbs.twimg.com/6f03f07d19c56c610d7b553b4dc2d96b46dd05eacb9b800ed537f64dc47db60b.jpg",
+    "url": "https://twitter.com/raku_news"}, "url": "https://twitter.com/raku_news/status/1263007413663338497",
+    "published": "2020-05-20T07:23:27+00:00", "wm-received": "2020-05-20T17:17:30Z",
+    "wm-id": 799029, "wm-source": "https://brid-gy.appspot.com/repost/twitter/brianwisti/1262894396938293249/1263007413663338497",
+    "wm-target": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "content": {"text": "Rakudobrew changed its name since last I looked\n\nSetting
+    up Raku with Rakudobrew\n\n#Rakulang #Blog\n\nrandomgeekery.org/post/2020/05/s\u2026"},
+    "repost-of": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-05-20 10:17:30.000000000 -07:00
+  url: https://twitter.com/raku_news/status/1263007413663338497
+- author_name: Elizabeth Mattijsen
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/1dd430d754c98617244bd43c319ab81629490eb0c227fa2acabe49f899364e52.jpg
+  author_url: https://twitter.com/liztormato
+  class: repost-of
+  content:
+    html:
+    text: |-
+      Rakudobrew changed its name since last I looked
+
+      Setting up Raku with Rakudobrew
+
+      #Rakulang #Blog
+
+      randomgeekery.org/post/2020/05/s…
+  entry_url: "/post/2020/05/setting-up-raku-with-rakudobrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-20 00:21:04.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Elizabeth Mattijsen",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/1dd430d754c98617244bd43c319ab81629490eb0c227fa2acabe49f899364e52.jpg",
+    "url": "https://twitter.com/liztormato"}, "url": "https://twitter.com/liztormato/status/1263006814406393856",
+    "published": "2020-05-20T07:21:04+00:00", "wm-received": "2020-05-20T17:07:44Z",
+    "wm-id": 798989, "wm-source": "https://brid-gy.appspot.com/repost/twitter/brianwisti/1262894396938293249/1263006814406393856",
+    "wm-target": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "content": {"text": "Rakudobrew changed its name since last I looked\n\nSetting
+    up Raku with Rakudobrew\n\n#Rakulang #Blog\n\nrandomgeekery.org/post/2020/05/s\u2026"},
+    "repost-of": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-05-20 10:07:44.000000000 -07:00
+  url: https://twitter.com/liztormato/status/1263006814406393856
+- author_name: nikosv
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/dc24a5a3d163b29db8b19af1583b4d34bab789f7e8986a7688c58b6141c0b2ad.jpg
+  author_url: https://twitter.com/nikosvg
+  class: repost-of
+  content:
+    html:
+    text: |-
+      Rakudobrew changed its name since last I looked
+
+      Setting up Raku with Rakudobrew
+
+      #Rakulang #Blog
+
+      randomgeekery.org/post/2020/05/s…
+  entry_url: "/post/2020/05/setting-up-raku-with-rakudobrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-20 00:15:41.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "nikosv", "photo": "https://webmention.io/avatar/pbs.twimg.com/dc24a5a3d163b29db8b19af1583b4d34bab789f7e8986a7688c58b6141c0b2ad.jpg",
+    "url": "https://twitter.com/nikosvg"}, "url": "https://twitter.com/nikosvg/status/1263005459155312640",
+    "published": "2020-05-20T07:15:41+00:00", "wm-received": "2020-05-20T17:41:45Z",
+    "wm-id": 799057, "wm-source": "https://brid-gy.appspot.com/repost/twitter/brianwisti/1262894396938293249/1263005459155312640",
+    "wm-target": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "content": {"text": "Rakudobrew changed its name since last I looked\n\nSetting
+    up Raku with Rakudobrew\n\n#Rakulang #Blog\n\nrandomgeekery.org/post/2020/05/s\u2026"},
+    "repost-of": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-05-20 10:41:45.000000000 -07:00
+  url: https://twitter.com/nikosvg/status/1263005459155312640
+- author_name: CMDR Yojimbosan [UTC+13]
+  author_photo: https://webmention.io/avatar/hackers.town/af34e38c6df11aaf16f7a3901f0aab2b9aada2b6a4263fd5501a793852b4a024.jpg
+  author_url: https://hackers.town/@yojimbo
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      Well, if you cared, the first step would be to verify that the server is sending
+      what you'd hope ...<br /><code>$ openssl s_client -showcerts -servername rakubrew.org
+      -connect rakubrew.org:443</code></p><p>ooh, very interesting ... </p><pre><code>depth=2
+      O = Digital Signature Trust Co., CN = DST Root CA X3<br />verify return:1<br
+      />depth=1 C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3<br />verify
+      return:1<br />depth=0 CN = rakubrew.org<br />verify error:num=10:certificate
+      has expired<br />notAfter=May 11 22:15:30 2020 GMT<br />verify return:1<br />depth=0
+      CN = rakubrew.org<br />notAfter=May 11 22:15:30 2020 GMT<br />verify return:1<br
+      /></code></pre><p>Their cert has expired :-)</p>
+    text: |-
+      @randomgeek Well, if you cared, the first step would be to verify that the server is sending what you'd hope ...
+      $ openssl s_client -showcerts -servername rakubrew.org -connect rakubrew.org:443ooh, very interesting ... depth=2 O = Digital Signature Trust Co., CN = DST Root CA X3
+      verify return:1
+      depth=1 C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+      verify return:1
+      depth=0 CN = rakubrew.org
+      verify error:num=10:certificate has expired
+      notAfter=May 11 22:15:30 2020 GMT
+      verify return:1
+      depth=0 CN = rakubrew.org
+      notAfter=May 11 22:15:30 2020 GMT
+      verify return:1
+      Their cert has expired :-)
+  entry_url: "/post/2020/05/setting-up-raku-with-rakudobrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-19 22:00:20.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "CMDR Yojimbosan [UTC+13]",
+    "photo": "https://webmention.io/avatar/hackers.town/af34e38c6df11aaf16f7a3901f0aab2b9aada2b6a4263fd5501a793852b4a024.jpg",
+    "url": "https://hackers.town/@yojimbo"}, "url": "https://hackers.town/@yojimbo/104199016924331757",
+    "published": "2020-05-20T05:00:20", "wm-received": "2020-05-20T17:40:41Z", "wm-id":
+    799054, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104197809035525306/104199016924331757",
+    "wm-target": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> Well, if you cared, the first
+    step would be to verify that the server is sending what you''d hope ...<br /><code>$
+    openssl s_client -showcerts -servername rakubrew.org -connect rakubrew.org:443</code></p><p>ooh,
+    very interesting ... </p><pre><code>depth=2 O = Digital Signature Trust Co., CN
+    = DST Root CA X3<br />verify return:1<br />depth=1 C = US, O = Let''s Encrypt,
+    CN = Let''s Encrypt Authority X3<br />verify return:1<br />depth=0 CN = rakubrew.org<br
+    />verify error:num=10:certificate has expired<br />notAfter=May 11 22:15:30 2020
+    GMT<br />verify return:1<br />depth=0 CN = rakubrew.org<br />notAfter=May 11 22:15:30
+    2020 GMT<br />verify return:1<br /></code></pre><p>Their cert has expired :-)</p>",
+    "text": "@randomgeek Well, if you cared, the first step would be to verify that
+    the server is sending what you''d hope ...\n$ openssl s_client -showcerts -servername
+    rakubrew.org -connect rakubrew.org:443ooh, very interesting ... depth=2 O = Digital
+    Signature Trust Co., CN = DST Root CA X3\nverify return:1\ndepth=1 C = US, O =
+    Let''s Encrypt, CN = Let''s Encrypt Authority X3\nverify return:1\ndepth=0 CN
+    = rakubrew.org\nverify error:num=10:certificate has expired\nnotAfter=May 11 22:15:30
+    2020 GMT\nverify return:1\ndepth=0 CN = rakubrew.org\nnotAfter=May 11 22:15:30
+    2020 GMT\nverify return:1\nTheir cert has expired :-)"}, "in-reply-to": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-05-20 10:40:41.000000000 -07:00
+  url: https://hackers.town/@yojimbo/104199016924331757
+- author_name: Random Geek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  author_url: https://hackers.town/@randomgeek
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@yojimbo" class="u-url">@<span>yojimbo</span></a></span>
+      No idea. This is on Manjaro, and I think it's the first time I've used curl
+      on this installation. Usually more partial to httpie or wget.</p>
+    text: "@yojimbo No idea. This is on Manjaro, and I think it's the first time I've
+      used curl on this installation. Usually more partial to httpie or wget."
+  entry_url: "/post/2020/05/setting-up-raku-with-rakudobrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-19 21:55:15.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Random Geek", "photo":
+    "https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png",
+    "url": "https://hackers.town/@randomgeek"}, "url": "https://hackers.town/@randomgeek/104198996959693812",
+    "published": "2020-05-20T04:55:15", "wm-received": "2020-05-20T18:06:47Z", "wm-id":
+    799079, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104197809035525306/104198996959693812",
+    "wm-target": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@yojimbo\"
+    class=\"u-url\">@<span>yojimbo</span></a></span> No idea. This is on Manjaro,
+    and I think it''s the first time I''ve used curl on this installation. Usually
+    more partial to httpie or wget.</p>", "text": "@yojimbo No idea. This is on Manjaro,
+    and I think it''s the first time I''ve used curl on this installation. Usually
+    more partial to httpie or wget."}, "in-reply-to": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-05-20 11:06:47.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104198996959693812
+- author_name: CMDR Yojimbosan [UTC+13]
+  author_photo: https://webmention.io/avatar/hackers.town/af34e38c6df11aaf16f7a3901f0aab2b9aada2b6a4263fd5501a793852b4a024.jpg
+  author_url: https://hackers.town/@yojimbo
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      Interested in your failure to curl from rakubrew.org ... my curl is working
+      at the moment, and their cert looks fine ... perhaps your curl or base OS doesn't
+      recognise Let's Encrypt ... your browser is probably using its own list of CAs
+      ...</p>
+    text: "@randomgeek Interested in your failure to curl from rakubrew.org ... my
+      curl is working at the moment, and their cert looks fine ... perhaps your curl
+      or base OS doesn't recognise Let's Encrypt ... your browser is probably using
+      its own list of CAs ..."
+  entry_url: "/post/2020/05/setting-up-raku-with-rakudobrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-19 21:24:07.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "CMDR Yojimbosan [UTC+13]",
+    "photo": "https://webmention.io/avatar/hackers.town/af34e38c6df11aaf16f7a3901f0aab2b9aada2b6a4263fd5501a793852b4a024.jpg",
+    "url": "https://hackers.town/@yojimbo"}, "url": "https://hackers.town/@yojimbo/104198874555480729",
+    "published": "2020-05-20T04:24:07", "wm-received": "2020-05-20T18:06:27Z", "wm-id":
+    799077, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104197809035525306/104198874555480729",
+    "wm-target": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> Interested in your failure
+    to curl from rakubrew.org ... my curl is working at the moment, and their cert
+    looks fine ... perhaps your curl or base OS doesn''t recognise Let''s Encrypt
+    ... your browser is probably using its own list of CAs ...</p>", "text": "@randomgeek
+    Interested in your failure to curl from rakubrew.org ... my curl is working at
+    the moment, and their cert looks fine ... perhaps your curl or base OS doesn''t
+    recognise Let''s Encrypt ... your browser is probably using its own list of CAs
+    ..."}, "in-reply-to": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-05-20 11:06:27.000000000 -07:00
+  url: https://hackers.town/@yojimbo/104198874555480729
+- author_name: chenyf
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/a74f9f183d94865a59621591c817c32af7dea2714ed677544f735cc3366d47e2.jpg
+  author_url: https://twitter.com/ohmyfannnnn
+  class: repost-of
+  content:
+    html:
+    text: |-
+      Rakudobrew changed its name since last I looked
+
+      Setting up Raku with Rakudobrew
+
+      #Rakulang #Blog
+
+      randomgeekery.org/post/2020/05/s…
+  entry_url: "/post/2020/05/setting-up-raku-with-rakudobrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-19 20:03:18.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "chenyf", "photo": "https://webmention.io/avatar/pbs.twimg.com/a74f9f183d94865a59621591c817c32af7dea2714ed677544f735cc3366d47e2.jpg",
+    "url": "https://twitter.com/ohmyfannnnn"}, "url": "https://twitter.com/ohmyfannnnn/status/1262941942637375488",
+    "published": "2020-05-20T03:03:18+00:00", "wm-received": "2020-05-20T17:41:54Z",
+    "wm-id": 799060, "wm-source": "https://brid-gy.appspot.com/repost/twitter/brianwisti/1262894396938293249/1262941942637375488",
+    "wm-target": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "content": {"text": "Rakudobrew changed its name since last I looked\n\nSetting
+    up Raku with Rakudobrew\n\n#Rakulang #Blog\n\nrandomgeekery.org/post/2020/05/s\u2026"},
+    "repost-of": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-05-20 10:41:54.000000000 -07:00
+  url: https://twitter.com/ohmyfannnnn/status/1262941942637375488
+- author_name: Random Geek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  author_url: https://hackers.town/@randomgeek
+  class: in-reply-to
+  content:
+    html: <p>"Don't call it rakudobrew. Don't call it rakudobrew. Don't call it rakudobrew."</p><p>Calls
+      it rakudobrew.</p><p>Typo fixed in URL, but leaving announcement and a redirect
+      entry up so that my shame can burn forever.</p>
+    text: '"Don''t call it rakudobrew. Don''t call it rakudobrew. Don''t call it rakudobrew."Calls
+      it rakudobrew.Typo fixed in URL, but leaving announcement and a redirect entry
+      up so that my shame can burn forever.'
+  entry_url: "/post/2020/05/setting-up-raku-with-rakudobrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-19 18:44:48.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Random Geek", "photo":
+    "https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png",
+    "url": "https://hackers.town/@randomgeek"}, "url": "https://hackers.town/@randomgeek/104198248095496117",
+    "published": "2020-05-20T01:44:48", "wm-received": "2020-05-20T18:06:47Z", "wm-id":
+    799078, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104197809035525306/104198248095496117",
+    "wm-target": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "content": {"html": "<p>\"Don''t call it rakudobrew. Don''t call it rakudobrew.
+    Don''t call it rakudobrew.\"</p><p>Calls it rakudobrew.</p><p>Typo fixed in URL,
+    but leaving announcement and a redirect entry up so that my shame can burn forever.</p>",
+    "text": "\"Don''t call it rakudobrew. Don''t call it rakudobrew. Don''t call it
+    rakudobrew.\"Calls it rakudobrew.Typo fixed in URL, but leaving announcement and
+    a redirect entry up so that my shame can burn forever."}, "in-reply-to": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-05-20 11:06:47.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104198248095496117
+- author_name: The Perl Shop
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/2aa84f96dce1169789d89bdc7f4de3227079ad64f134074ead2d1daf4f1fe3dd.png
+  author_url: https://twitter.com/ThePerlShop
+  class: repost-of
+  content:
+    html:
+    text: |-
+      Rakudobrew changed its name since last I looked
+
+      Setting up Raku with Rakudobrew
+
+      #Rakulang #Blog
+
+      randomgeekery.org/post/2020/05/s…
+  entry_url: "/post/2020/05/setting-up-raku-with-rakudobrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-19 18:10:20.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "The Perl Shop", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/2aa84f96dce1169789d89bdc7f4de3227079ad64f134074ead2d1daf4f1fe3dd.png",
+    "url": "https://twitter.com/ThePerlShop"}, "url": "https://twitter.com/ThePerlShop/status/1262913515720974342",
+    "published": "2020-05-20T01:10:20+00:00", "wm-received": "2020-05-20T17:28:21Z",
+    "wm-id": 799053, "wm-source": "https://brid-gy.appspot.com/repost/twitter/brianwisti/1262894396938293249/1262913515720974342",
+    "wm-target": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "content": {"text": "Rakudobrew changed its name since last I looked\n\nSetting
+    up Raku with Rakudobrew\n\n#Rakulang #Blog\n\nrandomgeekery.org/post/2020/05/s\u2026"},
+    "repost-of": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-05-20 10:28:21.000000000 -07:00
+  url: https://twitter.com/ThePerlShop/status/1262913515720974342
+- author_name: JJ Merelo
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/29cc912517bb4f14e6edeb32899343a56ded6e86d61eb8c8bdb08785c04af5f9.png
+  author_url: https://twitter.com/jjmerelo
+  class: like-of
+  entry_url: "/post/2020/05/setting-up-raku-with-rakudobrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "JJ Merelo", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/29cc912517bb4f14e6edeb32899343a56ded6e86d61eb8c8bdb08785c04af5f9.png",
+    "url": "https://twitter.com/jjmerelo"}, "url": "https://twitter.com/brianwisti/status/1262894396938293249#favorited-by-62963",
+    "published": null, "wm-received": "2020-05-20T17:02:45Z", "wm-id": 798988, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1262894396938293249/62963",
+    "wm-target": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "like-of": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-20 10:02:45.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1262894396938293249#favorited-by-62963
+- author_name: Samuel Chase
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/f90ec00cd027049c19bc7a862264cc4228d9dd0185590459225e4f5514a3ac04.png
+  author_url: https://twitter.com/samebchase
+  class: like-of
+  entry_url: "/post/2020/05/setting-up-raku-with-rakudobrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Samuel Chase", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/f90ec00cd027049c19bc7a862264cc4228d9dd0185590459225e4f5514a3ac04.png",
+    "url": "https://twitter.com/samebchase"}, "url": "https://twitter.com/brianwisti/status/1262894396938293249#favorited-by-2891000857",
+    "published": null, "wm-received": "2020-05-20T17:40:42Z", "wm-id": 799055, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1262894396938293249/2891000857",
+    "wm-target": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "like-of": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-20 10:40:42.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1262894396938293249#favorited-by-2891000857
+- author_name: nikosv
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/dc24a5a3d163b29db8b19af1583b4d34bab789f7e8986a7688c58b6141c0b2ad.jpg
+  author_url: https://twitter.com/nikosvg
+  class: like-of
+  entry_url: "/post/2020/05/setting-up-raku-with-rakudobrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "nikosv", "photo": "https://webmention.io/avatar/pbs.twimg.com/dc24a5a3d163b29db8b19af1583b4d34bab789f7e8986a7688c58b6141c0b2ad.jpg",
+    "url": "https://twitter.com/nikosvg"}, "url": "https://twitter.com/brianwisti/status/1262894396938293249#favorited-by-60492755",
+    "published": null, "wm-received": "2020-05-20T17:41:45Z", "wm-id": 799058, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1262894396938293249/60492755",
+    "wm-target": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "like-of": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-20 10:41:45.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1262894396938293249#favorited-by-60492755
+- author_name: Elizabeth Mattijsen
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/1dd430d754c98617244bd43c319ab81629490eb0c227fa2acabe49f899364e52.jpg
+  author_url: https://twitter.com/liztormato
+  class: like-of
+  entry_url: "/post/2020/05/setting-up-raku-with-rakudobrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Elizabeth Mattijsen",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/1dd430d754c98617244bd43c319ab81629490eb0c227fa2acabe49f899364e52.jpg",
+    "url": "https://twitter.com/liztormato"}, "url": "https://twitter.com/brianwisti/status/1262894396938293249#favorited-by-1184431119162400768",
+    "published": null, "wm-received": "2020-05-20T17:41:53Z", "wm-id": 799059, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1262894396938293249/1184431119162400768",
+    "wm-target": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "like-of": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-20 10:41:53.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1262894396938293249#favorited-by-1184431119162400768
+- author_name: chenyf
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/a74f9f183d94865a59621591c817c32af7dea2714ed677544f735cc3366d47e2.jpg
+  author_url: https://twitter.com/ohmyfannnnn
+  class: like-of
+  entry_url: "/post/2020/05/setting-up-raku-with-rakudobrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "chenyf", "photo": "https://webmention.io/avatar/pbs.twimg.com/a74f9f183d94865a59621591c817c32af7dea2714ed677544f735cc3366d47e2.jpg",
+    "url": "https://twitter.com/ohmyfannnnn"}, "url": "https://twitter.com/brianwisti/status/1262894396938293249#favorited-by-855630327917813760",
+    "published": null, "wm-received": "2020-05-20T17:42:08Z", "wm-id": 799061, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1262894396938293249/855630327917813760",
+    "wm-target": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "like-of": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-20 10:42:08.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1262894396938293249#favorited-by-855630327917813760
+- author_name: Jason A. Crome
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/78fda00202c56a43c78a86f9db977e1b684bd12b5f417f6a11ec3eb4d6fa8a12.jpg
+  author_url: https://twitter.com/cromedome
+  class: like-of
+  entry_url: "/post/2020/05/setting-up-raku-with-rakudobrew/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jason A. Crome", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/78fda00202c56a43c78a86f9db977e1b684bd12b5f417f6a11ec3eb4d6fa8a12.jpg",
+    "url": "https://twitter.com/cromedome"}, "url": "https://twitter.com/brianwisti/status/1262894396938293249#favorited-by-688803",
+    "published": null, "wm-received": "2020-05-20T17:46:16Z", "wm-id": 799065, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1262894396938293249/688803",
+    "wm-target": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "like-of": "https://randomgeekery.org/post/2020/05/setting-up-raku-with-rakudobrew/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-20 10:46:16.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1262894396938293249#favorited-by-688803

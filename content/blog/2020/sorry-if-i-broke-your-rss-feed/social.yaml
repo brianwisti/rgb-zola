@@ -1,0 +1,27 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104091857621659423
+  twitter: https://twitter.com/brianwisti/status/1256113578995847173
+entry_path: content/note/2020/04/sorry-if-i-broke-your-rss-feed/index.md
+permalink: "/note/2020/04/sorry-if-i-broke-your-rss-feed/"
+responses:
+- author_name: 'Chris :budgieubuntu: :flag_nl:'
+  author_photo: https://webmention.io/avatar/hackers.town/77b516d59f73cd5ec08cfd046220cfd82d1d2d03809f00dcd6997e3f217e7f1c.png
+  author_url: https://fosstodon.org/@RyuKurisu
+  class: like-of
+  entry_url: "/note/2020/04/sorry-if-i-broke-your-rss-feed/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Chris :budgieubuntu:
+    :flag_nl:", "photo": "https://webmention.io/avatar/hackers.town/77b516d59f73cd5ec08cfd046220cfd82d1d2d03809f00dcd6997e3f217e7f1c.png",
+    "url": "https://fosstodon.org/@RyuKurisu"}, "url": "https://hackers.town/@randomgeek/104091857621659423#favorited-by-13968",
+    "published": null, "wm-received": "2020-05-01T08:47:28Z", "wm-id": 790096, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104091857621659423/13968",
+    "wm-target": "https://randomgeekery.org/note/2020/04/sorry-if-i-broke-your-rss-feed/",
+    "like-of": "https://randomgeekery.org/note/2020/04/sorry-if-i-broke-your-rss-feed/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-01 01:47:28.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104091857621659423#favorited-by-13968

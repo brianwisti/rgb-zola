@@ -1,0 +1,27 @@
+---
+announcements:
+  mastodon: https https://hackers.town/@randomgeek/104401357678850511
+  twitter: https://twitter.com/brianwisti/status/1275921591453585421
+entry_path: content/note/2020/06/deidres-juneuary-hat/index.md
+permalink: "/note/2020/06/deidres-juneuary-hat/"
+responses:
+- author_name: Patrick Fitzgerald
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/649bd1fcea6d780718e7e5a5cf87802e20134ca1499fb02eacb0d4dc9bfcdcec.jpg
+  author_url: https://twitter.com/fitzgepn
+  class: like-of
+  entry_url: "/note/2020/06/deidres-juneuary-hat/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Patrick Fitzgerald",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/649bd1fcea6d780718e7e5a5cf87802e20134ca1499fb02eacb0d4dc9bfcdcec.jpg",
+    "url": "https://twitter.com/fitzgepn"}, "url": "https://twitter.com/brianwisti/status/1275921591453585421#favorited-by-128939024",
+    "published": null, "wm-received": "2020-06-24T23:17:49Z", "wm-id": 814529, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1275921591453585421/128939024",
+    "wm-target": "https://randomgeekery.org/note/2020/06/deidres-juneuary-hat/", "like-of":
+    "https://randomgeekery.org/note/2020/06/deidres-juneuary-hat/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-06-24 16:17:49.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1275921591453585421#favorited-by-128939024

@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+
+{% block title_head %}{{ page.title }} | {{ config.title }}{% endblock %}
+
+{% block content %}
+  <article>
+    {% if page.date %}
+      {{ blog::timeline(page=page) }}
+    {% endif %}
+    <header>
+      {% if page.extra.cover_image %}
+        {{ blog::cover_image(cover_image=page.extra.cover_image, page_assets=page.assets) }}
+      {% endif %}
+
+      <h1 class="heading-large">{{ page.title }}</h1>
+
+      {% if article.description %}
+        <h2 class="heading-tagline">{{ article.description }}</h6>
+      {% endif %}
+
+      <section>
+        {% if page.date %}
+          {{ blog::date_stamp(value=page.date) }}
+        {% endif %}
+        {% set taxonomies = page.taxonomies %}
+
+        {% if taxonomies %}
+          <p>
+          {% for category in taxonomies.category %}
+            {{ blog::category_link(category_name=category) }}
+          {% endfor %}
+          </p>
+
+          <p>
+          {% for tag in taxonomies.tags %}
+            {{ blog::tag_link(tag_name=tag) }}
+          {% endfor %}
+          </p>
+
+          <p>
+          {% if taxonomies.series %}
+            {% for series in taxonomies.series %}
+              {{ blog::series_link(series_name=series) }}
+            {% endfor %}
+          {% endif %}
+          </p>
+        {% endif %}
+      </section>
+    </header>
+    {% if page.extra.cite %}
+      {% set cite = page.extra.cite %}
+      <section class="container-small edges centered">
+        <section class="card b-dark-medium bg-light r-base my-6 p-3">
+          {% if cite.card %}
+            <div class="card-image image-cover"
+              {% for asset in page.assets %}
+                {% if asset is matching(cite.card) %}
+                  {% set card_image = resize_image(path=asset, width=600, op="fit_width") %}
+                  <a href="{{ cite.url | safe }}">
+                    <img class="r-top-base" src="{{ card_image.url }}">
+                  </a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+          <div class="card-box p-6 pb-10">
+            <h2 class="heading-medium">
+              <a class="u-bookmark-of h-cite" href="{{ cite.url | safe }}">
+                {{ cite.name }}
+              </a>
+            </h2>
+
+
+            {% if cite.description %}
+              <blockquote>
+                {{ cite.description }}
+              </blockquote>
+            {% endif %}
+          </div>
+
+          {% if cite.site %}
+            <footer class="text-small align-right">
+              <p>From <a href="{{ cite.site }}">{{ cite.site }}</a></p>
+            </footer>
+          {% endif %}
+        </section>
+      </section>
+    {% endif %}
+    {{ page.content | safe }}
+  </article>
+{% endblock content %}

@@ -1,0 +1,27 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104203115715792019
+  twitter: https://twitter.com/brianwisti/status/1263234062841516033
+entry_path: content/post/2020/05/alias-templates-in-hugo/index.adoc
+permalink: "/post/2020/05/alias-templates-in-hugo/"
+responses:
+- author_name: Steve Scaffidi
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/7baa23ba88146a2d431b367c090870f75f5742ac812f490263c4d874bad4c9d3.jpg
+  author_url: https://twitter.com/hercynium
+  class: like-of
+  entry_url: "/post/2020/05/alias-templates-in-hugo/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Steve Scaffidi", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/7baa23ba88146a2d431b367c090870f75f5742ac812f490263c4d874bad4c9d3.jpg",
+    "url": "https://twitter.com/hercynium"}, "url": "https://twitter.com/brianwisti/status/1263234062841516033#favorited-by-15786346",
+    "published": null, "wm-received": "2020-05-21T00:04:09Z", "wm-id": 799503, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1263234062841516033/15786346",
+    "wm-target": "https://randomgeekery.org/post/2020/05/alias-templates-in-hugo/",
+    "like-of": "https://randomgeekery.org/post/2020/05/alias-templates-in-hugo/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-20 17:04:09.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1263234062841516033#favorited-by-15786346

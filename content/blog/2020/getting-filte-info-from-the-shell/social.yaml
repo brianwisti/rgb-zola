@@ -1,0 +1,72 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104038902820824748
+  twitter: https://twitter.com/brianwisti/status/1252724562745327616
+entry_path: content/post/2020/04/getting-file-info-from-the-shell/index.md
+permalink: "/post/2020/04/getting-file-info-from-the-shell/"
+responses:
+- author_name: sungo
+  author_photo: https://webmention.io/avatar/hackers.town/247bd8be269eff1d7a0e2fa43e8e3968c9ec5f42df6d45b1036782576150f9fe.jpg
+  author_url: https://sungo.space/users/sungo
+  class: in-reply-to
+  content:
+    html: <span class="h-card"><a class="u-url" href="https://hackers.town/@randomgeek">@<span>randomgeek</span></a></span>
+      Might I also interest you in 'mediainfo'?
+    text: "@randomgeek Might I also interest you in 'mediainfo'?"
+  entry_url: "/2020/04/21/getting-file-info-from-the-shell/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-21 15:59:09.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "sungo", "photo": "https://webmention.io/avatar/hackers.town/247bd8be269eff1d7a0e2fa43e8e3968c9ec5f42df6d45b1036782576150f9fe.jpg",
+    "url": "https://sungo.space/users/sungo"}, "url": "https://sungo.space/objects/e135b6df-9f39-4a53-a37d-e69130ecce6e",
+    "published": "2020-04-21T22:59:09", "wm-received": "2020-04-21T23:28:47Z", "wm-id":
+    785474, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104038902820824748/104039052158692811",
+    "wm-target": "https://randomgeekery.org/2020/04/21/getting-file-info-from-the-shell/",
+    "content": {"html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://hackers.town/@randomgeek\">@<span>randomgeek</span></a></span>
+    Might I also interest you in ''mediainfo''?", "text": "@randomgeek Might I also
+    interest you in ''mediainfo''?"}, "in-reply-to": "https://randomgeekery.org/2020/04/21/getting-file-info-from-the-shell/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-21 16:28:47.000000000 -07:00
+  url: https://sungo.space/objects/e135b6df-9f39-4a53-a37d-e69130ecce6e
+- author_name: Godzilla_Jonny
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/4060c59a519ee500c81cac78c50a6f6c06a7e46ac15944792ca5bef3126726c5.jpg
+  author_url: https://twitter.com/GodzillaJonny
+  class: like-of
+  entry_url: "/2020/04/21/getting-file-info-from-the-shell/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Godzilla_Jonny", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/4060c59a519ee500c81cac78c50a6f6c06a7e46ac15944792ca5bef3126726c5.jpg",
+    "url": "https://twitter.com/GodzillaJonny"}, "url": "https://twitter.com/brianwisti/status/1252724562745327616#favorited-by-1140164763256684544",
+    "published": null, "wm-received": "2020-04-21T23:08:50Z", "wm-id": 785462, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1252724562745327616/1140164763256684544",
+    "wm-target": "https://randomgeekery.org/2020/04/21/getting-file-info-from-the-shell/",
+    "like-of": "https://randomgeekery.org/2020/04/21/getting-file-info-from-the-shell/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-21 16:08:50.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1252724562745327616#favorited-by-1140164763256684544
+- author_name: Jamie Gaskins
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/91ef7c0329377a82a841bff436e7d7af4441e399879cf524d5cff893f5d64aac.jpg
+  author_url: https://twitter.com/jamie_gaskins
+  class: like-of
+  entry_url: "/2020/04/21/getting-file-info-from-the-shell/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jamie Gaskins", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/91ef7c0329377a82a841bff436e7d7af4441e399879cf524d5cff893f5d64aac.jpg",
+    "url": "https://twitter.com/jamie_gaskins"}, "url": "https://twitter.com/brianwisti/status/1252724562745327616#favorited-by-195645259",
+    "published": null, "wm-received": "2020-04-22T00:59:27Z", "wm-id": 785501, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1252724562745327616/195645259",
+    "wm-target": "https://randomgeekery.org/2020/04/21/getting-file-info-from-the-shell/",
+    "like-of": "https://randomgeekery.org/2020/04/21/getting-file-info-from-the-shell/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-21 17:59:27.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1252724562745327616#favorited-by-195645259

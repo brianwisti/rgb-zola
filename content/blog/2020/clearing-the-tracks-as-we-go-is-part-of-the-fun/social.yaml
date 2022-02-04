@@ -1,0 +1,38 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104148037728753261
+  twitter: https://twitter.com/brianwisti/status/1259709339419521024
+entry_path: content/note/2020/05/clearing-the-tracks-as-we-go-is-part-of-the-fun/index.md
+permalink: "/note/2020/05/clearing-the-tracks-as-we-go-is-part-of-the-fun/"
+responses:
+- author_name: Phlip
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/82613fb391c4739ead375dd9b49343be49d531b48ddd826114962e678b8f1cb0.png
+  author_url: https://twitter.com/Pen_Bird
+  class: repost-of
+  content:
+    html:
+    text: |-
+      I wrote a note:
+
+      Clearing the tracks as we go is part of the fun
+
+      #IndieWeb #Philosophy #IndiewebIsLikeBoatmurdered #Blog
+
+      https://t.co/0s
+  entry_url: "/note/2020/05/clearing-the-tracks-as-we-go-is-part-of-the-fun/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-10 22:02:37.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Phlip", "photo": "https://webmention.io/avatar/pbs.twimg.com/82613fb391c4739ead375dd9b49343be49d531b48ddd826114962e678b8f1cb0.png",
+    "url": "https://twitter.com/Pen_Bird"}, "url": "https://twitter.com/Pen_Bird/status/1259710482186829825",
+    "published": "2020-05-11T05:02:37+00:00", "wm-received": "2020-05-11T05:17:08Z",
+    "wm-id": 795096, "wm-source": "https://brid-gy.appspot.com/repost/twitter/brianwisti/1259709339419521024/1259710482186829825",
+    "wm-target": "https://randomgeekery.org/note/2020/05/clearing-the-tracks-as-we-go-is-part-of-the-fun/",
+    "content": {"text": "I wrote a note:\n\nClearing the tracks as we go is part of
+    the fun\n\n#IndieWeb #Philosophy #IndiewebIsLikeBoatmurdered #Blog\n\nhttps://t.co/0s"},
+    "repost-of": "https://randomgeekery.org/note/2020/05/clearing-the-tracks-as-we-go-is-part-of-the-fun/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-05-10 22:17:08.000000000 -07:00
+  url: https://twitter.com/Pen_Bird/status/1259710482186829825

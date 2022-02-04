@@ -1,0 +1,46 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104114425728242985
+  twitter: https://twitter.com/brianwisti/status/1257557744346955776
+entry_path: content/post/2020/05/got-a-working-glitch-soc-rails-dev-environment/index.md
+permalink: "/post/2020/05/got-a-working-glitch-soc-rails-dev-environment/"
+responses:
+- author_name: James Olguin
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b6ed397fb621ad4249716cb3f027f08114d61466fee5e6da3ddd260c4ebf1e7b.png
+  author_url: https://twitter.com/ForTheJim
+  class: like-of
+  entry_url: "/post/2020/05/got-a-working-glitch-soc-rails-dev-environment/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "James Olguin", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/b6ed397fb621ad4249716cb3f027f08114d61466fee5e6da3ddd260c4ebf1e7b.png",
+    "url": "https://twitter.com/ForTheJim"}, "url": "https://twitter.com/brianwisti/status/1257557744346955776#favorited-by-54354975",
+    "published": null, "wm-received": "2020-05-05T06:42:12Z", "wm-id": 792539, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1257557744346955776/54354975",
+    "wm-target": "https://randomgeekery.org/post/2020/05/got-a-working-glitch-soc-rails-dev-environment/",
+    "like-of": "https://randomgeekery.org/post/2020/05/got-a-working-glitch-soc-rails-dev-environment/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-04 23:42:12.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1257557744346955776#favorited-by-54354975
+- author_name: R¥
+  author_photo: https://webmention.io/avatar/hackers.town/039263c529628673890df7480f559d05726a8ea233ba0ede646e2350c865c746.jpg
+  author_url: https://hackers.town/@ryen
+  class: like-of
+  entry_url: "/post/2020/05/got-a-working-glitch-soc-rails-dev-environment/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "R\u00a5", "photo": "https://webmention.io/avatar/hackers.town/039263c529628673890df7480f559d05726a8ea233ba0ede646e2350c865c746.jpg",
+    "url": "https://hackers.town/@ryen"}, "url": "https://hackers.town/@randomgeek/104114425728242985#favorited-by-44063",
+    "published": null, "wm-received": "2020-05-05T09:22:52Z", "wm-id": 792616, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104114425728242985/44063",
+    "wm-target": "https://randomgeekery.org/post/2020/05/got-a-working-glitch-soc-rails-dev-environment/",
+    "like-of": "https://randomgeekery.org/post/2020/05/got-a-working-glitch-soc-rails-dev-environment/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-05 02:22:52.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104114425728242985#favorited-by-44063

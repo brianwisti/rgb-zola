@@ -1,0 +1,1777 @@
+---
+announcements: {}
+entry_path: content/post/2020/03/got-married/index.md
+permalink: "/post/2020/03/got-married-yesterday/"
+responses:
+- author_name: 'Chris :solus:'
+  author_photo: https://webmention.io/avatar/hackers.town/77b516d59f73cd5ec08cfd046220cfd82d1d2d03809f00dcd6997e3f217e7f1c.png
+  author_url: https://fosstodon.org/@RyuKurisu
+  class: in-reply-to
+  content:
+    html: "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+      class=\"u-url\">@<span>randomgeek</span></a></span> thanks, but in my timezone
+      it's already the 21st. But it's just 6:15 am, so I'm just waking up because
+      our little boy is up as well \U0001F60A</p>"
+    text: "@randomgeek thanks, but in my timezone it's already the 21st. But it's
+      just 6:15 am, so I'm just waking up because our little boy is up as well \U0001F60A"
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 22:15:08.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Chris :solus:", "photo":
+    "https://webmention.io/avatar/hackers.town/77b516d59f73cd5ec08cfd046220cfd82d1d2d03809f00dcd6997e3f217e7f1c.png",
+    "url": "https://fosstodon.org/@RyuKurisu"}, "url": "https://fosstodon.org/@RyuKurisu/103859336546024013",
+    "published": "2020-03-21T05:15:08", "wm-received": "2020-03-21T05:39:56Z", "wm-id":
+    772695, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103857809558961072/103859336596928321",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> thanks, but in my timezone
+    it''s already the 21st. But it''s just 6:15 am, so I''m just waking up because
+    our little boy is up as well \ud83d\ude0a</p>", "text": "@randomgeek thanks, but
+    in my timezone it''s already the 21st. But it''s just 6:15 am, so I''m just waking
+    up because our little boy is up as well \ud83d\ude0a"}, "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 22:39:56.000000000 -07:00
+  url: https://fosstodon.org/@RyuKurisu/103859336546024013
+- author_name: Random Geek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  author_url: https://hackers.town/@randomgeek
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://fosstodon.org/@RyuKurisu" class="u-url">@<span>RyuKurisu</span></a></span>
+      happy anniversary to you! But no our wedding was yesterday, the 19th.</p>
+    text: "@RyuKurisu happy anniversary to you! But no our wedding was yesterday,
+      the 19th."
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 22:11:42.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Random Geek", "photo":
+    "https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png",
+    "url": "https://hackers.town/@randomgeek"}, "url": "https://hackers.town/@randomgeek/103859323036417928",
+    "published": "2020-03-21T05:11:42", "wm-received": "2020-03-21T05:40:19Z", "wm-id":
+    772697, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103857809558961072/103859323036417928",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@RyuKurisu\"
+    class=\"u-url\">@<span>RyuKurisu</span></a></span> happy anniversary to you! But
+    no our wedding was yesterday, the 19th.</p>", "text": "@RyuKurisu happy anniversary
+    to you! But no our wedding was yesterday, the 19th."}, "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 22:40:19.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103859323036417928
+- author_name: 'Chris :solus:'
+  author_photo: https://webmention.io/avatar/hackers.town/77b516d59f73cd5ec08cfd046220cfd82d1d2d03809f00dcd6997e3f217e7f1c.png
+  author_url: https://fosstodon.org/@RyuKurisu
+  class: in-reply-to
+  content:
+    html: "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+      class=\"u-url\">@<span>randomgeek</span></a></span> Congratulations! How was
+      the wedding? </p><p>Did you mean the 20th? My wife and I got married on the
+      20th in 2017 \U0001F470 \U0001F935</p>"
+    text: "@randomgeek Congratulations! How was the wedding? Did you mean the 20th?
+      My wife and I got married on the 20th in 2017 \U0001F470 \U0001F935"
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 22:09:39.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Chris :solus:", "photo":
+    "https://webmention.io/avatar/hackers.town/77b516d59f73cd5ec08cfd046220cfd82d1d2d03809f00dcd6997e3f217e7f1c.png",
+    "url": "https://fosstodon.org/@RyuKurisu"}, "url": "https://fosstodon.org/@RyuKurisu/103859314968385076",
+    "published": "2020-03-21T05:09:39", "wm-received": "2020-03-21T05:40:00Z", "wm-id":
+    772696, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103857809558961072/103859315046065725",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> Congratulations! How was the
+    wedding? </p><p>Did you mean the 20th? My wife and I got married on the 20th in
+    2017 \ud83d\udc70 \ud83e\udd35</p>", "text": "@randomgeek Congratulations! How
+    was the wedding? Did you mean the 20th? My wife and I got married on the 20th
+    in 2017 \ud83d\udc70 \ud83e\udd35"}, "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 22:40:00.000000000 -07:00
+  url: https://fosstodon.org/@RyuKurisu/103859314968385076
+- author_name: Random Geek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  author_url: https://hackers.town/@randomgeek
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://x0r.be/@dlek" class="u-url">@<span>dlek</span></a></span>
+      Thanks!</p>
+    text: "@dlek Thanks!"
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 18:05:54.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Random Geek", "photo":
+    "https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png",
+    "url": "https://hackers.town/@randomgeek"}, "url": "https://hackers.town/@randomgeek/103858356495438497",
+    "published": "2020-03-21T01:05:54", "wm-received": "2020-03-21T01:34:39Z", "wm-id":
+    772514, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103857809558961072/103858356495438497",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://x0r.be/@dlek\" class=\"u-url\">@<span>dlek</span></a></span>
+    Thanks!</p>", "text": "@dlek Thanks!"}, "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 18:34:39.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103858356495438497
+- author_name: dlek
+  author_photo: https://webmention.io/avatar/hackers.town/cbb97dd9059c7b455518001368581f989637ad0e1bcd319787ca6090078605c4.png
+  author_url: https://x0r.be/@dlek
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      Congratulations!  (Hitting the fave wasn't good enough.)</p>
+    text: "@randomgeek Congratulations!  (Hitting the fave wasn't good enough.)"
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 17:50:19.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "dlek", "photo": "https://webmention.io/avatar/hackers.town/cbb97dd9059c7b455518001368581f989637ad0e1bcd319787ca6090078605c4.png",
+    "url": "https://x0r.be/@dlek"}, "url": "https://x0r.be/@dlek/103858295239141739",
+    "published": "2020-03-21T00:50:19", "wm-received": "2020-03-21T01:34:23Z", "wm-id":
+    772513, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103857809558961072/103858295290345721",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> Congratulations!  (Hitting
+    the fave wasn''t good enough.)</p>", "text": "@randomgeek Congratulations!  (Hitting
+    the fave wasn''t good enough.)"}, "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 18:34:23.000000000 -07:00
+  url: https://x0r.be/@dlek/103858295239141739
+- author_name: Vertigo
+  author_photo: https://webmention.io/avatar/hackers.town/4da162cd4eb7920d8129079f296c888bdeff27e45adc8eb267483df09fe2db59.png
+  author_url: https://mastodon.social/@vertigo
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      Congrats!!</p>
+    text: "@randomgeek Congrats!!"
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 17:25:52.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Vertigo", "photo": "https://webmention.io/avatar/hackers.town/4da162cd4eb7920d8129079f296c888bdeff27e45adc8eb267483df09fe2db59.png",
+    "url": "https://mastodon.social/@vertigo"}, "url": "https://mastodon.social/@vertigo/103858199082649664",
+    "published": "2020-03-21T00:25:52", "wm-received": "2020-03-21T01:34:09Z", "wm-id":
+    772512, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103857809558961072/103858199115705579",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> Congrats!!</p>", "text": "@randomgeek
+    Congrats!!"}, "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 18:34:09.000000000 -07:00
+  url: https://mastodon.social/@vertigo/103858199082649664
+- author_name: 'Michael W :flan_molotov: Lucas'
+  author_photo: https://webmention.io/avatar/hackers.town/fcb5898a09ee49730719f2e769b2d095ae543b3368ec0f4c9a475701d9289fdf.jpg
+  author_url: https://bsd.network/@mwlucas
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      Woo hoo!</p><p>There is always a way to find joy.</p>
+    text: "@randomgeek Woo hoo!There is always a way to find joy."
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 17:22:24.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Michael W :flan_molotov:
+    Lucas", "photo": "https://webmention.io/avatar/hackers.town/fcb5898a09ee49730719f2e769b2d095ae543b3368ec0f4c9a475701d9289fdf.jpg",
+    "url": "https://bsd.network/@mwlucas"}, "url": "https://bsd.network/@mwlucas/103858185471559845",
+    "published": "2020-03-21T00:22:24", "wm-received": "2020-03-21T01:33:59Z", "wm-id":
+    772511, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103857809558961072/103858185557380927",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> Woo hoo!</p><p>There is always
+    a way to find joy.</p>", "text": "@randomgeek Woo hoo!There is always a way to
+    find joy."}, "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 18:33:59.000000000 -07:00
+  url: https://bsd.network/@mwlucas/103858185471559845
+- author_name: J.C. Nelson
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/5a56b1e9e2f818c06b47b040ee40e8c16885cab577125d3bf2db69feb036ab9e.jpg
+  author_url: https://twitter.com/AuthorJCNelson
+  class: in-reply-to
+  content:
+    html: |-
+      congratulations!
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: congratulations!
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 17:17:23.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "J.C. Nelson", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/5a56b1e9e2f818c06b47b040ee40e8c16885cab577125d3bf2db69feb036ab9e.jpg",
+    "url": "https://twitter.com/AuthorJCNelson"}, "url": "https://twitter.com/AuthorJCNelson/status/1241156916488757248",
+    "published": "2020-03-21T00:17:23+00:00", "wm-received": "2020-03-21T02:57:21Z",
+    "wm-id": 772575, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1241134245113991170/1241156916488757248",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "congratulations!\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "congratulations!"},
+    "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 19:57:21.000000000 -07:00
+  url: https://twitter.com/AuthorJCNelson/status/1241156916488757248
+- author_name: Geoff Wozniak
+  author_photo: https://webmention.io/avatar/hackers.town/a733bffa6cf0f632f7ab48702c244670a7c42893217e69133c36f3db0ef2caf0.jpg
+  author_url: https://hackers.town/@GeoffWozniak
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      Very cool. And from another person who had a very small wedding (5 people, that's
+      counting the married couple), congrats!</p>
+    text: "@randomgeek Very cool. And from another person who had a very small wedding
+      (5 people, that's counting the married couple), congrats!"
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 16:15:41.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Geoff Wozniak", "photo":
+    "https://webmention.io/avatar/hackers.town/a733bffa6cf0f632f7ab48702c244670a7c42893217e69133c36f3db0ef2caf0.jpg",
+    "url": "https://hackers.town/@GeoffWozniak"}, "url": "https://hackers.town/@GeoffWozniak/103857923151920333",
+    "published": "2020-03-20T23:15:41", "wm-received": "2020-03-21T01:33:46Z", "wm-id":
+    772510, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103857809558961072/103857923151920333",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> Very cool. And from another
+    person who had a very small wedding (5 people, that''s counting the married couple),
+    congrats!</p>", "text": "@randomgeek Very cool. And from another person who had
+    a very small wedding (5 people, that''s counting the married couple), congrats!"},
+    "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 18:33:46.000000000 -07:00
+  url: https://hackers.town/@GeoffWozniak/103857923151920333
+- author_name: "/DΞV/ЯДИDФM"
+  author_photo: https://webmention.io/avatar/hackers.town/c32118ae82fdb4a4a6c2bb33fa01c479f716fb671e06d87e3d671c40876da995.gif
+  author_url: https://hackers.town/@devrandom
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      congrats!</p>
+    text: "@randomgeek congrats!"
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 16:10:12.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "/D\u039eV/\u042f\u0414\u0418D\u0424M",
+    "photo": "https://webmention.io/avatar/hackers.town/c32118ae82fdb4a4a6c2bb33fa01c479f716fb671e06d87e3d671c40876da995.gif",
+    "url": "https://hackers.town/@devrandom"}, "url": "https://hackers.town/@devrandom/103857901538184634",
+    "published": "2020-03-20T23:10:12", "wm-received": "2020-03-21T01:33:38Z", "wm-id":
+    772509, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103857809558961072/103857901538184634",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> congrats!</p>", "text": "@randomgeek
+    congrats!"}, "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 18:33:38.000000000 -07:00
+  url: https://hackers.town/@devrandom/103857901538184634
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      Great week for it!
+      <a class="u-mention" href="https://twitter.com/fraxinus_ash"></a>
+    text: Great week for it!
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 16:08:21.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1241139544293965825",
+    "published": "2020-03-20T23:08:21+00:00", "wm-received": "2020-03-21T02:59:54Z",
+    "wm-id": 772578, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1241134245113991170/1241139544293965825",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "Great week for it!\n<a class=\"u-mention\" href=\"https://twitter.com/fraxinus_ash\"></a>",
+    "text": "Great week for it!"}, "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 19:59:54.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241139544293965825
+- author_name: Random Geek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  author_url: https://hackers.town/@randomgeek
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://social.coop/@cstanhope" class="u-url">@<span>cstanhope</span></a></span>
+      It certainly wasn't the situation we planned, but it was perfect for its own
+      reasons.</p>
+    text: "@cstanhope It certainly wasn't the situation we planned, but it was perfect
+      for its own reasons."
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 16:03:00.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Random Geek", "photo":
+    "https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png",
+    "url": "https://hackers.town/@randomgeek"}, "url": "https://hackers.town/@randomgeek/103857873265220251",
+    "published": "2020-03-20T23:03:00", "wm-received": "2020-03-21T01:33:13Z", "wm-id":
+    772507, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103857809558961072/103857873265220251",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://social.coop/@cstanhope\"
+    class=\"u-url\">@<span>cstanhope</span></a></span> It certainly wasn''t the situation
+    we planned, but it was perfect for its own reasons.</p>", "text": "@cstanhope
+    It certainly wasn''t the situation we planned, but it was perfect for its own
+    reasons."}, "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 18:33:13.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857873265220251
+- author_name: Ella K. Cyberpunk Goddess
+  author_photo: https://webmention.io/avatar/hackers.town/2342db953dd628e81cb016909a6640299f445abe9551f6c88d141f41bf37cc36.png
+  author_url: https://hackers.town/@ella_kane
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      yay! Congrats!!!! <img alt="ablobcatrave" src="https://hackers.town/system/custom_emojis/images/000/030/625/original/5d3b8082480bd828.png?1550156268"
+      />​</p>
+    text: "@randomgeek yay! Congrats!!!! ​"
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 15:59:37.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Ella K. Cyberpunk Goddess",
+    "photo": "https://webmention.io/avatar/hackers.town/2342db953dd628e81cb016909a6640299f445abe9551f6c88d141f41bf37cc36.png",
+    "url": "https://hackers.town/@ella_kane"}, "url": "https://hackers.town/@ella_kane/103857859948635474",
+    "published": "2020-03-20T22:59:37", "wm-received": "2020-03-21T01:33:33Z", "wm-id":
+    772508, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103857809558961072/103857859948635474",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> yay! Congrats!!!! <img alt=\"ablobcatrave\"
+    src=\"https://hackers.town/system/custom_emojis/images/000/030/625/original/5d3b8082480bd828.png?1550156268\"
+    />\u200b</p>", "text": "@randomgeek yay! Congrats!!!! \u200b"}, "in-reply-to":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 18:33:33.000000000 -07:00
+  url: https://hackers.town/@ella_kane/103857859948635474
+- author_name: Charles Stanhope
+  author_photo: https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg
+  author_url: https://social.coop/@cstanhope
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      I know it wasn't your preferred situation, but it is still a lovely story. Congrats
+      again!</p>
+    text: "@randomgeek I know it wasn't your preferred situation, but it is still
+      a lovely story. Congrats again!"
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 15:58:42.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Charles Stanhope", "photo":
+    "https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg",
+    "url": "https://social.coop/@cstanhope"}, "url": "https://social.coop/@cstanhope/103857856376864825",
+    "published": "2020-03-20T22:58:42", "wm-received": "2020-03-21T01:33:05Z", "wm-id":
+    772506, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103857809558961072/103857856624243005",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> I know it wasn''t your preferred
+    situation, but it is still a lovely story. Congrats again!</p>", "text": "@randomgeek
+    I know it wasn''t your preferred situation, but it is still a lovely story. Congrats
+    again!"}, "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 18:33:05.000000000 -07:00
+  url: https://social.coop/@cstanhope/103857856376864825
+- author_name: Chris Wiegman
+  author_photo: https://webmention.io/avatar/hackers.town/2c378cdcc8c56f397d6f265e765a04816ba364a3fc267d8cf624f32330e61486.jpg
+  author_url: https://mastodon.chriswiegman.com/@chris
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      Congrats!</p>
+    text: "@randomgeek Congrats!"
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 15:58:30.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Chris Wiegman", "photo":
+    "https://webmention.io/avatar/hackers.town/2c378cdcc8c56f397d6f265e765a04816ba364a3fc267d8cf624f32330e61486.jpg",
+    "url": "https://mastodon.chriswiegman.com/@chris"}, "url": "https://mastodon.chriswiegman.com/@chris/103857855566568472",
+    "published": "2020-03-20T22:58:30", "wm-received": "2020-03-21T01:32:50Z", "wm-id":
+    772505, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103857809558961072/103857855608827122",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> Congrats!</p>", "text": "@randomgeek
+    Congrats!"}, "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 18:32:50.000000000 -07:00
+  url: https://mastodon.chriswiegman.com/@chris/103857855566568472
+- author_name: 竹下憲二
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b2278b030a2c20e0479dff3b738ec6dd5ecacc904466c485597347a6ba138868.png
+  author_url: https://twitter.com/takeshita_kenji
+  class: in-reply-to
+  content:
+    html: |-
+      Congrats!
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: Congrats!
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 15:53:59.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "\u7af9\u4e0b\u61b2\u4e8c",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/b2278b030a2c20e0479dff3b738ec6dd5ecacc904466c485597347a6ba138868.png",
+    "url": "https://twitter.com/takeshita_kenji"}, "url": "https://twitter.com/takeshita_kenji/status/1241135928598380547",
+    "published": "2020-03-20T22:53:59+00:00", "wm-received": "2020-03-21T02:59:18Z",
+    "wm-id": 772576, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1241134245113991170/1241135928598380547",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "Congrats!\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "Congrats!"},
+    "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 19:59:18.000000000 -07:00
+  url: https://twitter.com/takeshita_kenji/status/1241135928598380547
+- author_name: Rev.Dr. Nikolai Kingsley
+  author_photo: https://webmention.io/avatar/hackers.town/756156be3c9c7f632e85c694ef862d7ed8dac0766956f277d549019d34937226.jpg
+  author_url: https://dobbs.town/@Nikolai_Kingsley
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      </p><p>heh. life WILL not be contained.</p>
+    text: "@randomgeek heh. life WILL not be contained."
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 15:51:17.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Rev.Dr. Nikolai Kingsley",
+    "photo": "https://webmention.io/avatar/hackers.town/756156be3c9c7f632e85c694ef862d7ed8dac0766956f277d549019d34937226.jpg",
+    "url": "https://dobbs.town/@Nikolai_Kingsley"}, "url": "https://dobbs.town/@Nikolai_Kingsley/103857827198270274",
+    "published": "2020-03-20T22:51:17", "wm-received": "2020-03-21T01:32:30Z", "wm-id":
+    772504, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/103857809558961072/103857827240297035",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> </p><p>heh. life WILL not
+    be contained.</p>", "text": "@randomgeek heh. life WILL not be contained."}, "in-reply-to":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 18:32:30.000000000 -07:00
+  url: https://dobbs.town/@Nikolai_Kingsley/103857827198270274
+- author_name: "☃ Matthew Horsfall ☃"
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/27fb52ed778a0a694b7708c3811181248cfdee443daf2a5fa6d91d5bf85264da.jpg
+  author_url: https://twitter.com/mhorsfall
+  class: in-reply-to
+  content:
+    html: |-
+      WHAT! Congrats!
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: WHAT! Congrats!
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-03-20 15:49:00.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "\u2603 Matthew Horsfall
+    \u2603", "photo": "https://webmention.io/avatar/pbs.twimg.com/27fb52ed778a0a694b7708c3811181248cfdee443daf2a5fa6d91d5bf85264da.jpg",
+    "url": "https://twitter.com/mhorsfall"}, "url": "https://twitter.com/mhorsfall/status/1241134673616613376",
+    "published": "2020-03-20T22:49:00+00:00", "wm-received": "2020-03-21T02:59:47Z",
+    "wm-id": 772577, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1241134245113991170/1241134673616613376",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "content":
+    {"html": "WHAT! Congrats!\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "WHAT!
+    Congrats!"}, "in-reply-to": "https://randomgeekery.org/2020/03/20/got-married-yesterday/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-03-20 19:59:47.000000000 -07:00
+  url: https://twitter.com/mhorsfall/status/1241134673616613376
+- author_name: "वीर \U0001F1F9\U0001F1ED\U0001F5A5☕️"
+  author_photo: https://webmention.io/avatar/hackers.town/2e3c9d70e9947b5ca3489e0f1aa2e2be9a7f1e0bbdc65b4f96e584f571962837.jpg
+  author_url: https://mstdn.io/@veer66
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "\u0935\u0940\u0930 \ud83c\uddf9\ud83c\udded\ud83d\udda5\u2615\ufe0f",
+    "photo": "https://webmention.io/avatar/hackers.town/2e3c9d70e9947b5ca3489e0f1aa2e2be9a7f1e0bbdc65b4f96e584f571962837.jpg",
+    "url": "https://mstdn.io/@veer66"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-8862",
+    "published": null, "wm-received": "2020-03-21T01:35:24Z", "wm-id": 772515, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/8862",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:35:24.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-8862
+- author_name: ashley
+  author_photo: https://webmention.io/avatar/hackers.town/3a776a32132407cccba3d6e9f58632a9338546414b99dc15cc81270c60ee7dc2.png
+  author_url: https://mastodon.social/@rabcyr
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "ashley", "photo": "https://webmention.io/avatar/hackers.town/3a776a32132407cccba3d6e9f58632a9338546414b99dc15cc81270c60ee7dc2.png",
+    "url": "https://mastodon.social/@rabcyr"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-18081",
+    "published": null, "wm-received": "2020-03-21T01:35:33Z", "wm-id": 772516, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/18081",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:35:33.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-18081
+- author_name: CMDR Yojimbosan [UTC+13]
+  author_photo: https://webmention.io/avatar/hackers.town/af34e38c6df11aaf16f7a3901f0aab2b9aada2b6a4263fd5501a793852b4a024.jpg
+  author_url: https://hackers.town/@yojimbo
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "CMDR Yojimbosan [UTC+13]",
+    "photo": "https://webmention.io/avatar/hackers.town/af34e38c6df11aaf16f7a3901f0aab2b9aada2b6a4263fd5501a793852b4a024.jpg",
+    "url": "https://hackers.town/@yojimbo"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-65586",
+    "published": null, "wm-received": "2020-03-21T01:35:42Z", "wm-id": 772517, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/65586",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:35:42.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-65586
+- author_name: Aldroid
+  author_photo: https://webmention.io/avatar/hackers.town/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png
+  author_url: https://mastodon.social/@aldroid
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Aldroid", "photo": "https://webmention.io/avatar/hackers.town/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png",
+    "url": "https://mastodon.social/@aldroid"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-11715",
+    "published": null, "wm-received": "2020-03-21T01:36:24Z", "wm-id": 772518, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/11715",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:36:24.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-11715
+- author_name: Vertigo
+  author_photo: https://webmention.io/avatar/hackers.town/4da162cd4eb7920d8129079f296c888bdeff27e45adc8eb267483df09fe2db59.png
+  author_url: https://mastodon.social/@vertigo
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Vertigo", "photo": "https://webmention.io/avatar/hackers.town/4da162cd4eb7920d8129079f296c888bdeff27e45adc8eb267483df09fe2db59.png",
+    "url": "https://mastodon.social/@vertigo"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-171",
+    "published": null, "wm-received": "2020-03-21T01:36:40Z", "wm-id": 772519, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/171",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:36:40.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-171
+- author_name: ":hot_shit: :verified:"
+  author_photo: https://webmention.io/avatar/hackers.town/05f7bb8f52c5079a47b21298c57cb0573ba93e6942e9db2ff24c613dcd53239c.jpg
+  author_url: https://x0r.be/@carcinopithecus
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": ":hot_shit: :verified:",
+    "photo": "https://webmention.io/avatar/hackers.town/05f7bb8f52c5079a47b21298c57cb0573ba93e6942e9db2ff24c613dcd53239c.jpg",
+    "url": "https://x0r.be/@carcinopithecus"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-74805",
+    "published": null, "wm-received": "2020-03-21T01:36:47Z", "wm-id": 772520, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/74805",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:36:47.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-74805
+- author_name: ryan wolf
+  author_photo: https://webmention.io/avatar/hackers.town/de8cccac15de38b2ea00c7ac1a7b00de50e7fcc698a59aa678dda20160d96dff.jpg
+  author_url: https://hates.company/@ryan
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "ryan wolf", "photo":
+    "https://webmention.io/avatar/hackers.town/de8cccac15de38b2ea00c7ac1a7b00de50e7fcc698a59aa678dda20160d96dff.jpg",
+    "url": "https://hates.company/@ryan"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-84558",
+    "published": null, "wm-received": "2020-03-21T01:36:54Z", "wm-id": 772521, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/84558",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:36:54.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-84558
+- author_name: DJ Sundog - from the toot-lab
+  author_photo: https://webmention.io/avatar/hackers.town/0191d35db9350cc2a0ae35c3f326c799154d39d9a1aad5bf201fe2ef942f5c6a.jpg
+  author_url: https://toot-lab.reclaim.technology/@djsundog
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "DJ Sundog - from the
+    toot-lab", "photo": "https://webmention.io/avatar/hackers.town/0191d35db9350cc2a0ae35c3f326c799154d39d9a1aad5bf201fe2ef942f5c6a.jpg",
+    "url": "https://toot-lab.reclaim.technology/@djsundog"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-28",
+    "published": null, "wm-received": "2020-03-21T01:37:41Z", "wm-id": 772522, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/28",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:37:41.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-28
+- author_name: Cybre Rick
+  author_photo: https://webmention.io/avatar/hackers.town/6fb0fef542721247c5838b14121f894aeb2a09b9762d1bf94115a7083de3b7c2.png
+  author_url: https://cybre.space/@rick_777
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Cybre Rick", "photo":
+    "https://webmention.io/avatar/hackers.town/6fb0fef542721247c5838b14121f894aeb2a09b9762d1bf94115a7083de3b7c2.png",
+    "url": "https://cybre.space/@rick_777"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-19868",
+    "published": null, "wm-received": "2020-03-21T01:38:01Z", "wm-id": 772523, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/19868",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:38:01.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-19868
+- author_name: 'Michael W :flan_molotov: Lucas'
+  author_photo: https://webmention.io/avatar/hackers.town/fcb5898a09ee49730719f2e769b2d095ae543b3368ec0f4c9a475701d9289fdf.jpg
+  author_url: https://bsd.network/@mwlucas
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Michael W :flan_molotov:
+    Lucas", "photo": "https://webmention.io/avatar/hackers.town/fcb5898a09ee49730719f2e769b2d095ae543b3368ec0f4c9a475701d9289fdf.jpg",
+    "url": "https://bsd.network/@mwlucas"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-9516",
+    "published": null, "wm-received": "2020-03-21T01:38:31Z", "wm-id": 772524, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/9516",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:38:31.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-9516
+- author_name: The_Gibson {UTC -4}
+  author_photo: https://webmention.io/avatar/hackers.town/230a1fd401526284deeefc913fd3c8b654d71f4b9bb726d322a4afd18ea52fe9.gif
+  author_url: https://hackers.town/@thegibson
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "The_Gibson {UTC -4}",
+    "photo": "https://webmention.io/avatar/hackers.town/230a1fd401526284deeefc913fd3c8b654d71f4b9bb726d322a4afd18ea52fe9.gif",
+    "url": "https://hackers.town/@thegibson"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-1",
+    "published": null, "wm-received": "2020-03-21T01:38:38Z", "wm-id": 772525, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/1",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:38:38.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-1
+- author_name: Josh Miller
+  author_photo: https://webmention.io/avatar/hackers.town/9b72534b92733f87d9d0ea7436cb33d1a0c7a3e097246e22c09620e2cac195cf.png
+  author_url: https://hackers.town/@jshmlr
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Josh Miller", "photo":
+    "https://webmention.io/avatar/hackers.town/9b72534b92733f87d9d0ea7436cb33d1a0c7a3e097246e22c09620e2cac195cf.png",
+    "url": "https://hackers.town/@jshmlr"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-83742",
+    "published": null, "wm-received": "2020-03-21T01:38:47Z", "wm-id": 772526, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/83742",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:38:47.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-83742
+- author_name: 'Lindsay :battery_broken:'
+  author_photo: https://webmention.io/avatar/hackers.town/4df2e3440754695f0ea0bdbf67e3f3e43b5067ee05cc8c034ea46e05981b5318.png
+  author_url: https://hackers.town/@lindsays
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Lindsay :battery_broken:",
+    "photo": "https://webmention.io/avatar/hackers.town/4df2e3440754695f0ea0bdbf67e3f3e43b5067ee05cc8c034ea46e05981b5318.png",
+    "url": "https://hackers.town/@lindsays"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-64180",
+    "published": null, "wm-received": "2020-03-21T01:38:53Z", "wm-id": 772527, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/64180",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:38:53.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-64180
+- author_name: Geoff Wozniak
+  author_photo: https://webmention.io/avatar/hackers.town/a733bffa6cf0f632f7ab48702c244670a7c42893217e69133c36f3db0ef2caf0.jpg
+  author_url: https://hackers.town/@GeoffWozniak
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Geoff Wozniak", "photo":
+    "https://webmention.io/avatar/hackers.town/a733bffa6cf0f632f7ab48702c244670a7c42893217e69133c36f3db0ef2caf0.jpg",
+    "url": "https://hackers.town/@GeoffWozniak"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-45035",
+    "published": null, "wm-received": "2020-03-21T01:39:33Z", "wm-id": 772528, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/45035",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:39:33.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-45035
+- author_name: Ella K. Cyberpunk Goddess
+  author_photo: https://webmention.io/avatar/hackers.town/2342db953dd628e81cb016909a6640299f445abe9551f6c88d141f41bf37cc36.png
+  author_url: https://hackers.town/@ella_kane
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Ella K. Cyberpunk Goddess",
+    "photo": "https://webmention.io/avatar/hackers.town/2342db953dd628e81cb016909a6640299f445abe9551f6c88d141f41bf37cc36.png",
+    "url": "https://hackers.town/@ella_kane"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-26384",
+    "published": null, "wm-received": "2020-03-21T01:39:49Z", "wm-id": 772529, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/26384",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:39:49.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-26384
+- author_name: T3OU 4
+  author_photo: https://webmention.io/avatar/hackers.town/600032a08fb206508bdf5182373e987e2a8bef26157115f74989017d17e106b3.png
+  author_url: https://hackers.town/@poncio
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "T3OU 4", "photo": "https://webmention.io/avatar/hackers.town/600032a08fb206508bdf5182373e987e2a8bef26157115f74989017d17e106b3.png",
+    "url": "https://hackers.town/@poncio"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-8352",
+    "published": null, "wm-received": "2020-03-21T01:40:18Z", "wm-id": 772530, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/8352",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:40:18.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-8352
+- author_name: Andrew Hewus Fresh
+  author_photo: https://webmention.io/avatar/hackers.town/2c496054da01bd460313de6d00748c0d557f3cf07091ec2b69e810990ce2ceae.jpg
+  author_url: https://bsd.network/@AFresh1
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Andrew Hewus Fresh",
+    "photo": "https://webmention.io/avatar/hackers.town/2c496054da01bd460313de6d00748c0d557f3cf07091ec2b69e810990ce2ceae.jpg",
+    "url": "https://bsd.network/@AFresh1"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-9402",
+    "published": null, "wm-received": "2020-03-21T01:40:40Z", "wm-id": 772531, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/9402",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:40:40.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-9402
+- author_name: nomad
+  author_photo: https://webmention.io/avatar/hackers.town/b2c65b0112fc2f1392d03e3b5749774a0be1f5ad6506fc8e5d68bc512dcb35d5.jpg
+  author_url: https://mastodon.cloud/@thenomad
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "nomad", "photo": "https://webmention.io/avatar/hackers.town/b2c65b0112fc2f1392d03e3b5749774a0be1f5ad6506fc8e5d68bc512dcb35d5.jpg",
+    "url": "https://mastodon.cloud/@thenomad"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-51356",
+    "published": null, "wm-received": "2020-03-21T01:40:47Z", "wm-id": 772532, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/51356",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 18:40:47.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-51356
+- author_name: 'Michael W :flan_molotov: Lucas'
+  author_photo: https://webmention.io/avatar/hackers.town/fcb5898a09ee49730719f2e769b2d095ae543b3368ec0f4c9a475701d9289fdf.jpg
+  author_url: https://bsd.network/@mwlucas
+  class: repost-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Michael W :flan_molotov:
+    Lucas", "photo": "https://webmention.io/avatar/hackers.town/fcb5898a09ee49730719f2e769b2d095ae543b3368ec0f4c9a475701d9289fdf.jpg",
+    "url": "https://bsd.network/@mwlucas"}, "url": "https://hackers.town/@randomgeek/103857809558961072#reblogged-by-9516",
+    "published": null, "wm-received": "2020-03-21T01:40:56Z", "wm-id": 772533, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/103857809558961072/9516",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "repost-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "repost-of", "wm-private": false}'
+  received: 2020-03-20 18:40:56.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#reblogged-by-9516
+- author_name: DJ Sundog - from the toot-lab
+  author_photo: https://webmention.io/avatar/hackers.town/0191d35db9350cc2a0ae35c3f326c799154d39d9a1aad5bf201fe2ef942f5c6a.jpg
+  author_url: https://toot-lab.reclaim.technology/@djsundog
+  class: repost-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "DJ Sundog - from the
+    toot-lab", "photo": "https://webmention.io/avatar/hackers.town/0191d35db9350cc2a0ae35c3f326c799154d39d9a1aad5bf201fe2ef942f5c6a.jpg",
+    "url": "https://toot-lab.reclaim.technology/@djsundog"}, "url": "https://hackers.town/@randomgeek/103857809558961072#reblogged-by-28",
+    "published": null, "wm-received": "2020-03-21T01:41:16Z", "wm-id": 772534, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/103857809558961072/28",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "repost-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "repost-of", "wm-private": false}'
+  received: 2020-03-20 18:41:16.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#reblogged-by-28
+- author_name: The_Gibson {UTC -4}
+  author_photo: https://webmention.io/avatar/hackers.town/230a1fd401526284deeefc913fd3c8b654d71f4b9bb726d322a4afd18ea52fe9.gif
+  author_url: https://hackers.town/@thegibson
+  class: repost-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "The_Gibson {UTC -4}",
+    "photo": "https://webmention.io/avatar/hackers.town/230a1fd401526284deeefc913fd3c8b654d71f4b9bb726d322a4afd18ea52fe9.gif",
+    "url": "https://hackers.town/@thegibson"}, "url": "https://hackers.town/@randomgeek/103857809558961072#reblogged-by-1",
+    "published": null, "wm-received": "2020-03-21T01:41:23Z", "wm-id": 772535, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/103857809558961072/1",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "repost-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "repost-of", "wm-private": false}'
+  received: 2020-03-20 18:41:23.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#reblogged-by-1
+- author_name: Logan Bell
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/9b7501e82555cf706a325cfbc3e5bb59e2252cba2fa597e451f2312cb99c8f86.jpg
+  author_url: https://twitter.com/epochbell
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Logan Bell", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/9b7501e82555cf706a325cfbc3e5bb59e2252cba2fa597e451f2312cb99c8f86.jpg",
+    "url": "https://twitter.com/epochbell"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-146074835",
+    "published": null, "wm-received": "2020-03-21T02:59:59Z", "wm-id": 772579, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/146074835",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 19:59:59.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-146074835
+- author_name: Rat Maman
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/bd90d1234e9694e9cc4df9560bd18e5becdd605d773a8c4fe2dc2ed1d284c644.jpg
+  author_url: https://twitter.com/mybuddyreynolds
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Rat Maman", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/bd90d1234e9694e9cc4df9560bd18e5becdd605d773a8c4fe2dc2ed1d284c644.jpg",
+    "url": "https://twitter.com/mybuddyreynolds"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-262472961",
+    "published": null, "wm-received": "2020-03-21T03:00:06Z", "wm-id": 772580, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/262472961",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:00:06.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-262472961
+- author_name: satanpenguin
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/0ef0ff1c1118fd0e58469e55b3cb9665a9b6f030e847912b69d92fd1a0caa72f.png
+  author_url: https://twitter.com/satanpenguin
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "satanpenguin", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/0ef0ff1c1118fd0e58469e55b3cb9665a9b6f030e847912b69d92fd1a0caa72f.png",
+    "url": "https://twitter.com/satanpenguin"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-44096188",
+    "published": null, "wm-received": "2020-03-21T03:00:29Z", "wm-id": 772581, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/44096188",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:00:29.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-44096188
+- author_name: Ferdi (Ferdinand Fanötöna Zebua)
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/c1a5fafcbbd4557862b7ba0df257d905ec6015a1fe462494ea7595b6cf9cfff2.jpg
+  author_url: https://twitter.com/f_fz
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Ferdi (Ferdinand Fan\u00f6t\u00f6na
+    Zebua)", "photo": "https://webmention.io/avatar/pbs.twimg.com/c1a5fafcbbd4557862b7ba0df257d905ec6015a1fe462494ea7595b6cf9cfff2.jpg",
+    "url": "https://twitter.com/f_fz"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-56679923",
+    "published": null, "wm-received": "2020-03-21T03:01:18Z", "wm-id": 772582, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/56679923",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:01:18.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-56679923
+- author_name: J.C. Nelson
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/5a56b1e9e2f818c06b47b040ee40e8c16885cab577125d3bf2db69feb036ab9e.jpg
+  author_url: https://twitter.com/AuthorJCNelson
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "J.C. Nelson", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/5a56b1e9e2f818c06b47b040ee40e8c16885cab577125d3bf2db69feb036ab9e.jpg",
+    "url": "https://twitter.com/AuthorJCNelson"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-520079727",
+    "published": null, "wm-received": "2020-03-21T03:01:28Z", "wm-id": 772583, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/520079727",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:01:28.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-520079727
+- author_name: tragically offbeat
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/4b7082bac6e33fc55b6ce42b05b321824dd4905ad33649fb4a5c7c737746ee12.jpg
+  author_url: https://twitter.com/whatimafter_
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "tragically offbeat",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/4b7082bac6e33fc55b6ce42b05b321824dd4905ad33649fb4a5c7c737746ee12.jpg",
+    "url": "https://twitter.com/whatimafter_"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-3538001",
+    "published": null, "wm-received": "2020-03-21T03:01:35Z", "wm-id": 772584, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/3538001",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:01:35.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-3538001
+- author_name: Elisabeth Hendrickson
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/609f8b0d250d068a8369f6a4a08f9eeef05654863d4aaab53a37b3ce7528b237.jpg
+  author_url: https://twitter.com/testobsessed
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Elisabeth Hendrickson",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/609f8b0d250d068a8369f6a4a08f9eeef05654863d4aaab53a37b3ce7528b237.jpg",
+    "url": "https://twitter.com/testobsessed"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-12614742",
+    "published": null, "wm-received": "2020-03-21T03:02:11Z", "wm-id": 772585, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/12614742",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:02:11.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-12614742
+- author_name: Darwin
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b291cdbbd501400083a7ae61a72ce462e6b1718d8aa0c66f1d05958476b75408.png
+  author_url: https://twitter.com/darwinwoodka
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Darwin", "photo": "https://webmention.io/avatar/pbs.twimg.com/b291cdbbd501400083a7ae61a72ce462e6b1718d8aa0c66f1d05958476b75408.png",
+    "url": "https://twitter.com/darwinwoodka"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-111687038",
+    "published": null, "wm-received": "2020-03-21T03:02:32Z", "wm-id": 772586, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/111687038",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:02:32.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-111687038
+- author_name: Grant Horwood ↙ ↙ ↙
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/472c570bcdf8e8b019f0eeb0f74f8aa0cf45c3acc269615ce748046228089bd5.jpg
+  author_url: https://twitter.com/gbhorwood
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Grant Horwood \u2199
+    \u2199 \u2199", "photo": "https://webmention.io/avatar/pbs.twimg.com/472c570bcdf8e8b019f0eeb0f74f8aa0cf45c3acc269615ce748046228089bd5.jpg",
+    "url": "https://twitter.com/gbhorwood"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-512410920",
+    "published": null, "wm-received": "2020-03-21T03:02:42Z", "wm-id": 772587, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/512410920",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:02:42.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-512410920
+- author_name: "Marge Wu 吴静玫 \U0001F9C0"
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/8ae5d3acdec092307bfb9c1aae30490200f10e3c5d2c3440f5c9a3c88b6342a4.jpg
+  author_url: https://twitter.com/WuMargaret
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Marge Wu \u5434\u9759\u73ab
+    \ud83e\uddc0", "photo": "https://webmention.io/avatar/pbs.twimg.com/8ae5d3acdec092307bfb9c1aae30490200f10e3c5d2c3440f5c9a3c88b6342a4.jpg",
+    "url": "https://twitter.com/WuMargaret"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-504876760",
+    "published": null, "wm-received": "2020-03-21T03:02:50Z", "wm-id": 772588, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/504876760",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:02:50.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-504876760
+- author_name: Jason McIntosh
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e6b312fa0dec6691bbfab2e33c5402effc5f9e46f1e21e98635323e053f9ee49.jpg
+  author_url: https://twitter.com/JmacDotOrg
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jason McIntosh", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/e6b312fa0dec6691bbfab2e33c5402effc5f9e46f1e21e98635323e053f9ee49.jpg",
+    "url": "https://twitter.com/JmacDotOrg"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-14313860",
+    "published": null, "wm-received": "2020-03-21T03:03:01Z", "wm-id": 772589, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/14313860",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:03:01.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-14313860
+- author_name: "Whatsherface \U0001F1E8\U0001F1E6 \U0001F308"
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/98d171344489bcf94fe97d498540f7cdef70c958ab7cc1dc24a350e401aa0d80.jpg
+  author_url: https://twitter.com/NightWritergrrr
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Whatsherface \ud83c\udde8\ud83c\udde6
+    \ud83c\udf08", "photo": "https://webmention.io/avatar/pbs.twimg.com/98d171344489bcf94fe97d498540f7cdef70c958ab7cc1dc24a350e401aa0d80.jpg",
+    "url": "https://twitter.com/NightWritergrrr"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-65294642",
+    "published": null, "wm-received": "2020-03-21T03:03:08Z", "wm-id": 772590, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/65294642",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:03:08.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-65294642
+- author_name: Christopher E. Stith
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/4de3ffd064a801c2c0422805b4044b8cde328f1d970e3881ac6501df2911f707.png
+  author_url: https://twitter.com/cestith
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Christopher E. Stith",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/4de3ffd064a801c2c0422805b4044b8cde328f1d970e3881ac6501df2911f707.png",
+    "url": "https://twitter.com/cestith"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-337563460",
+    "published": null, "wm-received": "2020-03-21T03:03:53Z", "wm-id": 772591, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/337563460",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:03:53.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-337563460
+- author_name: Joe Johnston
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/5e6623bacb471fb0b4c165bc4faf8f490fc33567c5160314a090f9e613c58f1a.jpg
+  author_url: https://twitter.com/taskboy3000
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Joe Johnston", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/5e6623bacb471fb0b4c165bc4faf8f490fc33567c5160314a090f9e613c58f1a.jpg",
+    "url": "https://twitter.com/taskboy3000"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-40714930",
+    "published": null, "wm-received": "2020-03-21T03:03:57Z", "wm-id": 772592, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/40714930",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:03:57.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-40714930
+- author_name: Steve Scaffidi
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/7baa23ba88146a2d431b367c090870f75f5742ac812f490263c4d874bad4c9d3.jpg
+  author_url: https://twitter.com/hercynium
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Steve Scaffidi", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/7baa23ba88146a2d431b367c090870f75f5742ac812f490263c4d874bad4c9d3.jpg",
+    "url": "https://twitter.com/hercynium"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-15786346",
+    "published": null, "wm-received": "2020-03-21T03:04:35Z", "wm-id": 772593, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/15786346",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:04:35.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-15786346
+- author_name: "Killa \U0001F41D z"
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/8e752ec6f9b7f121d997051da79bf660cca6d1dcb9e73db933356e5e3eb09803.jpg
+  author_url: https://twitter.com/PoshBash_
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Killa \ud83d\udc1d z",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/8e752ec6f9b7f121d997051da79bf660cca6d1dcb9e73db933356e5e3eb09803.jpg",
+    "url": "https://twitter.com/PoshBash_"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-63793013",
+    "published": null, "wm-received": "2020-03-21T03:05:09Z", "wm-id": 772594, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/63793013",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:05:09.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-63793013
+- author_name: Ash
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/cbded7d18ac91df17fa9bff413df83f074640c916eaff5c77ed3efe2034a464d.jpg
+  author_url: https://twitter.com/fraxinus_ash
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Ash", "photo": "https://webmention.io/avatar/pbs.twimg.com/cbded7d18ac91df17fa9bff413df83f074640c916eaff5c77ed3efe2034a464d.jpg",
+    "url": "https://twitter.com/fraxinus_ash"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-545758100",
+    "published": null, "wm-received": "2020-03-21T03:05:27Z", "wm-id": 772595, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/545758100",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:05:27.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-545758100
+- author_name: James Olguin
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b6ed397fb621ad4249716cb3f027f08114d61466fee5e6da3ddd260c4ebf1e7b.png
+  author_url: https://twitter.com/ForTheJim
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "James Olguin", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/b6ed397fb621ad4249716cb3f027f08114d61466fee5e6da3ddd260c4ebf1e7b.png",
+    "url": "https://twitter.com/ForTheJim"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-54354975",
+    "published": null, "wm-received": "2020-03-21T03:05:35Z", "wm-id": 772596, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/54354975",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:05:35.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-54354975
+- author_name: Erin
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/9744db5195427ccd2217d1675bff66d5a070a6955f0010b122add14f11134375.jpg
+  author_url: https://twitter.com/codeknitter
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Erin", "photo": "https://webmention.io/avatar/pbs.twimg.com/9744db5195427ccd2217d1675bff66d5a070a6955f0010b122add14f11134375.jpg",
+    "url": "https://twitter.com/codeknitter"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-16089205",
+    "published": null, "wm-received": "2020-03-21T03:06:07Z", "wm-id": 772597, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/16089205",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:06:07.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-16089205
+- author_name: Naomi Parkhurst
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/ac82b9255e89902fbb572907b807d432e6fcd41241a784acb0b3aea2350318c4.jpg
+  author_url: https://twitter.com/naogannet
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Naomi Parkhurst", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/ac82b9255e89902fbb572907b807d432e6fcd41241a784acb0b3aea2350318c4.jpg",
+    "url": "https://twitter.com/naogannet"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-15770872",
+    "published": null, "wm-received": "2020-03-21T03:06:27Z", "wm-id": 772598, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/15770872",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:06:27.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-15770872
+- author_name: Jen Ryan
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/f1d3b0d61ab688408f022fd86136467474108731b223af1899a2683b3e687361.jpg
+  author_url: https://twitter.com/JustifiedBagel
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jen Ryan", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/f1d3b0d61ab688408f022fd86136467474108731b223af1899a2683b3e687361.jpg",
+    "url": "https://twitter.com/JustifiedBagel"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-172987776",
+    "published": null, "wm-received": "2020-03-21T03:06:49Z", "wm-id": 772599, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/172987776",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:06:49.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-172987776
+- author_name: Andrew Nelson
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/63e8a4a7ac1ead047399d0edf34da6e28316dc339b5d550328b24d8b59c90f93.jpg
+  author_url: https://twitter.com/holophrastic_an
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Andrew Nelson", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/63e8a4a7ac1ead047399d0edf34da6e28316dc339b5d550328b24d8b59c90f93.jpg",
+    "url": "https://twitter.com/holophrastic_an"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-259792560",
+    "published": null, "wm-received": "2020-03-21T03:07:07Z", "wm-id": 772600, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/259792560",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:07:07.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-259792560
+- author_name: "☃ Matthew Horsfall ☃"
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/27fb52ed778a0a694b7708c3811181248cfdee443daf2a5fa6d91d5bf85264da.jpg
+  author_url: https://twitter.com/mhorsfall
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "\u2603 Matthew Horsfall
+    \u2603", "photo": "https://webmention.io/avatar/pbs.twimg.com/27fb52ed778a0a694b7708c3811181248cfdee443daf2a5fa6d91d5bf85264da.jpg",
+    "url": "https://twitter.com/mhorsfall"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-167973305",
+    "published": null, "wm-received": "2020-03-21T03:07:14Z", "wm-id": 772601, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/167973305",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:07:14.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-167973305
+- author_name: Ian Adams
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/cb07263796a0933b28f46cf69d2dccd192cee97d25d478da7a8807f2730983f4.jpg
+  author_url: https://twitter.com/IanForrestAdams
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Ian Adams", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/cb07263796a0933b28f46cf69d2dccd192cee97d25d478da7a8807f2730983f4.jpg",
+    "url": "https://twitter.com/IanForrestAdams"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-2200446278",
+    "published": null, "wm-received": "2020-03-21T03:07:52Z", "wm-id": 772602, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/2200446278",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:07:52.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-2200446278
+- author_name: 竹下憲二
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b2278b030a2c20e0479dff3b738ec6dd5ecacc904466c485597347a6ba138868.png
+  author_url: https://twitter.com/takeshita_kenji
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "\u7af9\u4e0b\u61b2\u4e8c",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/b2278b030a2c20e0479dff3b738ec6dd5ecacc904466c485597347a6ba138868.png",
+    "url": "https://twitter.com/takeshita_kenji"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-14869116",
+    "published": null, "wm-received": "2020-03-21T03:09:12Z", "wm-id": 772603, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/14869116",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 20:09:12.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-14869116
+- author_name: Dustin
+  author_photo: https://webmention.io/avatar/hackers.town/df53bdfff6876820b031cba59e1b16d385c77d99ec7b069504b353570713da14.jpg
+  author_url: https://linernotes.club/@dustin
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Dustin", "photo": "https://webmention.io/avatar/hackers.town/df53bdfff6876820b031cba59e1b16d385c77d99ec7b069504b353570713da14.jpg",
+    "url": "https://linernotes.club/@dustin"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-22809",
+    "published": null, "wm-received": "2020-03-21T05:02:21Z", "wm-id": 772683, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/22809",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 22:02:21.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-22809
+- author_name: 'element 666: antichristium'
+  author_photo: https://webmention.io/avatar/hackers.town/4d0d9e190a7de9baa7d6b2365e7b9e9028203dfb31902ebd0f393344c0833e93.jpg
+  author_url: https://mastodon.art/@starbreaker
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "element 666: antichristium",
+    "photo": "https://webmention.io/avatar/hackers.town/4d0d9e190a7de9baa7d6b2365e7b9e9028203dfb31902ebd0f393344c0833e93.jpg",
+    "url": "https://mastodon.art/@starbreaker"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-123121",
+    "published": null, "wm-received": "2020-03-21T05:02:28Z", "wm-id": 772684, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/123121",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 22:02:28.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-123121
+- author_name: om nom nom de plume
+  author_photo: https://webmention.io/avatar/hackers.town/aa7d7686a3a49092dec3533d52ee44c0762c18b41f51c00d19bfe5c6b16ff1a0.jpg
+  author_url: https://khat.komitea.fi/@kirjis
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "om nom nom de plume",
+    "photo": "https://webmention.io/avatar/hackers.town/aa7d7686a3a49092dec3533d52ee44c0762c18b41f51c00d19bfe5c6b16ff1a0.jpg",
+    "url": "https://khat.komitea.fi/@kirjis"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-113884",
+    "published": null, "wm-received": "2020-03-21T05:02:55Z", "wm-id": 772685, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/113884",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 22:02:55.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-113884
+- author_name: '3 Rocks Stacked :manjaro:'
+  author_photo: https://webmention.io/avatar/hackers.town/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png
+  author_url: https://mastodon.social/@3rocksstacked
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "3 Rocks Stacked :manjaro:",
+    "photo": "https://webmention.io/avatar/hackers.town/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png",
+    "url": "https://mastodon.social/@3rocksstacked"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-117381",
+    "published": null, "wm-received": "2020-03-21T05:03:05Z", "wm-id": 772686, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/117381",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 22:03:05.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-117381
+- author_name: Jim Garrett
+  author_photo: https://webmention.io/avatar/hackers.town/137c52a25c072a303398c7c5f64f3887a7d3abd46236e51efa3247abcce85db6.jpg
+  author_url: https://social.wiuwiu.de/@JimG
+  class: repost-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jim Garrett", "photo":
+    "https://webmention.io/avatar/hackers.town/137c52a25c072a303398c7c5f64f3887a7d3abd46236e51efa3247abcce85db6.jpg",
+    "url": "https://social.wiuwiu.de/@JimG"}, "url": "https://hackers.town/@randomgeek/103857809558961072#reblogged-by-11151",
+    "published": null, "wm-received": "2020-03-21T05:03:17Z", "wm-id": 772687, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/103857809558961072/11151",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "repost-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "repost-of", "wm-private": false}'
+  received: 2020-03-20 22:03:17.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#reblogged-by-11151
+- author_name: 'element 666: antichristium'
+  author_photo: https://webmention.io/avatar/hackers.town/4d0d9e190a7de9baa7d6b2365e7b9e9028203dfb31902ebd0f393344c0833e93.jpg
+  author_url: https://mastodon.art/@starbreaker
+  class: repost-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "element 666: antichristium",
+    "photo": "https://webmention.io/avatar/hackers.town/4d0d9e190a7de9baa7d6b2365e7b9e9028203dfb31902ebd0f393344c0833e93.jpg",
+    "url": "https://mastodon.art/@starbreaker"}, "url": "https://hackers.town/@randomgeek/103857809558961072#reblogged-by-123121",
+    "published": null, "wm-received": "2020-03-21T05:03:47Z", "wm-id": 772688, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/103857809558961072/123121",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "repost-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "repost-of", "wm-private": false}'
+  received: 2020-03-20 22:03:47.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#reblogged-by-123121
+- author_name: 'Chris :solus:'
+  author_photo: https://webmention.io/avatar/hackers.town/77b516d59f73cd5ec08cfd046220cfd82d1d2d03809f00dcd6997e3f217e7f1c.png
+  author_url: https://fosstodon.org/@RyuKurisu
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Chris :solus:", "photo":
+    "https://webmention.io/avatar/hackers.town/77b516d59f73cd5ec08cfd046220cfd82d1d2d03809f00dcd6997e3f217e7f1c.png",
+    "url": "https://fosstodon.org/@RyuKurisu"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-13968",
+    "published": null, "wm-received": "2020-03-21T05:40:47Z", "wm-id": 772698, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/13968",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-20 22:40:47.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-13968
+- author_name: peter hessler @openbsd
+  author_photo: https://webmention.io/avatar/hackers.town/986dc30eb80114f7461bcd819114609c964d0d89849b4abb12f2da7499e9abac.png
+  author_url: https://bsd.network/@phessler
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "peter hessler @openbsd",
+    "photo": "https://webmention.io/avatar/hackers.town/986dc30eb80114f7461bcd819114609c964d0d89849b4abb12f2da7499e9abac.png",
+    "url": "https://bsd.network/@phessler"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-9221",
+    "published": null, "wm-received": "2020-03-21T07:01:47Z", "wm-id": 772803, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/9221",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-21 00:01:47.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-9221
+- author_name: evemorgen
+  author_photo: https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png
+  author_url: https://twitter.com/evemorgen1
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "evemorgen", "photo":
+    "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+    "url": "https://twitter.com/evemorgen1"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-1152535901932793857",
+    "published": null, "wm-received": "2020-03-21T08:16:02Z", "wm-id": 772836, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/1152535901932793857",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-21 01:16:02.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-1152535901932793857
+- author_name: T. Holmes
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/54c063d2076d4eb3f363ee26e0715a1655a7f7cd4c18c766c622ca73a819e1df.png
+  author_url: https://twitter.com/tdh004
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "T. Holmes", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/54c063d2076d4eb3f363ee26e0715a1655a7f7cd4c18c766c622ca73a819e1df.png",
+    "url": "https://twitter.com/tdh004"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-38379465",
+    "published": null, "wm-received": "2020-03-21T08:16:12Z", "wm-id": 772837, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/38379465",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-21 01:16:12.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-38379465
+- author_name: Alex Balhatchet
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/0a242c8662e32b96905f3cb50746e220c6c5c42203aeb9e8ffd8791c9b0d6dda.jpg
+  author_url: https://twitter.com/kaokun
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Alex Balhatchet", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/0a242c8662e32b96905f3cb50746e220c6c5c42203aeb9e8ffd8791c9b0d6dda.jpg",
+    "url": "https://twitter.com/kaokun"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-8631222",
+    "published": null, "wm-received": "2020-03-21T08:16:16Z", "wm-id": 772838, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/8631222",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-21 01:16:16.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-8631222
+- author_name: David H. Adler
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/0aef082e59c08d065edad29da63fec4e65921b4ac2e77703ff1df67432294089.png
+  author_url: https://twitter.com/frobisher
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "David H. Adler", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/0aef082e59c08d065edad29da63fec4e65921b4ac2e77703ff1df67432294089.png",
+    "url": "https://twitter.com/frobisher"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-14717685",
+    "published": null, "wm-received": "2020-03-21T08:16:52Z", "wm-id": 772839, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/14717685",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-21 01:16:52.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-14717685
+- author_name: Lena Hand
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/2acbc340c27aa84128727a9532c5851bf5074d5053f3fe68d79d49d9056e5496.jpg
+  author_url: https://twitter.com/irishpebbles
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Lena Hand", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/2acbc340c27aa84128727a9532c5851bf5074d5053f3fe68d79d49d9056e5496.jpg",
+    "url": "https://twitter.com/irishpebbles"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-468568917",
+    "published": null, "wm-received": "2020-03-21T08:17:00Z", "wm-id": 772840, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/468568917",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-21 01:17:00.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-468568917
+- author_name: Jens
+  author_photo: https://webmention.io/avatar/hackers.town/414cb121e0dbd35a643ef067e20ad137daeb3f173bd60a88f1dfcc570e465cab.jpg
+  author_url: https://bsd.network/@jens_d
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jens", "photo": "https://webmention.io/avatar/hackers.town/414cb121e0dbd35a643ef067e20ad137daeb3f173bd60a88f1dfcc570e465cab.jpg",
+    "url": "https://bsd.network/@jens_d"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-14062",
+    "published": null, "wm-received": "2020-03-21T08:36:04Z", "wm-id": 772844, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/14062",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-21 01:36:04.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-14062
+- author_name: Bran Mac Muffin
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/0c52b160ed86ede3a97b1b00f6d97bd71aca1d15b8180293e0b78cd1a51cec84.png
+  author_url: https://twitter.com/BranMacMuffin
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Bran Mac Muffin", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/0c52b160ed86ede3a97b1b00f6d97bd71aca1d15b8180293e0b78cd1a51cec84.png",
+    "url": "https://twitter.com/BranMacMuffin"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-38417649",
+    "published": null, "wm-received": "2020-03-21T10:40:02Z", "wm-id": 772939, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/38417649",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-21 03:40:02.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-38417649
+- author_name: Maig "Peachy keen" Worel
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/9b982d0c930d4dcdc9212e500cf335820ae4ea50efd143ba03197ea48cdf1a25.gif
+  author_url: https://twitter.com/MWorel
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Maig \"Peachy keen\"
+    Worel", "photo": "https://webmention.io/avatar/pbs.twimg.com/9b982d0c930d4dcdc9212e500cf335820ae4ea50efd143ba03197ea48cdf1a25.gif",
+    "url": "https://twitter.com/MWorel"}, "url": "https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-600288351",
+    "published": null, "wm-received": "2020-03-21T11:44:01Z", "wm-id": 772972, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1241134245113991170/600288351",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-21 04:44:01.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1241134245113991170#favorited-by-600288351
+- author_name: Neil
+  author_photo: https://webmention.io/avatar/hackers.town/c42bdfebbc1f822e9dc780f29ea20606bf96e486d1923a8a1ae40cad6dd42b03.png
+  author_url: https://glasgow.social/@neil
+  class: repost-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Neil", "photo": "https://webmention.io/avatar/hackers.town/c42bdfebbc1f822e9dc780f29ea20606bf96e486d1923a8a1ae40cad6dd42b03.png",
+    "url": "https://glasgow.social/@neil"}, "url": "https://hackers.town/@randomgeek/103857809558961072#reblogged-by-77368",
+    "published": null, "wm-received": "2020-03-21T14:33:48Z", "wm-id": 773034, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/103857809558961072/77368",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "repost-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "repost-of", "wm-private": false}'
+  received: 2020-03-21 07:33:48.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#reblogged-by-77368
+- author_name: Yasmin
+  author_photo: https://webmention.io/avatar/hackers.town/3873beb53999c89bf02c1d90ccec5968a44c955846ff87868289ca38e8f921e9.jpg
+  author_url: https://glasgow.social/@Star_Anise
+  class: like-of
+  entry_url: "/2020/03/20/got-married-yesterday/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Yasmin", "photo": "https://webmention.io/avatar/hackers.town/3873beb53999c89bf02c1d90ccec5968a44c955846ff87868289ca38e8f921e9.jpg",
+    "url": "https://glasgow.social/@Star_Anise"}, "url": "https://hackers.town/@randomgeek/103857809558961072#favorited-by-124334",
+    "published": null, "wm-received": "2020-03-23T09:39:34Z", "wm-id": 773892, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/103857809558961072/124334",
+    "wm-target": "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "like-of":
+    "https://randomgeekery.org/2020/03/20/got-married-yesterday/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-03-23 02:39:34.000000000 -07:00
+  url: https://hackers.town/@randomgeek/103857809558961072#favorited-by-124334

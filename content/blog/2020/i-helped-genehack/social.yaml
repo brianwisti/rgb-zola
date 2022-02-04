@@ -1,0 +1,228 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104071596654150778
+  twitter: https://twitter.com/brianwisti/status/1254816716762251270
+entry_path: content/note/2020/04/i-helped-genehack-/index.md
+permalink: "/note/2020/04/i-helped-genehack/"
+responses:
+- author_name: Gizmo Mathboy
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/6e8f59250ff9a90bb96e95328801a297c1dc873c30eb29040638bf8b525e5184.jpg
+  author_url: https://twitter.com/gizmomathboy
+  class: in-reply-to
+  content:
+    html: |-
+      choose at badge reg?
+
+      Maybe nice pint glasses made of acrylic so as not to break while on travels?
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/JacobyDave"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: |-
+      choose at badge reg?
+
+      Maybe nice pint glasses made of acrylic so as not to break while on travels?
+  entry_url: "/note/2020/118/i-helped-genehack/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-27 11:51:25.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Gizmo Mathboy", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/6e8f59250ff9a90bb96e95328801a297c1dc873c30eb29040638bf8b525e5184.jpg",
+    "url": "https://twitter.com/gizmomathboy"}, "url": "https://twitter.com/gizmomathboy/status/1254845623901343745",
+    "published": "2020-04-27T18:51:25+00:00", "wm-received": "2020-04-27T19:15:39Z",
+    "wm-id": 787808, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1254816716762251270/1254845623901343745",
+    "wm-target": "https://randomgeekery.org/note/2020/118/i-helped-genehack/", "content":
+    {"html": "choose at badge reg?\n\nMaybe nice pint glasses made of acrylic so as
+    not to break while on travels?\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/JacobyDave\"></a>\n<a class=\"u-mention\"
+    href=\"https://twitter.com/brianwisti\"></a>", "text": "choose at badge reg?\n\nMaybe
+    nice pint glasses made of acrylic so as not to break while on travels?"}, "in-reply-to":
+    "https://randomgeekery.org/note/2020/118/i-helped-genehack/", "wm-property": "in-reply-to",
+    "wm-private": false}'
+  received: 2020-04-27 12:15:39.000000000 -07:00
+  url: https://twitter.com/gizmomathboy/status/1254845623901343745
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      but
+
+      protocol is we already have the towel
+
+      the swag should be everything else
+      <a class="u-mention" href="https://twitter.com/JacobyDave"></a>
+      <a class="u-mention" href="https://twitter.com/gizmomathboy"></a>
+    text: |-
+      but
+
+      protocol is we already have the towel
+
+      the swag should be everything else
+  entry_url: "/note/2020/118/i-helped-genehack/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-27 11:46:54.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1254844487970418688",
+    "published": "2020-04-27T18:46:54+00:00", "wm-received": "2020-04-27T19:15:12Z",
+    "wm-id": 787805, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1254816716762251270/1254844487970418688",
+    "wm-target": "https://randomgeekery.org/note/2020/118/i-helped-genehack/", "content":
+    {"html": "but\n\nprotocol is we already have the towel\n\nthe swag should be everything
+    else\n<a class=\"u-mention\" href=\"https://twitter.com/JacobyDave\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/gizmomathboy\"></a>", "text": "but\n\nprotocol
+    is we already have the towel\n\nthe swag should be everything else"}, "in-reply-to":
+    "https://randomgeekery.org/note/2020/118/i-helped-genehack/", "wm-property": "in-reply-to",
+    "wm-private": false}'
+  received: 2020-04-27 12:15:12.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1254844487970418688
+- author_name: Bad Joy Cave
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg
+  author_url: https://twitter.com/JacobyDave
+  class: in-reply-to
+  content:
+    html: |-
+      Suddenly think cons should have towels as swag
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+      <a class="u-mention" href="https://twitter.com/gizmomathboy"></a>
+    text: Suddenly think cons should have towels as swag
+  entry_url: "/note/2020/118/i-helped-genehack/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-27 11:39:26.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Bad Joy Cave", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg",
+    "url": "https://twitter.com/JacobyDave"}, "url": "https://twitter.com/JacobyDave/status/1254842607647313920",
+    "published": "2020-04-27T18:39:26+00:00", "wm-received": "2020-04-27T19:15:11Z",
+    "wm-id": 787804, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1254816716762251270/1254842607647313920",
+    "wm-target": "https://randomgeekery.org/note/2020/118/i-helped-genehack/", "content":
+    {"html": "Suddenly think cons should have towels as swag\n<a class=\"u-mention\"
+    href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/gizmomathboy\"></a>", "text": "Suddenly
+    think cons should have towels as swag"}, "in-reply-to": "https://randomgeekery.org/note/2020/118/i-helped-genehack/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-27 12:15:11.000000000 -07:00
+  url: https://twitter.com/JacobyDave/status/1254842607647313920
+- author_name: Gizmo Mathboy
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/6e8f59250ff9a90bb96e95328801a297c1dc873c30eb29040638bf8b525e5184.jpg
+  author_url: https://twitter.com/gizmomathboy
+  class: in-reply-to
+  content:
+    html: |-
+      hoopy froods all around
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: hoopy froods all around
+  entry_url: "/note/2020/118/i-helped-genehack/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-27 11:35:29.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Gizmo Mathboy", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/6e8f59250ff9a90bb96e95328801a297c1dc873c30eb29040638bf8b525e5184.jpg",
+    "url": "https://twitter.com/gizmomathboy"}, "url": "https://twitter.com/gizmomathboy/status/1254841614004105220",
+    "published": "2020-04-27T18:35:29+00:00", "wm-received": "2020-04-27T19:15:09Z",
+    "wm-id": 787803, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1254816716762251270/1254841614004105220",
+    "wm-target": "https://randomgeekery.org/note/2020/118/i-helped-genehack/", "content":
+    {"html": "hoopy froods all around\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "hoopy
+    froods all around"}, "in-reply-to": "https://randomgeekery.org/note/2020/118/i-helped-genehack/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-27 12:15:09.000000000 -07:00
+  url: https://twitter.com/gizmomathboy/status/1254841614004105220
+- author_name: genehack in da house
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg
+  author_url: https://twitter.com/genehack
+  class: mention-of
+  content:
+    html: "The image on this page has scarred me. \n\n<a href=\"https://randomgeekery.org/note/2020/118/i-helped-genehack/\">randomgeekery.org/note/2020/118/…</a>\n\n(j/k
+      but it is quite ...something.)"
+    text: "The image on this page has scarred me. \n\nrandomgeekery.org/note/2020/118/…\n\n(j/k
+      but it is quite ...something.)"
+  entry_url: "/note/2020/118/i-helped-genehack/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-27 11:12:32.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "genehack in da house",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg",
+    "url": "https://twitter.com/genehack"}, "url": "https://twitter.com/genehack/status/1254835838040436741",
+    "published": "2020-04-27T18:12:32+00:00", "wm-received": "2020-04-27T19:15:07Z",
+    "wm-id": 787802, "wm-source": "https://brid-gy.appspot.com/post/twitter/brianwisti/1254835838040436741",
+    "wm-target": "https://randomgeekery.org/note/2020/118/i-helped-genehack/", "content":
+    {"html": "The image on this page has scarred me. \n\n<a href=\"https://randomgeekery.org/note/2020/118/i-helped-genehack/\">randomgeekery.org/note/2020/118/\u2026</a>\n\n(j/k
+    but it is quite ...something.)", "text": "The image on this page has scarred me.
+    \n\nrandomgeekery.org/note/2020/118/\u2026\n\n(j/k but it is quite ...something.)"},
+    "mention-of": "https://randomgeekery.org/note/2020/118/i-helped-genehack/", "wm-property":
+    "mention-of", "wm-private": false}'
+  received: 2020-04-27 12:15:07.000000000 -07:00
+  url: https://twitter.com/genehack/status/1254835838040436741
+- author_name: Yanick
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg
+  author_url: https://twitter.com/yenzie
+  class: like-of
+  entry_url: "/note/2020/118/i-helped-genehack/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Yanick", "photo": "https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg",
+    "url": "https://twitter.com/yenzie"}, "url": "https://twitter.com/brianwisti/status/1254816716762251270#favorited-by-18431216",
+    "published": null, "wm-received": "2020-04-27T18:10:20Z", "wm-id": 787782, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1254816716762251270/18431216",
+    "wm-target": "https://randomgeekery.org/note/2020/118/i-helped-genehack/", "like-of":
+    "https://randomgeekery.org/note/2020/118/i-helped-genehack/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-27 11:10:20.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1254816716762251270#favorited-by-18431216
+- author_name: Joe Johnston
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/5e6623bacb471fb0b4c165bc4faf8f490fc33567c5160314a090f9e613c58f1a.jpg
+  author_url: https://twitter.com/taskboy3000
+  class: like-of
+  entry_url: "/note/2020/118/i-helped-genehack/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Joe Johnston", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/5e6623bacb471fb0b4c165bc4faf8f490fc33567c5160314a090f9e613c58f1a.jpg",
+    "url": "https://twitter.com/taskboy3000"}, "url": "https://twitter.com/brianwisti/status/1254816716762251270#favorited-by-40714930",
+    "published": null, "wm-received": "2020-04-27T18:10:29Z", "wm-id": 787783, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1254816716762251270/40714930",
+    "wm-target": "https://randomgeekery.org/note/2020/118/i-helped-genehack/", "like-of":
+    "https://randomgeekery.org/note/2020/118/i-helped-genehack/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-27 11:10:29.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1254816716762251270#favorited-by-40714930
+- author_name: Bad Joy Cave
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg
+  author_url: https://twitter.com/JacobyDave
+  class: like-of
+  entry_url: "/note/2020/118/i-helped-genehack/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Bad Joy Cave", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg",
+    "url": "https://twitter.com/JacobyDave"}, "url": "https://twitter.com/brianwisti/status/1254816716762251270#favorited-by-15087660",
+    "published": null, "wm-received": "2020-04-27T19:15:38Z", "wm-id": 787807, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1254816716762251270/15087660",
+    "wm-target": "https://randomgeekery.org/note/2020/118/i-helped-genehack/", "like-of":
+    "https://randomgeekery.org/note/2020/118/i-helped-genehack/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-27 12:15:38.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1254816716762251270#favorited-by-15087660

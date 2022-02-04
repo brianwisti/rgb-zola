@@ -1,0 +1,137 @@
+{% macro breadcrumb(context) %}
+  <nav class="breadcrumb">
+    <ul class="breadcrumb-list">
+      {% for ancestor in context.ancestors %}
+        {% set step = get_section(path=ancestor) %}
+        <li class="breadcrumb-item">
+          <a class="breadcrumb-link" href="{{ step.permalink | safe }}">{{ step.title }}</a>
+        </li>
+      {% endfor %}
+      <li class="breadcrumb-item active">
+        <a class="breadcrumb-link" href="{{ context.permalink | safe }}">{{ context.title }}</a>
+      </li>
+    </ul>
+  </nav>
+{% endmacro breadcrumb %}
+
+{% macro category_link(category_name) %}
+  {% set category_url = get_taxonomy_url(kind="category", name=category_name) %}
+  <a class="label label-dark" href="{{ category_url | safe }}">{{ category_name }}</a>
+{% endmacro category_link %}
+
+{% macro cover_image(cover_image, page_assets) %}
+  {% set path = cover_image.path %}
+  {% set caption = cover_image.caption %}
+  {% for asset in page_assets %}
+    {% if asset is matching(path) %}
+      {% set cover_image = resize_image(path=asset, width=1280, op="fit_width") %}
+      <figure>
+        <img src="{{ cover_image.url }}" />
+        {% if caption %}
+          <figcaption>{{ caption | markdown | safe }}</figcaption>
+        {% endif %}
+      </figure>
+    {% endif %}
+  {% endfor %}
+{% endmacro cover_image %}
+
+{% macro series_link(series_name) %}
+  {% set series_url = get_taxonomy_url(kind="series", name=series_name) %}
+  <a href="{{ series_url | safe }}">{{ series_name }}</a>
+{% endmacro series_link %}
+
+{% macro tag_link(tag_name) %}
+  {% set tag_url = get_taxonomy_url(kind="tags", name=tag_name) %}
+  <a href="{{ tag_url | safe }}" class="label p-category tag">{{ tag_name }}</a>
+{% endmacro tag_link %}
+
+{% macro date_stamp(value) %}
+  <span>{{ value | date(timezone="America/Los_Angeles") }}</span>
+{% endmacro date_stamp %}
+
+{% macro article_summary(article) %}
+  <section class="card b-dark-medium my-6 p-3">
+    <section class="card-box">
+      <header class="card-head">
+        <h1 class="heading-small">
+          <a href="{{ article.permalink | safe }}">{{ article.title }}</a>
+        </h1>
+        {% if article.description %}
+          <h6 class="heading-tagline">{{ article.description }}</h6>
+        {% endif %}
+      </header>
+      <section class="card-body mt-3">
+        {{ blog::date_stamp(value=article.date) }}
+        {% set taxonomies = article.taxonomies %}
+
+        {% if taxonomies %}
+          <p>
+          {% for category in taxonomies.category %}
+            {{ blog::category_link(category_name=category) }}
+          {% endfor %}
+
+          {% for tag in taxonomies.tags %}
+            {{ blog::tag_link(tag_name=tag) }}
+          {% endfor %}
+          </p>
+
+          {% if taxonomies.series %}
+            <p>
+              {% for series in taxonomies.series %}
+                {{ blog::series_link(series_name=series) }}
+              {% endfor %}
+            </p>
+          {% endif %}
+        {% endif %}
+      </section>
+    </section>
+  </section>
+{% endmacro article_summary %}
+
+{% macro timeline(page) %}
+  <div class="item flex flex-between">
+    {% set blog = get_section(path="blog/_index.md") %}
+    {% set year = page.year %}
+
+    <div class="card item-column">
+      <div class="card-box flex flex-column">
+        {% set later = page.later %}
+        {% if page.year and not later %}
+          {% set next_year = year + 1 %}
+          {% set next_section_path = ["blog", next_year, "_index.md"] | join(sep="/") %}
+          {% if blog.subsections is containing(next_section_path) %}
+            {% set next_section = get_section(path=next_section_path) %}
+            {% set later = next_section.pages | last %}
+          {% endif %}
+        {% endif %}
+        {% if later %}
+          <a href="{{ later.permalink | safe }}">{{  later.title }}</a>
+          <span>{{  blog::date_stamp(value=later.date) }}</span>
+        {% else %}
+          <span>This is the latest</span>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="card item-column">
+      <div class="card-box flex flex-column">
+      {% set earlier = page.earlier %}
+      {% if not earlier %}
+        {% set last_year = year - 1 %}
+        {% set last_section_path = ["blog", last_year, "_index.md"] | join(sep="/") %}
+        {% if blog.subsections is containing(last_section_path) %}
+          {% set last_section = get_section(path=last_section_path) %}
+          {% set earlier = last_section.pages | first %}
+        {% endif %}
+      {% endif %}
+      {% if earlier %}
+        <a href="{{ earlier.permalink | safe }}">{{ earlier.title }}</a>
+        <span class="ml-auto">{{  blog::date_stamp(value=earlier.date) }}</span>
+      {% else %}
+        <span>This is the earliest</span>
+      {% endif %}
+      </div>
+    </div>
+</div>
+{% endmacro timeline %}
+

@@ -1,0 +1,127 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104023170828376600
+  twitter: https://twitter.com/brianwisti/status/1251717527388008448
+entry_path: content/note/2020/04/kistler-tree/index.md
+permalink: "/note/2020/04/kistler-tree/"
+responses:
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      I liked it. May revisit later. Kistler does good drawing kata.
+      <a class="u-mention" href="https://twitter.com/gizmomathboy"></a>
+    text: I liked it. May revisit later. Kistler does good drawing kata.
+  entry_url: "/note/2020/109/kistler-tree/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-18 21:53:21.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1251735613692239873",
+    "published": "2020-04-19T04:53:21+00:00", "wm-received": "2020-04-19T05:02:27Z",
+    "wm-id": 784227, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1251717527388008448/1251735613692239873",
+    "wm-target": "https://randomgeekery.org/note/2020/109/kistler-tree/", "content":
+    {"html": "I liked it. May revisit later. Kistler does good drawing kata.\n<a class=\"u-mention\"
+    href=\"https://twitter.com/gizmomathboy\"></a>", "text": "I liked it. May revisit
+    later. Kistler does good drawing kata."}, "in-reply-to": "https://randomgeekery.org/note/2020/109/kistler-tree/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-18 22:02:27.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1251735613692239873
+- author_name: Gizmo Mathboy
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/6e8f59250ff9a90bb96e95328801a297c1dc873c30eb29040638bf8b525e5184.jpg
+  author_url: https://twitter.com/gizmomathboy
+  class: in-reply-to
+  content:
+    html: |-
+      my youngest is working through that.
+
+      I've been meaning to as well
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: |-
+      my youngest is working through that.
+
+      I've been meaning to as well
+  entry_url: "/note/2020/109/kistler-tree/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-18 21:26:07.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Gizmo Mathboy", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/6e8f59250ff9a90bb96e95328801a297c1dc873c30eb29040638bf8b525e5184.jpg",
+    "url": "https://twitter.com/gizmomathboy"}, "url": "https://twitter.com/gizmomathboy/status/1251728760371646465",
+    "published": "2020-04-19T04:26:07+00:00", "wm-received": "2020-04-19T05:02:27Z",
+    "wm-id": 784226, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1251717527388008448/1251728760371646465",
+    "wm-target": "https://randomgeekery.org/note/2020/109/kistler-tree/", "content":
+    {"html": "my youngest is working through that.\n\nI''ve been meaning to as well\n<a
+    class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\"
+    href=\"https://twitter.com/brianwisti\"></a>", "text": "my youngest is working
+    through that.\n\nI''ve been meaning to as well"}, "in-reply-to": "https://randomgeekery.org/note/2020/109/kistler-tree/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-18 22:02:27.000000000 -07:00
+  url: https://twitter.com/gizmomathboy/status/1251728760371646465
+- author_name: R¥
+  author_photo: https://webmention.io/avatar/hackers.town/039263c529628673890df7480f559d05726a8ea233ba0ede646e2350c865c746.jpg
+  author_url: https://hackers.town/@ryen
+  class: like-of
+  entry_url: "/note/2020/109/kistler-tree/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "R\u00a5", "photo": "https://webmention.io/avatar/hackers.town/039263c529628673890df7480f559d05726a8ea233ba0ede646e2350c865c746.jpg",
+    "url": "https://hackers.town/@ryen"}, "url": "https://hackers.town/@randomgeek/104023170828376600#favorited-by-44063",
+    "published": null, "wm-received": "2020-04-19T04:13:35Z", "wm-id": 784214, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104023170828376600/44063",
+    "wm-target": "https://randomgeekery.org/note/2020/109/kistler-tree/", "like-of":
+    "https://randomgeekery.org/note/2020/109/kistler-tree/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-18 21:13:35.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104023170828376600#favorited-by-44063
+- author_name: Soh Kam Yung
+  author_photo: https://webmention.io/avatar/hackers.town/8334c8c76ed0689f7d005e5e5632c42bd3906754847cdd7649e9091d1d756e36.png
+  author_url: https://mstdn.io/@sohkamyung
+  class: like-of
+  entry_url: "/note/2020/109/kistler-tree/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Soh Kam Yung", "photo":
+    "https://webmention.io/avatar/hackers.town/8334c8c76ed0689f7d005e5e5632c42bd3906754847cdd7649e9091d1d756e36.png",
+    "url": "https://mstdn.io/@sohkamyung"}, "url": "https://hackers.town/@randomgeek/104023170828376600#favorited-by-31871",
+    "published": null, "wm-received": "2020-04-19T04:13:35Z", "wm-id": 784215, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104023170828376600/31871",
+    "wm-target": "https://randomgeekery.org/note/2020/109/kistler-tree/", "like-of":
+    "https://randomgeekery.org/note/2020/109/kistler-tree/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-18 21:13:35.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104023170828376600#favorited-by-31871
+- author_name: HockeyBrain
+  author_photo: https://webmention.io/avatar/hackers.town/69b1cd9fea3cb26025188b8383275a1c6c7951c054f9671f796fbbc106a89022.png
+  author_url: https://lor.sh/@touristfromhell
+  class: like-of
+  entry_url: "/note/2020/109/kistler-tree/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "HockeyBrain", "photo":
+    "https://webmention.io/avatar/hackers.town/69b1cd9fea3cb26025188b8383275a1c6c7951c054f9671f796fbbc106a89022.png",
+    "url": "https://lor.sh/@touristfromhell"}, "url": "https://hackers.town/@randomgeek/104023170828376600#favorited-by-127129",
+    "published": null, "wm-received": "2020-04-19T08:58:04Z", "wm-id": 784262, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104023170828376600/127129",
+    "wm-target": "https://randomgeekery.org/note/2020/109/kistler-tree/", "like-of":
+    "https://randomgeekery.org/note/2020/109/kistler-tree/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-19 01:58:04.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104023170828376600#favorited-by-127129

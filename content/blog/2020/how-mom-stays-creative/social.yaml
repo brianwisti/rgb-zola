@@ -1,0 +1,87 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104034687115829606
+  twitter: https://twitter.com/brianwisti/status/1252454678991945728
+entry_path: content/note/2020/04/how-mom-stays-creative/index.md
+permalink: "/note/2020/04/how-mom-stays-creative/"
+responses:
+- author_name: Creaturista ☕​
+  author_photo: https://webmention.io/avatar/hackers.town/f1ca99f871f8d9ee6efecf82f13613a2c3f48b08c12d7efef607d66b92fad6b7.jpg
+  author_url: https://playvicious.social/@Creaturista
+  class: like-of
+  entry_url: "/note/2020/111/how-mom-stays-creative/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Creaturista \u2615\u200b",
+    "photo": "https://webmention.io/avatar/hackers.town/f1ca99f871f8d9ee6efecf82f13613a2c3f48b08c12d7efef607d66b92fad6b7.jpg",
+    "url": "https://playvicious.social/@Creaturista"}, "url": "https://hackers.town/@randomgeek/104034687115829606#favorited-by-70324",
+    "published": null, "wm-received": "2020-04-21T04:48:36Z", "wm-id": 785107, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104034687115829606/70324",
+    "wm-target": "https://randomgeekery.org/note/2020/111/how-mom-stays-creative/",
+    "like-of": "https://randomgeekery.org/note/2020/111/how-mom-stays-creative/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-20 21:48:36.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104034687115829606#favorited-by-70324
+- author_name: genehack
+  author_photo: https://webmention.io/avatar/hackers.town/65d33ddabc41f9b8cf5004260512c5c0251c0fc6435bed0858eda38bb6093308.jpg
+  author_url: https://mastodon.social/@genehack
+  class: like-of
+  entry_url: "/note/2020/111/how-mom-stays-creative/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "genehack", "photo":
+    "https://webmention.io/avatar/hackers.town/65d33ddabc41f9b8cf5004260512c5c0251c0fc6435bed0858eda38bb6093308.jpg",
+    "url": "https://mastodon.social/@genehack"}, "url": "https://hackers.town/@randomgeek/104034687115829606#favorited-by-24557",
+    "published": null, "wm-received": "2020-04-21T04:48:36Z", "wm-id": 785108, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104034687115829606/24557",
+    "wm-target": "https://randomgeekery.org/note/2020/111/how-mom-stays-creative/",
+    "like-of": "https://randomgeekery.org/note/2020/111/how-mom-stays-creative/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-20 21:48:36.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104034687115829606#favorited-by-24557
+- author_name: Dame Seville
+  author_photo: https://webmention.io/avatar/hackers.town/e0a57423c99d2264b7bc31d2d002e15c608a082dca9c036186114b47843e8871.jpg
+  author_url: https://hackers.town/@nobody
+  class: repost-of
+  entry_url: "/note/2020/111/how-mom-stays-creative/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Dame Seville", "photo":
+    "https://webmention.io/avatar/hackers.town/e0a57423c99d2264b7bc31d2d002e15c608a082dca9c036186114b47843e8871.jpg",
+    "url": "https://hackers.town/@nobody"}, "url": "https://hackers.town/@randomgeek/104034687115829606#reblogged-by-24713",
+    "published": null, "wm-received": "2020-04-21T05:38:03Z", "wm-id": 785131, "wm-source":
+    "https://brid-gy.appspot.com/repost/mastodon/@randomgeek@hackers.town/104034687115829606/24713",
+    "wm-target": "https://randomgeekery.org/note/2020/111/how-mom-stays-creative/",
+    "repost-of": "https://randomgeekery.org/note/2020/111/how-mom-stays-creative/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-04-20 22:38:03.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104034687115829606#reblogged-by-24713
+- author_name: Maig "Peachy keen" Worel
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/9b982d0c930d4dcdc9212e500cf335820ae4ea50efd143ba03197ea48cdf1a25.gif
+  author_url: https://twitter.com/MWorel
+  class: like-of
+  entry_url: "/note/2020/111/how-mom-stays-creative/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Maig \"Peachy keen\"
+    Worel", "photo": "https://webmention.io/avatar/pbs.twimg.com/9b982d0c930d4dcdc9212e500cf335820ae4ea50efd143ba03197ea48cdf1a25.gif",
+    "url": "https://twitter.com/MWorel"}, "url": "https://twitter.com/brianwisti/status/1252454678991945728#favorited-by-600288351",
+    "published": null, "wm-received": "2020-04-21T16:25:57Z", "wm-id": 785304, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1252454678991945728/600288351",
+    "wm-target": "https://randomgeekery.org/note/2020/111/how-mom-stays-creative/",
+    "like-of": "https://randomgeekery.org/note/2020/111/how-mom-stays-creative/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-21 09:25:57.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1252454678991945728#favorited-by-600288351

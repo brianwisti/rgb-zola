@@ -1,0 +1,123 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/105687357346007063
+  twitter: https://twitter.com/brianwisti/status/1358225248106262529
+  dev-to: https://dev.to/brianwisti/post-pretty-file-summaries-with-rich-and-exiftool-2afn
+entry_path: content/post/2021/02-pretty-file-summaries-with-rich-and-exiftool/index.md
+permalink: "/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/"
+responses:
+- url: https://twitter.com/iPythonistaBot/status/1358225270533218305
+  author_name: Pythonista Bot
+  author_url: https://twitter.com/iPythonistaBot
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/fc1f5a6d7d567a9feced70b040500d64c14d87301df48d57e123760f296c7895.jpg
+  class: repost-of
+  entry_url: https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/
+  h-type: entry
+  private: false
+  received: 2021-02-07 01:55:27.000000000 Z
+  published: 2021-02-07 01:25:13.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Pythonista Bot","photo":"https://webmention.io/avatar/pbs.twimg.com/fc1f5a6d7d567a9feced70b040500d64c14d87301df48d57e123760f296c7895.jpg","url":"https://twitter.com/iPythonistaBot"},"url":"https://twitter.com/iPythonistaBot/status/1358225270533218305","published":"2021-02-07T01:25:13+00:00","wm-received":"2021-02-07T01:55:27Z","wm-id":1019625,"wm-source":"https://brid.gy/repost/twitter/brianwisti/1358225248106262529/1358225270533218305","wm-target":"https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/","content":{"text":"Want
+    to see something cool?\n\nPretty File Summaries with Rich and ExifTool\n\n#Files
+    #Python #Perlish #Blog\n\nrandomgeekery.org/post/2021/02/p…"},"repost-of":"https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/","wm-property":"repost-of","wm-private":false}'
+  content:
+    text: |-
+      Want to see something cool?
+
+      Pretty File Summaries with Rich and ExifTool
+
+      #Files #Python #Perlish #Blog
+
+      randomgeekery.org/post/2021/02/p…
+- url: https://twitter.com/code_convention/status/1358225953990660099
+  author_name: Code Convention
+  author_url: https://twitter.com/code_convention
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/fc4a70ba17f040058858d532948b72bab04ed975f8074da8f4da295cb226f506.jpg
+  class: repost-of
+  entry_url: https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/
+  h-type: entry
+  private: false
+  received: 2021-02-07 01:55:27.000000000 Z
+  published: 2021-02-07 01:27:56.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Code Convention","photo":"https://webmention.io/avatar/pbs.twimg.com/fc4a70ba17f040058858d532948b72bab04ed975f8074da8f4da295cb226f506.jpg","url":"https://twitter.com/code_convention"},"url":"https://twitter.com/code_convention/status/1358225953990660099","published":"2021-02-07T01:27:56+00:00","wm-received":"2021-02-07T01:55:27Z","wm-id":1019626,"wm-source":"https://brid.gy/repost/twitter/brianwisti/1358225248106262529/1358225953990660099","wm-target":"https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/","content":{"text":"Want
+    to see something cool?\n\nPretty File Summaries with Rich and ExifTool\n\n#Files
+    #Python #Perlish #Blog\n\nrandomgeekery.org/post/2021/02/p…"},"repost-of":"https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/","wm-property":"repost-of","wm-private":false}'
+  content:
+    text: |-
+      Want to see something cool?
+
+      Pretty File Summaries with Rich and ExifTool
+
+      #Files #Python #Perlish #Blog
+
+      randomgeekery.org/post/2021/02/p…
+- url: https://hackers.town/@y0x3y/105687566488665072
+  author_name: ߋߡۺ৩֎
+  author_url: https://hackers.town/@y0x3y
+  author_photo: https://webmention.io/avatar/hackers.town/7ec632d740c25fd3a884058a5109e15a4e361519904ea34301f529cc00bffe19.png
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/
+  h-type: entry
+  private: false
+  received: 2021-02-07 03:14:27.000000000 Z
+  published: 2021-02-07 02:18:03.000000000 -08:00
+  raw: '{"type":"entry","author":{"type":"card","name":"ߋߡۺ৩֎","photo":"https://webmention.io/avatar/hackers.town/7ec632d740c25fd3a884058a5109e15a4e361519904ea34301f529cc00bffe19.png","url":"https://hackers.town/@y0x3y"},"url":"https://hackers.town/@y0x3y/105687566488665072","published":"2021-02-07T02:18:03","wm-received":"2021-02-07T03:14:27Z","wm-id":1019696,"wm-source":"https://brid.gy/comment/mastodon/@randomgeek@hackers.town/105687357346007063/105687566488665072","wm-target":"https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/","content":{"html":"<p><span
+    class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\" class=\"u-url\">@<span>randomgeek</span></a></span>
+    very cool</p>","text":"@randomgeek very cool"},"in-reply-to":"https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      very cool</p>
+    text: "@randomgeek very cool"
+- url: https://twitter.com/brianwisti/status/1358225248106262529#favorited-by-43799528
+  author_name: Deidre Wisti
+  author_url: https://twitter.com/IamMrsGeek
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/6451d71e53b7f1a01438557a85f9814ca0fd3bdced4b328ec990ec3c3013c702.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/
+  h-type: entry
+  private: false
+  received: 2021-02-07 03:52:02.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Deidre Wisti","photo":"https://webmention.io/avatar/pbs.twimg.com/6451d71e53b7f1a01438557a85f9814ca0fd3bdced4b328ec990ec3c3013c702.jpg","url":"https://twitter.com/IamMrsGeek"},"url":"https://twitter.com/brianwisti/status/1358225248106262529#favorited-by-43799528","published":null,"wm-received":"2021-02-07T03:52:02Z","wm-id":1019728,"wm-source":"https://brid.gy/like/twitter/brianwisti/1358225248106262529/43799528","wm-target":"https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/","like-of":"https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/willmcgugan/status/1358418731500716033
+  author_name: Will McGugan
+  author_url: https://twitter.com/willmcgugan
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/8232afa907c94ad26b9e8bf2c4e7547c46d77e889ac167f1a960c38639c7d992.jpg
+  class: mention-of
+  entry_url: https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/
+  h-type: entry
+  private: false
+  received: 2021-02-07 14:36:14.000000000 Z
+  published: 2021-02-07 14:13:58.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Will McGugan","photo":"https://webmention.io/avatar/pbs.twimg.com/8232afa907c94ad26b9e8bf2c4e7547c46d77e889ac167f1a960c38639c7d992.jpg","url":"https://twitter.com/willmcgugan"},"url":"https://twitter.com/willmcgugan/status/1358418731500716033","published":"2021-02-07T14:13:58+00:00","wm-received":"2021-02-07T14:36:14Z","wm-id":1020312,"wm-source":"https://brid.gy/post/twitter/brianwisti/1358418731500716033","wm-target":"https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/","content":{"html":"This
+    is Cool. Another project using Rich and Typer! Nice to see Rich tables in the
+    wild.\n<a class=\"u-mention\" href=\"https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/\"></a>","text":"This
+    is Cool. Another project using Rich and Typer! Nice to see Rich tables in the
+    wild."},"mention-of":"https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/","wm-property":"mention-of","wm-private":false}'
+  content:
+    html: |-
+      This is Cool. Another project using Rich and Typer! Nice to see Rich tables in the wild.
+      <a class="u-mention" href="https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/"></a>
+    text: This is Cool. Another project using Rich and Typer! Nice to see Rich tables
+      in the wild.
+- url: https://twitter.com/brianwisti/status/1358225248106262529#favorited-by-91334387
+  author_name: Eoin Brazil
+  author_url: https://twitter.com/eoinbrazil
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/eaa1c1fc74357815a603bbdc2c41852a411ff5e330233acb0936268adcdd0eb5.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/
+  h-type: entry
+  private: false
+  received: 2021-02-07 14:36:39.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Eoin Brazil","photo":"https://webmention.io/avatar/pbs.twimg.com/eaa1c1fc74357815a603bbdc2c41852a411ff5e330233acb0936268adcdd0eb5.jpg","url":"https://twitter.com/eoinbrazil"},"url":"https://twitter.com/brianwisti/status/1358225248106262529#favorited-by-91334387","published":null,"wm-received":"2021-02-07T14:36:39Z","wm-id":1020313,"wm-source":"https://brid.gy/like/twitter/brianwisti/1358225248106262529/91334387","wm-target":"https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/","like-of":"https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1358225248106262529#favorited-by-14343311
+  author_name: Will McGugan
+  author_url: https://twitter.com/willmcgugan
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/8232afa907c94ad26b9e8bf2c4e7547c46d77e889ac167f1a960c38639c7d992.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/
+  h-type: entry
+  private: false
+  received: 2021-02-07 14:36:41.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Will McGugan","photo":"https://webmention.io/avatar/pbs.twimg.com/8232afa907c94ad26b9e8bf2c4e7547c46d77e889ac167f1a960c38639c7d992.jpg","url":"https://twitter.com/willmcgugan"},"url":"https://twitter.com/brianwisti/status/1358225248106262529#favorited-by-14343311","published":null,"wm-received":"2021-02-07T14:36:41Z","wm-id":1020314,"wm-source":"https://brid.gy/like/twitter/brianwisti/1358225248106262529/14343311","wm-target":"https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/","like-of":"https://randomgeekery.org/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/","wm-property":"like-of","wm-private":false}'

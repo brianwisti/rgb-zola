@@ -1,0 +1,76 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/106073041926693676
+  twitter: https://twitter.com/brianwisti/status/1382909500638830594
+entry_path: content/post/2021/04-joplin-terminal-basics/index.md
+permalink: "/post/2021/04/joplin-terminal-basics/"
+responses:
+- url: https://hackers.town/@randomgeek/106073041926693676#favorited-by-44063
+  author_name: R¥
+  author_url: https://hackers.town/@ryen
+  author_photo: https://webmention.io/avatar/hackers.town/30067bf4cf58f6c429d3bd820275714162b4112a283729ec710737a80490088f.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/04/joplin-terminal-basics/
+  h-type: entry
+  private: false
+  received: 2021-04-16 04:20:15.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"R¥","photo":"https://webmention.io/avatar/hackers.town/30067bf4cf58f6c429d3bd820275714162b4112a283729ec710737a80490088f.jpg","url":"https://hackers.town/@ryen"},"url":"https://hackers.town/@randomgeek/106073041926693676#favorited-by-44063","published":null,"wm-received":"2021-04-16T04:20:15Z","wm-id":1123012,"wm-source":"https://brid.gy/like/mastodon/@randomgeek@hackers.town/106073041926693676/44063","wm-target":"https://randomgeekery.org/post/2021/04/joplin-terminal-basics/","like-of":"https://randomgeekery.org/post/2021/04/joplin-terminal-basics/","wm-property":"like-of","wm-private":false}'
+- url: https://hackers.town/@Ventronik/106073251729456139
+  author_name: non-sexual Philatelist
+  author_url: https://hackers.town/@Ventronik
+  author_photo: https://webmention.io/avatar/hackers.town/a66a82aad6ce9435006306789b63f12a1002747273dec34b2c915cfd877d4d66.png
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/04/joplin-terminal-basics/
+  h-type: entry
+  private: false
+  received: 2021-04-16 05:18:23.000000000 Z
+  published: 2021-04-16 05:02:53.000000000 -07:00
+  raw: '{"type":"entry","author":{"type":"card","name":"non-sexual Philatelist","photo":"https://webmention.io/avatar/hackers.town/a66a82aad6ce9435006306789b63f12a1002747273dec34b2c915cfd877d4d66.png","url":"https://hackers.town/@Ventronik"},"url":"https://hackers.town/@Ventronik/106073251729456139","published":"2021-04-16T05:02:53","wm-received":"2021-04-16T05:18:23Z","wm-id":1123054,"wm-source":"https://brid.gy/comment/mastodon/@randomgeek@hackers.town/106073041926693676/106073251729456139","wm-target":"https://randomgeekery.org/post/2021/04/joplin-terminal-basics/","content":{"html":"<p><span
+    class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\" class=\"u-url\">@<span>randomgeek</span></a></span>
+    your divs are at weird angles. I died a bit.</p><p>Good job.</p>","text":"@randomgeek
+    your divs are at weird angles. I died a bit.Good job."},"in-reply-to":"https://randomgeekery.org/post/2021/04/joplin-terminal-basics/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      your divs are at weird angles. I died a bit.</p><p>Good job.</p>
+    text: "@randomgeek your divs are at weird angles. I died a bit.Good job."
+- url: https://hackers.town/@randomgeek/106073261472906935
+  author_name: Random Geek
+  author_url: https://hackers.town/@randomgeek
+  author_photo: https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/04/joplin-terminal-basics/
+  h-type: entry
+  private: false
+  received: 2021-04-16 05:18:23.000000000 Z
+  published: 2021-04-16 05:05:22.000000000 -07:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Random Geek","photo":"https://webmention.io/avatar/hackers.town/37db979d148b062c459594f4578c9dc5b0d2ecdb7683453df9339fbe0a4152a4.png","url":"https://hackers.town/@randomgeek"},"url":"https://hackers.town/@randomgeek/106073261472906935","published":"2021-04-16T05:05:22","wm-received":"2021-04-16T05:18:23Z","wm-id":1123055,"wm-source":"https://brid.gy/comment/mastodon/@randomgeek@hackers.town/106073041926693676/106073261472906935","wm-target":"https://randomgeekery.org/post/2021/04/joplin-terminal-basics/","content":{"html":"<p><span
+    class=\"h-card\"><a href=\"https://hackers.town/@Ventronik\" class=\"u-url\">@<span>Ventronik</span></a></span>
+    yes the site must reflect my own slightly askew nature</p>","text":"@Ventronik
+    yes the site must reflect my own slightly askew nature"},"in-reply-to":"https://randomgeekery.org/post/2021/04/joplin-terminal-basics/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@Ventronik" class="u-url">@<span>Ventronik</span></a></span>
+      yes the site must reflect my own slightly askew nature</p>
+    text: "@Ventronik yes the site must reflect my own slightly askew nature"
+- url: https://hackers.town/@randomgeek/106073041926693676#reblogged-by-36860
+  author_name: The Doctor
+  author_url: https://hackers.town/@drwho
+  author_photo: https://webmention.io/avatar/hackers.town/c9a98dcd2c27de62a773bd4c6146b1e0547fa289cd8b2b402f2f9113ff2b7aa1.jpg
+  class: repost-of
+  entry_url: https://randomgeekery.org/post/2021/04/joplin-terminal-basics/
+  h-type: entry
+  private: false
+  received: 2021-04-16 05:18:25.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"The Doctor","photo":"https://webmention.io/avatar/hackers.town/c9a98dcd2c27de62a773bd4c6146b1e0547fa289cd8b2b402f2f9113ff2b7aa1.jpg","url":"https://hackers.town/@drwho"},"url":"https://hackers.town/@randomgeek/106073041926693676#reblogged-by-36860","published":null,"wm-received":"2021-04-16T05:18:25Z","wm-id":1123056,"wm-source":"https://brid.gy/repost/mastodon/@randomgeek@hackers.town/106073041926693676/36860","wm-target":"https://randomgeekery.org/post/2021/04/joplin-terminal-basics/","repost-of":"https://randomgeekery.org/post/2021/04/joplin-terminal-basics/","wm-property":"repost-of","wm-private":false}'
+- url: https://hackers.town/@randomgeek/106073041926693676#favorited-by-161692
+  author_name: 'Seachaint :verified:'
+  author_url: https://hackers.town/@seachaint
+  author_photo: https://webmention.io/avatar/hackers.town/f0640b318e8031063aad5e83995c115a3d13d6671b7bacbc2c090caccc15dd0e.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/04/joplin-terminal-basics/
+  h-type: entry
+  private: false
+  received: 2021-04-16 07:44:16.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Seachaint :verified:","photo":"https://webmention.io/avatar/hackers.town/f0640b318e8031063aad5e83995c115a3d13d6671b7bacbc2c090caccc15dd0e.jpg","url":"https://hackers.town/@seachaint"},"url":"https://hackers.town/@randomgeek/106073041926693676#favorited-by-161692","published":null,"wm-received":"2021-04-16T07:44:16Z","wm-id":1123116,"wm-source":"https://brid.gy/like/mastodon/@randomgeek@hackers.town/106073041926693676/161692","wm-target":"https://randomgeekery.org/post/2021/04/joplin-terminal-basics/","like-of":"https://randomgeekery.org/post/2021/04/joplin-terminal-basics/","wm-property":"like-of","wm-private":false}'

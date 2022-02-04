@@ -1,0 +1,46 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104300219652879640
+  twitter: https://twitter.com/brianwisti/status/1269448451848372228
+entry_path: content/post/2020/06-csv-and-data-tables-in-hugo/index.md
+permalink: "/post/2020/06/csv-and-data-tables-in-hugo/"
+responses:
+- author_name: Deidre Wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b63b1f6566aabcbb3275411acc6de03f35a7a66834116088f1a413b9a979962a.jpg
+  author_url: https://twitter.com/IamMrsGeek
+  class: like-of
+  entry_url: "/post/2020/06/csv-and-data-tables-in-hugo/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Deidre Wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/b63b1f6566aabcbb3275411acc6de03f35a7a66834116088f1a413b9a979962a.jpg",
+    "url": "https://twitter.com/IamMrsGeek"}, "url": "https://twitter.com/brianwisti/status/1269448451848372228#favorited-by-43799528",
+    "published": null, "wm-received": "2020-06-07T06:32:27Z", "wm-id": 807495, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1269448451848372228/43799528",
+    "wm-target": "https://randomgeekery.org/post/2020/06/csv-and-data-tables-in-hugo/",
+    "like-of": "https://randomgeekery.org/post/2020/06/csv-and-data-tables-in-hugo/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-06-06 23:32:27.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1269448451848372228#favorited-by-43799528
+- author_name: chenyf
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/a74f9f183d94865a59621591c817c32af7dea2714ed677544f735cc3366d47e2.jpg
+  author_url: https://twitter.com/ohmyfannnnn
+  class: like-of
+  entry_url: "/post/2020/06/csv-and-data-tables-in-hugo/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "chenyf", "photo": "https://webmention.io/avatar/pbs.twimg.com/a74f9f183d94865a59621591c817c32af7dea2714ed677544f735cc3366d47e2.jpg",
+    "url": "https://twitter.com/ohmyfannnnn"}, "url": "https://twitter.com/brianwisti/status/1269448451848372228#favorited-by-855630327917813760",
+    "published": null, "wm-received": "2020-06-07T06:32:28Z", "wm-id": 807496, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1269448451848372228/855630327917813760",
+    "wm-target": "https://randomgeekery.org/post/2020/06/csv-and-data-tables-in-hugo/",
+    "like-of": "https://randomgeekery.org/post/2020/06/csv-and-data-tables-in-hugo/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-06-06 23:32:28.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1269448451848372228#favorited-by-855630327917813760

@@ -1,0 +1,31 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/102167342505236721
+  twitter: https://twitter.com/brianwisti/status/1132944399011405825
+entry_path: content/post/2019/05/kitty-terminal/index.md
+permalink: "/post/2019/05/kitty-terminal/"
+responses:
+- author_name: "dau\U0001F1F7\U0001F1FA"
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/f9f411bd4c2ea684455b9b0f46bd226b5d08e87931b1f828a2266229be3b9197.jpg
+  author_url: https://twitter.com/l4ndau
+  class: mention-of
+  content:
+    html: <a href="https://randomgeekery.org/post/2019/05/kitty-terminal/">randomgeekery.org/post/2019/05/k…</a>
+    text: randomgeekery.org/post/2019/05/k…
+  entry_url: "/post/2019/05/kitty-terminal/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-17 03:43:48.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "dau\ud83c\uddf7\ud83c\uddfa",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/f9f411bd4c2ea684455b9b0f46bd226b5d08e87931b1f828a2266229be3b9197.jpg",
+    "url": "https://twitter.com/l4ndau"}, "url": "https://twitter.com/l4ndau/status/1261970670528970753",
+    "published": "2020-05-17T10:43:48+00:00", "wm-received": "2020-05-17T13:56:23Z",
+    "wm-id": 797334, "wm-source": "https://brid-gy.appspot.com/post/twitter/brianwisti/1261970670528970753",
+    "wm-target": "https://randomgeekery.org/post/2019/05/kitty-terminal/", "content":
+    {"html": "<a href=\"https://randomgeekery.org/post/2019/05/kitty-terminal/\">randomgeekery.org/post/2019/05/k\u2026</a>",
+    "text": "randomgeekery.org/post/2019/05/k\u2026"}, "mention-of": "https://randomgeekery.org/post/2019/05/kitty-terminal/",
+    "wm-property": "mention-of", "wm-private": false}'
+  received: 2020-05-17 06:56:23.000000000 -07:00
+  url: https://twitter.com/l4ndau/status/1261970670528970753

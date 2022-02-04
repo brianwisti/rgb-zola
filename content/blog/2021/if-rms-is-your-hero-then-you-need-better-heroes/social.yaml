@@ -1,0 +1,212 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/105934944905874737
+  twitter: https://twitter.com/brianwisti/status/1374071522608955400
+entry_path: content/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/index.adoc.txt
+permalink: "/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/"
+responses:
+- url: https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-15770872
+  author_name: Naomi Parkhurst
+  author_url: https://twitter.com/naogannet
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e4076874b3f1b5478c18e6910c119d29e344904c598f041c0ad7466080938952.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-22 19:47:52.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Naomi Parkhurst","photo":"https://webmention.io/avatar/pbs.twimg.com/e4076874b3f1b5478c18e6910c119d29e344904c598f041c0ad7466080938952.jpg","url":"https://twitter.com/naogannet"},"url":"https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-15770872","published":null,"wm-received":"2021-03-22T19:47:52Z","wm-id":1087544,"wm-source":"https://brid.gy/like/twitter/brianwisti/1374071522608955400/15770872","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","like-of":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/lmorchard/status/1374074891977170944
+  author_name: Les Orchard
+  author_url: https://twitter.com/lmorchard
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/56b9540540dc3765f51126c7beecaa18c672ee565c56a5ba4ae7e0ade832a3a6.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-22 19:47:52.000000000 Z
+  published: 2021-03-22 19:05:57.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Les Orchard","photo":"https://webmention.io/avatar/pbs.twimg.com/56b9540540dc3765f51126c7beecaa18c672ee565c56a5ba4ae7e0ade832a3a6.jpg","url":"https://twitter.com/lmorchard"},"url":"https://twitter.com/lmorchard/status/1374074891977170944","published":"2021-03-22T19:05:57+00:00","wm-received":"2021-03-22T19:47:52Z","wm-id":1087545,"wm-source":"https://brid.gy/comment/twitter/brianwisti/1374071522608955400/1374074891977170944","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","content":{"html":"I''m
+    of a mind these days that having no heroes at all is the way to go\n<a class=\"u-mention\"
+    href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>","text":"I''m
+    of a mind these days that having no heroes at all is the way to go"},"in-reply-to":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: |-
+      I'm of a mind these days that having no heroes at all is the way to go
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: I'm of a mind these days that having no heroes at all is the way to go
+- url: https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-18431216
+  author_name: Yanick
+  author_url: https://twitter.com/yenzie
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-22 19:47:53.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Yanick","photo":"https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg","url":"https://twitter.com/yenzie"},"url":"https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-18431216","published":null,"wm-received":"2021-03-22T19:47:53Z","wm-id":1087546,"wm-source":"https://brid.gy/like/twitter/brianwisti/1374071522608955400/18431216","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","like-of":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-14989163
+  author_name: Rachel Kelly
+  author_url: https://twitter.com/wholemilk
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e5c6bfec319f312c0e52b1d124ee6697db696cc361932cac9101f125498db3ac.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-22 19:47:59.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Rachel Kelly","photo":"https://webmention.io/avatar/pbs.twimg.com/e5c6bfec319f312c0e52b1d124ee6697db696cc361932cac9101f125498db3ac.jpg","url":"https://twitter.com/wholemilk"},"url":"https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-14989163","published":null,"wm-received":"2021-03-22T19:47:59Z","wm-id":1087547,"wm-source":"https://brid.gy/like/twitter/brianwisti/1374071522608955400/14989163","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","like-of":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-868454144822190080
+  author_name: Dad Kapital
+  author_url: https://twitter.com/caranatar
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/de9bf9d88c7b084f39d221c1d987dbe36c657acce360584e2ad6c27d7c45eafb.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-22 19:48:00.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Dad Kapital","photo":"https://webmention.io/avatar/pbs.twimg.com/de9bf9d88c7b084f39d221c1d987dbe36c657acce360584e2ad6c27d7c45eafb.jpg","url":"https://twitter.com/caranatar"},"url":"https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-868454144822190080","published":null,"wm-received":"2021-03-22T19:48:00Z","wm-id":1087548,"wm-source":"https://brid.gy/like/twitter/brianwisti/1374071522608955400/868454144822190080","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","like-of":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-337563460
+  author_name: Christopher E. Stith
+  author_url: https://twitter.com/cestith
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/4de3ffd064a801c2c0422805b4044b8cde328f1d970e3881ac6501df2911f707.png
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-22 19:48:00.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Christopher E. Stith","photo":"https://webmention.io/avatar/pbs.twimg.com/4de3ffd064a801c2c0422805b4044b8cde328f1d970e3881ac6501df2911f707.png","url":"https://twitter.com/cestith"},"url":"https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-337563460","published":null,"wm-received":"2021-03-22T19:48:00Z","wm-id":1087549,"wm-source":"https://brid.gy/like/twitter/brianwisti/1374071522608955400/337563460","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","like-of":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-13205432
+  author_name: Trevor Bramble
+  author_url: https://twitter.com/TrevorBramble
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/74eb23cec22ee74952af5106e75de61f7d46ca0accd1331da084a06cabeeecaf.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-22 19:48:01.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Trevor Bramble","photo":"https://webmention.io/avatar/pbs.twimg.com/74eb23cec22ee74952af5106e75de61f7d46ca0accd1331da084a06cabeeecaf.jpg","url":"https://twitter.com/TrevorBramble"},"url":"https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-13205432","published":null,"wm-received":"2021-03-22T19:48:01Z","wm-id":1087550,"wm-source":"https://brid.gy/like/twitter/brianwisti/1374071522608955400/13205432","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","like-of":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1374082936438362112
+  author_name: brian wisti
+  author_url: https://twitter.com/brianwisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/99a553604415193cb4d64fd46a06e098fd8a607ba18ef4ba95c1d9ebf471b34e.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-22 19:48:27.000000000 Z
+  published: 2021-03-22 19:37:55.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"brian wisti","photo":"https://webmention.io/avatar/pbs.twimg.com/99a553604415193cb4d64fd46a06e098fd8a607ba18ef4ba95c1d9ebf471b34e.jpg","url":"https://twitter.com/brianwisti"},"url":"https://twitter.com/brianwisti/status/1374082936438362112","published":"2021-03-22T19:37:55+00:00","wm-received":"2021-03-22T19:48:27Z","wm-id":1087551,"wm-source":"https://brid.gy/comment/twitter/brianwisti/1374071522608955400/1374082936438362112","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","content":{"html":"It’s
+    a healthier path. You can admire folks, but pedestals are bad. If you meet the
+    Buddha in the street kill him, etc etc\n<a class=\"u-mention\" href=\"https://twitter.com/lmorchard\"></a>","text":"It’s
+    a healthier path. You can admire folks, but pedestals are bad. If you meet the
+    Buddha in the street kill him, etc etc"},"in-reply-to":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: |-
+      It’s a healthier path. You can admire folks, but pedestals are bad. If you meet the Buddha in the street kill him, etc etc
+      <a class="u-mention" href="https://twitter.com/lmorchard"></a>
+    text: It’s a healthier path. You can admire folks, but pedestals are bad. If you
+      meet the Buddha in the street kill him, etc etc
+- url: https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-15786346
+  author_name: Steve Scaffidi
+  author_url: https://twitter.com/hercynium
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/7baa23ba88146a2d431b367c090870f75f5742ac812f490263c4d874bad4c9d3.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-22 21:29:31.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Steve Scaffidi","photo":"https://webmention.io/avatar/pbs.twimg.com/7baa23ba88146a2d431b367c090870f75f5742ac812f490263c4d874bad4c9d3.jpg","url":"https://twitter.com/hercynium"},"url":"https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-15786346","published":null,"wm-received":"2021-03-22T21:29:31Z","wm-id":1087586,"wm-source":"https://brid.gy/like/twitter/brianwisti/1374071522608955400/15786346","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","like-of":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-24083536
+  author_name: Bálint Szilakszi
+  author_url: https://twitter.com/szbalint
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/a27754335ab39f315efa6a334a421cf14ce42893fb1cd0309fe3435fabcd8983.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-22 21:29:31.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Bálint Szilakszi","photo":"https://webmention.io/avatar/pbs.twimg.com/a27754335ab39f315efa6a334a421cf14ce42893fb1cd0309fe3435fabcd8983.jpg","url":"https://twitter.com/szbalint"},"url":"https://twitter.com/brianwisti/status/1374071522608955400#favorited-by-24083536","published":null,"wm-received":"2021-03-22T21:29:31Z","wm-id":1087587,"wm-source":"https://brid.gy/like/twitter/brianwisti/1374071522608955400/24083536","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","like-of":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"like-of","wm-private":false}'
+- url: https://hackers.town/@requiem/105935403242959855
+  author_name: requiem
+  author_url: https://hackers.town/@requiem
+  author_photo: https://webmention.io/avatar/hackers.town/59c122b3e8a848bc74eda56223c6fa4f1979b76b027d48062effe3ac8c8b15e4.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-22 21:50:20.000000000 Z
+  published: 2021-03-22 20:46:12.000000000 -07:00
+  raw: '{"type":"entry","author":{"type":"card","name":"requiem","photo":"https://webmention.io/avatar/hackers.town/59c122b3e8a848bc74eda56223c6fa4f1979b76b027d48062effe3ac8c8b15e4.jpg","url":"https://hackers.town/@requiem"},"url":"https://hackers.town/@requiem/105935403242959855","published":"2021-03-22T20:46:12","wm-received":"2021-03-22T21:50:20Z","wm-id":1087644,"wm-source":"https://brid.gy/comment/mastodon/@randomgeek@hackers.town/105934944905874737/105935403242959855","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","content":{"html":"<p><span
+    class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\" class=\"u-url\">@<span>randomgeek</span></a></span>
+    we need to stop worshipping people, they are flawed and undeserving of worship.</p><p>Promote
+    good works instead.</p>","text":"@randomgeek we need to stop worshipping people,
+    they are flawed and undeserving of worship.Promote good works instead."},"in-reply-to":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      we need to stop worshipping people, they are flawed and undeserving of worship.</p><p>Promote
+      good works instead.</p>
+    text: "@randomgeek we need to stop worshipping people, they are flawed and undeserving
+      of worship.Promote good works instead."
+- url: https://hackers.town/@randomgeek/105934944905874737#favorited-by-2439
+  author_name: Charles Stanhope
+  author_url: https://social.coop/@cstanhope
+  author_photo: https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-22 21:51:43.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Charles Stanhope","photo":"https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg","url":"https://social.coop/@cstanhope"},"url":"https://hackers.town/@randomgeek/105934944905874737#favorited-by-2439","published":null,"wm-received":"2021-03-22T21:51:43Z","wm-id":1087650,"wm-source":"https://brid.gy/like/mastodon/@randomgeek@hackers.town/105934944905874737/2439","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","like-of":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"like-of","wm-private":false}'
+- url: https://hackers.town/@randomgeek/105934944905874737#favorited-by-108590
+  author_name: Arcans
+  author_url: https://hackers.town/@arcans
+  author_photo: https://webmention.io/avatar/hackers.town/cd99efe36fbe38946a83f471968f9d7d17a8ec52d42a0cba63cee3e19cd54a28.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-22 21:51:44.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Arcans","photo":"https://webmention.io/avatar/hackers.town/cd99efe36fbe38946a83f471968f9d7d17a8ec52d42a0cba63cee3e19cd54a28.jpg","url":"https://hackers.town/@arcans"},"url":"https://hackers.town/@randomgeek/105934944905874737#favorited-by-108590","published":null,"wm-received":"2021-03-22T21:51:44Z","wm-id":1087651,"wm-source":"https://brid.gy/like/mastodon/@randomgeek@hackers.town/105934944905874737/108590","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","like-of":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"like-of","wm-private":false}'
+- url: https://hackers.town/@randomgeek/105934944905874737#favorited-by-147953
+  author_name: sungo
+  author_url: https://nymwars.org/@sungo
+  author_photo: https://webmention.io/avatar/hackers.town/ca0267c9822ffdbfbea52738c34abe3443f48d79ad516ac00a8a1e2ca37c80c4.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-22 21:51:45.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"sungo","photo":"https://webmention.io/avatar/hackers.town/ca0267c9822ffdbfbea52738c34abe3443f48d79ad516ac00a8a1e2ca37c80c4.jpg","url":"https://nymwars.org/@sungo"},"url":"https://hackers.town/@randomgeek/105934944905874737#favorited-by-147953","published":null,"wm-received":"2021-03-22T21:51:45Z","wm-id":1087652,"wm-source":"https://brid.gy/like/mastodon/@randomgeek@hackers.town/105934944905874737/147953","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","like-of":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"like-of","wm-private":false}'
+- url: https://hackers.town/@randomgeek/105934944905874737#reblogged-by-108590
+  author_name: Arcans
+  author_url: https://hackers.town/@arcans
+  author_photo: https://webmention.io/avatar/hackers.town/cd99efe36fbe38946a83f471968f9d7d17a8ec52d42a0cba63cee3e19cd54a28.jpg
+  class: repost-of
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-22 21:51:45.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Arcans","photo":"https://webmention.io/avatar/hackers.town/cd99efe36fbe38946a83f471968f9d7d17a8ec52d42a0cba63cee3e19cd54a28.jpg","url":"https://hackers.town/@arcans"},"url":"https://hackers.town/@randomgeek/105934944905874737#reblogged-by-108590","published":null,"wm-received":"2021-03-22T21:51:45Z","wm-id":1087653,"wm-source":"https://brid.gy/repost/mastodon/@randomgeek@hackers.town/105934944905874737/108590","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","repost-of":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"repost-of","wm-private":false}'
+- url: https://hackers.town/@randomgeek/105934944905874737#favorited-by-170386
+  author_name: kurtm
+  author_url: https://hackers.town/@kurtm
+  author_photo: https://webmention.io/avatar/hackers.town/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/
+  h-type: entry
+  private: false
+  received: 2021-03-23 04:19:38.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"kurtm","photo":"https://webmention.io/avatar/hackers.town/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png","url":"https://hackers.town/@kurtm"},"url":"https://hackers.town/@randomgeek/105934944905874737#favorited-by-170386","published":null,"wm-received":"2021-03-23T04:19:38Z","wm-id":1088042,"wm-source":"https://brid.gy/like/mastodon/@randomgeek@hackers.town/105934944905874737/170386","wm-target":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","like-of":"https://randomgeekery.org/note/2021/03/if-rms-is-your-hero-then-you-need-better-heroes/","wm-property":"like-of","wm-private":false}'

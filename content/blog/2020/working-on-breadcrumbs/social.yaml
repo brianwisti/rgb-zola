@@ -1,0 +1,27 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104329432482758623
+  twitter: https://twitter.com/brianwisti/status/1271318429023125515
+entry_path: content/note/2020/06/working-on-breadcrumbs/index.md
+permalink: "/note/2020/06/working-on-breadcrumbs/"
+responses:
+- author_name: Jean is staying out of melee range
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/8ac24e0e34f58db5dc29c44b327a6746d79f56a4450bc82191d025a9212c8fe5.jpg
+  author_url: https://twitter.com/jeanbees
+  class: like-of
+  entry_url: "/note/2020/06/working-on-breadcrumbs/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jean is staying out
+    of melee range", "photo": "https://webmention.io/avatar/pbs.twimg.com/8ac24e0e34f58db5dc29c44b327a6746d79f56a4450bc82191d025a9212c8fe5.jpg",
+    "url": "https://twitter.com/jeanbees"}, "url": "https://twitter.com/brianwisti/status/1271318429023125515#favorited-by-15652419",
+    "published": null, "wm-received": "2020-06-12T06:42:25Z", "wm-id": 809746, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1271318429023125515/15652419",
+    "wm-target": "https://randomgeekery.org/note/2020/06/working-on-breadcrumbs/",
+    "like-of": "https://randomgeekery.org/note/2020/06/working-on-breadcrumbs/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-06-11 23:42:25.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1271318429023125515#favorited-by-15652419

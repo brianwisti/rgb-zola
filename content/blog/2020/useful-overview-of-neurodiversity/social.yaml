@@ -1,0 +1,109 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/103999000564903846
+  twitter: https://twitter.com/brianwisti/status/1250170734439251973
+entry_path: content/note/2020/04/useful-overview-of-neurodiversity/index.md
+permalink: "/note/2020/04/useful-overview-of-neurodiversity/"
+responses:
+- author_name: needs to commit
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg
+  author_url: https://twitter.com/JacobyDave
+  class: in-reply-to
+  content:
+    html: |-
+      Watching it now.
+
+      Will likely hit it again.
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: |-
+      Watching it now.
+
+      Will likely hit it again.
+  entry_url: "/note/2020/105/useful-overview-of-neurodiversity/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-14 15:56:29.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "needs to commit", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg",
+    "url": "https://twitter.com/JacobyDave"}, "url": "https://twitter.com/JacobyDave/status/1250196256091262977",
+    "published": "2020-04-14T22:56:29+00:00", "wm-received": "2020-04-14T23:03:26Z",
+    "wm-id": 782680, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1250170734439251973/1250196256091262977",
+    "wm-target": "https://randomgeekery.org/note/2020/105/useful-overview-of-neurodiversity/",
+    "content": {"html": "Watching it now.\n\nWill likely hit it again.\n<a class=\"u-mention\"
+    href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>",
+    "text": "Watching it now.\n\nWill likely hit it again."}, "in-reply-to": "https://randomgeekery.org/note/2020/105/useful-overview-of-neurodiversity/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-14 16:03:26.000000000 -07:00
+  url: https://twitter.com/JacobyDave/status/1250196256091262977
+- author_name: needs to commit
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg
+  author_url: https://twitter.com/JacobyDave
+  class: repost-of
+  content:
+    html:
+    text: |-
+      I wrote a note:
+
+      Useful Overview of Neurodiversity
+
+      randomgeekery.org/note/2020/105/…
+  entry_url: "/note/2020/105/useful-overview-of-neurodiversity/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-14 15:56:13.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "needs to commit", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg",
+    "url": "https://twitter.com/JacobyDave"}, "url": "https://twitter.com/JacobyDave/status/1250196190039326720",
+    "published": "2020-04-14T22:56:13+00:00", "wm-received": "2020-04-14T23:03:41Z",
+    "wm-id": 782682, "wm-source": "https://brid-gy.appspot.com/repost/twitter/brianwisti/1250170734439251973/1250196190039326720",
+    "wm-target": "https://randomgeekery.org/note/2020/105/useful-overview-of-neurodiversity/",
+    "content": {"text": "I wrote a note:\n\nUseful Overview of Neurodiversity\n\nrandomgeekery.org/note/2020/105/\u2026"},
+    "repost-of": "https://randomgeekery.org/note/2020/105/useful-overview-of-neurodiversity/",
+    "wm-property": "repost-of", "wm-private": false}'
+  received: 2020-04-14 16:03:41.000000000 -07:00
+  url: https://twitter.com/JacobyDave/status/1250196190039326720
+- author_name: needs to commit
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg
+  author_url: https://twitter.com/JacobyDave
+  class: like-of
+  entry_url: "/note/2020/105/useful-overview-of-neurodiversity/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "needs to commit", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg",
+    "url": "https://twitter.com/JacobyDave"}, "url": "https://twitter.com/brianwisti/status/1250170734439251973#favorited-by-15087660",
+    "published": null, "wm-received": "2020-04-14T23:03:27Z", "wm-id": 782681, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1250170734439251973/15087660",
+    "wm-target": "https://randomgeekery.org/note/2020/105/useful-overview-of-neurodiversity/",
+    "like-of": "https://randomgeekery.org/note/2020/105/useful-overview-of-neurodiversity/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-14 16:03:27.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1250170734439251973#favorited-by-15087660
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: like-of
+  entry_url: "/note/2020/105/useful-overview-of-neurodiversity/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1250170734439251973#favorited-by-10376902",
+    "published": null, "wm-received": "2020-04-14T23:42:43Z", "wm-id": 782688, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1250170734439251973/10376902",
+    "wm-target": "https://randomgeekery.org/note/2020/105/useful-overview-of-neurodiversity/",
+    "like-of": "https://randomgeekery.org/note/2020/105/useful-overview-of-neurodiversity/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-14 16:42:43.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1250170734439251973#favorited-by-10376902

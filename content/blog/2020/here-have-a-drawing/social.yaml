@@ -1,0 +1,142 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104248822063918539
+  twitter: https://twitter.com/brianwisti/status/1266158947075076096
+entry_path: content/note/2020/05/here-have-a-drawing/index.md
+permalink: "/note/2020/05/here-have-a-drawing/"
+responses:
+- author_name: Mr. Ventronik
+  author_photo: https://webmention.io/avatar/hackers.town/0ba409e63c07626a1cb8e181836e0da42f80097be7bda0cb93dcbecc19e7c5ba.png
+  author_url: https://hackers.town/@Ventronik
+  class: in-reply-to
+  content:
+    html: <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span>
+      </p><p>Subtle shadowing takes it to a new level. Good work.</p>
+    text: "@randomgeek Subtle shadowing takes it to a new level. Good work."
+  entry_url: "/note/2020/05/here-have-a-drawing/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-28 17:39:45.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Mr. Ventronik", "photo":
+    "https://webmention.io/avatar/hackers.town/0ba409e63c07626a1cb8e181836e0da42f80097be7bda0cb93dcbecc19e7c5ba.png",
+    "url": "https://hackers.town/@Ventronik"}, "url": "https://hackers.town/@Ventronik/104248953120671454",
+    "published": "2020-05-29T00:39:45", "wm-received": "2020-05-29T00:47:27Z", "wm-id":
+    803060, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104248822063918539/104248953120671454",
+    "wm-target": "https://randomgeekery.org/note/2020/05/here-have-a-drawing/", "content":
+    {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> </p><p>Subtle shadowing takes
+    it to a new level. Good work.</p>", "text": "@randomgeek Subtle shadowing takes
+    it to a new level. Good work."}, "in-reply-to": "https://randomgeekery.org/note/2020/05/here-have-a-drawing/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-05-28 17:47:27.000000000 -07:00
+  url: https://hackers.town/@Ventronik/104248953120671454
+- author_name: This Tweet is At Home
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/fa5fe0fdb8dd6d8c08d0a177cdcd399a302b97ed315a541029cf125f3e6c31e0.jpg
+  author_url: https://twitter.com/ctownchick1
+  class: in-reply-to
+  content:
+    html: |-
+      Thank you
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: Thank you
+  entry_url: "/note/2020/05/here-have-a-drawing/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-05-28 17:16:54.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "This Tweet is At Home",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/fa5fe0fdb8dd6d8c08d0a177cdcd399a302b97ed315a541029cf125f3e6c31e0.jpg",
+    "url": "https://twitter.com/ctownchick1"}, "url": "https://twitter.com/ctownchick1/status/1266161558847205382",
+    "published": "2020-05-29T00:16:54+00:00", "wm-received": "2020-05-29T01:12:32Z",
+    "wm-id": 803067, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1266158947075076096/1266161558847205382",
+    "wm-target": "https://randomgeekery.org/note/2020/05/here-have-a-drawing/", "content":
+    {"html": "Thank you\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "Thank
+    you"}, "in-reply-to": "https://randomgeekery.org/note/2020/05/here-have-a-drawing/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-05-28 18:12:32.000000000 -07:00
+  url: https://twitter.com/ctownchick1/status/1266161558847205382
+- author_name: This Tweet is At Home
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/fa5fe0fdb8dd6d8c08d0a177cdcd399a302b97ed315a541029cf125f3e6c31e0.jpg
+  author_url: https://twitter.com/ctownchick1
+  class: like-of
+  entry_url: "/note/2020/05/here-have-a-drawing/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "This Tweet is At Home",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/fa5fe0fdb8dd6d8c08d0a177cdcd399a302b97ed315a541029cf125f3e6c31e0.jpg",
+    "url": "https://twitter.com/ctownchick1"}, "url": "https://twitter.com/brianwisti/status/1266158947075076096#favorited-by-295426007",
+    "published": null, "wm-received": "2020-05-29T01:12:32Z", "wm-id": 803066, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1266158947075076096/295426007",
+    "wm-target": "https://randomgeekery.org/note/2020/05/here-have-a-drawing/", "like-of":
+    "https://randomgeekery.org/note/2020/05/here-have-a-drawing/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-05-28 18:12:32.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1266158947075076096#favorited-by-295426007
+- author_name: Charles Stanhope
+  author_photo: https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg
+  author_url: https://social.coop/@cstanhope
+  class: like-of
+  entry_url: "/note/2020/05/here-have-a-drawing/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Charles Stanhope", "photo":
+    "https://webmention.io/avatar/hackers.town/cd7f4ea5022333e88fd05f408226aa948f3c5c47a65e17f71dfad23546b4bc3e.jpg",
+    "url": "https://social.coop/@cstanhope"}, "url": "https://hackers.town/@randomgeek/104248822063918539#favorited-by-2439",
+    "published": null, "wm-received": "2020-05-29T03:39:43Z", "wm-id": 803082, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104248822063918539/2439",
+    "wm-target": "https://randomgeekery.org/note/2020/05/here-have-a-drawing/", "like-of":
+    "https://randomgeekery.org/note/2020/05/here-have-a-drawing/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-05-28 20:39:43.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104248822063918539#favorited-by-2439
+- author_name: James Raynor
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b6fd5c2bae84f500af0b4a06637a9a94e8de21fb73b3f6fcff8a53d802fcb19c.jpg
+  author_url: https://twitter.com/JamesRaynor1562
+  class: like-of
+  entry_url: "/note/2020/05/here-have-a-drawing/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "James Raynor", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/b6fd5c2bae84f500af0b4a06637a9a94e8de21fb73b3f6fcff8a53d802fcb19c.jpg",
+    "url": "https://twitter.com/JamesRaynor1562"}, "url": "https://twitter.com/brianwisti/status/1266158947075076096#favorited-by-88560554",
+    "published": null, "wm-received": "2020-05-29T04:12:36Z", "wm-id": 803103, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1266158947075076096/88560554",
+    "wm-target": "https://randomgeekery.org/note/2020/05/here-have-a-drawing/", "like-of":
+    "https://randomgeekery.org/note/2020/05/here-have-a-drawing/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-05-28 21:12:36.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1266158947075076096#favorited-by-88560554
+- author_name: Deidre Wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b63b1f6566aabcbb3275411acc6de03f35a7a66834116088f1a413b9a979962a.jpg
+  author_url: https://twitter.com/IamMrsGeek
+  class: like-of
+  entry_url: "/note/2020/05/here-have-a-drawing/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Deidre Wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/b63b1f6566aabcbb3275411acc6de03f35a7a66834116088f1a413b9a979962a.jpg",
+    "url": "https://twitter.com/IamMrsGeek"}, "url": "https://twitter.com/brianwisti/status/1266158947075076096#favorited-by-43799528",
+    "published": null, "wm-received": "2020-05-29T04:12:36Z", "wm-id": 803104, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1266158947075076096/43799528",
+    "wm-target": "https://randomgeekery.org/note/2020/05/here-have-a-drawing/", "like-of":
+    "https://randomgeekery.org/note/2020/05/here-have-a-drawing/", "wm-property":
+    "like-of", "wm-private": false}'
+  received: 2020-05-28 21:12:36.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1266158947075076096#favorited-by-43799528

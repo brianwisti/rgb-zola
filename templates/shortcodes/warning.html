@@ -1,0 +1,8 @@
+<aside class="alert alert-error">
+  {% if title %}
+    <header>
+      <p class="header-small">{{ title }}</p>
+    </header>
+  {% endif %}
+  {{ body | markdown | safe }}
+</aside>

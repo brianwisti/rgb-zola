@@ -1,0 +1,141 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/105483423527454224
+  twitter: https://twitter.com/brianwisti/status/1345173714409828353
+entry_path: content/post/2021/01-deidres-double-moss-socks/index.md
+permalink: "/post/2021/01/deidres-double-moss-socks/"
+responses:
+- url: https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-14106454
+  author_name: Steven R. Baker
+  author_url: https://twitter.com/srbaker
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/fc38c1ca3f89c6a87c8286cc5be0f4f0cd807d041f0c87272ea9844aa2d68aa9.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/
+  h-type: entry
+  private: false
+  received: 2021-01-02 01:09:38.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Steven R. Baker","photo":"https://webmention.io/avatar/pbs.twimg.com/fc38c1ca3f89c6a87c8286cc5be0f4f0cd807d041f0c87272ea9844aa2d68aa9.jpg","url":"https://twitter.com/srbaker"},"url":"https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-14106454","published":null,"wm-received":"2021-01-02T01:09:38Z","wm-id":971811,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1345173714409828353/14106454","wm-target":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","like-of":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-14989163
+  author_name: "Rachel \"very beautiful, very powerful\" Kelly \U0001F384"
+  author_url: https://twitter.com/wholemilk
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e5c6bfec319f312c0e52b1d124ee6697db696cc361932cac9101f125498db3ac.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/
+  h-type: entry
+  private: false
+  received: 2021-01-02 01:09:39.000000000 Z
+  published:
+  raw: "{\"type\":\"entry\",\"author\":{\"type\":\"card\",\"name\":\"Rachel \\\"very
+    beautiful, very powerful\\\" Kelly \U0001F384\",\"photo\":\"https://webmention.io/avatar/pbs.twimg.com/e5c6bfec319f312c0e52b1d124ee6697db696cc361932cac9101f125498db3ac.jpg\",\"url\":\"https://twitter.com/wholemilk\"},\"url\":\"https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-14989163\",\"published\":null,\"wm-received\":\"2021-01-02T01:09:39Z\",\"wm-id\":971812,\"wm-source\":\"https://brid-gy.appspot.com/like/twitter/brianwisti/1345173714409828353/14989163\",\"wm-target\":\"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/\",\"like-of\":\"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/\",\"wm-property\":\"like-of\",\"wm-private\":false}"
+- url: https://twitter.com/brianwisti/status/1345176384755232768
+  author_name: brIan wisti
+  author_url: https://twitter.com/brianwisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/9ac97bc7a07a8f18cd153286ee09b17a34057de4f17645f5a9ebda72b93ecfd8.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/
+  h-type: entry
+  private: false
+  received: 2021-01-02 01:53:03.000000000 Z
+  published: 2021-01-02 01:13:36.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"brIan wisti","photo":"https://webmention.io/avatar/pbs.twimg.com/9ac97bc7a07a8f18cd153286ee09b17a34057de4f17645f5a9ebda72b93ecfd8.jpg","url":"https://twitter.com/brianwisti"},"url":"https://twitter.com/brianwisti/status/1345176384755232768","published":"2021-01-02T01:13:36+00:00","wm-received":"2021-01-02T01:53:03Z","wm-id":971834,"wm-source":"https://brid-gy.appspot.com/comment/twitter/brianwisti/1345173714409828353/1345176384755232768","wm-target":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","video":["https://video.twimg.com/tweet_video/EqsGyesU0AEheLC.mp4"],"in-reply-to":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","wm-property":"in-reply-to","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-757326186779406336
+  author_name: ashley (200)
+  author_url: https://twitter.com/rabcyr_alt
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/368ce1ba76d1edab0ea6d48818fa29764e52a186877695c2b25c0e0bbeaa9e9b.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/
+  h-type: entry
+  private: false
+  received: 2021-01-02 01:53:09.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"ashley (200)","photo":"https://webmention.io/avatar/pbs.twimg.com/368ce1ba76d1edab0ea6d48818fa29764e52a186877695c2b25c0e0bbeaa9e9b.jpg","url":"https://twitter.com/rabcyr_alt"},"url":"https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-757326186779406336","published":null,"wm-received":"2021-01-02T01:53:09Z","wm-id":971835,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1345173714409828353/757326186779406336","wm-target":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","like-of":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-504876760
+  author_name: Marge Wu 吴静玫
+  author_url: https://twitter.com/WuMargaret
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/6340c6ebbe0824521155e25d59cb7c39b15b0754abd5e3ca0998204edb59c0f2.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/
+  h-type: entry
+  private: false
+  received: 2021-01-02 01:53:10.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Marge Wu 吴静玫","photo":"https://webmention.io/avatar/pbs.twimg.com/6340c6ebbe0824521155e25d59cb7c39b15b0754abd5e3ca0998204edb59c0f2.jpg","url":"https://twitter.com/WuMargaret"},"url":"https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-504876760","published":null,"wm-received":"2021-01-02T01:53:10Z","wm-id":971836,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1345173714409828353/504876760","wm-target":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","like-of":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/rabcyr_alt/status/1345176067816960002
+  author_name: ashley (200)
+  author_url: https://twitter.com/rabcyr_alt
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/368ce1ba76d1edab0ea6d48818fa29764e52a186877695c2b25c0e0bbeaa9e9b.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/
+  h-type: entry
+  private: false
+  received: 2021-01-02 01:53:38.000000000 Z
+  published: 2021-01-02 01:12:21.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"ashley (200)","photo":"https://webmention.io/avatar/pbs.twimg.com/368ce1ba76d1edab0ea6d48818fa29764e52a186877695c2b25c0e0bbeaa9e9b.jpg","url":"https://twitter.com/rabcyr_alt"},"url":"https://twitter.com/rabcyr_alt/status/1345176067816960002","published":"2021-01-02T01:12:21+00:00","wm-received":"2021-01-02T01:53:38Z","wm-id":971837,"wm-source":"https://brid-gy.appspot.com/comment/twitter/brianwisti/1345173714409828353/1345176067816960002","wm-target":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","content":{"html":"i’m
+    more a single moss fan myself\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>","text":"i’m
+    more a single moss fan myself"},"in-reply-to":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: |-
+      i’m more a single moss fan myself
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: i’m more a single moss fan myself
+- url: https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-1652821
+  author_name: "\U0001F168\U0001F15E\U0001F164 ⓜⓤⓢⓣ \U0001D623\U0001D626 \U0001D598\U0001D58A\U0001D58A\U0001D58E\U0001D593\U0001D58C
+    \U0001D4FD\U0001D4F1\U0001D4F2\U0001D4F7\U0001D4F0\U0001D4FC."
+  author_url: https://twitter.com/ursonate
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/467c77d05c32c8eec8f612f121382e8db4bf41a7eec8e9de2158884cdda1f0f5.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/
+  h-type: entry
+  private: false
+  received: 2021-01-02 02:04:45.000000000 Z
+  published:
+  raw: "{\"type\":\"entry\",\"author\":{\"type\":\"card\",\"name\":\"\U0001F168\U0001F15E\U0001F164
+    ⓜⓤⓢⓣ \U0001D623\U0001D626 \U0001D598\U0001D58A\U0001D58A\U0001D58E\U0001D593\U0001D58C
+    \U0001D4FD\U0001D4F1\U0001D4F2\U0001D4F7\U0001D4F0\U0001D4FC.\",\"photo\":\"https://webmention.io/avatar/pbs.twimg.com/467c77d05c32c8eec8f612f121382e8db4bf41a7eec8e9de2158884cdda1f0f5.jpg\",\"url\":\"https://twitter.com/ursonate\"},\"url\":\"https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-1652821\",\"published\":null,\"wm-received\":\"2021-01-02T02:04:45Z\",\"wm-id\":971841,\"wm-source\":\"https://brid-gy.appspot.com/like/twitter/brianwisti/1345173714409828353/1652821\",\"wm-target\":\"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/\",\"like-of\":\"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/\",\"wm-property\":\"like-of\",\"wm-private\":false}"
+- url: https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-161746769
+  author_name: Trillianne
+  author_url: https://twitter.com/Trillianne
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/40cee6a3b16576f339f929f96e4c8cc0e5fda3e9fa30247c2ebe47fc221401cf.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/
+  h-type: entry
+  private: false
+  received: 2021-01-02 02:53:47.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Trillianne","photo":"https://webmention.io/avatar/pbs.twimg.com/40cee6a3b16576f339f929f96e4c8cc0e5fda3e9fa30247c2ebe47fc221401cf.jpg","url":"https://twitter.com/Trillianne"},"url":"https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-161746769","published":null,"wm-received":"2021-01-02T02:53:47Z","wm-id":971866,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1345173714409828353/161746769","wm-target":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","like-of":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-15652419
+  author_name: likes birb now
+  author_url: https://twitter.com/jeanbees
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/8ac24e0e34f58db5dc29c44b327a6746d79f56a4450bc82191d025a9212c8fe5.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/
+  h-type: entry
+  private: false
+  received: 2021-01-02 02:54:21.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"likes birb now","photo":"https://webmention.io/avatar/pbs.twimg.com/8ac24e0e34f58db5dc29c44b327a6746d79f56a4450bc82191d025a9212c8fe5.jpg","url":"https://twitter.com/jeanbees"},"url":"https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-15652419","published":null,"wm-received":"2021-01-02T02:54:21Z","wm-id":971867,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1345173714409828353/15652419","wm-target":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","like-of":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-128939024
+  author_name: Patrick Fitzgerald
+  author_url: https://twitter.com/fitzgepn
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/649bd1fcea6d780718e7e5a5cf87802e20134ca1499fb02eacb0d4dc9bfcdcec.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/
+  h-type: entry
+  private: false
+  received: 2021-01-02 04:20:15.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Patrick Fitzgerald","photo":"https://webmention.io/avatar/pbs.twimg.com/649bd1fcea6d780718e7e5a5cf87802e20134ca1499fb02eacb0d4dc9bfcdcec.jpg","url":"https://twitter.com/fitzgepn"},"url":"https://twitter.com/brianwisti/status/1345173714409828353#favorited-by-128939024","published":null,"wm-received":"2021-01-02T04:20:15Z","wm-id":971921,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1345173714409828353/128939024","wm-target":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","like-of":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","wm-property":"like-of","wm-private":false}'
+- url: https://hackers.town/@randomgeek/105483423527454224#favorited-by-157116
+  author_name: Alex, the Wizard of Docs
+  author_url: https://wandering.shop/@WizardOfDocs
+  author_photo: https://webmention.io/avatar/hackers.town/8eacaf328fa14fd9da40dea36ee1b249f78ae36cb0f977e0c3ce355dd381698c.png
+  class: like-of
+  entry_url: https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/
+  h-type: entry
+  private: false
+  received: 2021-01-02 07:53:22.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Alex, the Wizard of Docs","photo":"https://webmention.io/avatar/hackers.town/8eacaf328fa14fd9da40dea36ee1b249f78ae36cb0f977e0c3ce355dd381698c.png","url":"https://wandering.shop/@WizardOfDocs"},"url":"https://hackers.town/@randomgeek/105483423527454224#favorited-by-157116","published":null,"wm-received":"2021-01-02T07:53:22Z","wm-id":972043,"wm-source":"https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/105483423527454224/157116","wm-target":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","like-of":"https://randomgeekery.org/post/2021/01/deidres-double-moss-socks/","wm-property":"like-of","wm-private":false}'

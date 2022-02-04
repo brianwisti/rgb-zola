@@ -1,0 +1,66 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104066683729018365
+  twitter: https://twitter.com/brianwisti/status/1254502662453833728
+entry_path: content/post/2020/04/h-entry-microformat-for-indieweb-posts/index.md
+permalink: "/post/2020/04/h-entry-microformat-for-indieweb-posts/"
+responses:
+- author_name: Ruben Orduz
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b41c51e57b9f7ad396b0ebd2a1a0531171700b8ccfdabec5d63cab93ac97ce9b.jpg
+  author_url: https://twitter.com/rdodev
+  class: like-of
+  entry_url: "/2020/04/26/h-entry-microformat-for-indieweb-posts/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Ruben Orduz", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/b41c51e57b9f7ad396b0ebd2a1a0531171700b8ccfdabec5d63cab93ac97ce9b.jpg",
+    "url": "https://twitter.com/rdodev"}, "url": "https://twitter.com/brianwisti/status/1254502662453833728#favorited-by-844087785837527040",
+    "published": null, "wm-received": "2020-04-26T20:50:22Z", "wm-id": 787396, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1254502662453833728/844087785837527040",
+    "wm-target": "https://randomgeekery.org/2020/04/26/h-entry-microformat-for-indieweb-posts/",
+    "like-of": "https://randomgeekery.org/2020/04/26/h-entry-microformat-for-indieweb-posts/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-26 13:50:22.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1254502662453833728#favorited-by-844087785837527040
+- author_name: Jason McIntosh
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e6b312fa0dec6691bbfab2e33c5402effc5f9e46f1e21e98635323e053f9ee49.jpg
+  author_url: https://twitter.com/JmacDotOrg
+  class: like-of
+  entry_url: "/2020/04/26/h-entry-microformat-for-indieweb-posts/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jason McIntosh", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/e6b312fa0dec6691bbfab2e33c5402effc5f9e46f1e21e98635323e053f9ee49.jpg",
+    "url": "https://twitter.com/JmacDotOrg"}, "url": "https://twitter.com/brianwisti/status/1254502662453833728#favorited-by-14313860",
+    "published": null, "wm-received": "2020-04-26T20:50:23Z", "wm-id": 787397, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1254502662453833728/14313860",
+    "wm-target": "https://randomgeekery.org/2020/04/26/h-entry-microformat-for-indieweb-posts/",
+    "like-of": "https://randomgeekery.org/2020/04/26/h-entry-microformat-for-indieweb-posts/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-26 13:50:23.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1254502662453833728#favorited-by-14313860
+- author_name: R¥
+  author_photo: https://webmention.io/avatar/hackers.town/039263c529628673890df7480f559d05726a8ea233ba0ede646e2350c865c746.jpg
+  author_url: https://hackers.town/@ryen
+  class: like-of
+  entry_url: "/2020/04/26/h-entry-microformat-for-indieweb-posts/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "R\u00a5", "photo": "https://webmention.io/avatar/hackers.town/039263c529628673890df7480f559d05726a8ea233ba0ede646e2350c865c746.jpg",
+    "url": "https://hackers.town/@ryen"}, "url": "https://hackers.town/@randomgeek/104066683729018365#favorited-by-44063",
+    "published": null, "wm-received": "2020-04-26T21:19:23Z", "wm-id": 787405, "wm-source":
+    "https://brid-gy.appspot.com/like/mastodon/@randomgeek@hackers.town/104066683729018365/44063",
+    "wm-target": "https://randomgeekery.org/2020/04/26/h-entry-microformat-for-indieweb-posts/",
+    "like-of": "https://randomgeekery.org/2020/04/26/h-entry-microformat-for-indieweb-posts/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-26 14:19:23.000000000 -07:00
+  url: https://hackers.town/@randomgeek/104066683729018365#favorited-by-44063

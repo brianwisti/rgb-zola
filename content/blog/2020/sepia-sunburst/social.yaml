@@ -1,0 +1,208 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/103964724861342191
+  twitter: https://twitter.com/brianwisti/status/1247977020723781633
+entry_path: content/note/2020/04/sepia-sunburst/index.md
+permalink: "/note/2020/04/sepia-sunburst/"
+responses:
+- author_name: Karl Higley
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b02bb8bbdbbc9423aff52c196955a3abafbc4b6d31085beb05df4da842759242.jpg
+  author_url: https://twitter.com/karlhigley
+  class: like-of
+  entry_url: "/note/2020/99/sepia-sunburst/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Karl Higley", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/b02bb8bbdbbc9423aff52c196955a3abafbc4b6d31085beb05df4da842759242.jpg",
+    "url": "https://twitter.com/karlhigley"}, "url": "https://twitter.com/brianwisti/status/1247977020723781633#favorited-by-19664267",
+    "published": null, "wm-received": "2020-04-08T20:36:04Z", "wm-id": 780041, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1247977020723781633/19664267",
+    "wm-target": "https://randomgeekery.org/note/2020/99/sepia-sunburst/", "like-of":
+    "https://randomgeekery.org/note/2020/99/sepia-sunburst/", "wm-property": "like-of",
+    "wm-private": false}'
+  received: 2020-04-08 13:36:04.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1247977020723781633#favorited-by-19664267
+- url: https://twitter.com/brianwisti/status/1328180556425641986#favorited-by-14117703
+  author_name: mikegrb
+  author_url: https://twitter.com/mikegrb
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/5c307b0d56a45b36b4909c0da946e669b6b9aa0c74151f0ce27a611241021984.png
+  class: like-of
+  entry_url: http://randomgeekery.org/note/2020/04/sepia-sunburst/
+  h-type: entry
+  private: false
+  received: 2020-11-16 04:06:56.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"mikegrb","photo":"https://webmention.io/avatar/pbs.twimg.com/5c307b0d56a45b36b4909c0da946e669b6b9aa0c74151f0ce27a611241021984.png","url":"https://twitter.com/mikegrb"},"url":"https://twitter.com/brianwisti/status/1328180556425641986#favorited-by-14117703","published":null,"wm-received":"2020-11-16T04:06:56Z","wm-id":913267,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1328180556425641986/14117703","wm-target":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","like-of":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-8784462
+  author_name: timelessp
+  author_url: https://twitter.com/TimelessP
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/0e405e1317107ffad905f0441545685d9e28c58a71da76017f94c935031e8b4b.jpg
+  class: like-of
+  entry_url: http://randomgeekery.org/note/2020/04/sepia-sunburst/
+  h-type: entry
+  private: false
+  received: 2020-11-28 23:25:54.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"timelessp","photo":"https://webmention.io/avatar/pbs.twimg.com/0e405e1317107ffad905f0441545685d9e28c58a71da76017f94c935031e8b4b.jpg","url":"https://twitter.com/TimelessP"},"url":"https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-8784462","published":null,"wm-received":"2020-11-28T23:25:54Z","wm-id":928015,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1332773452848259073/8784462","wm-target":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","like-of":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-15770872
+  author_name: Naomi Parkhurst
+  author_url: https://twitter.com/naogannet
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/ac82b9255e89902fbb572907b807d432e6fcd41241a784acb0b3aea2350318c4.jpg
+  class: like-of
+  entry_url: http://randomgeekery.org/note/2020/04/sepia-sunburst/
+  h-type: entry
+  private: false
+  received: 2020-11-28 23:25:54.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Naomi Parkhurst","photo":"https://webmention.io/avatar/pbs.twimg.com/ac82b9255e89902fbb572907b807d432e6fcd41241a784acb0b3aea2350318c4.jpg","url":"https://twitter.com/naogannet"},"url":"https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-15770872","published":null,"wm-received":"2020-11-28T23:25:54Z","wm-id":928016,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1332773452848259073/15770872","wm-target":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","like-of":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-12614742
+  author_name: Elisabeth Hendrickson
+  author_url: https://twitter.com/testobsessed
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/5fb749880e067445f7148c25ea6ea8dfa3b0414a749b116bdc4d3964dc521704.jpg
+  class: like-of
+  entry_url: http://randomgeekery.org/note/2020/04/sepia-sunburst/
+  h-type: entry
+  private: false
+  received: 2020-11-28 23:25:55.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Elisabeth Hendrickson","photo":"https://webmention.io/avatar/pbs.twimg.com/5fb749880e067445f7148c25ea6ea8dfa3b0414a749b116bdc4d3964dc521704.jpg","url":"https://twitter.com/testobsessed"},"url":"https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-12614742","published":null,"wm-received":"2020-11-28T23:25:55Z","wm-id":928017,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1332773452848259073/12614742","wm-target":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","like-of":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-111687038
+  author_name: Darwin Woodka
+  author_url: https://twitter.com/darwinwoodka
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/62e359271548778fea0079c0d5b3f6f5d3f9274ec73443b5d5717ccd4210e187.jpg
+  class: like-of
+  entry_url: http://randomgeekery.org/note/2020/04/sepia-sunburst/
+  h-type: entry
+  private: false
+  received: 2020-11-28 23:25:56.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Darwin Woodka","photo":"https://webmention.io/avatar/pbs.twimg.com/62e359271548778fea0079c0d5b3f6f5d3f9274ec73443b5d5717ccd4210e187.jpg","url":"https://twitter.com/darwinwoodka"},"url":"https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-111687038","published":null,"wm-received":"2020-11-28T23:25:56Z","wm-id":928018,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1332773452848259073/111687038","wm-target":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","like-of":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-15087660
+  author_name: Enemy of Carlotta
+  author_url: https://twitter.com/JacobyDave
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/dcd8de4f32bdbc87a1953f1d0d4b6caae34eff869abaa0fcda1fa2f10056e719.jpg
+  class: like-of
+  entry_url: http://randomgeekery.org/note/2020/04/sepia-sunburst/
+  h-type: entry
+  private: false
+  received: 2020-11-28 23:25:57.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Enemy of Carlotta","photo":"https://webmention.io/avatar/pbs.twimg.com/dcd8de4f32bdbc87a1953f1d0d4b6caae34eff869abaa0fcda1fa2f10056e719.jpg","url":"https://twitter.com/JacobyDave"},"url":"https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-15087660","published":null,"wm-received":"2020-11-28T23:25:57Z","wm-id":928019,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1332773452848259073/15087660","wm-target":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","like-of":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-14526701
+  author_name: brian m. carlson
+  author_url: https://twitter.com/bk2204
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/15fd40577a693eedb8e0563ef5d16461ead138fa7a54f906b7172c014645f4a0.jpg
+  class: like-of
+  entry_url: http://randomgeekery.org/note/2020/04/sepia-sunburst/
+  h-type: entry
+  private: false
+  received: 2020-11-28 23:25:59.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"brian m. carlson","photo":"https://webmention.io/avatar/pbs.twimg.com/15fd40577a693eedb8e0563ef5d16461ead138fa7a54f906b7172c014645f4a0.jpg","url":"https://twitter.com/bk2204"},"url":"https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-14526701","published":null,"wm-received":"2020-11-28T23:25:59Z","wm-id":928020,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1332773452848259073/14526701","wm-target":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","like-of":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-14498961
+  author_name: Nathaniel Reindl ↙️↙️↙️
+  author_url: https://twitter.com/nrr
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/394978ede7a858d959595f1fc2404099687fe112ca499ac54b89ff5f8274d38a.jpg
+  class: like-of
+  entry_url: http://randomgeekery.org/note/2020/04/sepia-sunburst/
+  h-type: entry
+  private: false
+  received: 2020-11-28 23:25:59.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Nathaniel Reindl ↙️↙️↙️","photo":"https://webmention.io/avatar/pbs.twimg.com/394978ede7a858d959595f1fc2404099687fe112ca499ac54b89ff5f8274d38a.jpg","url":"https://twitter.com/nrr"},"url":"https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-14498961","published":null,"wm-received":"2020-11-28T23:25:59Z","wm-id":928021,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1332773452848259073/14498961","wm-target":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","like-of":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-14117703
+  author_name: mikegrb
+  author_url: https://twitter.com/mikegrb
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/5c307b0d56a45b36b4909c0da946e669b6b9aa0c74151f0ce27a611241021984.png
+  class: like-of
+  entry_url: http://randomgeekery.org/note/2020/04/sepia-sunburst/
+  h-type: entry
+  private: false
+  received: 2020-11-28 23:26:00.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"mikegrb","photo":"https://webmention.io/avatar/pbs.twimg.com/5c307b0d56a45b36b4909c0da946e669b6b9aa0c74151f0ce27a611241021984.png","url":"https://twitter.com/mikegrb"},"url":"https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-14117703","published":null,"wm-received":"2020-11-28T23:26:00Z","wm-id":928022,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1332773452848259073/14117703","wm-target":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","like-of":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/JacobyDave/status/1332795549217665024
+  author_name: Enemy of Carlotta
+  author_url: https://twitter.com/JacobyDave
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/dcd8de4f32bdbc87a1953f1d0d4b6caae34eff869abaa0fcda1fa2f10056e719.jpg
+  class: repost-of
+  entry_url: http://randomgeekery.org/note/2020/04/sepia-sunburst/
+  h-type: entry
+  private: false
+  received: 2020-11-28 23:26:01.000000000 Z
+  published: 2020-11-28 21:16:35.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Enemy of Carlotta","photo":"https://webmention.io/avatar/pbs.twimg.com/dcd8de4f32bdbc87a1953f1d0d4b6caae34eff869abaa0fcda1fa2f10056e719.jpg","url":"https://twitter.com/JacobyDave"},"url":"https://twitter.com/JacobyDave/status/1332795549217665024","published":"2020-11-28T21:16:35+00:00","wm-received":"2020-11-28T23:26:01Z","wm-id":928023,"wm-source":"https://brid-gy.appspot.com/repost/twitter/brianwisti/1332773452848259073/1332795549217665024","wm-target":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","content":{"text":"Holy
+    crap that''s cool.\n\nThe line art''s downloadable from my site if you feel like
+    coloring something.\n\nrandomgeekery.org/note/2020/04/s… https://t.co/"},"repost-of":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","wm-property":"repost-of","wm-private":false}'
+  content:
+    text: |-
+      Holy crap that's cool.
+
+      The line art's downloadable from my site if you feel like coloring something.
+
+      randomgeekery.org/note/2020/04/s… https://t.co/
+- url: https://twitter.com/gizmomathboy/status/1332794087657918465
+  author_name: Gizmo Mathboy
+  author_url: https://twitter.com/gizmomathboy
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/6e8f59250ff9a90bb96e95328801a297c1dc873c30eb29040638bf8b525e5184.jpg
+  class: repost-of
+  entry_url: http://randomgeekery.org/note/2020/04/sepia-sunburst/
+  h-type: entry
+  private: false
+  received: 2020-11-28 23:26:01.000000000 Z
+  published: 2020-11-28 21:10:47.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Gizmo Mathboy","photo":"https://webmention.io/avatar/pbs.twimg.com/6e8f59250ff9a90bb96e95328801a297c1dc873c30eb29040638bf8b525e5184.jpg","url":"https://twitter.com/gizmomathboy"},"url":"https://twitter.com/gizmomathboy/status/1332794087657918465","published":"2020-11-28T21:10:47+00:00","wm-received":"2020-11-28T23:26:01Z","wm-id":928024,"wm-source":"https://brid-gy.appspot.com/repost/twitter/brianwisti/1332773452848259073/1332794087657918465","wm-target":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","content":{"text":"Holy
+    crap that''s cool.\n\nThe line art''s downloadable from my site if you feel like
+    coloring something.\n\nrandomgeekery.org/note/2020/04/s… https://t.co/"},"repost-of":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","wm-property":"repost-of","wm-private":false}'
+  content:
+    text: |-
+      Holy crap that's cool.
+
+      The line art's downloadable from my site if you feel like coloring something.
+
+      randomgeekery.org/note/2020/04/s… https://t.co/
+- url: https://twitter.com/TimelessP/status/1332774331034853376
+  author_name: timelessp
+  author_url: https://twitter.com/TimelessP
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/0e405e1317107ffad905f0441545685d9e28c58a71da76017f94c935031e8b4b.jpg
+  class: repost-of
+  entry_url: http://randomgeekery.org/note/2020/04/sepia-sunburst/
+  h-type: entry
+  private: false
+  received: 2020-11-28 23:26:03.000000000 Z
+  published: 2020-11-28 19:52:16.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"timelessp","photo":"https://webmention.io/avatar/pbs.twimg.com/0e405e1317107ffad905f0441545685d9e28c58a71da76017f94c935031e8b4b.jpg","url":"https://twitter.com/TimelessP"},"url":"https://twitter.com/TimelessP/status/1332774331034853376","published":"2020-11-28T19:52:16+00:00","wm-received":"2020-11-28T23:26:03Z","wm-id":928025,"wm-source":"https://brid-gy.appspot.com/repost/twitter/brianwisti/1332773452848259073/1332774331034853376","wm-target":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","content":{"text":"Holy
+    crap that''s cool.\n\nThe line art''s downloadable from my site if you feel like
+    coloring something.\n\nrandomgeekery.org/note/2020/04/s… https://t.co/"},"repost-of":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","wm-property":"repost-of","wm-private":false}'
+  content:
+    text: |-
+      Holy crap that's cool.
+
+      The line art's downloadable from my site if you feel like coloring something.
+
+      randomgeekery.org/note/2020/04/s… https://t.co/
+- url: https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-8845232
+  author_name: Paul Fenwick
+  author_url: https://twitter.com/pjf
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/d0bf53c5a4161cb296dbb42450f063b60273d41913fdad77f1188b4683aaf9b2.jpg
+  class: like-of
+  entry_url: http://randomgeekery.org/note/2020/04/sepia-sunburst/
+  h-type: entry
+  private: false
+  received: 2020-11-29 00:58:38.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Paul Fenwick","photo":"https://webmention.io/avatar/pbs.twimg.com/d0bf53c5a4161cb296dbb42450f063b60273d41913fdad77f1188b4683aaf9b2.jpg","url":"https://twitter.com/pjf"},"url":"https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-8845232","published":null,"wm-received":"2020-11-29T00:58:38Z","wm-id":928097,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1332773452848259073/8845232","wm-target":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","like-of":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","wm-property":"like-of","wm-private":false}'
+- url: https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-128939024
+  author_name: Patrick Fitzgerald
+  author_url: https://twitter.com/fitzgepn
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/649bd1fcea6d780718e7e5a5cf87802e20134ca1499fb02eacb0d4dc9bfcdcec.jpg
+  class: like-of
+  entry_url: http://randomgeekery.org/note/2020/04/sepia-sunburst/
+  h-type: entry
+  private: false
+  received: 2020-11-29 04:22:28.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Patrick Fitzgerald","photo":"https://webmention.io/avatar/pbs.twimg.com/649bd1fcea6d780718e7e5a5cf87802e20134ca1499fb02eacb0d4dc9bfcdcec.jpg","url":"https://twitter.com/fitzgepn"},"url":"https://twitter.com/brianwisti/status/1332773452848259073#favorited-by-128939024","published":null,"wm-received":"2020-11-29T04:22:28Z","wm-id":928342,"wm-source":"https://brid-gy.appspot.com/like/twitter/brianwisti/1332773452848259073/128939024","wm-target":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","like-of":"http://randomgeekery.org/note/2020/04/sepia-sunburst/","wm-property":"like-of","wm-private":false}'

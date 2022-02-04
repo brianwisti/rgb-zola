@@ -1,0 +1,27 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104225579620719849
+  twitter: https://twitter.com/brianwisti/status/1264671649808474113
+entry_path: content/note/2020/05/enjoyed-this-derek-sivers-interview/index.md
+permalink: "/note/2020/05/enjoyed-this-derek-sivers-interview/"
+responses:
+- author_name: genehack in da house
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg
+  author_url: https://twitter.com/genehack
+  class: like-of
+  entry_url: "/note/2020/05/enjoyed-this-derek-sivers-interview/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "genehack in da house",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/b691d215a8a2f3ca884038d2cd325ef123fddcdbd9ae846e04e5b91e526f2bae.jpg",
+    "url": "https://twitter.com/genehack"}, "url": "https://twitter.com/brianwisti/status/1264671649808474113#favorited-by-753743",
+    "published": null, "wm-received": "2020-05-24T21:46:34Z", "wm-id": 801091, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1264671649808474113/753743",
+    "wm-target": "https://randomgeekery.org/note/2020/05/enjoyed-this-derek-sivers-interview/",
+    "like-of": "https://randomgeekery.org/note/2020/05/enjoyed-this-derek-sivers-interview/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-24 14:46:34.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1264671649808474113#favorited-by-753743

@@ -1,0 +1,352 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104077745261496400
+  twitter: https://twitter.com/brianwisti/status/1255210221124886533
+entry_path: content/note/2020/04/how-many-recent-authors-on-cpan/index.md
+permalink: "/note/2020/04/how-many-recent-authors-on-cpan/"
+responses:
+- author_name: Jay Hannah
+  author_photo: https://webmention.io/avatar/hackers.town/72b341d7f3a5761b48581b13095edaa9d391f1de6288bd90676bf3200de61314.png
+  author_url: https://octodon.social/@deafferret
+  class: in-reply-to
+  content:
+    html: |-
+      <p><span class="h-card"><a href="https://hackers.town/@randomgeek" class="u-url">@<span>randomgeek</span></a></span> nod. I'd refresh this tweet thread but I assume the curves just continue <a href="https://twitter.com/deafferret/status/1092902902618828800?s=19"><span>https://</span><span>twitter.com/deafferret/status/</span><span>1092902902618828800?s=19</span></a></p>
+      <a href="https://twitter.com/deafferret/status/1092902902618828800?s=19">Jay Hannah on Twitter</a>
+    text: |-
+      @randomgeek nod. I'd refresh this tweet thread but I assume the curves just continue https://twitter.com/deafferret/status/1092902902618828800?s=19
+      Jay Hannah on Twitter
+  entry_url: "/note/2020/119/how-many-recent-authors-on-cpan/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-29 07:59:37.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Jay Hannah", "photo":
+    "https://webmention.io/avatar/hackers.town/72b341d7f3a5761b48581b13095edaa9d391f1de6288bd90676bf3200de61314.png",
+    "url": "https://octodon.social/@deafferret"}, "url": "https://octodon.social/@deafferret/104082464929031799",
+    "published": "2020-04-29T14:59:37", "wm-received": "2020-04-29T15:16:17Z", "wm-id":
+    788783, "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@randomgeek@hackers.town/104077745261496400/104082464961535400",
+    "wm-target": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "content": {"html": "<p><span class=\"h-card\"><a href=\"https://hackers.town/@randomgeek\"
+    class=\"u-url\">@<span>randomgeek</span></a></span> nod. I''d refresh this tweet
+    thread but I assume the curves just continue <a href=\"https://twitter.com/deafferret/status/1092902902618828800?s=19\"><span>https://</span><span>twitter.com/deafferret/status/</span><span>1092902902618828800?s=19</span></a></p>\n<a
+    href=\"https://twitter.com/deafferret/status/1092902902618828800?s=19\">Jay Hannah
+    on Twitter</a>", "text": "@randomgeek nod. I''d refresh this tweet thread but
+    I assume the curves just continue https://twitter.com/deafferret/status/1092902902618828800?s=19\nJay
+    Hannah on Twitter"}, "in-reply-to": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-29 08:16:17.000000000 -07:00
+  url: https://octodon.social/@deafferret/104082464929031799
+- author_name: Allen van der Ross
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/d3e4df5151f8d65cdc6814eb43a4a95b1448ce8432b9188f1336463698caf208.png
+  author_url: https://twitter.com/allenvdross
+  class: in-reply-to
+  content:
+    html: |-
+      PS: who is responsible for approving new PAUSE ID’s?
+      And has there been any recent requests?
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: |-
+      PS: who is responsible for approving new PAUSE ID’s?
+      And has there been any recent requests?
+  entry_url: "/note/2020/119/how-many-recent-authors-on-cpan/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-29 01:24:38.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Allen van der Ross",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/d3e4df5151f8d65cdc6814eb43a4a95b1448ce8432b9188f1336463698caf208.png",
+    "url": "https://twitter.com/allenvdross"}, "url": "https://twitter.com/allenvdross/status/1255412666174185472",
+    "published": "2020-04-29T08:24:38+00:00", "wm-received": "2020-04-29T08:42:58Z",
+    "wm-id": 788493, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1255210221124886533/1255412666174185472",
+    "wm-target": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "content": {"html": "PS: who is responsible for approving new PAUSE ID\u2019s?\nAnd
+    has there been any recent requests?\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "PS:
+    who is responsible for approving new PAUSE ID\u2019s?\nAnd has there been any
+    recent requests?"}, "in-reply-to": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-29 01:42:58.000000000 -07:00
+  url: https://twitter.com/allenvdross/status/1255412666174185472
+- author_name: Yanick
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg
+  author_url: https://twitter.com/yenzie
+  class: in-reply-to
+  content:
+    html: |-
+      :fingers crossed:
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+      <a class="u-mention" href="https://twitter.com/markjgardner"></a>
+    text: ":fingers crossed:"
+  entry_url: "/note/2020/119/how-many-recent-authors-on-cpan/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-28 13:56:47.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Yanick", "photo": "https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg",
+    "url": "https://twitter.com/yenzie"}, "url": "https://twitter.com/yenzie/status/1255239563485892614",
+    "published": "2020-04-28T20:56:47+00:00", "wm-received": "2020-04-28T21:30:07Z",
+    "wm-id": 788324, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1255210484153761792/1255239563485892614",
+    "wm-target": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "content": {"html": ":fingers crossed:\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>\n<a class=\"u-mention\"
+    href=\"https://twitter.com/markjgardner\"></a>", "text": ":fingers crossed:"},
+    "in-reply-to": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-28 14:30:07.000000000 -07:00
+  url: https://twitter.com/yenzie/status/1255239563485892614
+- author_name: Elizabeth Mattijsen
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/1dd430d754c98617244bd43c319ab81629490eb0c227fa2acabe49f899364e52.jpg
+  author_url: https://twitter.com/liztormato
+  class: in-reply-to
+  content:
+    html: |-
+      Ah, yes, the long tail.   The Pull Request Challenge created a lot of Pull Requests, which caused uploads by authors that otherwise probably wouldn't have.  So you could argue that still a small number of people are responsible for a major part of the uploads.
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/JacobyDave"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: Ah, yes, the long tail.   The Pull Request Challenge created a lot of Pull
+      Requests, which caused uploads by authors that otherwise probably wouldn't have.  So
+      you could argue that still a small number of people are responsible for a major
+      part of the uploads.
+  entry_url: "/note/2020/119/how-many-recent-authors-on-cpan/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-28 12:09:34.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Elizabeth Mattijsen",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/1dd430d754c98617244bd43c319ab81629490eb0c227fa2acabe49f899364e52.jpg",
+    "url": "https://twitter.com/liztormato"}, "url": "https://twitter.com/liztormato/status/1255212579141681152",
+    "published": "2020-04-28T19:09:34+00:00", "wm-received": "2020-04-28T19:30:36Z",
+    "wm-id": 788277, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1255210221124886533/1255212579141681152",
+    "wm-target": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "content": {"html": "Ah, yes, the long tail.   The Pull Request Challenge created
+    a lot of Pull Requests, which caused uploads by authors that otherwise probably
+    wouldn''t have.  So you could argue that still a small number of people are responsible
+    for a major part of the uploads.\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/JacobyDave\"></a>\n<a class=\"u-mention\"
+    href=\"https://twitter.com/brianwisti\"></a>", "text": "Ah, yes, the long tail.   The
+    Pull Request Challenge created a lot of Pull Requests, which caused uploads by
+    authors that otherwise probably wouldn''t have.  So you could argue that still
+    a small number of people are responsible for a major part of the uploads."}, "in-reply-to":
+    "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/", "wm-property":
+    "in-reply-to", "wm-private": false}'
+  received: 2020-04-28 12:30:36.000000000 -07:00
+  url: https://twitter.com/liztormato/status/1255212579141681152
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      I did notice that there's a pretty long tail, which I found reassuring. We definitely got a few heavy releasers, but they weren't the only ones showing up.
+      <a class="u-mention" href="https://twitter.com/JacobyDave"></a>
+      <a class="u-mention" href="https://twitter.com/liztormato"></a>
+    text: I did notice that there's a pretty long tail, which I found reassuring.
+      We definitely got a few heavy releasers, but they weren't the only ones showing
+      up.
+  entry_url: "/note/2020/119/how-many-recent-authors-on-cpan/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-28 12:07:04.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1255211952244051969",
+    "published": "2020-04-28T19:07:04+00:00", "wm-received": "2020-04-28T19:30:32Z",
+    "wm-id": 788275, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1255210221124886533/1255211952244051969",
+    "wm-target": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "content": {"html": "I did notice that there''s a pretty long tail, which I found
+    reassuring. We definitely got a few heavy releasers, but they weren''t the only
+    ones showing up.\n<a class=\"u-mention\" href=\"https://twitter.com/JacobyDave\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/liztormato\"></a>", "text": "I
+    did notice that there''s a pretty long tail, which I found reassuring. We definitely
+    got a few heavy releasers, but they weren''t the only ones showing up."}, "in-reply-to":
+    "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/", "wm-property":
+    "in-reply-to", "wm-private": false}'
+  received: 2020-04-28 12:30:32.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1255211952244051969
+- author_name: Elizabeth Mattijsen
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/1dd430d754c98617244bd43c319ab81629490eb0c227fa2acabe49f899364e52.jpg
+  author_url: https://twitter.com/liztormato
+  class: in-reply-to
+  content:
+    html: |-
+      I'm pretty sure you will see an uptick in number of uploads since the lockdown started.  You should probably also take a look at number of uploads / author: there is at least one uploader that used to be responsible for ~40% of uploads in the past years, if I recall correctly.
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/JacobyDave"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: 'I''m pretty sure you will see an uptick in number of uploads since the
+      lockdown started.  You should probably also take a look at number of uploads
+      / author: there is at least one uploader that used to be responsible for ~40%
+      of uploads in the past years, if I recall correctly.'
+  entry_url: "/note/2020/119/how-many-recent-authors-on-cpan/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-28 12:05:53.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Elizabeth Mattijsen",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/1dd430d754c98617244bd43c319ab81629490eb0c227fa2acabe49f899364e52.jpg",
+    "url": "https://twitter.com/liztormato"}, "url": "https://twitter.com/liztormato/status/1255211651458097153",
+    "published": "2020-04-28T19:05:53+00:00", "wm-received": "2020-04-28T19:30:32Z",
+    "wm-id": 788274, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1255210221124886533/1255211651458097153",
+    "wm-target": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "content": {"html": "I''m pretty sure you will see an uptick in number of uploads
+    since the lockdown started.  You should probably also take a look at number of
+    uploads / author: there is at least one uploader that used to be responsible for
+    ~40% of uploads in the past years, if I recall correctly.\n<a class=\"u-mention\"
+    href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/JacobyDave\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "I''m
+    pretty sure you will see an uptick in number of uploads since the lockdown started.  You
+    should probably also take a look at number of uploads / author: there is at least
+    one uploader that used to be responsible for ~40% of uploads in the past years,
+    if I recall correctly."}, "in-reply-to": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-28 12:30:32.000000000 -07:00
+  url: https://twitter.com/liztormato/status/1255211651458097153
+- author_name: brian wisti
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg
+  author_url: https://twitter.com/brianwisti
+  class: in-reply-to
+  content:
+    html: |-
+      Agreed, but I wanted to dump the half-formed thought rather than lost momentum on priority tasks.
+      <a class="u-mention" href="https://twitter.com/JacobyDave"></a>
+    text: Agreed, but I wanted to dump the half-formed thought rather than lost momentum
+      on priority tasks.
+  entry_url: "/note/2020/119/how-many-recent-authors-on-cpan/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-28 12:03:02.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "brian wisti", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/81a63c89dc19a6a36df7209cb43c54d31cb4d8f6d2902d89f0d20dfe1b669707.jpg",
+    "url": "https://twitter.com/brianwisti"}, "url": "https://twitter.com/brianwisti/status/1255210936949850113",
+    "published": "2020-04-28T19:03:02+00:00", "wm-received": "2020-04-28T19:30:29Z",
+    "wm-id": 788273, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1255210221124886533/1255210936949850113",
+    "wm-target": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "content": {"html": "Agreed, but I wanted to dump the half-formed thought rather
+    than lost momentum on priority tasks.\n<a class=\"u-mention\" href=\"https://twitter.com/JacobyDave\"></a>",
+    "text": "Agreed, but I wanted to dump the half-formed thought rather than lost
+    momentum on priority tasks."}, "in-reply-to": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-28 12:30:29.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1255210936949850113
+- author_name: "Dave @ Home \U0001F637"
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg
+  author_url: https://twitter.com/JacobyDave
+  class: in-reply-to
+  content:
+    html: |-
+      I think the better number would be how recent those last 5000 were submitted.
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://twitter.com/brianwisti"></a>
+    text: I think the better number would be how recent those last 5000 were submitted.
+  entry_url: "/note/2020/119/how-many-recent-authors-on-cpan/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published: 2020-04-28 12:01:36.000000000 -07:00
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Dave @ Home \ud83d\ude37",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/3775aeab11eddda116a9e60c3fbe7baef69259a0d0682daddf9d4532683c8a31.jpg",
+    "url": "https://twitter.com/JacobyDave"}, "url": "https://twitter.com/JacobyDave/status/1255210577313611776",
+    "published": "2020-04-28T19:01:36+00:00", "wm-received": "2020-04-28T19:30:27Z",
+    "wm-id": 788272, "wm-source": "https://brid-gy.appspot.com/comment/twitter/brianwisti/1255210221124886533/1255210577313611776",
+    "wm-target": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "content": {"html": "I think the better number would be how recent those last
+    5000 were submitted.\n<a class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a
+    class=\"u-mention\" href=\"https://twitter.com/brianwisti\"></a>", "text": "I
+    think the better number would be how recent those last 5000 were submitted."},
+    "in-reply-to": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "wm-property": "in-reply-to", "wm-private": false}'
+  received: 2020-04-28 12:30:27.000000000 -07:00
+  url: https://twitter.com/JacobyDave/status/1255210577313611776
+- author_name: Yanick
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg
+  author_url: https://twitter.com/yenzie
+  class: like-of
+  entry_url: "/note/2020/119/how-many-recent-authors-on-cpan/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Yanick", "photo": "https://webmention.io/avatar/pbs.twimg.com/e501be800c5dcac736473945adf3d679bdd3f2c5e502f64433704644ad873451.jpg",
+    "url": "https://twitter.com/yenzie"}, "url": "https://twitter.com/brianwisti/status/1255210484153761792#favorited-by-18431216",
+    "published": null, "wm-received": "2020-04-28T19:30:23Z", "wm-id": 788270, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1255210484153761792/18431216",
+    "wm-target": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "like-of": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-28 12:30:23.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1255210484153761792#favorited-by-18431216
+- author_name: Mark Gardner
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/9cf7d94b42ebf1bab47bf43d2998f24b29f2737c8f0bc2c75b3e7652347b986b.jpg
+  author_url: https://twitter.com/markjgardner
+  class: like-of
+  entry_url: "/note/2020/119/how-many-recent-authors-on-cpan/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Mark Gardner", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/9cf7d94b42ebf1bab47bf43d2998f24b29f2737c8f0bc2c75b3e7652347b986b.jpg",
+    "url": "https://twitter.com/markjgardner"}, "url": "https://twitter.com/brianwisti/status/1255210484153761792#favorited-by-390970453",
+    "published": null, "wm-received": "2020-04-28T19:30:23Z", "wm-id": 788271, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1255210484153761792/390970453",
+    "wm-target": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "like-of": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-28 12:30:23.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1255210484153761792#favorited-by-390970453
+- author_name: Christopher E. Stith
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/4de3ffd064a801c2c0422805b4044b8cde328f1d970e3881ac6501df2911f707.png
+  author_url: https://twitter.com/cestith
+  class: like-of
+  entry_url: "/note/2020/119/how-many-recent-authors-on-cpan/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Christopher E. Stith",
+    "photo": "https://webmention.io/avatar/pbs.twimg.com/4de3ffd064a801c2c0422805b4044b8cde328f1d970e3881ac6501df2911f707.png",
+    "url": "https://twitter.com/cestith"}, "url": "https://twitter.com/brianwisti/status/1255210221124886533#favorited-by-337563460",
+    "published": null, "wm-received": "2020-04-28T19:30:35Z", "wm-id": 788276, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1255210221124886533/337563460",
+    "wm-target": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "like-of": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-28 12:30:35.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1255210221124886533#favorited-by-337563460
+- author_name: Steve Scaffidi
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/7baa23ba88146a2d431b367c090870f75f5742ac812f490263c4d874bad4c9d3.jpg
+  author_url: https://twitter.com/hercynium
+  class: like-of
+  entry_url: "/note/2020/119/how-many-recent-authors-on-cpan/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Steve Scaffidi", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/7baa23ba88146a2d431b367c090870f75f5742ac812f490263c4d874bad4c9d3.jpg",
+    "url": "https://twitter.com/hercynium"}, "url": "https://twitter.com/brianwisti/status/1255210221124886533#favorited-by-15786346",
+    "published": null, "wm-received": "2020-04-29T02:38:49Z", "wm-id": 788391, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1255210221124886533/15786346",
+    "wm-target": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "like-of": "https://randomgeekery.org/note/2020/119/how-many-recent-authors-on-cpan/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-04-28 19:38:49.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1255210221124886533#favorited-by-15786346

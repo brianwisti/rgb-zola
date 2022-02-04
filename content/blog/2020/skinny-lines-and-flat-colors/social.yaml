@@ -1,0 +1,27 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/104102620381664798
+  twitter: https://twitter.com/brianwisti/status/1256802552819126272
+entry_path: content/note/2020/05/skinny-lines-and-flat-colors/index.md
+permalink: "/note/2020/05/skinny-lines-and-flat-colors/"
+responses:
+- author_name: Gayathri
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/30db74fd11c49ba323f0d0ae9e755cb5ae01d307b3e492dd3f8de0967a15d407.jpg
+  author_url: https://twitter.com/GayathriKWrites
+  class: like-of
+  entry_url: "/note/2020/05/skinny-lines-and-flat-colors/"
+  h-type: entry
+  name:
+  photo:
+  private: 0
+  published:
+  raw: '{"type": "entry", "author": {"type": "card", "name": "Gayathri", "photo":
+    "https://webmention.io/avatar/pbs.twimg.com/30db74fd11c49ba323f0d0ae9e755cb5ae01d307b3e492dd3f8de0967a15d407.jpg",
+    "url": "https://twitter.com/GayathriKWrites"}, "url": "https://twitter.com/brianwisti/status/1256802552819126272#favorited-by-236531222",
+    "published": null, "wm-received": "2020-05-03T05:24:22Z", "wm-id": 790963, "wm-source":
+    "https://brid-gy.appspot.com/like/twitter/brianwisti/1256802552819126272/236531222",
+    "wm-target": "https://randomgeekery.org/note/2020/05/skinny-lines-and-flat-colors/",
+    "like-of": "https://randomgeekery.org/note/2020/05/skinny-lines-and-flat-colors/",
+    "wm-property": "like-of", "wm-private": false}'
+  received: 2020-05-02 22:24:22.000000000 -07:00
+  url: https://twitter.com/brianwisti/status/1256802552819126272#favorited-by-236531222

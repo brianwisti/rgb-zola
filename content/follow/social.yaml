@@ -1,0 +1,42 @@
+---
+announcements: {}
+entry_path: content/follow/index.md
+permalink: "/follow/"
+responses:
+- url: https://twitter.com/bmann/status/1358517044568674305
+  author_name: Boris Mann
+  author_url: https://twitter.com/bmann
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/d04ec5ca2ba703c703d7456d7577d0c5dcef81882441743498c6971c0ddcf32a.jpg
+  class: in-reply-to
+  entry_url: https://randomgeekery.org/follow/
+  h-type: entry
+  private: false
+  received: 2021-02-07 21:31:18.000000000 Z
+  published: 2021-02-07 20:44:38.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Boris Mann","photo":"https://webmention.io/avatar/pbs.twimg.com/d04ec5ca2ba703c703d7456d7577d0c5dcef81882441743498c6971c0ddcf32a.jpg","url":"https://twitter.com/bmann"},"url":"https://twitter.com/bmann/status/1358517044568674305","published":"2021-02-07T20:44:38+00:00","wm-received":"2021-02-07T21:31:18Z","wm-id":1020700,"wm-source":"https://brid.gy/post/twitter/brianwisti/1358517243965972481","wm-target":"https://randomgeekery.org/follow/","content":{"html":"I
+    guess at this point we’re doing a “Subscribe Sunday”! <a href=\"https://twitter.com/search?q=%23rss\">#rss</a>\n\nhttps://t.co/5ICkID142P\n<a
+    class=\"u-mention\" href=\"https://randomgeekery.org/\"></a>\n<a class=\"u-mention\"
+    href=\"https://randomgeekery.org/follow/\"></a>","text":"I guess at this point
+    we’re doing a “Subscribe Sunday”! #rss\n\nhttps://t.co/5ICkID142P"},"in-reply-to":"https://randomgeekery.org/follow/","wm-property":"in-reply-to","wm-private":false}'
+  content:
+    html: |-
+      I guess at this point we’re doing a “Subscribe Sunday”! <a href="https://twitter.com/search?q=%23rss">#rss</a>
+
+      https://t.co/5ICkID142P
+      <a class="u-mention" href="https://randomgeekery.org/"></a>
+      <a class="u-mention" href="https://randomgeekery.org/follow/"></a>
+    text: |-
+      I guess at this point we’re doing a “Subscribe Sunday”! #rss
+
+      https://t.co/5ICkID142P
+- url: https://twitter.com/brianwisti/status/1358515791839154176#favorited-by-10821
+  author_name: Boris Mann
+  author_url: https://twitter.com/bmann
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/d04ec5ca2ba703c703d7456d7577d0c5dcef81882441743498c6971c0ddcf32a.jpg
+  class: like-of
+  entry_url: https://randomgeekery.org/follow/
+  h-type: entry
+  private: false
+  received: 2021-02-07 21:31:50.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"Boris Mann","photo":"https://webmention.io/avatar/pbs.twimg.com/d04ec5ca2ba703c703d7456d7577d0c5dcef81882441743498c6971c0ddcf32a.jpg","url":"https://twitter.com/bmann"},"url":"https://twitter.com/brianwisti/status/1358515791839154176#favorited-by-10821","published":null,"wm-received":"2021-02-07T21:31:50Z","wm-id":1020702,"wm-source":"https://brid.gy/like/twitter/brianwisti/1358515791839154176/10821","wm-target":"https://randomgeekery.org/follow/","like-of":"https://randomgeekery.org/follow/","wm-property":"like-of","wm-private":false}'

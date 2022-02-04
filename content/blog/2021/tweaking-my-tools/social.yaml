@@ -1,0 +1,40 @@
+---
+announcements:
+  mastodon: https://hackers.town/@randomgeek/105743422712512318
+  twitter: https://twitter.com/brianwisti/status/1361813716367474688
+  dev-to: https://dev.to/brianwisti/note-tweaking-my-tools-3f6f
+entry_path: content/note/2021/02/tweaking-my-tools/index.adoc.txt
+permalink: "/note/2021/02/tweaking-my-tools/"
+responses:
+- url: https://twitter.com/ruby_rails_bot/status/1361813740656553984
+  author_name: Ruby and Rails Bot
+  author_url: https://twitter.com/ruby_rails_bot
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/122ea1d1eac8deacaea0adce6ae9203b944ca2a0ae9243f86d1b22ad8a447131.jpg
+  class: repost-of
+  entry_url: https://randomgeekery.org/note/2021/02/tweaking-my-tools/
+  h-type: entry
+  private: false
+  received: 2021-02-17 00:07:39.000000000 Z
+  published: 2021-02-16 23:04:31.000000000 +00:00
+  raw: '{"type":"entry","author":{"type":"card","name":"Ruby and Rails Bot","photo":"https://webmention.io/avatar/pbs.twimg.com/122ea1d1eac8deacaea0adce6ae9203b944ca2a0ae9243f86d1b22ad8a447131.jpg","url":"https://twitter.com/ruby_rails_bot"},"url":"https://twitter.com/ruby_rails_bot/status/1361813740656553984","published":"2021-02-16T23:04:31+00:00","wm-received":"2021-02-17T00:07:39Z","wm-id":1034373,"wm-source":"https://brid.gy/repost/twitter/brianwisti/1361813716367474688/1361813740656553984","wm-target":"https://randomgeekery.org/note/2021/02/tweaking-my-tools/","content":{"text":"I
+    wrote a note:\n\nTweaking my tools\n\n#Ruby #Site #Blog\n\nrandomgeekery.org/note/2021/02/t…"},"repost-of":"https://randomgeekery.org/note/2021/02/tweaking-my-tools/","wm-property":"repost-of","wm-private":false}'
+  content:
+    text: |-
+      I wrote a note:
+
+      Tweaking my tools
+
+      #Ruby #Site #Blog
+
+      randomgeekery.org/note/2021/02/t…
+- url: https://twitter.com/brianwisti/status/1361813716367474688#favorited-by-613394381
+  author_name: jsrn
+  author_url: https://twitter.com/zerosumjames
+  author_photo: https://webmention.io/avatar/pbs.twimg.com/dc8536fd0cc69c9ff9f442c1216e1ac252f44ed2f8ecc5166e23c66271abc4f7.png
+  class: like-of
+  entry_url: https://randomgeekery.org/note/2021/02/tweaking-my-tools/
+  h-type: entry
+  private: false
+  received: 2021-02-17 13:40:32.000000000 Z
+  published:
+  raw: '{"type":"entry","author":{"type":"card","name":"jsrn","photo":"https://webmention.io/avatar/pbs.twimg.com/dc8536fd0cc69c9ff9f442c1216e1ac252f44ed2f8ecc5166e23c66271abc4f7.png","url":"https://twitter.com/zerosumjames"},"url":"https://twitter.com/brianwisti/status/1361813716367474688#favorited-by-613394381","published":null,"wm-received":"2021-02-17T13:40:32Z","wm-id":1035192,"wm-source":"https://brid.gy/like/twitter/brianwisti/1361813716367474688/613394381","wm-target":"https://randomgeekery.org/note/2021/02/tweaking-my-tools/","like-of":"https://randomgeekery.org/note/2021/02/tweaking-my-tools/","wm-property":"like-of","wm-private":false}'
