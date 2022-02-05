@@ -39,9 +39,7 @@ up.
 
 I’ll use [HTTPie][httpie] for my little exploration.  I like the way it works.
 
-``` text
-pip install httpie
-```
+    pip install httpie
 
 ### Getting recent reactions
 
@@ -55,11 +53,9 @@ http get https://webmention.io/api/mentions.jf2 \
 ```
 
 HTTPie’s double-equals `==` syntax means "make a query string," so I end up
-with something like this::
+with something like this:
 
-``` text
-https://webmention.io/api/mentions.jf2?domain=randomgeekery.org&token=xxxxx
-```
+    https://webmention.io/api/mentions.jf2?domain=randomgeekery.org&token=xxxxx
 
 When `http` fetches that URL, I get back a [JF2][jf2] feed that looks something
 like this.
@@ -107,13 +103,11 @@ reacting to.  That’s kind of important.  Most recently, Twitter user
 [@junkw][junkw] retweeted my announcement about [adding a note from Org
 mode][adding-a-nite-from-org-mode].
 
-:::note
-
+{% note() %}
 There’s also a `.json` endpoint for every feed that presents a different
 structure for mentions.  I prefer it, because it contains fewer `wm-*`
 fields.  But the documentation uses JF2, so that’s what I’ll do.
-
-:::
+{% end %}
 
 ### Checking for new reactions
 
@@ -197,9 +191,7 @@ http get https://webmention.io/api/mentions.jf2 \
   | jq '.children | length'
 ```
 
-``` text
-20
-```
+    20
 
 ### Handling result pagination
 
@@ -212,9 +204,7 @@ http get https://webmention.io/api/mentions.jf2 \
   | jq '.children | length'
 ```
 
-``` text
-100
-```
+    100
 
 Of course, if there aren’t a hundred entries to fill the page, I only get
 what’s available.
@@ -225,9 +215,7 @@ http get https://webmention.io/api/mentions.jf2 \
   | jq '.children | length'
 ```
 
-``` text
-0
-```
+    0
 
 The `page` parameter — which starts at zero — lets me step through the feed
 in batches.
@@ -376,18 +364,14 @@ if __name__ == "__main__":
     rebuild_full_feed(domain, token, target_file)
 ```
 
-``` text
-$ python rebuild-mentions-feed.py
-```
+    $ python rebuild-mentions-feed.py
 
-``` text
-Added 100 entries
-Added 100 entries
-Added 100 entries
-Added 83 entries
-Reached end of feed
-Wrote 383 entries to mentions.jf2
-```
+    Added 100 entries
+    Added 100 entries
+    Added 100 entries
+    Added 83 entries
+    Reached end of feed
+    Wrote 383 entries to mentions.jf2
 
 This gives me the first requirement for rebuilding my mentions: an intact
 historical record, up to the current moment.

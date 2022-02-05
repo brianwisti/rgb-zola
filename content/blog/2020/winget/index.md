@@ -24,12 +24,12 @@ Perl code with it.
 
 Exciting!
 
-:::note
-
+{% note() %}
 Well, not *work* work.  The new job doesn’t start until tomorrow, and is mostly
 [Python][python].
 
-:::
+[python]: /tags/python
+{% end %}
 
 ## How do I get Winget?
 
@@ -45,13 +45,11 @@ in WSL.  If I want to use Windows, I need [Perl][perl].
 
 Hey, I’ll allow myself a few crutches here and there.
 
-``` text
-PS > winget search perl
-Name            Id                            Version  Matched
-----------------------------------------------------------------
-Strawberry Perl StrawberryPerl.StrawberryPerl 5.30.2.1
-Xampp           ApacheFriends.Xampp           7.4.6    Tag: Perl
-```
+    PS > winget search perl
+    Name            Id                            Version  Matched
+    ----------------------------------------------------------------
+    Strawberry Perl StrawberryPerl.StrawberryPerl 5.30.2.1
+    Xampp           ApacheFriends.Xampp           7.4.6    Tag: Perl
 
 Ooh, [XAMPP][xampp].  I haven't messed with that in years.
 
@@ -61,44 +59,38 @@ extras][useful-extras], and the tools you need to install additional libraries.
 
 `winget show` displays additional details about a package.
 
-``` text
-PS > winget show StrawberryPerl
-Found Strawberry Perl [StrawberryPerl.StrawberryPerl]
-Version: 5.30.2.1
-Publisher: strawberryperl.com project
-Description: Strawberry Perl is a perl environment for MS Windows containing all you need to run and develop perl
-applications. It is designed to be as close as possible to perl environment on UNIX systems.
-Homepage: http://strawberryperl.com/
-License: Perl.org
-Installer:
-  SHA256: 2365e89623b496ca530443a362e765f3e8de9daa744b07924b17ae7aa0b06002
-  Download Url: http://strawberryperl.com/download/5.30.2.1/strawberry-perl-5.30.2.1-32bit.msi
-  Type: Msi
-```
+    PS > winget show StrawberryPerl
+    Found Strawberry Perl [StrawberryPerl.StrawberryPerl]
+    Version: 5.30.2.1
+    Publisher: strawberryperl.com project
+    Description: Strawberry Perl is a perl environment for MS Windows containing all you need to run and develop perl
+    applications. It is designed to be as close as possible to perl environment on UNIX systems.
+    Homepage: http://strawberryperl.com/
+    License: Perl.org
+    Installer:
+      SHA256: 2365e89623b496ca530443a362e765f3e8de9daa744b07924b17ae7aa0b06002
+      Download Url: http://strawberryperl.com/download/5.30.2.1/strawberry-perl-5.30.2.1-32bit.msi
+      Type: Msi
 
 Yep, that's what I want.
 
-``` text
-PS > winget install StrawberryPerl
-```
+    PS > winget install StrawberryPerl
 
 Things do get automatically added to your path, but not right away.  Somebody
 more familiar with Windows probably knows what to do.  Me?  When it doesn't
 catch right away I log out and back in.  That always does the trick.
 
-``` text
-PS > perl --version
-This is perl 5, version 30, subversion 2 (v5.30.2) built for MSWin32-x86-multi-thread-64int
+    PS > perl --version
+    This is perl 5, version 30, subversion 2 (v5.30.2) built for MSWin32-x86-multi-thread-64int
 
-Copyright 1987-2020, Larry Wall
+    Copyright 1987-2020, Larry Wall
 
-Perl may be copied only under the terms of either the Artistic License or the
-GNU General Public License, which may be found in the Perl 5 source kit.
+    Perl may be copied only under the terms of either the Artistic License or the
+    GNU General Public License, which may be found in the Perl 5 source kit.
 
-Complete documentation for Perl, including FAQ lists, should be found on
-this system using "man perl" or "perldoc perl".  If you have access to the
-Internet, point your browser at http://www.perl.org/, the Perl Home Page.
-```
+    Complete documentation for Perl, including FAQ lists, should be found on
+    this system using "man perl" or "perldoc perl".  If you have access to the
+    Internet, point your browser at http://www.perl.org/, the Perl Home Page.
 
 Now what about all the other package manger functionality?
 
@@ -112,7 +104,6 @@ Um.  Well.  I mentioned `winget` is in preview, right?  Check the development
 [chocolatey]: https://chocolatey.org/
 [image-exiftool]: https://metacpan.org/release/Image-ExifTool
 [strawberry-perl]: https://strawberryperl.com
-[python]: /tags/python
 [windows-insider]: https://insider.windows.com/en-us/
 [winget-cli-repo]: https://github.com/microsoft/winget-cli
 [perl]: /tags/perl

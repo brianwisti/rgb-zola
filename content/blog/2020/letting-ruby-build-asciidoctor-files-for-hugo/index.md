@@ -15,8 +15,7 @@ path = "cover.jpg"
 
 +++
 
-:::tldr
-
+{% note(title="tl;dr:") %}
 Normal people: don't do any of this.  The whole post is me compensating for
 making Hugo do things it's not good at.
 
@@ -27,7 +26,16 @@ past a few pages slows builds dramatically.  Move *away* from Hugo if you
 prefer those formats.  Try [Nikola][nikola] for `rst` blogs.  [Gatsby][gatsby]
 has a [plugin][] to directly transform `adoc` content.  You have options!
 
-:::
+[markdown]: https://commonmark.org
+[hugo]: https://gohugo.io
+[shortcodes]: https://gohugo.io/content-management/shortcodes/
+[render-hooks]: https://gohugo.io/getting-started/configuration-markup#markdown-render-hooks
+[rst]: /tags/rst
+[adoc]: https://asciidoctor.org/
+[nikola]: https://getnikola.com/
+[gatsby]: https://www.gatsbyjs.org/
+[plugin]: https://www.gatsbyjs.org/packages/gatsby-transformer-asciidoc/?=asciidoctor
+{% end %}
 
 ## Asciidoctor?
 
@@ -50,33 +58,30 @@ you tack some front matter onto it.
 I enjoy the flexibility.  And that bit about supporting HTML as an authoring
 language is about to come in real handy.
 
-:::tip
-
+{% note() %}
 go-org is nice, but [`ox-hugo`][ox-hugo] excels if you want Hugo support
 tightly integrated with Org mode.
+{% end %}
 
-:::
 
 ## So what’s the problem?
 
 What’s up with this?
 
-``` text
-$ hugo
+    $ hugo
 
-                   |  EN
--------------------+-------
-  Pages            | 1353
-  Paginator pages  |  128
-  Non-page files   |  442
-  Static files     |   31
-  Processed images | 1195
-  Aliases          | 1261
-  Sitemaps         |    1
-  Cleaned          |    0
+                      |  EN
+    -------------------+-------
+      Pages            | 1353
+      Paginator pages  |  128
+      Non-page files   |  442
+      Static files     |   31
+      Processed images | 1195
+      Aliases          | 1261
+      Sitemaps         |    1
+      Cleaned          |    0
 
-Total in 15929 ms
-```
+    Total in 15929 ms
 
 Sixteen seconds might look impressive compared to Jekyll.  It’s more alarming
 if you know Hugo’s reputation for speed.
@@ -84,26 +89,22 @@ if you know Hugo’s reputation for speed.
 I think my Asciidoctor files might be causing this slowdown.  I do have quite a
 few of them.
 
-``` text
-$ make formats
-hugo list all | raku -e 'bag(lines[1..*].map({ .split(",")[0].IO.extension })).say'
-Bag(adoc(206), html, md(424))
-```
+    $ make formats
+    hugo list all | raku -e 'bag(lines[1..*].map({ .split(",")[0].IO.extension })).say'
+    Bag(adoc(206), html, md(424))
 
 How to confirm this?  Well, I could run `hugo` in debug mode and scan the
 output.
 
-``` text
-$ hugo --debug > debug.log
+    $ hugo --debug > debug.log
 
-Building sites … INFO 2020/05/14 21:44:50 syncing static files to /home/random/Sites/rgb-hugo/randomgeekery.org/
-⋮
-INFO 2020/05/14 21:44:50 Rendering contact.adoc with /home/random/Sites/rgb-hugo/scripts/asciidoctor ...
-⋮
-INFO 2020/05/14 21:45:07 Rendering post/2020/05/querying-hugo-content-with-python/index.adoc with /home/random/Sites/rgb-hugo/scripts/asciidoctor ...
-⋮
-Total in 17235 ms
-```
+    Building sites … INFO 2020/05/14 21:44:50 syncing static files to /home/random/Sites/rgb-hugo/randomgeekery.org/
+    ⋮
+    INFO 2020/05/14 21:44:50 Rendering contact.adoc with /home/random/Sites/rgb-hugo/scripts/asciidoctor ...
+    ⋮
+    INFO 2020/05/14 21:45:07 Rendering post/2020/05/querying-hugo-content-with-python/index.adoc with /home/random/Sites/rgb-hugo/scripts/asciidoctor ...
+    ⋮
+    Total in 17235 ms
 
 Interesting.  I only updated a single `.adoc` file — this one — but Hugo
 rebuilds *all* of them.  It also spends about 17 seconds doing so.  17,000 of
@@ -155,11 +156,9 @@ end
 This fills a temporary folder with Asciidoctor’s generated HTML, keeping it out
 of Hugo’s way.
 
-``` text
-$ time ruby scripts/build-adoc
-0.61user 0.03system 0:00.65elapsed 98%CPU (0avgtext+0avgdata 20584maxresident)k
-0inputs+3680outputs (0major+7188minor)pagefaults 0swaps
-```
+    $ time ruby scripts/build-adoc
+    0.61user 0.03system 0:00.65elapsed 98%CPU (0avgtext+0avgdata 20584maxresident)k
+    0inputs+3680outputs (0major+7188minor)pagefaults 0swaps
 
 0.65 seconds to build all the `.adoc` files.
 
@@ -304,60 +303,56 @@ site now? Let’s find out.
 
 Every `adoc` file gets processed in the first run.
 
-``` text
-$ time make build
-# every adoc file is converted
-...
-done
-INCLUDE_ANALYTICS=1 hugo
+    $ time make build
+    # every adoc file is converted
+    ...
+    done
+    INCLUDE_ANALYTICS=1 hugo
 
-                   |  EN
--------------------+-------
-  Pages            | 1353
-  Paginator pages  |  128
-  Non-page files   |  431
-  Static files     |   31
-  Processed images | 1188
-  Aliases          | 1261
-  Sitemaps         |    1
-  Cleaned          |    0
+                      |  EN
+    -------------------+-------
+      Pages            | 1353
+      Paginator pages  |  128
+      Non-page files   |  431
+      Static files     |   31
+      Processed images | 1188
+      Aliases          | 1261
+      Sitemaps         |    1
+      Cleaned          |    0
 
-Total in 1416 ms
-cp etc/robots.txt randomgeekery.org/
-cp etc/htaccess randomgeekery.org
-3.80user 0.78system 0:02.87elapsed 159%CPU (0avgtext+0avgdata 198236maxresident)k
-24inputs+505056outputs (0major+19157minor)pagefaults 0swaps
-```
+    Total in 1416 ms
+    cp etc/robots.txt randomgeekery.org/
+    cp etc/htaccess randomgeekery.org
+    3.80user 0.78system 0:02.87elapsed 159%CPU (0avgtext+0avgdata 198236maxresident)k
+    24inputs+505056outputs (0major+19157minor)pagefaults 0swaps
 
 Less than three seconds. I like that time more than 15-18 seconds.
 
 I went to a bit of trouble to only process updated `adoc` files.
 Does it help?
 
-``` text
-$ time make build
-ruby scripts/build-adoc
-Converting adoc/draft/letting-ruby-build-asciidoctor-files-for-hugo/index.adoc
-done
-INCLUDE_ANALYTICS=1 hugo
+    $ time make build
+    ruby scripts/build-adoc
+    Converting adoc/draft/letting-ruby-build-asciidoctor-files-for-hugo/index.adoc
+    done
+    INCLUDE_ANALYTICS=1 hugo
 
-                   |  EN
--------------------+-------
-  Pages            | 1354
-  Paginator pages  |  128
-  Non-page files   |  432
-  Static files     |   31
-  Processed images | 1189
-  Aliases          | 1271
-  Sitemaps         |    1
-  Cleaned          |    0
+                      |  EN
+    -------------------+-------
+      Pages            | 1354
+      Paginator pages  |  128
+      Non-page files   |  432
+      Static files     |   31
+      Processed images | 1189
+      Aliases          | 1271
+      Sitemaps         |    1
+      Cleaned          |    0
 
-Total in 1458 ms
-cp etc/robots.txt randomgeekery.org/
-cp etc/htaccess randomgeekery.org
-3.11user 0.72system 0:01.90elapsed 200%CPU (0avgtext+0avgdata 212324maxresident)k
-64inputs+500976outputs (0major+61675minor)pagefaults 0swaps
-```
+    Total in 1458 ms
+    cp etc/robots.txt randomgeekery.org/
+    cp etc/htaccess randomgeekery.org
+    3.11user 0.72system 0:01.90elapsed 200%CPU (0avgtext+0avgdata 212324maxresident)k
+    64inputs+500976outputs (0major+61675minor)pagefaults 0swaps
 
 Less than two seconds.  Then again, load from other system processes can add a
 second — or more, if I opened a browser tab to some JavaScript-intensive URL.
@@ -385,10 +380,8 @@ Asciidoctor.convert_file filename, to_file: target_file,
 
 All good now, right?
 
-``` text
-Rebuild failed:
-"/home/random/Sites/rgb-hugo/content/post/2015/07/making-a-jekyll-collection/index.html:223:53": got closing shortcode, but none is open
-```
+    Rebuild failed:
+    "/home/random/Sites/rgb-hugo/content/post/2015/07/making-a-jekyll-collection/index.html:223:53": got closing shortcode, but none is open
 
 Uh oh.
 
@@ -436,16 +429,13 @@ class Rouge::Formatters::HTML
 end
 ```
 
-:::admonition{title="What about the shortcodes I want to keep?"}
-
+{% note(title="What about the shortcodes I want to keep?") %}
 This is just general advice to make Asciidoctor and Hugo play nice with each other.
 You don’t need to rebuild your entire site flow to use this information.
 
 Say I’ve got a shortcode for displaying images as figures.
 
-``` text
-{{</* show-figure image="cover.png" description="Taskwarrior edit view" */>}}
-```
+    {{< show-figure image="cover.png" description="Taskwarrior edit view" >}}
 
 Asciidoctor transforms unsafe characters into HTML entities.
 
@@ -466,48 +456,45 @@ pass:[{{</* show-figure image="cover.png" description="Taskwarrior edit view" */
 ![correct shortcode](correct-shortcode.png "using a passthrough macro")
 
 Much better.
-
-:::
+{% end %}
 
 ### *Now* what do we have?
 
 I’m not sure. Let’s find out with a typical `build all`.
 
-``` text
-$ time make all
-ruby scripts/build-adoc
-Converting adoc/draft/letting-ruby-build-asciidoctor-files-for-hugo/index.adoc
-done
-INCLUDE_ANALYTICS=1 hugo
+    $ time make all
+    ruby scripts/build-adoc
+    Converting adoc/draft/letting-ruby-build-asciidoctor-files-for-hugo/index.adoc
+    done
+    INCLUDE_ANALYTICS=1 hugo
 
-                   |  EN
--------------------+-------
-  Pages            | 1354
-  Paginator pages  |  128
-  Non-page files   |  432
-  Static files     |   31
-  Processed images | 1189
-  Aliases          | 1271
-  Sitemaps         |    1
-  Cleaned          |    0
+                      |  EN
+    -------------------+-------
+      Pages            | 1354
+      Paginator pages  |  128
+      Non-page files   |  432
+      Static files     |   31
+      Processed images | 1189
+      Aliases          | 1271
+      Sitemaps         |    1
+      Cleaned          |    0
 
-Total in 1447 ms
-cp etc/robots.txt randomgeekery.org/
-cp etc/htaccess randomgeekery.org
-perl scripts/generate-archives
-prove -r
-./t/site/test_archive.t .... ok
-./t/site/test_links.t ......
-# [mailto:brianwisti@pobox.com] is an email link, friend
-./t/site/test_links.t ...... ok
-./t/test_db.t .............. ok
-./t/test_db_persistence.t .. ok
-./t/test_pod.t ............. ok
-All tests successful.
-Files=5, Tests=10,  7 wallclock secs ( 0.26 usr  0.05 sys +  6.65 cusr  0.29 csys =  7.25 CPU)
-Result: PASS
-make all  10.44s user 1.15s system 114% cpu 10.108 total
-```
+    Total in 1447 ms
+    cp etc/robots.txt randomgeekery.org/
+    cp etc/htaccess randomgeekery.org
+    perl scripts/generate-archives
+    prove -r
+    ./t/site/test_archive.t .... ok
+    ./t/site/test_links.t ......
+    # [mailto:brianwisti@pobox.com] is an email link, friend
+    ./t/site/test_links.t ...... ok
+    ./t/test_db.t .............. ok
+    ./t/test_db_persistence.t .. ok
+    ./t/test_pod.t ............. ok
+    All tests successful.
+    Files=5, Tests=10,  7 wallclock secs ( 0.26 usr  0.05 sys +  6.65 cusr  0.29 csys =  7.25 CPU)
+    Result: PASS
+    make all  10.44s user 1.15s system 114% cpu 10.108 total
 
 Yeah there’s a lot of stuff there I still need to write about.  Long story
 short: by directly using Ruby to convert Asciidoctor files into HTML for
@@ -518,13 +505,11 @@ for `rst` files.
 
 I like it for now. Keeps me from getting bored.
 
-:::note
-
+{% note() %}
 But — and this is a big but — I couldn’t recommend this approach for normal
 people with things to do. Site generation now has more moving parts, which I
-must test and maintain if I want to share the least little note_.
-
-:::
+must test and maintain if I want to share the least little note.
+{% end %}
 
 ## What now?
 

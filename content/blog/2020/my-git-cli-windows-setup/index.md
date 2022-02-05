@@ -35,40 +35,32 @@ $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";"
 
 And there it is!
 
-``` text
-PS > $env:path -split ";"
-C:\Windows\system32
-⋮
-C:\Program Files\Git\cmd
-```
+    PS > $env:path -split ";"
+    C:\Windows\system32
+    ⋮
+    C:\Program Files\Git\cmd
 
 I need to start a new session eventually, though.  Can’t go around refreshing
 my path like that every time I open a new terminal.  Though I suppose I could
 put this in PowerShell initialization.
 
-:::note
-
+{% note() %}
 I know Git Bash is a thing, but I’m trying to learn Windows — not just paste a
 comforting layer of UNIX duct tape over everything.  *Said while writing a blog
 post from Vim on WSL 2.*
+{% end %}
 
-:::
+*Anyways*, it looks like `ssh-keygen` is accessible via PowerShell.
 
-*Anyways*, it looks like ``ssh-keygen`` is accessible via PowerShell.
-
-``` text
-PS > ssh-keygen -t rsa -b 4096 -C "brianwisti@pobox.com"
-Generating public/private rsa key pair.
-Enter file in which to save the key (C:\Users\brian/.ssh/id_rsa):
-```
+    PS > ssh-keygen -t rsa -b 4096 -C "brianwisti@pobox.com"
+    Generating public/private rsa key pair.
+    Enter file in which to save the key (C:\Users\brian/.ssh/id_rsa):
 
 I add an SSH key with the details from `C:/Users/brian/.ssh/id_rsa.pub`, and
 check out a repo.
 
-``` text
-PS > git clone ssh://git@git.hackers.town:2222/randomgeek/random-geekery-blog.git
-Cloning into 'random-geekery-blog'...
-```
+    PS > git clone ssh://git@git.hackers.town:2222/randomgeek/random-geekery-blog.git
+    Cloning into 'random-geekery-blog'...
 
 That was easy enough.  There are a couple bits missing from my regular Git day,
 though.
@@ -82,11 +74,9 @@ Let’s install the [beta release][beta-release] of [posh-git][].
 Install-Module posh-git -Scope CurrentUser -AllowPrerelease -Force
 ```
 
-``` text
-PS C:\Users\brian\Projects\random-geekery-blog> Import-Module posh-git
+    PS C:\Users\brian\Projects\random-geekery-blog> Import-Module posh-git
 
-~\Projects\random-geekery-blog [trunk ≡]>
-```
+    ~\Projects\random-geekery-blog [trunk ≡]>
 
 Lovely! I can customize it later.
 
@@ -126,29 +116,25 @@ Knowing me I’ll eventually generate this from my [orgconfig][].
 
 After starting a new session, everything seems successful.
 
-``` text
-~\Projects> ssh-add
-~\Projects> git clone git@github.com:brianwisti/dotfiles.git
-Cloning into 'dotfiles'...
-The authenticity of host 'github.com (140.82.112.4)' can't be established.
-RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
-Are you sure you want to continue connecting (yes/no)?
-Warning: Permanently added 'github.com,140.82.112.4' (RSA) to the list of known hosts.
-warning: agent returned different signature type ssh-rsa (expected rsa-sha2-512)
-remote: Enumerating objects: 405, done.
-remote: Counting objects: 100% (405/405), done.
-remote: Compressing objects: 100% (228/228), done.
-remote: Total 1083 (delta 272), reused 299 (delta 172), pack-reused 678 receiving objects:  92% (997/1083)
-Receiving objects: 100% (1083/1083), 743.31 KiB | 1.83 MiB/s, done.
-Resolving deltas: 100% (571/571), done.
-```
+    ~\Projects> ssh-add
+    ~\Projects> git clone git@github.com:brianwisti/dotfiles.git
+    Cloning into 'dotfiles'...
+    The authenticity of host 'github.com (140.82.112.4)' can't be established.
+    RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+    Are you sure you want to continue connecting (yes/no)?
+    Warning: Permanently added 'github.com,140.82.112.4' (RSA) to the list of known hosts.
+    warning: agent returned different signature type ssh-rsa (expected rsa-sha2-512)
+    remote: Enumerating objects: 405, done.
+    remote: Counting objects: 100% (405/405), done.
+    remote: Compressing objects: 100% (228/228), done.
+    remote: Total 1083 (delta 272), reused 299 (delta 172), pack-reused 678 receiving objects:  92% (997/1083)
+    Receiving objects: 100% (1083/1083), 743.31 KiB | 1.83 MiB/s, done.
+    Resolving deltas: 100% (571/571), done.
 
 Did you see this bit?
 
-``` text
-Warning: Permanently added 'github.com,140.82.112.4' (RSA) to the list of known hosts.
-warning: agent returned different signature type ssh-rsa (expected rsa-sha2-512)
-```
+    Warning: Permanently added 'github.com,140.82.112.4' (RSA) to the list of known hosts.
+    warning: agent returned different signature type ssh-rsa (expected rsa-sha2-512)
 
 That warning is a [known issue][known-issue] with OpenSSH on Windows, and
 should go away in the next month or two. The bad news: until it’s fixed,
@@ -160,12 +146,10 @@ while working through the process that became this post:
 
 This is significant enough to highlight:
 
-:::warning
-
+{% warning() %}
 If you’re using the Windows OpenSSH server before the 2020 Fall Update, you
 may want to skip the `ssh-agent` bits.
-
-:::
+{% end %}
 
 But other than that, things are working pretty good. Learning is fun!
 

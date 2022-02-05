@@ -39,33 +39,30 @@ Rich and pyexiftool make Python an easy choice for this task.
 
 If you want to play along at home, make sure you have the dependencies.
 
-``` text
-$ brew install exiftool
-$ pip install pyexiftool rich typer
-```
+    $ brew install exiftool
+    $ pip install pyexiftool rich typer
 
 [Typer][typer] simplifies turning this random idea into a useful command line tool.
 
-:::note
-
+{% note() %}
 If you’re already a fan of Perl, consider [`cpanm`][cpanm] instead of [Homebrew][homebrew].
 
-``` text
-$ cpanm Image::ExifTool
-```
+    $ cpanm Image::ExifTool
 
 Now you can use [Image::ExifTool][image-exiftool] in your own Perl projects.
 
-:::
+[cpanm]: https://metacpan.org/pod/App::cpanminus
+[homebrew]: https://brew.sh
+[image-exiftool]: https://metacpan.org/pod/distribution/Image-ExifTool/lib/Image/ExifTool.pod
+{% end %}
+
 
 ## Some scaffolding
 
 Even though I’m the only user, I still need to figure out how I plan to use it.
 At minimum?  I hand my script a filename.  It hands me metadata.
 
-``` text
-richexif FILENAME [OPTIONS]
-```
+    richexif FILENAME [OPTIONS]
 
 I can hook some [minimal][] Typer argument handling around that flow.
 
@@ -92,20 +89,16 @@ def main(filename: str):
 
 Can I run it?
 
-``` text
-chmod 755 richexif.py
-./richexif.py hoku-hopes-for-snacksjpg.jpg
-```
+    $ chmod 755 richexif.py
+    ./richexif.py hoku-hopes-for-snacksjpg.jpg
 
 I can!  What happens if I use it wrong?
 
-``` text
-$ ./richexif.py
-Usage: richexif.py [OPTIONS] FILENAME
-Try 'richexif.py --help' for help.
+    $ ./richexif.py
+    Usage: richexif.py [OPTIONS] FILENAME
+    Try 'richexif.py --help' for help.
 
-Error: Missing argument 'FILENAME'.
-```
+    Error: Missing argument 'FILENAME'.
 
 I get an error message telling me what `richexif.py` needs to do its thing.
 Nice.
@@ -184,12 +177,12 @@ unless you read my [`now`][now] page.  But it’s all there!  Even in the snippe
 version you can learn a lot.  Hello from my Windows partition in West Seattle
 during February of 2021!
 
-:::tip
-
+{% note() %}
 Uncomfortable sharing that much with every photo you upload?  You can scrub
 those tags right out.  [With ExifTool][with-exiftool], of course.
 
-:::
+[with-exiftool]: https://www.linux-magazine.com/Online/Blogs/Productivity-Sauce/Remove-EXIF-Metadata-from-Photos-with-exiftool
+{% end %}
 
 But back to the other gripe about all this metadata.  It’s way too much for me
 to take in all at once.  I need some kind of filter!
@@ -228,9 +221,7 @@ gets us everything.
 
 Try it out!
 
-``` text
-$ ./richexif.py hoku-hopes-for-snacks.jpg --filter=Image
-```
+    $ ./richexif.py hoku-hopes-for-snacks.jpg --filter=Image
 
 Now that I’m not overwhelmed by the quantity of output, I’m a little
 underwhelmed by the quality.
@@ -273,13 +264,11 @@ def file_table(filename, metadata):
     return table
 ```
 
-:::warning
-
+{% warning() %}
 Hey, don’t miss that `str(value)`!  Rich tables need strings, and take
 nothing for granted with the values you give it.  Numeric values won’t
 necessarily convert straight to strings without a little help.
-
-:::
+{% end %}
 
 ```python
 def main(...):
@@ -295,9 +284,7 @@ def main(...):
 
 What does our filtered view look like as a table?
 
-``` text
-$ ./richexif.py hoku-hopes-for-snacksjpg.jpg --filter=Image
-```
+    $ ./richexif.py hoku-hopes-for-snacksjpg.jpg --filter=Image
 
 <pre class="rich"><span style="font-style: italic">                        hoku-hopes-for-snacksjpg.jpg                         </span>
 ┏━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
@@ -402,9 +389,7 @@ def main(
 
 Okay!  What do we have now?
 
-``` text
-$ ./richexif.py hoku-hopes-for-snacks.jpg --filter=Image --display=tree
-```
+    $ ./richexif.py hoku-hopes-for-snacks.jpg --filter=Image --display=tree
 
 <pre class="rich"><span style="font-weight: bold">hoku-hopes-for-snacks.jpg</span>
 ├── <span style="font-weight: bold">File</span>
@@ -435,16 +420,12 @@ ExifTool and Rich together, as I’m sure you can imagine.
 [pyexiftool]: https://smarnach.github.io/pyexiftool/
 [sven-marnach]: https://github.com/smarnach
 [typer]: https://typer.tiangolo.com
-[image-exiftool]: https://metacpan.org/pod/distribution/Image-ExifTool/lib/Image/ExifTool.pod
-[cpanm]: https://metacpan.org/pod/App::cpanminus
-[homebrew]: https://brew.sh
 [minimal]: https://typer.tiangolo.com/tutorial/first-steps/#add-a-cli-argument[minimal]
 [logging]: https://rich.readthedocs.io/en/latest/logging.html
 [console]: https://rich.readthedocs.io/en/latest/console.html
 [tags]: https://exiftool.org/TagNames/index.html
 [get-metadata]: https://smarnach.github.io/pyexiftool/#exiftool.ExifTool.get_metadata
 [now]: /now
-[with-exiftool]: https://www.linux-magazine.com/Online/Blogs/Productivity-Sauce/Remove-EXIF-Metadata-from-Photos-with-exiftool
 [option]: https://typer.tiangolo.com/tutorial/options/
 [tables]: https://rich.readthedocs.io/en/stable/tables.html
 [tree]: https://rich.readthedocs.io/en/stable/tree.html

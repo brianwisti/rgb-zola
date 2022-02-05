@@ -49,12 +49,10 @@ available.
  (require 'use-package))
 ```
 
-:::warning
-
+{% warning() %}
 Trailing slashes are important! `melpa.org/packages/` gets a list.
 `melpa.org/packages` does not.
-
-:::
+{% end %}
 
 Next I tell use-package that I want org.
 

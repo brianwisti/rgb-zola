@@ -47,11 +47,9 @@ Used the [Arch wiki][arch-wiki] as a guide.  Didn’t need to edit config,
 though.  Instance installed via [Pamac][pamac] is already configured to only
 listen to `127.0.0.1`.
 
-``` text
-$ pamac install redis
-$ sudo systemctl start redis
-$ sudo systemctl enable redis
-```
+    $ pamac install redis
+    $ sudo systemctl start redis
+    $ sudo systemctl enable redis
 
 Version installed
 : 6.0
@@ -60,20 +58,18 @@ Version installed
 
 Once again, going off the [Arch wiki entry][arch-wiki-psql].
 
-``` text
-$ pamac install postgresql
-$ sudo -iu postgres
-> initdb -D /var/lib/postgres/data
-> exit
-$ sudo systemctl start postgresql.service
-$ sudo systemctl enable postgresql.service
-$ sudo -iu postgres
-> createuser --interactive
-Enter name of role to add: random
-Shall the new role be a superuser? (y/n) y
-> exit
-$ createdb random
-```
+    $ pamac install postgresql
+    $ sudo -iu postgres
+    > initdb -D /var/lib/postgres/data
+    > exit
+    $ sudo systemctl start postgresql.service
+    $ sudo systemctl enable postgresql.service
+    $ sudo -iu postgres
+    > createuser --interactive
+    Enter name of role to add: random
+    Shall the new role be a superuser? (y/n) y
+    > exit
+    $ createdb random
 
 That reminds me.  I want to finish reading [The Art of PostgreSQL][postgres-book].
 
@@ -91,34 +87,26 @@ just clone it.  I clone my fork instead.
 
 Dev language is weird.
 
-``` text
-$ git clone git@github.com:brianwisti/mastodon.git
-$ cd mastodon
-```
+    $ git clone git@github.com:brianwisti/mastodon.git
+    $ cd mastodon
 
 The project’s `.ruby-version` file specifies Ruby 2.6.6.  Rbenv immediately
 warns me that I lack the correct installed version.  It also doesn’t recognize
 the version when I try installing it, so I must refresh [ruby-build][]
 
-``` text
-$ git -c ~/.rbenv/plugins/ruby-build pull
-$ rbenv install
-```
+    $ git -c ~/.rbenv/plugins/ruby-build pull
+    $ rbenv install
 
 2.6.6 is a bit more specific than "2.5+" but no big deal. Got the right Ruby
 version. Time to install the gems.
 
-``` text
-$ bundle install
-```
+    $ bundle install
 
 Oh hey what’s this? It seems relevant to my [interests][].
 
-``` text
-⋮
-Post-install message from microformats:
-Prior to version 4.0.0, the microformats gem was named "microformats2."
-```
+    ⋮
+    Post-install message from microformats:
+    Prior to version 4.0.0, the microformats gem was named "microformats2."
 
 Adding a task to look more closely at [mircroformats-ruby][].  It’s more active
 than [mf2py][].
@@ -126,49 +114,41 @@ than [mf2py][].
 [Yarn][yarn] manages the node-specific project dependencies.  Better install
 that.
 
-``` text
-$ npm install -g yarn
-```
+    $ npm install -g yarn
 
 Okay now I can install the Node stuff.
 
-``` text
-$ yarn install
-yarn install v1.22.4
-[1/6] Validating package.json...
-error @tootsuite/mastodon@: The engine "node" is incompatible with this module. Expected version ">=10.13 <13". Got "13.11.0"
-error Found incompatible module.
-info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
-```
+    $ yarn install
+    yarn install v1.22.4
+    [1/6] Validating package.json...
+    error @tootsuite/mastodon@: The engine "node" is incompatible with this module. Expected version ">=10.13 <13". Got "13.11.0"
+    error Found incompatible module.
+    info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
 
 At some point I should [enable][] automatic `nvm use`.  Meanwhile I’ll just
 install.
 
-:::note
-
+{% note() %}
 Or maybe I could play with [Volta][volta].  Not today. Maybe later.
 
-:::
+[volta]: https://volta.sh/
+{% end %}
 
-``` text
-$ nvm install
-Found '/home/random/Projects/mastodon/.nvmrc' with version <12>
-Downloading and installing node v12.16.3...
-⋮
-Now using node v12.16.3 (npm v6.14.4)
-$ npm install -g yarn
-$ yarn install
-```
+    $ nvm install
+    Found '/home/random/Projects/mastodon/.nvmrc' with version <12>
+    Downloading and installing node v12.16.3...
+    ⋮
+    Now using node v12.16.3 (npm v6.14.4)
+    $ npm install -g yarn
+    $ yarn install
 
 No complaints about Node.js versions now.  Good.  Time to actually set up the
 application?
 
 Dev docs say `rails db:setup`, so that’s what I type.
 
-``` text
-$ rails db:setup
-zsh: command not found: rails
-```
+    $ rails db:setup
+    zsh: command not found: rails
 
 Oh right.  Because I’m not using a fresh Rails app, but an existing project.  I
 could use `bundle exec` but for some reason I feel stubborn.  I must make at
@@ -184,16 +164,12 @@ PATH_add "bin"
 
 Then I need to let direnv know this change is acceptable.
 
-``` text
-$ direnv allow
-```
+    $ direnv allow
 
 There’s probably a better Rails-specific or Zsh-specific approach, but I’m in a
 hurry.
 
-``` text
-$ rails db:setup
-```
+    $ rails db:setup
 
 Loads of text follows. That’s good, right?
 
@@ -204,47 +180,45 @@ Instructions go straight to running the application, but that’s not my style.
 I want to run tests first. Blame [Perl][perl]. I have certain expectations
 after years of watching `cpan` run tests before declaring something installed.
 
-``` text
-$ rspec
-⋮
-332) Auth::ChallengesController POST #create with incorrect password renders challenge
-       Failure/Error: = javascript_pack_tag "locales", integrity: true, crossorigin: 'anonymous'
+    $ rspec
+    ⋮
+    332) Auth::ChallengesController POST #create with incorrect password renders challenge
+          Failure/Error: = javascript_pack_tag "locales", integrity: true, crossorigin: 'anonymous'
 
-       ActionView::Template::Error:
-         Webpacker can't find locales in /home/random/Projects/mastodon/public/packs-test/manifest.json. Possible causes:
-         1. You want to set webpacker.yml value of compile to true for your environment
-            unless you are using the `webpack -w` or the webpack-dev-server.
-         2. webpack has not yet re-run to reflect updates.
-         3. You have misconfigured Webpacker's config/webpacker.yml file.
-         4. Your webpack configuration is not creating a manifest.
-         Your manifest contains:
-         {
-         }
-       # ./app/views/layouts/application.html.haml:23:in `_app_views_layouts_application_html_haml___4376952060303332774_47460103924140'
-       # ./app/views/layouts/auth.html.haml:13:in `_app_views_layouts_auth_html_haml___1721087443773625754_47460102744080'
-       # ./app/controllers/concerns/challengable_concern.rb:47:in `render_challenge'
-       # ./app/controllers/auth/challenges_controller.rb:20:in `create'
-       # ./app/controllers/concerns/localized.rb:18:in `block in set_locale'
-       # ./app/controllers/concerns/localized.rb:17:in `set_locale'
-       # ./spec/controllers/auth/challenges_controller_spec.rb:31:in `block (4 levels) in <top (required)>'
-       # ------------------
-       # --- Caused by: ---
-       # Webpacker::Manifest::MissingEntryError:
-       #   Webpacker can't find locales in /home/random/Projects/mastodon/public/packs-test/manifest.json. Possible causes:
-       #   1. You want to set webpacker.yml value of compile to true for your environment
-       #      unless you are using the `webpack -w` or the webpack-dev-server.
-       #   2. webpack has not yet re-run to reflect updates.
-       #   3. You have misconfigured Webpacker's config/webpacker.yml file.
-       #   4. Your webpack configuration is not creating a manifest.
-       #   Your manifest contains:
-       #   {
-       #   }
-       #   ./app/views/layouts/application.html.haml:23:in `_app_views_layouts_application_html_haml___4376952060303332774_47460103924140'
-⋮
+          ActionView::Template::Error:
+            Webpacker can't find locales in /home/random/Projects/mastodon/public/packs-test/manifest.json. Possible causes:
+            1. You want to set webpacker.yml value of compile to true for your environment
+                unless you are using the `webpack -w` or the webpack-dev-server.
+            2. webpack has not yet re-run to reflect updates.
+            3. You have misconfigured Webpacker's config/webpacker.yml file.
+            4. Your webpack configuration is not creating a manifest.
+            Your manifest contains:
+            {
+            }
+          # ./app/views/layouts/application.html.haml:23:in `_app_views_layouts_application_html_haml___4376952060303332774_47460103924140'
+          # ./app/views/layouts/auth.html.haml:13:in `_app_views_layouts_auth_html_haml___1721087443773625754_47460102744080'
+          # ./app/controllers/concerns/challengable_concern.rb:47:in `render_challenge'
+          # ./app/controllers/auth/challenges_controller.rb:20:in `create'
+          # ./app/controllers/concerns/localized.rb:18:in `block in set_locale'
+          # ./app/controllers/concerns/localized.rb:17:in `set_locale'
+          # ./spec/controllers/auth/challenges_controller_spec.rb:31:in `block (4 levels) in <top (required)>'
+          # ------------------
+          # --- Caused by: ---
+          # Webpacker::Manifest::MissingEntryError:
+          #   Webpacker can't find locales in /home/random/Projects/mastodon/public/packs-test/manifest.json. Possible causes:
+          #   1. You want to set webpacker.yml value of compile to true for your environment
+          #      unless you are using the `webpack -w` or the webpack-dev-server.
+          #   2. webpack has not yet re-run to reflect updates.
+          #   3. You have misconfigured Webpacker's config/webpacker.yml file.
+          #   4. Your webpack configuration is not creating a manifest.
+          #   Your manifest contains:
+          #   {
+          #   }
+          #   ./app/views/layouts/application.html.haml:23:in `_app_views_layouts_application_html_haml___4376952060303332774_47460103924140'
+    ⋮
 
-Finished in 4 minutes 4.3 seconds (files took 6.07 seconds to load)
-2680 examples, 332 failures, 23 pending
-```
+    Finished in 4 minutes 4.3 seconds (files took 6.07 seconds to load)
+    2680 examples, 332 failures, 23 pending
 
 Mhm.  That’s what I thought.  I’m going to need to write a post about getting
 this to work, aren’t I?
@@ -284,19 +258,15 @@ Okay how about this?
 
 First, clean up the compiled assets from my config experiment.
 
-``` text
-$ RAILS_ENV=test rake assets:clobber
-```
+    $ RAILS_ENV=test rake assets:clobber
 
 Next, precompile the assets and run tests again.
 
-``` text
-$ RAILS_ENV=test rake assets:precompile
-$ rspec
-⋮
-Finished in 4 minutes 10.6 seconds (files took 6.04 seconds to load)
-2680 examples, 0 failures, 23 pending
-```
+    $ RAILS_ENV=test rake assets:precompile
+    $ rspec
+    ⋮
+    Finished in 4 minutes 10.6 seconds (files took 6.04 seconds to load)
+    2680 examples, 0 failures, 23 pending
 
 Huzzah! Aside from that ghastly test time.  I’ve seen worse.  I’ve *written*
 worse.
@@ -340,7 +310,6 @@ screenshot.
 [mf2py]: https://github.com/microformats/mf2py
 [yarn]: https://yarnpkg.com/
 [enable]: https://github.com/nvm-sh/nvm#calling-nvm-use-automatically-in-a-directory-with-a-nvmrc-file
-[volta]: https://volta.sh/
 [direnv]: https://direnv.net
 [perl]: /tags/perl
 [webpacker]: https://github.com/rails/webpacker

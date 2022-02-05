@@ -57,7 +57,7 @@
                 {% if asset is matching(cite.card) %}
                   {% set card_image = resize_image(path=asset, width=600, op="fit_width") %}
                   <a href="{{ cite.url | safe }}">
-                    <img class="r-top-base" src="{{ card_image.url }}">
+                    <img class="r-top-base" src="{{ card_image.url | safe }}">
                   </a>
                 {% endif %}
               {% endfor %}
@@ -80,7 +80,7 @@
 
           {% if cite.site %}
             <footer class="text-small align-right">
-              <p>From <a href="{{ cite.site }}">{{ cite.site }}</a></p>
+              <p>From <a href="{{ cite.site | safe }}">{{ cite.site }}</a></p>
             </footer>
           {% endif %}
         </section>

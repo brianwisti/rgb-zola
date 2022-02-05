@@ -16,14 +16,12 @@ path = "cover.png"
 
 +++
 
-:::admonition{title=Updates}
-
+{% note(title="Updates") %}
 2020-11-09
 : Used my [Raku tangles][raku-tangles] to touch up the code and make a downloadable link. I
   want to tidy it so bad, but I’d need to rewrite large chunks of this post. But
   hey it’s there and it works. Have fun!
-
-:::
+{% end %}
 
 ## The plan
 
@@ -43,12 +41,10 @@ database.
 
 `q` is ridiculously fast and convenient if you know the query you want to ask.
 
-``` text
-$ q --sql 'select count(1) from articles where title like "%perl%"'
-22
-$ q --sql 'select count(1) from articles where title like "%python%"'
-25
-```
+    $ q --sql 'select count(1) from articles where title like "%perl%"'
+    22
+    $ q --sql 'select count(1) from articles where title like "%python%"'
+    25
 
 Is your query too awkward to comfortably type on a command line? Put it in a
 shell script, like fREW’s `tag-count` example.
@@ -64,16 +60,14 @@ exec scripts/q \
 That gets you a list of all the tags in your entries, ordered by number of
 appearances.
 
-``` text
-$ tag-count
-⋮
- 29 ruby
- 33 perl
- 38 python
- 43 learn
- 45 drawing
- 77 site
-```
+    $ tag-count
+    ⋮
+    29 ruby
+    33 perl
+    38 python
+    43 learn
+    45 drawing
+    77 site
 
 I converted it to [Python][python] eventually, of course. [Records][records]
 produced nice-looking output while letting me stick to SQL syntax. Noticeably
@@ -89,28 +83,24 @@ automatically announcing new posts.
 I’m thinking about adding more tables to improve [IndieWeb][indieweb] integration. But
 to be honest, my creation has grown unwieldy. And *slow*.
 
-``` text
-$ time query 'select date, title from articles order by date'
-⋮
-Skinny Lines and Flat Colors                             |2020-05-02T21:11:00-07:00
-Pondering My Indieweb Guinea Pig                         |2020-05-03T20:30:00-07:00
-Got a Working glitch-soc Rails Dev Environment           |2020-05-04T23:26:21-07:00
-445 rows
-query 'select title, published_at from contents order by published_at'  \
-2.64s user 0.13s system 101% cpu 2.730 total
-```
+    $ time query 'select date, title from articles order by date'
+    ⋮
+    Skinny Lines and Flat Colors                             |2020-05-02T21:11:00-07:00
+    Pondering My Indieweb Guinea Pig                         |2020-05-03T20:30:00-07:00
+    Got a Working glitch-soc Rails Dev Environment           |2020-05-04T23:26:21-07:00
+    445 rows
+    query 'select title, published_at from contents order by published_at'  \
+    2.64s user 0.13s system 101% cpu 2.730 total
 
 Compared to the original Perl script?
 
-``` text
-$ time q --sql 'select date, title from articles where date is not null is not null order by date'
-⋮
-2020-05-02T21:11:00-07:00    Skinny Lines and Flat Colors
-2020-05-03T15:46:00-07:00    Sending Webmentions
-2020-05-03T20:30:00-07:00    Pondering My Indieweb Guinea Pig
-2020-05-04 23:26:21-07:00    Got a Working glitch-soc Rails Dev Environment
-q --sql   0.17s user 0.02s system 99% cpu 0.197 total
-```
+    $ time q --sql 'select date, title from articles where date is not null is not null order by date'
+    ⋮
+    2020-05-02T21:11:00-07:00    Skinny Lines and Flat Colors
+    2020-05-03T15:46:00-07:00    Sending Webmentions
+    2020-05-03T20:30:00-07:00    Pondering My Indieweb Guinea Pig
+    2020-05-04 23:26:21-07:00    Got a Working glitch-soc Rails Dev Environment
+    q --sql   0.17s user 0.02s system 99% cpu 0.197 total
 
 I’m tempted to gut my Python workflow. Start fresh from `q` and Perl again. But
 no. That would be a lot of work — duplicated work, at that.
@@ -134,15 +124,13 @@ understand data but not necessarily databases.
 And although it’s slower than `q` for SQL queries, it’s much closer than what I
 came up with!
 
-``` text
-$ time sqlite-utils site.db 'select publishDate, title from entries order by publishDate' --table
-⋮
-2020-05-03T04:11:00+00:00  Skinny Lines and Flat Colors
-2020-05-03T22:46:00+00:00  Sending Webmentions
-2020-05-04T03:30:00+00:00  Pondering My Indieweb Guinea Pig
-2020-05-05T06:26:21+00:00  Got a Working glitch-soc Rails Dev Environment
-sqlite-utils site.db  --table  0.54s user 0.16s system 158% cpu 0.442 total
-```
+    $ time sqlite-utils site.db 'select publishDate, title from entries order by publishDate' --table
+    ⋮
+    2020-05-03T04:11:00+00:00  Skinny Lines and Flat Colors
+    2020-05-03T22:46:00+00:00  Sending Webmentions
+    2020-05-04T03:30:00+00:00  Pondering My Indieweb Guinea Pig
+    2020-05-05T06:26:21+00:00  Got a Working glitch-soc Rails Dev Environment
+    sqlite-utils site.db  --table  0.54s user 0.16s system 158% cpu 0.442 total
 
 ## Creating `site.db` with `sqlite-utils`
 
@@ -227,12 +215,12 @@ $ pip install pyyaml
 I can’t think of a pretty way to get at an entry’s front matter, so let’s just
 get it out of the way.
 
-:::tip
-
+{% note() %}
 It’s not worth rewriting a whole blog post just yet, but lately I use
 [python-frontmatter][] for tasks like this.
 
-:::
+[python-frontmatter]: https://github.com/eyeseast/python-frontmatter
+{% end %}
 
 ```python
 import yaml
@@ -258,9 +246,7 @@ away in case I switch my front matter to TOML, JSON, or some other format.
 Okay, now to mash entry and relevant front matter bits together. I prefer
 [Arrow][arrow] 's interface to [datetime][].
 
-``` text
-$ pip install arrow
-```
+    $ pip install arrow
 
 **import entry dependencies**
 
@@ -316,9 +302,7 @@ I got everything tidy and pretty. We’re ready for the database.
 
 ### Loading the data
 
-``` text
-$ pip install sqlite-utils
-```
+    $ pip install sqlite-utils
 
 The `sqlite-utils` [Python API][sqlite-utils-api] ends up taking hardly any
 code at all, thanks partly to the work spent massaging the entries. You treat
@@ -386,27 +370,25 @@ I *could* specify an in-memory database, but no. For the moment I’ll settle on
 creating a database file. That way I can more easily play with the
 `sqlite-utils` command line interface.
 
-``` text
-$ sqlite-utils tables site.db --counts --json-cols | python -m json.tool
-[
-    {
-        "table": "entries",
-        "count": 467
-    },
-    {
-        "table": "tags",
-        "count": 1043
-    },
-    {
-        "table": "announcements",
-        "count": 299
-    },
-    {
-        "table": "aliases",
-        "count": 900
-    }
-]
-```
+    $ sqlite-utils tables site.db --counts --json-cols | python -m json.tool
+    [
+        {
+            "table": "entries",
+            "count": 467
+        },
+        {
+            "table": "tags",
+            "count": 1043
+        },
+        {
+            "table": "announcements",
+            "count": 299
+        },
+        {
+            "table": "aliases",
+            "count": 900
+        }
+    ]
 
 I’m content. But I’m also curious. What does my site metadata look like in Datasette?
 
@@ -415,11 +397,9 @@ I’m content. But I’m also curious. What does my site metadata look like in D
 I don’t have any great insights here. I just wanted to look at the pretty
 tables. Played with [metadata][] and checked out the results.
 
-``` text
-$ pip install datasette
-⋮
-$ datasette serve --metadata datasette.json site.db
-```
+    $ pip install datasette
+    ⋮
+    $ datasette serve --metadata datasette.json site.db
 
 The basic interface is pleasant enough, especially when you apply some
 [CSS][css] Of course, [Niche Museums][niche-museums] shows you can go a *long*
@@ -428,17 +408,17 @@ ways past "some CSS" with Datasette.
 Oh and more on the pleasant interface. It allows you to edit the SQL for your
 current view.
 
-#[lightly styled with custom SQL](datasette-sql.png)
+![lightly styled with custom SQL](datasette-sql.png)
 
 There are detail pages for each row. Again, the Niche Museums site shows that
 [detail view][detail-view] can be heavily tweaked.
 
-#[Datasette detail view of a post](datasette-entry.png)
+![Datasette detail view of a post](datasette-entry.png)
 
 [Plugins][plugins] add all sorts of functionality. [datasette-vega][] draws
 graphs of query results.
 
-#[Charting interface with entries posted per year](datasette-graph.png)
+![Charting interface with entries posted per year](datasette-graph.png)
 
 Year 0001? Hang on, let me check that in my shiny new Datasette server.
 
@@ -520,7 +500,6 @@ Check out some other [datasettes][] available online!
 [front-matter]: https://gohugo.io/content-management/front-matter/
 [pyyaml]: https://pyyaml.org
 [libyaml]: https://pyyaml.org/wiki/LibYAML
-[python-frontmatter]: https://github.com/eyeseast/python-frontmatter
 [arrow]: https://arrow.readthedocs.io/en/latest/
 [datetime]: https://docs.python.org/3.8/library/datetime.html
 [namedtuple]: https://docs.python.org/3/library/collections.html#collections.namedtuple

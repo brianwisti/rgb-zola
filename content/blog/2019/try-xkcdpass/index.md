@@ -15,12 +15,12 @@ path = "cover.png"
 
 +++
 
-:::tldr
-
+{% note(title="tl;dr:") %}
 Use [xkcdpass][] to generate more secure passwords, like
 “correcthorsebatterystaple”.
 
-:::
+[xkcdpass]: https://pypi.org/project/xkcdpass/
+{% end %}
 
 This started as a [Note][note] but I passed my 15 minute rule — if I spend more
 than 15 minutes on it, it should be a post — so here we are.
@@ -34,24 +34,18 @@ not let the computer do it for you? That’s where [xkcdpass][] comes in.
 
 It’s probably available in your package repository.
 
-``` text
-$ pacman -Ss xkcdpass
-```
+    $ pacman -Ss xkcdpass
 
 It’s just [Python][python], so you can use `pip` if you’re on macOS or Windows
 or some other platform that doesn’t have `xkcdpass` handy.
 
-``` text
-pip install xkcdpass
-```
+    pip install xkcdpass
 
 Regardless of how you install it, run it and grab the output — but let your
 password manager remember it for you.
 
-``` text
-$ xkcdpass
-tiara embezzle stack doorway scrambled imitate
-```
+    $ xkcdpass
+    tiara embezzle stack doorway scrambled imitate
 
 [xkcdpass]: https://pypi.org/project/xkcdpass/
 [note]: /note/

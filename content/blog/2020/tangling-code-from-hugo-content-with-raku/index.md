@@ -16,27 +16,23 @@ path = "cover.jpg"
 
 +++
 
-:::admonition{title=Updates}
-
-  2020-09-03
-  : [@codesections@fosstodon.org][codesections] found a typo! I forgot to *show* the target
-    file name once command line arguments are in place. It should go
-    `raku tangle-fragments.raku index.md`.
-
-:::
+{% note(title="Updates") %}
+2020-09-03
+: [@codesections@fosstodon.org][codesections] found a typo! I forgot to *show* the target
+  file name once command line arguments are in place. It should go
+  `raku tangle-fragments.raku index.md`.
+{% end %}
 
 Let's say I have a file.  The one you're reading, perhaps.  Well, its original
 Markdown content.
 
 It has a shortcode in it.
 
-``` text
-{{</* code file="hello.py" */>}}
-print("Hello")
-{{</* /code */>}}
-```
+    {{< code file="hello.py" >}}
+    print("Hello")
+    {{< /code >}}
 
-I based `{{</* code */>}}` here on a shortcode from the [Hugo docs][hugo-docs].
+I based `{{< code >}}` here on a shortcode from the [Hugo docs][hugo-docs].
 It presents highlighted code with additional context.
 
 **`hello.py`**
@@ -54,15 +50,11 @@ I *could* use Hugo's [readFile][read-file] function in a new shortcode,
 including the contents of `hello.py` in this Markdown file.  Something like
 this:
 
-``` text
-{{</* include file="hello.py" */>}}
-```
+    {{< include file="hello.py" >}}
 
-:::note
-
+{% note() %}
 Actual shortcode logic left as an exercise for the reader.
-
-:::
+{% end %}
 
 But that still breaks up the writing flow a little bit.  I'm writing the code
 over here, and writing *about* it over there.  It's a tiny complaint, but
@@ -84,8 +76,8 @@ throughout some kind of document.  A tool like [noweb][] or [Babel][babel]
 parses the document to create code files.  Could be any kind of file, really.
 The process can get fancy.
 
-But the start is not fancy: given a text file containing a `{{</* code
-file="(something)" */>}}`, write the contents of that shortcode to the named
+But the start is not fancy: given a text file containing a `{{< code
+file="(something)" >}}`, write the contents of that shortcode to the named
 file.
 
 ``` raku
@@ -144,16 +136,14 @@ seen parsing treated so well by default since maybe [REBOL][rebol].
 
 Anyways, let's run this thing.
 
-``` text
-$ raku tangle.raku
-Tangled to hello.py
-$ bat hello.py
-───────┬──────────────────────────────────────────────────────────────────────
-       │ File: hello.py
-───────┼──────────────────────────────────────────────────────────────────────
-   1   │ print("Hello")
-───────┴──────────────────────────────────────────────────────────────────────
-```
+    $ raku tangle.raku
+    Tangled to hello.py
+    $ bat hello.py
+    ───────┬──────────────────────────────────────────────────────────────────────
+          │ File: hello.py
+    ───────┼──────────────────────────────────────────────────────────────────────
+      1   │ print("Hello")
+    ───────┴──────────────────────────────────────────────────────────────────────
 
 Sweet.
 
@@ -167,8 +157,8 @@ a Hugo post.
 
 To show shortcode directives without Hugo evaluating them, they need to look
 like shortcode comments.  Their contents will get passed straight through as
-part of your post.  To show `{{</* shortcode */>}}` in a post, your Hugo
-content needs `{{</*/* shortcode */*/>}}`.
+part of your post.  To show `{{< shortcode >}}` in a post, your Hugo
+content needs `{{</* shortcode */>}}`.
 
 So that's lovely and all, but can be a headache of its own for this specific
 situation of extracting code from a blog post.
@@ -182,8 +172,7 @@ I need to remember this commented shortcode syntax.
  my $commented-closer = ' */>' ~ '}}';
 ```
 
-:::note
-
+{% note() %}
 Goodness, that looks silly.  Well, I'm writing this blog post as a test case
 for the code.  I couldn't figure out how to cleanly present the commented
 shortcode delimiters without Hugo and my code getting into a fierce argument.
@@ -198,8 +187,7 @@ my $commented-closer = ' */>}}';
 
 But that's not the path I chose.  It's not easy to write programs that write
 themselves.  Sometimes you must help them along.
-
-:::
+{% end %}
 
 That way I can replace those commented shortcode delimiters with their normal
 counterparts when I tangle later.
@@ -261,41 +249,39 @@ sub MAIN() {
 
 And it works!
 
-``` text
-$ raku tangle-multi.raku
-Tangled to hello.py
-Tangled to tangle.raku
-$ bat tangle.raku
-───────┬──────────────────────────────────────────────────────────────────────
-       │ File: tangle.raku
-───────┼──────────────────────────────────────────────────────────────────────
-   1   │ sub MAIN() {
-   2   │   my $filename = "index.md";
-   3   │   my $opener = '{{</* ';
-   4   │   my $closer = ' */>}}';
-   5   │   my regex shortcode {
-   6   │     $opener
-   7   │       code \s
-   8   │       'file="' $<filename> = .+? '"'  # Remember the filename
-   9   │       .*?
-  10   │     $closer
-  11   │     \n                # Ignore leading newline
-  12   │     $<content> = .+?  # Remember everything else in the block
-  13   │     \n                # Ignore leading newline
-  14   │     $opener '/code' $closer
-  15   │   }
-  16   │
-  17   │   my $markdown = slurp $filename;
-  18   │
-  19   │   if $markdown.match(/ <shortcode> /) {
-  20   │     my $tangle-file = $/<shortcode><filename>;
-  21   │     my $tangle-content = $/<shortcode><content>;
-  22   │     spurt $tangle-file, $tangle-content;
-  23   │     say "Tangled to $tangle-file";
-  24   │   }
-  25   │ }
-  ───────┴──────────────────────────────────────────────────────────────────────
-```
+    $ raku tangle-multi.raku
+    Tangled to hello.py
+    Tangled to tangle.raku
+    $ bat tangle.raku
+    ───────┬──────────────────────────────────────────────────────────────────────
+          │ File: tangle.raku
+    ───────┼──────────────────────────────────────────────────────────────────────
+      1   │ sub MAIN() {
+      2   │   my $filename = "index.md";
+      3   │   my $opener = '{{</* ';
+      4   │   my $closer = ' */>}}';
+      5   │   my regex shortcode {
+      6   │     $opener
+      7   │       code \s
+      8   │       'file="' $<filename> = .+? '"'  # Remember the filename
+      9   │       .*?
+      10   │     $closer
+      11   │     \n                # Ignore leading newline
+      12   │     $<content> = .+?  # Remember everything else in the block
+      13   │     \n                # Ignore leading newline
+      14   │     $opener '/code' $closer
+      15   │   }
+      16   │
+      17   │   my $markdown = slurp $filename;
+      18   │
+      19   │   if $markdown.match(/ <shortcode> /) {
+      20   │     my $tangle-file = $/<shortcode><filename>;
+      21   │     my $tangle-content = $/<shortcode><content>;
+      22   │     spurt $tangle-file, $tangle-content;
+      23   │     say "Tangled to $tangle-file";
+      24   │   }
+      25   │ }
+      ───────┴──────────────────────────────────────────────────────────────────────
 
 Unfortunately, I'm not quite done yet.
 
@@ -311,8 +297,7 @@ along.  You can see that I already made my choice.  I got used to
 Might as well keep doing that over here.  Oh but hang on. I want it to stand
 out a bit.  I'll use angle quotes `«‥»`.
 
-:::note
-
+{% note() %}
 On a US keyboard using [Vim or Neovim][vim-tag], `«` is a [digraph][] which can
 be entered via <kbd>Control-k</kbd> followed by <kbd><<</kbd>.  Or if you've set up a
 [Compose][compose] key, it's <kbd>Compose</kbd> followed by <kbd><<</kbd> in any editor.
@@ -324,8 +309,7 @@ fancy characters.
 
 Yes, I know I could practically write it *all* with fancy characters in Raku.
 One step at a time.
-
-:::
+{% end %}
 
 Let's go back to the Python code because it's still so small.
 
@@ -357,33 +341,27 @@ print(Panel(md))
 
 I identify the fragment with a `name` attribute:
 
-``` text
-{{</* code name="import-libraries" lang="python" */>}}
-from rich import print
-from rich.panel import Panel
-from rich.markdown import Markdown
-{{</* /code */>}}
-```
+    {{< code name="import-libraries" lang="python" >}}
+    from rich import print
+    from rich.panel import Panel
+    from rich.markdown import Markdown
+    {{< /code >}}
 
 My `code` block references the `import-libraries` fragment by name when I'm
 ready for it.
 
-``` text
-{{</* code file="rich-hello.py" */>}}
-«import-libraries»
+    {{< code file="rich-hello.py" >}}
+    «import-libraries»
 
-md = Markdown("**Hello**, *World*.")
-print(Panel(md))
-{{</* /code */>}}
-```
+    md = Markdown("**Hello**, *World*.")
+    print(Panel(md))
+    {{< /code >}}
 
-:::note
-
+{% note() %}
 I *might* spend some time talking about the `code` shortcode in another
 post, but I dislike Go's templating enough that this does not sound like
 fun.
-
-:::
+{% end %}
 
 ### Rounding up fragments to tangle
 
@@ -464,13 +442,11 @@ my %tangle-for;
 for %fragment-for.keys -> $name { tangle($name); }
 ```
 
-:::note
-
+{% note() %}
 Raku functions are lexically scoped, which means it's perfectly okay to
 declare a function inside another function.  Though next time I revisit this,
 I may want to think about a class_ or something to hold the complexity.
-
-:::
+{% end %}
 
 But what does that function need to look like?  I'm still not sure I got it
 quite right.  I mean I know the *basic* shape of it.
@@ -564,53 +540,49 @@ sub MAIN(Str $filename) {
 
 Easiest [CLI][cli] I ever wrote, by the way.  See?
 
-``` text
-$ raku tangle-fragments.raku
-Usage:
-  tangle-fragments.raku <filename>
-```
+    $ raku tangle-fragments.raku
+    Usage:
+      tangle-fragments.raku <filename>
 
 Time for the real thing.  I'm nervous.  I shouldn't be nervous.  I know how
 this story ends.  Then again I keep rewriting the middle.
 
-``` text
-$ raku tangle-fragments.raku index.md
-fragment: hello.py
-fragment: tangle.raku
-fragment: define-commented-shortcodes
-fragment: replace-commented-shortcodes
-fragment: tangle-every-block
-fragment: tangle-multi.raku
-fragment: import-libraries
-fragment: rich-hello.py
-fragment: shortcode-params-regex
-fragment: nested-shortcode-regex
-fragment: gather-fragments-and-files
-fragment: tangle-fragments
-fragment: tangle-function
-fragment: tangle-error-checking
-fragment: tangle-text
-fragment: write-tangled-files
-fragment: tangle-fragments.raku
-tangle-function <-- (tangle-error-checking)
-tangle-function <-- (tangle-text)
-nested-shortcode-regex <-- (shortcode-params-regex)
-tangle-every-block <-- (replace-commented-shortcodes)
-tangle-fragments <-- (tangle-function)
-write-tangled-files <-- (define-commented-shortcodes)
-tangle-fragments.raku <-- (nested-shortcode-regex)
-tangle-fragments.raku <-- (gather-fragments-and-files)
-tangle-fragments.raku <-- (tangle-fragments)
-tangle-fragments.raku <-- (write-tangled-files)
-rich-hello.py <-- (import-libraries)
-tangle-multi.raku <-- (define-commented-shortcodes)
-tangle-multi.raku <-- (tangle-every-block)
-Tangled to hello.py
-Tangled to tangle.raku
-Tangled to tangle-multi.raku
-Tangled to rich-hello.py
-Tangled to tangle-fragments.raku
-```
+    $ raku tangle-fragments.raku index.md
+    fragment: hello.py
+    fragment: tangle.raku
+    fragment: define-commented-shortcodes
+    fragment: replace-commented-shortcodes
+    fragment: tangle-every-block
+    fragment: tangle-multi.raku
+    fragment: import-libraries
+    fragment: rich-hello.py
+    fragment: shortcode-params-regex
+    fragment: nested-shortcode-regex
+    fragment: gather-fragments-and-files
+    fragment: tangle-fragments
+    fragment: tangle-function
+    fragment: tangle-error-checking
+    fragment: tangle-text
+    fragment: write-tangled-files
+    fragment: tangle-fragments.raku
+    tangle-function <-- (tangle-error-checking)
+    tangle-function <-- (tangle-text)
+    nested-shortcode-regex <-- (shortcode-params-regex)
+    tangle-every-block <-- (replace-commented-shortcodes)
+    tangle-fragments <-- (tangle-function)
+    write-tangled-files <-- (define-commented-shortcodes)
+    tangle-fragments.raku <-- (nested-shortcode-regex)
+    tangle-fragments.raku <-- (gather-fragments-and-files)
+    tangle-fragments.raku <-- (tangle-fragments)
+    tangle-fragments.raku <-- (write-tangled-files)
+    rich-hello.py <-- (import-libraries)
+    tangle-multi.raku <-- (define-commented-shortcodes)
+    tangle-multi.raku <-- (tangle-every-block)
+    Tangled to hello.py
+    Tangled to tangle.raku
+    Tangled to tangle-multi.raku
+    Tangled to rich-hello.py
+    Tangled to tangle-fragments.raku
 
 That overwrote my test version of `tangle-fragments.raku`.  Scary.  Ran the
 new version to keep myself honest.  It produced the same output, and appears to
@@ -630,7 +602,7 @@ print(Panel(md))
 Running `rich-hello.py` looks more interesting with a screenshot than a text
 block:
 
-#[Formatted output using Rich](rich-panel.png)
+![Formatted output using Rich](rich-panel.png)
 
 Okay.  Now I'm done.
 

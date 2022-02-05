@@ -36,19 +36,15 @@ mode][org-mode].  Because of that, I’ll focus on the tmux commands.
 
 You can send them directly to `tmux` in an open shell.
 
-``` text
-$ tmux <command> [arguments]
-```
+    $ tmux <command> [arguments]
 
 You don’t have a shell handy?  [[C-b :]] will pull up a quick Tmux command
 prompt to enter your commands:
 
-``` text
-C-b :<command> [arguments]
-```
+    C-b :<command> [arguments]
 
 If your command produces output, it will display in place of your current
-window until you hit [[ENTER]].
+window until you hit <kbd>ENTER</kbd>.
 
 On to the commands themselves.  I’ve added some highlights along the way, with
 command full names, aliases, and useful arguments — but not *all* arguments.
@@ -67,12 +63,10 @@ alias
 
 I can list sessions with `list-sessions`.
 
-``` text
-$ tmux list-sessions
+    $ tmux list-sessions
 
-0: 3 windows (created Wed Nov 18 22:25:18 2020) (attached)
-2: 1 windows (created Sat Nov 21 12:08:28 2020)
-```
+    0: 3 windows (created Wed Nov 18 22:25:18 2020) (attached)
+    2: 1 windows (created Sat Nov 21 12:08:28 2020)
 
 This shows two sessions.  The first one — currently attached, which means its
 the one I’m typing in right now — contains three windows, and has been open a
@@ -109,33 +103,26 @@ Used to be I’d get at that other session by opening a new tab in my terminal
 and telling `tmux` to attach to it, making sure to detach it from whatever
 other connections I may have had open.
 
-``` text
-tmux attach -d -t 2
-```
+    tmux attach -d -t 2
 
 Then I learned that we can switch to my other sessions with `switch-client`.
 
-``` text
-:switch-client -t 2
-:ls
+    :switch-client -t 2
+    :ls
 
-0: 3 windows (created Wed Nov 18 22:25:18 2020)
-2: 1 windows (created Sat Nov 21 12:08:28 2020) (attached)
-```
+    0: 3 windows (created Wed Nov 18 22:25:18 2020)
+    2: 1 windows (created Sat Nov 21 12:08:28 2020) (attached)
 
 We can cycle through sessions without targeting them, too.  A `-n` argument
 cycles to the next, while `-p` cycles to the previous.
 
-``` text
-:switch-client -n
-```
+    :switch-client -n
 
-:::note
-
+{% note() %}
 Okay, key bindings might help here.  Cycle through your Tmux sessions with
-[[C-b )]] and [[C-b (]].
+<kbd>C-b )</kbd> and <kbd>C-b (</kbd>.
+{% end %}
 
-:::
 
 I don’t think so much about tabbed terminals anymore.  I do forget which
 session holds work stuff and which holds site stuff, though.
@@ -160,19 +147,15 @@ options
 I’m not stuck with the tmux-assigned session numbers for identification.
 I can rename them!
 
-``` text
-:rename-session -t 0 site
-:rename -t 2 work
-```
+    :rename-session -t 0 site
+    :rename -t 2 work
 
 Does that help?
 
-``` text
-:ls
+    :ls
 
-site: 3 windows (created Wed Nov 18 22:25:18 2020) (attached)
-work: 1 windows (created Sat Nov 21 12:08:28 2020)
-```
+    site: 3 windows (created Wed Nov 18 22:25:18 2020) (attached)
+    work: 1 windows (created Sat Nov 21 12:08:28 2020)
 
 It sure does.  Oh and it sorts the listing alphabetically.  Good to know.
 
@@ -198,27 +181,23 @@ options
 
 `list-windows` summarizes the windows in my current session.
 
-``` text
-:list-windows
+    :list-windows
 
-1: zsh* (2 panes) [282x65] [layout eb16,282x65,0,0{142x65,0,0,0,139x65,143,0,1}] @0 (active)
-2: zsh#- (1 panes) [282x65] [layout c59f,282x65,0,0,2] @1
-3: zsh# (1 panes) [282x65] [layout c5a0,282x65,0,0,3] @2
-```
+    1: zsh* (2 panes) [282x65] [layout eb16,282x65,0,0{142x65,0,0,0,139x65,143,0,1}] @0 (active)
+    2: zsh#- (1 panes) [282x65] [layout c59f,282x65,0,0,2] @1
+    3: zsh# (1 panes) [282x65] [layout c5a0,282x65,0,0,3] @2
 
 Let’s see.  There’s a window with two panes, one of which is a Zsh session.
 There’s a second Zsh session.  And — uh — a third Zsh session.
 
 I can even list every window in every session!
 
-``` text
-:lsw -a
+    :lsw -a
 
-site:1: zsh* (2 panes) [282x65]
-site:2: zsh#- (1 panes) [282x65]
-site:3: zsh# (1 panes) [282x65]
-work:1: zsh* (1 panes) [282x63]
-```
+    site:1: zsh* (2 panes) [282x65]
+    site:2: zsh#- (1 panes) [282x65]
+    site:3: zsh# (1 panes) [282x65]
+    work:1: zsh* (1 panes) [282x63]
 
 That’s not very helpful. The named sessions help clarify things somewhat, but
 the windows are just a lot of Zsh.
@@ -241,11 +220,9 @@ options
 
 I can rename the windows within my session.
 
-``` text
-:rename-window -t 1 writing
-:renamew -t 2 hugo
-:renamew -t 3 kexp
-```
+    :rename-window -t 1 writing
+    :renamew -t 2 hugo
+    :renamew -t 3 kexp
 
 There we go.  I’m writing this post in [Neovim][neovim], serving my site with
 [Hugo][hugo] locally for review, and listening to the [KEXP][kexp] stream via
@@ -253,20 +230,16 @@ There we go.  I’m writing this post in [Neovim][neovim], serving my site with
 
 Heck, I can rename windows in my other session if I like.
 
-``` text
-:rename-window -t work:1 compiling
-```
+    :rename-window -t work:1 compiling
 
 Does *that* help?
 
-``` text
-:lsw -a
+    :lsw -a
 
-site:1: writing* (2 panes) [282x65]
-site:2: hugo# (1 panes) [282x65]
-site:3: kexp#- (1 panes) [282x65]
-work:1: compiling* (1 panes) [282x65]
-```
+    site:1: writing* (2 panes) [282x65]
+    site:2: hugo# (1 panes) [282x65]
+    site:3: kexp#- (1 panes) [282x65]
+    work:1: compiling* (1 panes) [282x65]
 
 It does!  My sessions and windows all make sense!  More or less.
 
@@ -283,7 +256,7 @@ Besides, I need to get back to work.
 Where did I get all this?
 
 - [tmux cheat sheet](https://tmuxcheatsheet.com/)
-- [tmux man page](https://linux.die.net/man/1/tmux) — which you can get at on your own system with ``man tmux``
+- [tmux man page](https://linux.die.net/man/1/tmux) — which you can get at on your own system with `man tmux`
 
 [tmux]: https://github.com/tmux/tmux
 [taskwarrior]: /tags/taskwarrior

@@ -35,7 +35,7 @@ the post here on the site.
 
 I know why — basically.
 
-{{< tweet user="brianwisti" id="1262922358131744768" >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rakudobrew changed its name since last I looked<br><br>Setting up Raku with Rakudobrew<a href="https://twitter.com/hashtag/Rakulang?src=hash&amp;ref_src=twsrc%5Etfw">#Rakulang</a> <a href="https://twitter.com/hashtag/Blog?src=hash&amp;ref_src=twsrc%5Etfw">#Blog</a><a href="https://t.co/ZmFoJ6AYKL">https://t.co/ZmFoJ6AYKL</a></p>&mdash; brian wisti (@brianwisti) <a href="https://twitter.com/brianwisti/status/1262894396938293249?ref_src=twsrc%5Etfw">May 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 My post title and URL referenced Rakubrew’s predecessor "Rakudobrew," which I
 considered an unacceptable faux pas.  So I fixed it.
@@ -122,14 +122,13 @@ What’s the least I can do to get things working?
 </html>
 ```
 
-[Webmention.io]: https://webmention.io
 
-:::note
-
+{% note() %}
 I was going to do a whole post on receiving webmentions, but that’s basically it right there.
 Sign up at [Webmention.io][] and add the `<link>` to your pages.
 
-:::
+[Webmention.io]: https://webmention.io
+{% end %}
 
 Brid.gy now sees the webmention link at the old URL.  I can manually resend the
 relevant mentions.  All is well.

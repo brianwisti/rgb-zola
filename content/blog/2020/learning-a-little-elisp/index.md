@@ -11,12 +11,12 @@ tags = [ "elisp", "emacs", "org mode", "programming",]
 
 +++
 
-:::note
-
+{% note() %}
 Excuse me while I share a sleep-deprived ramble from last night through about
 five lines of [Emacs Lisp][elisp].
 
-:::
+[elisp]: https://www.gnu.org/software/emacs/manual/html%5Fnode/eintr/index.html
+{% end %}
 
 There's [tons][] of [detailed][] information about Emacs LISP — aka Emacs Lisp,
 elisp, ELisp, and "oh my god they love parentheses" — out there.  I just want
@@ -108,13 +108,13 @@ up online.  Emacs comes with notes.
 - hit [[ENTER]]
 - Learn things!
 
-:::note
+{% note() %}
 
-Doom uses [[SPC h f]] to fetch function descriptions.  Oh hey, while you’re
-at it try [[SPC h d h]] for general Doom help, or [[SPC h d m]] for help with
-a specific mode!
+Doom uses <kbd>SPC h f</kbd> to fetch function descriptions.  Oh hey, while
+you’re at it try <kbd>SPC h d h</kbd> for general Doom help, or <kbd>SPC h d
+m</kbd> for help with a specific mode!
 
-:::
+{% end %}
 
 ### ELisp in Org Babel
 
@@ -124,7 +124,7 @@ example, only tangle a section if it’s relevant for that machine.
 
 And, of course, really handy for blogging about ELisp.
 
-:::note
+{% note() %}
 
 Configuration of Org and Babel is traditionally an elaborate ritual.  In
 Doom, it’s enough for this post to enable `org`.
@@ -139,24 +139,21 @@ Somewhere in my `init.el` I have these lines.
 Okay, I added `+hugo` since I’m using `ox-hugo` to integrate with my workflow.
 And `+roam` because [org-roam][] is kinda cool.  But not relevant for today.
 
-:::
+[org-roam]: https://www.orgroam.com/
+{% end %}
 
 I need a code block written in a language that Babel knows.  It should not
 surprise us that Babel knows ELisp.
 
-``` text
-#+begin_src elisp
-(message "Hey World!")
-#+end_src
-```
+    #+begin_src elisp
+    (message "Hey World!")
+    #+end_src
 
-I press [[C-c C-c]] with *point* over the code block.
+I press {% kbd(keys="C-c C-c") %} with *point* over the code block.
 
-:::note
-
-Or [[ENTER]] in Doom.
-
-:::
+{% note() %}
+Or <kbd>ENTER</kbd> in Doom.
+{% end %}
 
 Suddenly: a `#+RESULTS:` block!
 
@@ -195,9 +192,7 @@ Looks like `format` can smush it into a string for `message`.
 `format` does its work and hands the result back to `message`, which displays
 the result.
 
-``` text
-hello Brian
-```
+    hello Brian
 
 Thing is, now `my-name` is floating around forever what with being a global
 variable.
@@ -206,9 +201,7 @@ variable.
 (message my-name)
 ```
 
-``` text
-Brian
-```
+    Brian
 
 What if I used a local variable instead?
 
@@ -217,9 +210,7 @@ What if I used a local variable instead?
      (message new-name))
 ```
 
-``` text
-Whozzomongo
-```
+    Whozzomongo
 
 But back out here it doesn’t exist.
 
@@ -230,9 +221,7 @@ But back out here it doesn’t exist.
 You don’t see anything out here, but when I tried to [[C-c C-c]] that, Emacs
 complained:
 
-``` text
-Symbol’s function definition is void: new-name
-```
+    Symbol’s function definition is void: new-name
 
 I consider that a good thing. Global variables make me nervous, especially in
 long-running applications.
@@ -252,9 +241,7 @@ How to get them from the user?
 
 `read-string` returns whatever I answer.
 
-``` text
-Waffle Smasher The Magnificent Pineapple
-```
+    Waffle Smasher The Magnificent Pineapple
 
 Let’s make a question prompt.  The inside-out approach of nested evaluation
 confuses me a bit, so I’ll happily let Emacs indent things however it wants.
@@ -268,9 +255,7 @@ confuses me a bit, so I’ll happily let Emacs indent things however it wants.
            (read-string (format "%s " question)))))
 ```
 
-``` text
-Go to bed, Dude!
-```
+    Go to bed, Dude!
 
 I did some things.  `read-string` puts the cursor right after the
 `question` prompt.  So to help myself while I’m figuring all this out, I
@@ -316,9 +301,7 @@ I already know how to call a function.
 (ask-and-respond "What's your name?" "Goodnight, %s!")
 ```
 
-``` text
-Goodnight, Brian!
-```
+    Goodnight, Brian!
 
 Okay, time to take my own hint.  Good night!
 

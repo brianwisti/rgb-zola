@@ -42,75 +42,63 @@ my init should do the trick — after a `doom sync` of course.
 
 Off in the depths of my `~/org/` folder, I create a new `config.org`.
 
-``` text
-#+title: My Orgconfig
-#+hugo_base_dir: ~/Sites/random-geekery-blog/
-#+hugo_section: config
-```
+    #+title: My Orgconfig
+    #+hugo_base_dir: ~/Sites/random-geekery-blog/
+    #+hugo_section: config
 
 Everything here will end up going in the `config` section of my site, under
 `~/Sites/random-geekery-blog/content/config`.
 
-:::note
-
+{% note() %}
 A while back I got stuck with `ox-hugo` for my site because of how big each
 section is.  Using an Org file per section might work really well!  It works
 great for this case, that’s for sure.
+{% end %}
 
-:::
+Each top-level section will be a page in `/config/`. I show *which* page in the
+subtree’s `:properties:`.
 
-Each top-level section will be a page in `/config/`.
-I show *which* page in the subtree’s `:properties:`.
-
-``` text
-+ Emacs config
-:properties:
-:export_description: Be kinda weird if I didn't manage that one in Org, yes?
-:export_file_name: emacs
-:export_hugo_weight: 5
-:end:
-```
+    + Emacs config
+    :properties:
+    :export_description: Be kinda weird if I didn't manage that one in Org, yes?
+    :export_file_name: emacs
+    :export_hugo_weight: 5
+    :end:
 
 `ox-hugo` automatically [converts][] the `export` properties to Hugo front
 matter.  `:export_file_name:` of `emacs` maps out to a generated file
 `emacs/index.md` under `content/config/`.
 
-:::warning
-
+{% warning() %}
 If you’re playing along, remember to tag sensitive config sections as
 `:noexport:`!
-
-:::
+{% end %}
 
 Since I’m showing off [Babel][babel]’s ability to tangle, I want to show the
 tangle references.  `:noweb no-export` tells Babel to tangle when evaluating
 the block, but *not* when exporting.
 
-``` text
-#+name: zsh/base-variables
-#+begin_src text :noweb no-export
-<<zsh/set-base-path>>
-<<zsh/define-editor>>
-<<zsh/clicolor>>
-<<zsh/add-home-bin>>
-#+end_src
-```
+    #+name: zsh/base-variables
+    #+begin_src text :noweb no-export
+    <<zsh/set-base-path>>
+    <<zsh/define-editor>>
+    <<zsh/clicolor>>
+    <<zsh/add-home-bin>>
+    #+end_src
 
 And — yeah.  I still haven’t figured out a nice way to highlight those tangle
 bits, so for the moment I default to calling my mostly-tangled blocks "text".
 
 I also create a subtree for the section `_index.md`.
 
-``` text
-+ My personal orgconfig
-:properties:
-:export_file_name: _index
-:end:
+    + My personal orgconfig
+    :properties:
+    :export_file_name: _index
+    :end:
 
-#+begin_note
-This is my live config, written as an [[https://orgmode.org/][Org]] file and integrated with my site with [[https://ox-hugo.scripter.co/][=ox-hugo=]].
-⋮
-```
+    #+begin_note
+    This is my live config, written as an [[https://orgmode.org/][Org]] file and integrated with my site with [[https://ox-hugo.scripter.co/][=ox-hugo=]].
+    ⋮
 
 Now my config section summary is part of the config org file.  I find this
 aesthetically pleasing.

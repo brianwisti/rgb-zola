@@ -11,14 +11,13 @@ category = [ "post",]
 
 +++
 
-[user guide]: https://markdown-it-py.readthedocs.io/en/latest/using.html
 
 {% note() %}
-
 I hope the information I share here is useful, but I'm just documenting what I
 needed to know *after* reading the markdown-it-py [user guide][] for basic
 usage and principles.
 
+[user guide]: https://markdown-it-py.readthedocs.io/en/latest/using.html
 {% end %}
 
 ## What is it
@@ -344,6 +343,7 @@ And markdown-it-py produces a proper description list:
     feature-happy person such as myself</dd>
 </dl>
 ```
+
 ### admonition blocks
 
 So about a week ago, I was writing the first version of this post. I was nearly

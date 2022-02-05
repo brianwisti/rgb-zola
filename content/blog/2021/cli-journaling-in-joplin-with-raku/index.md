@@ -51,34 +51,28 @@ which simplify searching and filtering.  `--iso` produces an [ISO
 8601][iso-8601] timestamp.  Very handy.  By default it prints the `YYYY-MM-DD`
 version of today's date, but you can opt for more granularity.
 
-``` text
-$ date --iso=minute
-2021-05-20T08:26-07:00
-```
+    $ date --iso=minute
+    2021-05-20T08:26-07:00
 
 I plan to make frequent small notes, so `minute` feels like a good choice.
 
-:::admonition{title="`use Journal`?"}
-
+{% note(title="`use Journal`?") %}
 Yes, this came up.  Had the Joplin terminal app open in one terminal while I
 added a journal entry in another terminal.  Terminal app did some sort of
 state maintenance thing.  Next thing I know I'm adding journal entries to
 "Nerd Notes."
-
-:::
+{% end %}
 
 Since it doesn't exist, `joplin` will ask for confirmation before creating
 it.
 
-``` text
-$ joplin use Journal && joplin edit $(date --iso=minute)
-Note does not exist: "2021-05-20T08:26-07:00". Create it? (Y/n)
-```
+    $ joplin use Journal && joplin edit $(date --iso=minute)
+    Note does not exist: "2021-05-20T08:26-07:00". Create it? (Y/n)
 
 I'm okay with the confirmation request for now.
 That way I have fewer moments of accidentally creating entries.
 
-#[Editing a journal entry](editing-note.png)
+![Editing a journal entry](editing-note.png)
 
 ### What about more of a diary?
 
@@ -197,12 +191,10 @@ qx{ joplin ls }  # ask `joplin` to print note titles, saving the output
 Things get unpredictable if I don't sort notes myself.  Joplin tends to sort
 notes by last activity.  Thank goodness for ISO 8601, which is easily sorted:
 
-``` text
-2021-05-20T08:26-07:00
-2021-05-21T09:00-07:00
-2021-05-21T14:01-07:00
-2021-05-21T20:20-07:00
-```
+    2021-05-20T08:26-07:00
+    2021-05-21T09:00-07:00
+    2021-05-21T14:01-07:00
+    2021-05-21T20:20-07:00
 
 Next, we need to do something with each of those note titles.
 
@@ -254,7 +246,7 @@ The most obvious fix to me? Turn it into a level one Markdown header.
 # 2021-05-20T08:26-07:00
 ````
 
-[`subst`]]: https://docs.raku.org/routine/subst
+[`subst`]: https://docs.raku.org/routine/subst
 
 That's a single [`.subst`][] transformation.
 
@@ -292,13 +284,11 @@ jread() {
 Then again, maybe not.  This should probably be a script.  Check back in a few
 days.
 
-:::admonition{title="Oooh a cliffhanger!"}
-
+{% note(title="Oooh a cliffhanger!") %}
 I have a working script already.  What I don't have much of is unallocated
 time.  But hopefully yes!  Soon.  I did some cool stuff with `multi MAIN`
 in Raku that I'm desperate to show off.
-
-:::
+{% end %}
 
 [joplin]: https://joplinapp.org
 [bujo]: https://bulletjournal.com/
