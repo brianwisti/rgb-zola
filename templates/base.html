@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{% block title_head %}{% endblock %}</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/superkube@latest/dist/superkube.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
     <link rel="stylesheet" href="/style.css">
     <link rel="alternate"
           type="application/rss+xml"
@@ -16,11 +17,11 @@
   </head>
   <body>
     <header class="navbar container-large centered edges">
-      <div class="navbar-container">
+      <div class="navbar-container flex">
         <div class="navbar-brand">
           <a href="/" class="brand">{{ config.title }}</a>
         </div>
-        <div class="navbar-nav flex-auto">
+        <div class="navbar-nav nav-right ml-auto">
           <nav class="nav nav-centered">
             <ul class="nav-list">
               <li class="nav-item"><a href="/blog/" class="nav-link">Blog</a></li>
@@ -38,5 +39,45 @@
       {% endif %}
       {% block content %}{% endblock %}
     </main>
+    <footer class="container-large centered edges py-6 grid text-muted text-small">
+      <section class="column column-2">
+        <header class="heading-small">Meta</meta>
+        <ul class="list list-stacked">
+          <li class="list-item">
+            <a href="/category">Categories</a>
+          </li>
+          <li class="list-item">
+            <a href="/tags">Tags</a>
+          </li>
+        </ul>
+      </section>
+      <section class="column column-4 align-center">
+        <p class="pb-3">Liberapay is patronage for the FOSS and CC community.</p>
+        <script src="https://liberapay.com/randomgeek/widgets/button.js"></script>
+        <noscript>
+          <a href="https://liberapay.com/randomgeek/donate">
+            <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
+          </a>
+        </noscript>
+        <p>Become a patron!</p>
+      </section>
+      <section class="column column-6 align-center">
+        <p>
+          Built with <a href="https://getzola.org">Zola</a>
+          …and a little <a href="/tags/python">Python</a>.
+          Made pretty with <a href="https://imperavi.com/superkube/">Superkube CSS/SCSS</a>.
+          Use the <a href="https://github.com/brianwisti/rgb-zola">repo</a>
+          to learn from my ideas and terrible mistakes!
+        </p>
+
+        <p>
+          This work is licensed under a
+          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International License
+          </a>.
+        </p>
+
+      </section>
+    </footer>
   </body>
 </html>

@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% import "macros/link.html" as link %}
 
 {% block title_head %}{{ page.title }} | {{ config.title }}{% endblock %}
 
@@ -27,20 +28,20 @@
         {% if taxonomies %}
           <p>
           {% for category in taxonomies.category %}
-            {{ blog::category_link(category_name=category) }}
+            {{ link::for_category(category_name=category) }}
           {% endfor %}
           </p>
 
           <p>
           {% for tag in taxonomies.tags %}
-            {{ blog::tag_link(tag_name=tag) }}
+            {{ link::for_tag(tag_name=tag) }}
           {% endfor %}
           </p>
 
           <p>
           {% if taxonomies.series %}
             {% for series in taxonomies.series %}
-              {{ blog::series_link(series_name=series) }}
+              {{ link::for_series(series_name=series) }}
             {% endfor %}
           {% endif %}
           </p>

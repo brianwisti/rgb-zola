@@ -1,6 +1,7 @@
 {# Summaries of secondary information about countent #}
 
 {% import "macros/blog.html" as blog %}
+{% import "macros/link.html" as link %}
 
 {% macro for_article(article, verbose=true) %}
   {% set taxonomies = article.taxonomies %}
@@ -10,7 +11,7 @@
       <section class="my-3">
         {% set tags = taxonomies.tags %}
         {% for tag in tags %}
-          {{ blog::tag_link(tag_name=tag) }}
+          {{ link::for_tag(tag_name=tag) }}
         {% endfor %}
       </section>
     {% endif %}
@@ -19,7 +20,7 @@
       {{ blog::date_stamp(value=article.date) }}
       {% if taxonomies %}
         {% for category in taxonomies.category %}
-          {{ blog::category_link(category_name=category) }}
+          {{ link::for_category(category_name=category) }}
         {% endfor %}
       {% endif %}
     </section>

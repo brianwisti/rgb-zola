@@ -1,23 +1,20 @@
 {% macro breadcrumb(context) %}
-  <nav class="breadcrumb">
-    <ul class="breadcrumb-list">
-      {% for ancestor in context.ancestors %}
-        {% set step = get_section(path=ancestor) %}
-        <li class="breadcrumb-item">
-          <a class="breadcrumb-link" href="{{ step.permalink | safe }}">{{ step.title }}</a>
+  {% if context.ancestors %}
+    <nav class="breadcrumb">
+      <ul class="breadcrumb-list">
+        {% for ancestor in context.ancestors %}
+          {% set step = get_section(path=ancestor) %}
+          <li class="breadcrumb-item">
+            <a class="breadcrumb-link" href="{{ step.permalink | safe }}">{{ step.title }}</a>
+          </li>
+        {% endfor %}
+        <li class="breadcrumb-item active">
+          <a class="breadcrumb-link" href="{{ context.permalink | safe }}">{{ context.title }}</a>
         </li>
-      {% endfor %}
-      <li class="breadcrumb-item active">
-        <a class="breadcrumb-link" href="{{ context.permalink | safe }}">{{ context.title }}</a>
-      </li>
-    </ul>
-  </nav>
+      </ul>
+    </nav>
+  {% endif %}
 {% endmacro breadcrumb %}
-
-{% macro category_link(category_name) %}
-  {% set category_url = get_taxonomy_url(kind="category", name=category_name) %}
-  <a class="label" href="{{ category_url | safe }}">{{ category_name }}</a>
-{% endmacro category_link %}
 
 {% macro cover_image(cover_image, page_assets) %}
   {% set path = cover_image.path %}
@@ -34,16 +31,6 @@
     {% endif %}
   {% endfor %}
 {% endmacro cover_image %}
-
-{% macro series_link(series_name) %}
-  {% set series_url = get_taxonomy_url(kind="series", name=series_name) %}
-  <a class="label" href="{{ series_url | safe }}">{{ series_name }}</a>
-{% endmacro series_link %}
-
-{% macro tag_link(tag_name) %}
-  {% set tag_url = get_taxonomy_url(kind="tags", name=tag_name) %}
-  <a href="{{ tag_url | safe }}" class="label mr-1 p-1 label-primary p-category tag">#{{ tag_name }}</a>
-{% endmacro tag_link %}
 
 {% macro date_stamp(value) %}
   <span>{{ value | date(timezone="America/Los_Angeles") }}</span>

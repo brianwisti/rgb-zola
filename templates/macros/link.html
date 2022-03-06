@@ -3,3 +3,19 @@
 {% macro for_anything(href, text) %}
   <a href="{{ href | safe }}">{{ text }}</a>
 {% endmacro for_anything %}
+
+{% macro for_category(category_name) %}
+  {% set category_url = get_taxonomy_url(kind="category", name=category_name) %}
+  <a class="label" href="{{ category_url | safe }}">{{ category_name }}</a>
+{% endmacro for_category %}
+
+{% macro for_series(series_name) %}
+  {% set series_url = get_taxonomy_url(kind="series", name=series_name) %}
+  <a class="label" href="{{ series_url | safe }}">{{ series_name }}</a>
+{% endmacro for_series %}
+
+{% macro for_tag(tag_name) %}
+  {% set tag_url = get_taxonomy_url(kind="tags", name=tag_name) %}
+  <a href="{{ tag_url | safe }}" class="label mr-1 p-1 label-primary p-category tag">#{{ tag_name }}</a>
+{% endmacro for_tag %}
+

@@ -26,6 +26,26 @@ feed_filename = "atom.xml"
 highlight_code = true
 
 [extra]
+  [[extra.author.social]]
+    service = "Telegram"
+    href = "https://t.me/RandomGeek"
+    class = "u-url"
+    icon = "fa fa-telegram"
+  [[extra.author.social]]
+    service = "Mastodon"
+    href = "https://hackers.town/@randomgeek"
+    class = "u-url"
+    icon = "fa fa-mastodon"
+  [[extra.author.social]]
+    service = "Twitter"
+    href = "https://twitter.com/brianwisti"
+    class = "u-url"
+    icon = "fa fa-twitter"
+  [[extra.author.social]]
+    service = "Liberapay"
+    href = "https://liberapay.com/randomgeek"
+    class = "u-url"
+    icon = "fa fa-liberapay"
 
 [extra.taxonomy.category.post]
   description = "Longer-form content that I gave some thought to."
