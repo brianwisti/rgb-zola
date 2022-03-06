@@ -8,6 +8,9 @@ aliases = [ "/2017/12/15/knotwork-practice/", "/post/2017/12/knotwork-practice/"
 category = [ "post",]
 tags = [ "drawing", "Procreate", "celtic", "zentangle", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

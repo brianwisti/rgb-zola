@@ -8,6 +8,9 @@ aliases = [ "/note/2019/196/tmux-and-laundry-art/", "/note/2019/07/tmux-and-laun
 category = [ "note",]
 tags = [ "tmux", "art", "mine", "work trip", "i have clean underwear now", "and a proper timestamp", "life is good",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "I drew this while doing laundry Sunday"
 path = "cover.jpg"

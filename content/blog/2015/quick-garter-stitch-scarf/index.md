@@ -8,6 +8,9 @@ aliases = [ "/craft/2015/quick-garter-scarf/", "/2015/04/04/quick-garter-stitch-
 category = [ "post",]
 tags = [ "knitting", "scarf", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

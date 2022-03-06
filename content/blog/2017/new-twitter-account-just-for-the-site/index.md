@@ -9,6 +9,9 @@ aliases = [ "/post/2017/new-twitter-account-just-for-the-site/", "/2017/03/18/ne
 category = [ "post",]
 tags = [ "site", "marginalia",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

@@ -8,6 +8,9 @@ aliases = [ "/note/2021/12/meanwhile-weather/",]
 tags = [ "in local news", "Seattle", "ok just outside seattle",]
 category = [ "note",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "hey we got some snow"
 path = "cover.jpg"

@@ -8,6 +8,9 @@ aliases = [ "/2020/01/25/tweaking-a-nikola-theme/", "/post/2020/01/tweaking-a-ni
 category = [ "post",]
 tags = [ "nikola", "site", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "The `/now` page, in Nikola"
 path = "cover.png"

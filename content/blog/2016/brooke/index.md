@@ -8,6 +8,9 @@ aliases = [ "/craft/2016/brooke/", "/2016/10/21/brooke/", "/post/2016/10/brooke/
 category = [ "post",]
 tags = [ "drawing", "portrait", "Procreate", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

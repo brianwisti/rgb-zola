@@ -1,23 +1,22 @@
----
-aliases:
-- /post/2022/01/processing-sass-in-eleventy/
-date: 2022-01-10 01:00:00
-description: Specifically, building `main.scss` when `_base.scss` changes
-draft: false
-extra:
-  cover_image:
-    caption: relevant pictures are overrated; this dog and cat are cute together
-    path: /assets/img/post/2022/01/processing-sass-in-eleventy/cover.jpg
-taxonomies:
-  category:
-  - post
-  tags:
-  - Eleventy
-  - SCSS
-  - CSS
-  - site
-title: Processing Sass in Eleventy
----
++++
+title = "Processing Sass in Eleventy"
+aliases = [ "/post/2022/01/processing-sass-in-eleventy/",]
+date = "2022-01-10 01:00:00"
+description = "Specifically, building `main.scss` when `_base.scss` changes"
+draft = false
+
+[extra]
+card = "_card.webp"
+
+[taxonomies]
+category = [ "post",]
+tags = [ "Eleventy", "SCSS", "CSS", "site",]
+
+[extra.cover_image]
+caption = "relevant pictures are overrated; this dog and cat are cute together"
+path = "cover.jpg"
+
++++
 
 [Eleventy][]’s 1.0 release includes the ability to add your own custom processing
 based on file extension. Unsurprisingly, I love this feature.

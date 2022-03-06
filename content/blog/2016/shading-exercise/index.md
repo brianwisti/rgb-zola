@@ -8,6 +8,9 @@ aliases = [ "/craft/2016/shading-exercise/", "/2016/12/06/shading-exercise/", "/
 category = [ "post",]
 tags = [ "drawing", "Procreate", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

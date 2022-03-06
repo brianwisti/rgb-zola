@@ -9,6 +9,9 @@ aliases = [ "/post/2020/05/got-a-working-glitch-soc-rails-dev-environment/",]
 category = [ "post",]
 tags = [ "rails", "mastodon", "ruby", "sort of", "mostly rails", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

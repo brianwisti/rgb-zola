@@ -8,6 +8,9 @@ aliases = [ "/2018/06/13/vegvisir/", "/post/2018/06/vegvisir/",]
 category = [ "post",]
 tags = [ "drawing", "procreate", "buy me", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

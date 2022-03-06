@@ -8,6 +8,9 @@ aliases = [ "/note/2019/263/pioneer-square-has-a-view-now/", "/note/2019/09/pion
 category = [ "note",]
 tags = [ "Seattle", "spent too long posting this", "got lost in history links",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Sunset view of Puget Sound from Main Street in Seattle"
 path = "cover.jpg"

@@ -8,6 +8,9 @@ aliases = [ "/2019/04/06/eleventy/", "/post/2019/04/eleventy/",]
 category = [ "post",]
 tags = [ "Node.js", "Eleventy", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

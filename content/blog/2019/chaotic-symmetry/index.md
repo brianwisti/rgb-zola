@@ -9,6 +9,9 @@ aliases = [ "/2019/08/22/chaotic-symmetry/", "/post/2019/08/chaotic-symmetry/",]
 category = [ "post",]
 tags = [ "drawing", "Infinite Painter", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

@@ -8,6 +8,9 @@ aliases = [ "/note/2020/118/i-helped-genehack/", "/note/2020/04/i-helped-genehac
 category = [ "note",]
 tags = [ "indieweb", "blogging", "community", "warm fuzzies", "boomstick",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "my photoshop masterpiece that lost its context years ago"
 path = "cover.jpg"

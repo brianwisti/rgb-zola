@@ -9,6 +9,9 @@ aliases = [ "/2020/02/04/goto-address-mode-opens-links-in-emacs/", "/post/2020/0
 category = [ "post",]
 tags = [ "emacs", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

@@ -9,6 +9,9 @@ aliases = [ "/2020/02/23/sort-of-tufte-css/", "/post/2020/02/sort-of-tufte-css/"
 category = [ "post",]
 tags = [ "css", "site", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

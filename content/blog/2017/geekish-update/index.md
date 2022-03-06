@@ -8,6 +8,9 @@ aliases = [ "/post/2017/geekish-update/", "/2017/03/28/geekish-update/", "/post/
 category = [ "post",]
 tags = [ "personal", "site", "Marginalia",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

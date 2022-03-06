@@ -8,6 +8,9 @@ aliases = [ "/craft/2015/professor-whom-scarf/", "/2015/11/02/professor-whom-sca
 category = [ "post",]
 tags = [ "knitting", "scarf", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

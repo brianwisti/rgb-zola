@@ -8,6 +8,9 @@ aliases = [ "/note/2020/09/squiggly-spaceship-thing/",]
 category = [ "note",]
 tags = [ "drawing", "Linea Sketch",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

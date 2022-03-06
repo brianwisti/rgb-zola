@@ -9,6 +9,9 @@ aliases = [ "/marginalia/2014/04/12_sloppy-joe-french-bread-pizza-recipe.html", 
 category = [ "post",]
 tags = [ "food", "recipe", "marginalia",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

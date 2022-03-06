@@ -8,6 +8,9 @@ aliases = [ "/note/2019/297/bookmarking-the-kexp-livestream-links/", "/note/2019
 category = [ "note",]
 tags = [ "music", "old school tech", "from a more civilized age", "kexp",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "[KEXP.org 90.3FM Seattle](https://kexp.org)"
 path = "cover.jpg"

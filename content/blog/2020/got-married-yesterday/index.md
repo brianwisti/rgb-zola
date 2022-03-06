@@ -9,6 +9,9 @@ aliases = [ "/2020/03/20/got-married-yesterday/", "/post/2020/03/got-married-yes
 category = [ "post",]
 tags = [ "personal", "life", "with my sweetheart", "Marginalia",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

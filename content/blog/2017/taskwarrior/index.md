@@ -10,6 +10,9 @@ category = [ "post",]
 tags = [ "taskwarrior", "tools",]
 series = [ "Taskwarrior Babysteps",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "`task -work` report showing everything but my work tasks"
 path = "cover.png"

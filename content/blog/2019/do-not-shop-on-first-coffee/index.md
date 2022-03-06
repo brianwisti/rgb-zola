@@ -8,6 +8,9 @@ aliases = [ "/note/2019/271/do-not-shop-on-first-coffee/", "/note/2019/09/do-not
 category = [ "note",]
 tags = [ "coffee", "coffeecoffeecoffee", "overdoing it", "watch", "music",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "three brands of bottled coffee"
 path = "cover.jpg"

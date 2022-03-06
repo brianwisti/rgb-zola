@@ -10,6 +10,9 @@ category = [ "post",]
 tags = [ "exploring", "Marginalia",]
 series = [ "sauntering",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "A rather rocky trail through the trees"
 path = "cover.jpg"

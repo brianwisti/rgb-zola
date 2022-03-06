@@ -9,6 +9,9 @@ aliases = [ "/2018/02/17/my-sloppy-floppy-fingerless-mitten/", "/post/2018/02/my
 category = [ "post",]
 tags = [ "knitting", "glove", "hugo", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

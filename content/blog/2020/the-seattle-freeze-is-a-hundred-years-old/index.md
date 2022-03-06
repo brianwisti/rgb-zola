@@ -9,6 +9,9 @@ aliases = [ "/note/2020/115/the-seattle-freeze-is-a-hundred-years-old/", "/note/
 category = [ "note",]
 tags = [ "Seattle", "history",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Sometimes there's a literal freeze"
 path = "cover.jpg"

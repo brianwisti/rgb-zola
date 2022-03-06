@@ -9,6 +9,9 @@ aliases = [ "/post/2020/06/ox-hugo-for-the-orgconfig/",]
 category = [ "post",]
 tags = [ "OrgConfig", "OrgMode", "site", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

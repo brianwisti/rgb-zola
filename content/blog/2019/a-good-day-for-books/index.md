@@ -8,6 +8,9 @@ aliases = [ "/note/2019/285/a-good-day-for-books/", "/note/2019/10/a-good-day-fo
 category = [ "note",]
 tags = [ "toread", "pragprog", "Raku Lang", "perl6", "i need to read faster",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

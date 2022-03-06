@@ -8,6 +8,9 @@ aliases = [ "/note/2021/08/pared-down-to-the-base-blog/",]
 tags = [ "ssg", "site",]
 category = [ "note",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "My `rst.txt` files become HTML before the SSG sees, so I may leave them"
 path = "cover.png"

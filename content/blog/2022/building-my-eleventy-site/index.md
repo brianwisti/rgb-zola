@@ -4,13 +4,17 @@ title = "Building my Eleventy site"
 description = "something something \"right tool for the right job\""
 draft = false
 
+[extra]
+card = "_card.webp"
+
+[taxonomies]
+category = [ "post",]
+tags = [ "Eleventy", "Node.js", "site",]
+
 [extra.cover_image]
 path = "cover.jpg"
 caption = "sometimes the tools break"
 
-[taxonomies]
-category = ["post"]
-tags = ["Eleventy", "Node.js", "site"]
 +++
 
 [Eleventy]: https://11ty.dev

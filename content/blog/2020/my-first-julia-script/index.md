@@ -9,6 +9,9 @@ aliases = [ "/post/2020/12/my-first-julia-script/",]
 category = [ "post",]
 tags = [ "JuliaLang", "LiterateProgramming", "LiterateBlogging", "Site", "Programming",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Drawn with [Luxor.jl](http://juliagraphics.github.io/Luxor.jl/stable/)"
 path = "cover.png"

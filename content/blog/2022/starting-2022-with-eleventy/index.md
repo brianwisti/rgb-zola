@@ -1,20 +1,21 @@
----
-date: 2022-01-01 21:00:00-08:00
-title: Starting 2022 With Eleventy
-description: It's not done, but it's done enough
-draft: false
-extra:
-  cover_image:
-    path: cover.jpg
-    caption: a baby possum!
-taxonomies:
-  category:
-  - post
-  tags:
-  - Eleventy
-  - ssg
-  - site
----
++++
+date = "2022-01-01 21:00:00-08:00"
+title = "Starting 2022 With Eleventy"
+description = "It's not done, but it's done enough"
+draft = false
+
+[extra]
+card = "_card.webp"
+
+[taxonomies]
+category = [ "post",]
+tags = [ "Eleventy", "ssg", "site",]
+
+[extra.cover_image]
+path = "cover.jpg"
+caption = "a baby possum!"
+
++++
 
 [thinking]: /post/2019/04/eleventy/
 [Eleventy]: https://11ty.dev
@@ -62,4 +63,3 @@ really is. It just hasn't felt like a good fit for my particular flow in the
 last couple years.
 
 [Hugo]: /tag/hugo
-

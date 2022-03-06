@@ -8,6 +8,9 @@ aliases = [ "/note/2019/185/chunky-bacon/", "/note/2019/07/chunky-bacon/",]
 category = [ "note",]
 tags = [ "why the lucky stiff", "internet history", "notes", "drawing", "chunky bacon",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Seriously. Chunky. Bacon."
 path = "cover.png"

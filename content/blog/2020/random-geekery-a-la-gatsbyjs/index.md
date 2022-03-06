@@ -8,6 +8,9 @@ aliases = [ "/note/2020/24/random-geekery-a-la-gatsby.js/", "/note/2020/01/rando
 category = [ "note",]
 tags = [ "site", "gatsbyjs", "panda geekery",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

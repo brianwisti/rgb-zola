@@ -9,6 +9,9 @@ draft = false
 tags = [ "Node.js", "files", "programming",]
 category = [ "post",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "That's a fair number of files"
 path = "cover.png"

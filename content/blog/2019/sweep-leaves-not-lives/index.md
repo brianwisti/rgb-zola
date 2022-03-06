@@ -8,6 +8,9 @@ aliases = [ "/note/2019/222/sweep-leaves-not-lives/", "/note/2019/08/sweep-leave
 category = [ "note",]
 tags = [ "seattle", "graffiti", "art", "homelessness",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Somebody scraped the \"lives\" part off \"sweep leaves not lives\""
 path = "cover.jpg"

@@ -9,6 +9,9 @@ aliases = [ "/2019/05/05/showing-post-word-count-in-neovim/", "/post/2019/05/sho
 category = [ "post",]
 tags = [ "vim", "pandoc", "Programming",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

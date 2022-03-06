@@ -9,6 +9,9 @@ aliases = [ "/2019/05/12/turning-taskwarrior-posts-into-a-series/", "/post/2019/
 category = [ "post",]
 tags = [ "taskwarrior", "hugo", "site", "Tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

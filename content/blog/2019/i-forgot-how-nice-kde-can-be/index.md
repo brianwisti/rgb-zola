@@ -8,6 +8,9 @@ aliases = [ "/note/2019/210/i-forgot-how-nice-kde-can-be/", "/note/2019/07/i-for
 category = [ "note",]
 tags = [ "linux", "screenshot", "the old ways die hard",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

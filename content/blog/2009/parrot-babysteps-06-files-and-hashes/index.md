@@ -10,6 +10,9 @@ category = [ "post",]
 tags = [ "parrot", "learn", "space", "coolnamehere",]
 series = [ "Parrot Babysteps",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

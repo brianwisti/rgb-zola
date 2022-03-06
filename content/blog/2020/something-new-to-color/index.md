@@ -8,6 +8,9 @@ aliases = [ "/note/2020/12/something-new-to-color/",]
 category = [ "note",]
 tags = [ "drawing", "symmetry", "color me", "Procreate",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

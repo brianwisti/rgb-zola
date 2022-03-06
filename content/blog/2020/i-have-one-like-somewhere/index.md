@@ -8,6 +8,9 @@ aliases = [ "/note/2020/49/i-have-one-like-somewhere/", "/note/2020/02/i-have-on
 category = [ "note",]
 tags = [ "indieweb", "site",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "as of build time, anyways"
 path = "cover.png"

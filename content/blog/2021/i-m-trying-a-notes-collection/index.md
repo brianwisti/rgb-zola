@@ -8,6 +8,9 @@ aliases = [ "/note/2021/04/i-m-trying-a-notes-collection/",]
 tags = [ "site", "statamic", "shouldn't you be working", "it's sunday",]
 category = [ "note",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

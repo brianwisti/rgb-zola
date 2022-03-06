@@ -9,6 +9,9 @@ aliases = [ "/2019/05/24/pretty-print-terminal-files-with-bat/", "/post/2019/05/
 category = [ "post",]
 tags = [ "shell", "Tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

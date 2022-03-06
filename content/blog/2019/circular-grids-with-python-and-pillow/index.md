@@ -9,6 +9,9 @@ aliases = [ "/2019/01/23/circular-grids-with-python-and-pillow/", "/post/2019/01
 category = [ "post",]
 tags = [ "python", "Programming",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

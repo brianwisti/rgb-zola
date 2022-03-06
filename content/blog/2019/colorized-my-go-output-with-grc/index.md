@@ -9,6 +9,9 @@ aliases = [ "/2019/09/08/colorized-my-go-output-with-grc/", "/post/2019/09/color
 category = [ "post",]
 tags = [ "go", "shell", "Tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "some go compiler output all pretty"
 path = "cover.png"

@@ -8,6 +8,9 @@ aliases = [ "/note/2019/223/proudly-doing-it-wrong/", "/note/2019/08/proudly-doi
 category = [ "note",]
 tags = [ "screenshot", "javascript", "no i know", "i'll fix it",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Yeah that's Visual Studio Code. I'm trying new things."
 path = "cover.png"

@@ -8,6 +8,9 @@ aliases = [ "/craft/2017/a-desktop-background/", "/2017/09/03/a-desktop-backgrou
 category = [ "post",]
 tags = [ "drawing", "Procreate", "Infinite Painter", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

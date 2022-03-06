@@ -9,6 +9,9 @@ category = [ "post",]
 tags = [ "taskwarrior", "tools",]
 series = [ "Taskwarrior Babysteps",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "`task` report with a column showing priority levels"
 path = "cover.png"

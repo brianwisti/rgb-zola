@@ -8,6 +8,9 @@ aliases = [ "/note/2019/209/charming-victorian-also-means-creepy-as-hell/", "/no
 category = [ "note",]
 tags = [ "psa", "work trip",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "creepy face in light fixture uplit by chandelier"
 path = "cover.jpg"

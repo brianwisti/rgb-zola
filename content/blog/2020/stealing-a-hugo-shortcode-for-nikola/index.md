@@ -10,6 +10,9 @@ aliases = [ "/2020/02/12/stealing-a-hugo-shortcode-for-nikola/", "/post/2020/02/
 category = [ "post",]
 tags = [ "nikola", "mako", "site", "hugo", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

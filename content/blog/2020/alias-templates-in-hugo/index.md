@@ -9,6 +9,9 @@ aliases = [ "/post/2020/05/alias-templates-in-hugo/",]
 tags = [ "hugo", "accessibility", "indieweb", "I fixed it!", "hopefully", "site", "Tools",]
 category = [ "post",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "It's not a redirect anymore"
 path = "cover.png"

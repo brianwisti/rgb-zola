@@ -9,6 +9,9 @@ aliases = [ "/2018/10/14/trying-beorg/", "/post/2018/10/trying-beorg/",]
 category = [ "post",]
 tags = [ "OrgConfig", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

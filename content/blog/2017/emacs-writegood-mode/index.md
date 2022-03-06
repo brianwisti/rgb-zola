@@ -8,6 +8,9 @@ aliases = [ "/post/2017/emacs-writegood-mode/", "/2017/08/06/emacs-writegood-mod
 category = [ "post",]
 tags = [ "emacs", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

@@ -8,6 +8,9 @@ aliases = [ "/2018/10/27/winter-hat-and-gloves/", "/post/2018/10/winter-hat-and-
 category = [ "post",]
 tags = [ "knitting", "hat", "gloves", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

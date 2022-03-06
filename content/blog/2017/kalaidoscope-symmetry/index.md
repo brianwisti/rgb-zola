@@ -8,6 +8,9 @@ aliases = [ "/craft/2017/kalaidoscope-symmetry/", "/2017/04/22/kalaidoscope-symm
 category = [ "post",]
 tags = [ "drawing", "Infinite Painter", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

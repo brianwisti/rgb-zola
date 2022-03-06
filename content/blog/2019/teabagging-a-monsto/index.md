@@ -9,6 +9,9 @@ aliases = [ "/2019/05/06/teabagging-a-monsto/", "/post/2019/05/teabagging-a-mons
 category = [ "post",]
 tags = [ "drawing", "Procreate", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

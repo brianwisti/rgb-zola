@@ -8,6 +8,9 @@ aliases = [ "/2018/01/28/barbaras-ruana-vest/", "/post/2018/01/barbaras-ruana-ve
 category = [ "post",]
 tags = [ "knitting", "vest", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

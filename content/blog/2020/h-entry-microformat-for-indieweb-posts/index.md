@@ -9,6 +9,9 @@ aliases = [ "/2020/04/26/h-entry-microformat-for-indieweb-posts/", "/post/2020/0
 category = [ "post",]
 tags = [ "IndieWeb", "microformats", "hugo", "python", "site", "Tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "looking at the interpreted microformats for a post, in [bat](https://github.com/sharkdp/bat)"
 path = "cover.png"

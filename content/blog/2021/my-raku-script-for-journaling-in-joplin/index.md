@@ -11,6 +11,9 @@ category = [ "post",]
 series = [ "Journaling in Joplin With Raku",]
 tags = [ "Raku Lang", "joplin", "shell", "programming",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 path = "cover.png"
 caption = ""

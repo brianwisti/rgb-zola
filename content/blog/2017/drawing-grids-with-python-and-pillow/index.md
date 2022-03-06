@@ -8,6 +8,9 @@ aliases = [ "/2017/11/24/drawing-grids-with-python-and-pillow/", "/post/2017/11/
 category = [ "post",]
 tags = [ "python", "Programming",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

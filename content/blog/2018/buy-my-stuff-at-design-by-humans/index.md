@@ -9,6 +9,9 @@ aliases = [ "/2018/06/12/buy-my-stuff/", "/post/2018/06/buy-my-stuff-at-design-b
 category = [ "post",]
 tags = [ "drawing", "infinite painter", "hugo", "buy me", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

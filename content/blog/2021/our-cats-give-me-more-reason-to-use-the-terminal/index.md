@@ -8,6 +8,9 @@ aliases = [ "/note/2021/07/our-cats-give-me-more-reason-to-use-the-terminal/",]
 tags = [ "look", "kitties", "cuteness",]
 category = [ "note",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "the cats help identify orphan nodes in an Obsidian.md vault graph"
 path = "cover.jpg"

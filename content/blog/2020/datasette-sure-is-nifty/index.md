@@ -8,6 +8,9 @@ aliases = [ "/note/2020/05/datasette-sure-is-nifty/",]
 tags = [ "python", "data", "ooh a sparkly",]
 category = [ "note",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Datasette showing what sqlite-utils put together"
 path = "cover.png"

@@ -8,6 +8,9 @@ aliases = [ "/2018/08/07/pearl-jam-tag/", "/post/2018/08/pearl-jam-tag/",]
 category = [ "post",]
 tags = [ "music", "seen", "Marginalia",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

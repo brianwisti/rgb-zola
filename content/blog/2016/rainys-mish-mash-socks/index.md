@@ -8,6 +8,9 @@ aliases = [ "/craft/2016/rainys-mishmash-socks/", "/2016/04/14/rainys-mish-mash-
 category = [ "post",]
 tags = [ "knitting", "socks", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

@@ -8,6 +8,9 @@ aliases = [ "/2018/05/17/purple-symmetry/", "/post/2018/05/purple-symmetry/",]
 category = [ "post",]
 tags = [ "drawing", "sketchbook mobile", "celtic", "zentangle", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

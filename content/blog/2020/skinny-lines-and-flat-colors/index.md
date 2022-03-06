@@ -8,6 +8,9 @@ aliases = [ "/note/2020/05/skinny-lines-and-flat-colors/",]
 category = [ "note",]
 tags = [ "drawing", "symmetry", "Infinite Painter",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "and then all of a sudden for no good reason -- **lens flare!**"
 path = "cover.jpg"

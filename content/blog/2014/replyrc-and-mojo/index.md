@@ -10,6 +10,9 @@ category = [ "post",]
 tags = [ "perl", "reply", "mojolicious", "tools",]
 series = [ "The Reply Perl REPL",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

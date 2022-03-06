@@ -8,6 +8,9 @@ aliases = [ "/note/2019/0002/", "/note/2019/173/karabiner/", "/note/2019/06/kara
 category = [ "note",]
 tags = [ "macOS", "keyboard",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

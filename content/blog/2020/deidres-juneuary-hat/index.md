@@ -8,6 +8,9 @@ aliases = [ "/note/2020/06/deidres-juneuary-hat/",]
 category = [ "note",]
 tags = [ "knitting", "hat",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

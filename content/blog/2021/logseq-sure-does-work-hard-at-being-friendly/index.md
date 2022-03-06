@@ -8,6 +8,9 @@ aliases = [ "/note/2021/11/logseq-sure-does-work-hard-at-being-friendly/",]
 category = [ "note",]
 tags = [ "logseq",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "This note in Logseq document mode, using the [Bonofix](https://github.com/sansui233/logseq-bonofix-theme) theme"
 path = "cover.png"

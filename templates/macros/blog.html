@@ -16,7 +16,7 @@
 
 {% macro category_link(category_name) %}
   {% set category_url = get_taxonomy_url(kind="category", name=category_name) %}
-  <a class="label label-dark" href="{{ category_url | safe }}">{{ category_name }}</a>
+  <a class="label" href="{{ category_url | safe }}">{{ category_name }}</a>
 {% endmacro category_link %}
 
 {% macro cover_image(cover_image, page_assets) %}
@@ -37,12 +37,12 @@
 
 {% macro series_link(series_name) %}
   {% set series_url = get_taxonomy_url(kind="series", name=series_name) %}
-  <a href="{{ series_url | safe }}">{{ series_name }}</a>
+  <a class="label" href="{{ series_url | safe }}">{{ series_name }}</a>
 {% endmacro series_link %}
 
 {% macro tag_link(tag_name) %}
   {% set tag_url = get_taxonomy_url(kind="tags", name=tag_name) %}
-  <a href="{{ tag_url | safe }}" class="label p-category tag">{{ tag_name }}</a>
+  <a href="{{ tag_url | safe }}" class="label mx-1 label-primary p-category tag">#{{ tag_name }}</a>
 {% endmacro tag_link %}
 
 {% macro date_stamp(value) %}
@@ -50,41 +50,50 @@
 {% endmacro date_stamp %}
 
 {% macro article_summary(article) %}
-  <section class="card b-dark-medium my-6 p-3">
-    <section class="card-box">
+  <section class="column column-6 flex flex-column flex-between card bg-dark r-base m-3">
+    {% if article.extra.card %}
+      <div class="card-image r-base image-cover image-overlay image-overlay-dark">
+        <img src="{{ article.permalink | safe }}{{ article.extra.card | safe }}" width="400" height="212" class="u-photo">
+      </div>
+    {% endif %}
+    <section class="card-box p-6 pb-10{% if article.extra.card %} position-over{% endif %}">
       <header class="card-head">
-        <h1 class="heading-small">
+        <h1 class="heading-medium heading-light">
           <a href="{{ article.permalink | safe }}">{{ article.title }}</a>
         </h1>
-        {% if article.description %}
-          <h6 class="heading-tagline">{{ article.description }}</h6>
-        {% endif %}
       </header>
-      <section class="card-body mt-3">
-        {{ blog::date_stamp(value=article.date) }}
-        {% set taxonomies = article.taxonomies %}
-
-        {% if taxonomies %}
-          <p>
-          {% for category in taxonomies.category %}
-            {{ blog::category_link(category_name=category) }}
-          {% endfor %}
-
-          {% for tag in taxonomies.tags %}
-            {{ blog::tag_link(tag_name=tag) }}
-          {% endfor %}
-          </p>
-
-          {% if taxonomies.series %}
-            <p>
-              {% for series in taxonomies.series %}
-                {{ blog::series_link(series_name=series) }}
-              {% endfor %}
-            </p>
+      <div class="card-body mt-3 text-medium text-light">
+        {% if article.description %}
+          <h6 class="text-medium text-light heading-tagline">{{ article.description }}</h6>
+        {% elif article.taxonomies %}
+          {% if "note" in article.taxonomies.category %}
+            {{ article.content | striptags | truncate(length=280) | markdown | safe }}
           {% endif %}
         {% endif %}
-      </section>
+      </div>
     </section>
+    <footer class="card-cta px-3 pt-3 text-small bg-silver text-dark text-muted mt-auto">
+        {% set taxonomies = article.taxonomies %}
+
+        <section class="flex flex-between">
+          {{ blog::date_stamp(value=article.date) }}
+          {% if taxonomies %}
+            {% for category in taxonomies.category %}
+              {{ blog::category_link(category_name=category) }}
+            {% endfor %}
+          {% endif %}
+        </section>
+
+        {% if taxonomies %}
+          <section class="my-3 flex flex-end">
+            {% set tags = taxonomies.tags | slice(end=3) %}
+            {% for tag in tags %}
+              {{ blog::tag_link(tag_name=tag) }}
+            {% endfor %}
+          </section>
+        {% endif %}
+      </p>
+    </footer>
   </section>
 {% endmacro article_summary %}
 

@@ -8,6 +8,9 @@ aliases = [ "/note/2019/192/artists-rendition-of-my-sinuses/", "/note/2019/07/ar
 category = [ "note",]
 tags = [ "art", "work trip", "found", "ick", "me", "I'm ick", "The art is not ick", "unless that's cool",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

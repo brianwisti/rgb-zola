@@ -9,6 +9,9 @@ aliases = [ "/note/2020/117/patronize-me-on-liberapay/", "/note/2020/04/patroniz
 category = [ "note",]
 tags = [ "personal", "site", "money", "filthy lucre",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

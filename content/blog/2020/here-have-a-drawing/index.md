@@ -8,6 +8,9 @@ aliases = [ "/note/2020/05/here-have-a-drawing/",]
 category = [ "note",]
 tags = [ "drawing", "Linea Sketch", "symmetry",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

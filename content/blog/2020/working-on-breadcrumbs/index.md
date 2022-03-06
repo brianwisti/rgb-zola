@@ -8,6 +8,9 @@ aliases = [ "/note/2020/06/working-on-breadcrumbs/",]
 category = [ "note",]
 tags = [ "life", "work", "site",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "once again, the pic is irrelevant but Jumpy Dog sure is cute"
 path = "cover.jpg"

@@ -8,6 +8,9 @@ aliases = [ "/2018/02/02/nicoles-fingerless-gauntlets/", "/post/2018/02/nicoles-
 category = [ "post",]
 tags = [ "knitting", "gloves", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

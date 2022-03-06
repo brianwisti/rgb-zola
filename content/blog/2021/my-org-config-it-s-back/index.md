@@ -8,6 +8,9 @@ aliases = [ "/note/2021/11/my-org-config-it-s-back/",]
 tags = [ "org-config", "site",]
 category = [ "note",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "And we all celebrated"
 path = "cover.png"

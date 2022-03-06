@@ -8,6 +8,9 @@ aliases = [ "/note/2019/299/couple-decades-now/", "/note/2019/10/couple-decades-
 category = [ "note",]
 tags = [ "me", "memories", "time is an illusion", "lunchtime doubly so",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "me, 2000-ish"
 path = "cover.jpg"

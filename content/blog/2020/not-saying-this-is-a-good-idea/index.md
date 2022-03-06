@@ -8,6 +8,9 @@ aliases = [ "/note/2020/06/not-saying-this-is-a-good-idea/",]
 category = [ "note",]
 tags = [ "screenshot", "awesomewm", "wsl", "emacs",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

@@ -8,6 +8,9 @@ aliases = [ "/craft/2015/amigurumi-ball-thing/", "/2015/03/08/amigurumi-ball-thi
 category = [ "post",]
 tags = [ "crochet", "amigurumi", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

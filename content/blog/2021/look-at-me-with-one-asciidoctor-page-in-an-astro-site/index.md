@@ -8,6 +8,9 @@ aliases = [ "/note/2021/09/look-at-me-with-one-asciidoctor-page-in-an-astro-site
 category = [ "note",]
 tags = [ "asciidoctor", "astro-dot-build",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

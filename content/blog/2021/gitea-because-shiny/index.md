@@ -8,6 +8,9 @@ aliases = [ "/note/2021/05/gitea-because-shiny/",]
 tags = [ "tools", "git", "so pretty",]
 category = [ "note",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

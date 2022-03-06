@@ -8,6 +8,9 @@ aliases = [ "/note/2020/07/orgmode-ish-vimwiki/",]
 category = [ "note",]
 tags = [ "vim", "taskwarrior", "OrgMode",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

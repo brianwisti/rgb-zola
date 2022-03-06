@@ -8,6 +8,9 @@ aliases = [ "/craft/2016/chibi-rainyday-superstar/", "/2016/09/01/chibi-rainyday
 category = [ "post",]
 tags = [ "drawing", "portrait", "Sketchbook Mobile", "buy me", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

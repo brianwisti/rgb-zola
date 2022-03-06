@@ -9,11 +9,13 @@
   {% set blog = get_section(path="blog/_index.md") %}
   {% set year = now() | date(format="%Y") %}
   {% set section_path = ["blog", year, "_index.md"] | join(sep="/") %}
-  {% if blog.subsections is containing(section_path) %}
-    {% set section = get_section(path=section_path) %}
-    {% set pages = section.pages | slice(end=5) %}
-    {% for page in pages %}
-      {{ blog::article_summary(article=page) }}
-    {% endfor %}
-  {% endif %}
+  <section class="grid">
+    {% if blog.subsections is containing(section_path) %}
+      {% set section = get_section(path=section_path) %}
+      {% set pages = section.pages | slice(end=6) %}
+      {% for page in pages %}
+        {{ blog::article_summary(article=page) }}
+      {% endfor %}
+    {% endif %}
+  </section>
 {% endblock %}

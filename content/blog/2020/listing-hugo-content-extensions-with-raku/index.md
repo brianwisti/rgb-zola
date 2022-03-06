@@ -9,6 +9,9 @@ aliases = [ "/2020/03/31/listing-hugo-content-extensions-with-raku/", "/post/202
 category = [ "post",]
 tags = [ "hugo", "Raku Lang", "csv", "site", "programming",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "We like quick answers to important questions"
 path = "cover.jpg"

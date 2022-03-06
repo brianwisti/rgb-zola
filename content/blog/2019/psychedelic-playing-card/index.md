@@ -8,6 +8,9 @@ aliases = [ "/2019/04/14/psychedelic-playing-card/", "/post/2019/04/psychedelic-
 category = [ "post",]
 tags = [ "drawing", "Infinite Painter", "symmetry", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

@@ -8,6 +8,9 @@ aliases = [ "/note/2020/06/so-chemacs-is-kinda-cool/",]
 category = [ "note",]
 tags = [ "emacs", "OrgConfig",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

@@ -9,6 +9,9 @@ aliases = [ "/marginalia/2015/08/01_celtic-tangle.html", "/craft/2015/celtic-tan
 category = [ "post",]
 tags = [ "drawing", "zentangle", "celtic", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

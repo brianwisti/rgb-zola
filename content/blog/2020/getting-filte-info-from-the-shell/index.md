@@ -9,6 +9,9 @@ aliases = [ "/2020/04/21/getting-file-info-from-the-shell/", "/post/2020/04/gett
 category = [ "post",]
 tags = [ "files", "shell", "exiftool", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "also, it is time to vacuum my desk again"
 path = "cover.jpg"

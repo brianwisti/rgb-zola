@@ -9,6 +9,9 @@ category = [ "post",]
 tags = [ "taskwarrior", "tools",]
 series = [ "Taskwarrior Babysteps",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "[inthe.AM](https://inthe.am) is pretty, that's for sure."
 path = "cover.png"

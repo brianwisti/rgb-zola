@@ -10,6 +10,9 @@ aliases = [ "/2019/08/25/trying-the-crystal-language/", "/post/2019/08/trying-th
 category = [ "post",]
 tags = [ "crystal", "taskwarrior", "Programming",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

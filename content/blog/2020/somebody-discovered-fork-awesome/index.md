@@ -8,6 +8,9 @@ aliases = [ "/note/2020/38/somebody-discovered-fork-awesome/", "/note/2020/02/so
 category = [ "note",]
 tags = [ "site", "fun", "nikola",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

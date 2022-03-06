@@ -8,6 +8,9 @@ aliases = [ "/2017/12/19/duotone-panel/", "/post/2017/12/duotone-panel/",]
 category = [ "post",]
 tags = [ "drawing", "Procreate", "celtic", "zentangle", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

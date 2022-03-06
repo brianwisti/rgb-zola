@@ -8,6 +8,9 @@ aliases = [ "/note/2019/199/2-days-5-hours-9-minutes-to-home/", "/note/2019/07/2
 category = [ "note",]
 tags = [ "work trip", "trees", "i walked two hours to find a spot with no people", "except all the cars behind me",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Trees against sunset in San Francisco's Presidio"
 path = "cover.jpg"

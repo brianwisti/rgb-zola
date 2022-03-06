@@ -9,6 +9,9 @@ aliases = [ "/2020/01/12/a-quick-notes-script-for-taskwarrior/", "/post/2020/01/
 tags = [ "taskwarrior", "python", "programming",]
 category = [ "post",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

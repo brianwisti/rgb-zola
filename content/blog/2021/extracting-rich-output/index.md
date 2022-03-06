@@ -10,6 +10,9 @@ aliases = [ "/post/2021/08/extracting-rich-output/",]
 category = [ "post",]
 tags = [ "python", "rich", "Tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "a screenshot of the HTML that I created to show I don't need screenshots"
 path = "cover.png"

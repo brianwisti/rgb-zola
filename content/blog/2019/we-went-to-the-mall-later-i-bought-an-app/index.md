@@ -8,6 +8,9 @@ aliases = [ "/note/2019/10/we-went-to-the-mall-later-i-bought-an-app/",]
 category = [ "note",]
 tags = [ "iOS", "notes", "windows", "no the other kind", "the ones you write", "notebooks", "yeah those",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "GoodNotes screenshot"
 path = "cover.png"

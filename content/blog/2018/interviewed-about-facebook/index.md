@@ -8,6 +8,9 @@ aliases = [ "/2018/03/27/interviewed-about-facebook/", "/post/2018/03/interviewe
 category = [ "post",]
 tags = [ "links", "Marginalia",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpeg"

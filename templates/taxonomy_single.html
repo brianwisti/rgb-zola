@@ -17,13 +17,14 @@
       </li>
     </ul>
   </nav>
-  <pre>{{  taxonomy | json_encode(pretty=true)  }}</pre>
   <section>
     <header>
       <h1>{{ term.name }}</h1>
     </header>
-    {% for page in term.pages %}
-      {{ blog::article_summary(article=page) }}
-    {% endfor %}
+    <section class="grid">
+      {% for page in term.pages %}
+        {{ blog::article_summary(article=page) }}
+      {% endfor %}
+    </section>
   </section>
 {% endblock content %}

@@ -8,6 +8,9 @@ aliases = [ "/note/2019/205/installed-windows-terminal-preview/", "/note/2019/07
 category = [ "note",]
 tags = [ "windows", "wsl", "terminal", "the most important app",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Adding taskwarrior tasks for Windows in Windows Terminal"
 path = "cover.png"

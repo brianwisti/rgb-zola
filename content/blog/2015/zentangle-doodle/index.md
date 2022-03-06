@@ -9,6 +9,9 @@ aliases = [ "/marginalia/2015/08/01_zentangle-doodle.html", "/craft/2015/zentang
 category = [ "post",]
 tags = [ "drawing", "zentangle", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

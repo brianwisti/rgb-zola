@@ -8,6 +8,9 @@ aliases = [ "/note/2020/113/why-do-i-blog/", "/note/2020/04/why-do-i-blog/",]
 category = [ "note",]
 tags = [ "why", "blog", "drawing", "reply", "but not a proper indieweb reply", "sorry",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "searched my image library for \"why\" and got this old doodle"
 path = "cover.jpg"

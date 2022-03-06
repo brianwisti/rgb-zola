@@ -9,6 +9,9 @@ aliases = [ "/marginalia/2015/03/23_coolnamehere-ported.html", "/post/2015/cooln
 category = [ "post",]
 tags = [ "site", "Marginalia",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

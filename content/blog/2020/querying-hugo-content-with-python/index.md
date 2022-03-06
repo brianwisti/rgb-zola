@@ -10,6 +10,9 @@ aliases = [ "/post/2020/05/querying-hugo-content-with-python/",]
 category = [ "post",]
 tags = [ "hugo", "python", "site", "data", "workflow", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "My blogging output by year – bet you didn’t know there were blogs in 1 CE"
 path = "cover.png"

@@ -10,6 +10,9 @@ tags = [ "joplin", "Raku Lang", "regular expressions", "shell", "oops", "I fixed
 series = [ "Journaling in Joplin With Raku",]
 category = [ "post",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 path = "regex-anchors.jpg"
 caption = "don't get excited; these are the only notes I took"

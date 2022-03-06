@@ -8,6 +8,9 @@ aliases = [ "/note/2020/05/my-therapist-would-love-this-if-i-had-one/",]
 category = [ "note",]
 tags = [ "drawing", "Infinite Painter", "cabin fever", "covid lockdown nights",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

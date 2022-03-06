@@ -8,6 +8,9 @@ aliases = [ "/note/2019/326/smug-mode-activated/", "/note/2019/11/smug-mode-acti
 category = [ "note",]
 tags = [ "site", "tools", "smeghead",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

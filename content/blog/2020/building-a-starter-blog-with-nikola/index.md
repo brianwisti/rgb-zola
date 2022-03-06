@@ -9,6 +9,9 @@ aliases = [ "/2020/01/05/building-a-starter-blog-with-nikola/", "/post/2020/01/b
 tags = [ "python", "site", "nikola", "tools",]
 category = [ "post",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

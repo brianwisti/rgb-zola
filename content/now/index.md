@@ -5,6 +5,9 @@ date = "2022-01-24 00:00:00-08:00"
 updated = "2021-08-21 00:00:00-07:00"
 draft = false
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Barry enjoys video games, especially colony simulators"
 path = "cover.jpg"

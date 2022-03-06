@@ -8,6 +8,9 @@ aliases = [ "/note/2020/12/new-theme-for-2021/",]
 category = [ "note",]
 tags = [ "CSS", "spring cleaning for websites", "site",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

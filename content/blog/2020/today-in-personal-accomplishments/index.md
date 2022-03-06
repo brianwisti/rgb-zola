@@ -8,6 +8,9 @@ aliases = [ "/note/2020/65/today-in-personal-accomplishments/", "/note/2020/03/t
 category = [ "note",]
 tags = [ "site",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

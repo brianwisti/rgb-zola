@@ -10,6 +10,9 @@ aliases = [ "/2019/06/01/weighing-files-with-python/", "/post/2019/06/weighing-f
 category = [ "post",]
 tags = [ "python", "site", "files", "Programming",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

@@ -9,6 +9,9 @@ aliases = [ "/post/2021/05/officially-using-statamic-for-the-site/",]
 category = [ "post",]
 tags = [ "site", "statamic", "cause it's there", "my brand", "Oooh a sparkly",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Hey look it's a Web page, but with Statamic!"
 path = "cover.png"

@@ -9,6 +9,9 @@ aliases = [ "/2018/12/31/hopepunk-for-2019/", "/post/2018/12/hopepunk-for-2019/"
 category = [ "post",]
 tags = [ "personal", "Marginalia",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

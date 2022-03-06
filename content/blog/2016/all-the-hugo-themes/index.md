@@ -10,6 +10,9 @@ aliases = [ "/post/2016/all-the-hugo-themes/", "/2016/01/02/all-the-hugo-themes/
 category = [ "post",]
 tags = [ "hugo", "python", "Programming",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

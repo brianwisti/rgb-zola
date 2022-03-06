@@ -8,6 +8,9 @@ aliases = [ "/note/2020/68/passing-tests-is-now-required-to-push/", "/note/2020/
 category = [ "note",]
 tags = [ "site",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "A failing test"
 path = "cover.png"

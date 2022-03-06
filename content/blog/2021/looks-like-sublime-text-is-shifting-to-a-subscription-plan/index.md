@@ -9,6 +9,9 @@ aliases = [ "/post/2021/01/looks-like-sublime-text-is-shifting-to-a-subscription
 tags = [ "editors", "sublime text", "tools",]
 category = [ "post",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Yesterday's dev build plus [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon)"
 path = "cover.png"

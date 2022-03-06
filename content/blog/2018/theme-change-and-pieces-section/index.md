@@ -8,6 +8,9 @@ aliases = [ "/2018/06/29/theme-change-and-pieces-section/", "/post/2018/06/theme
 category = [ "post",]
 tags = [ "site", "buy me", "drawing", "marginalia",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

@@ -8,6 +8,9 @@ aliases = [ "/craft/2016/mixing-apps/", "/2016/12/02/mixing-apps/", "/post/2016/
 category = [ "post",]
 tags = [ "drawing", "Amaziograph", "Procreate", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

@@ -10,6 +10,9 @@ aliases = [ "/2020/04/28/from-dotfiles-to-org-file/", "/post/2020/04/from-dotfil
 category = [ "post",]
 tags = [ "emacs", "shell", "OrgMode", "OrgConfig", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

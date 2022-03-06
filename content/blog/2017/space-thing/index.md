@@ -8,6 +8,9 @@ aliases = [ "/craft/2017/space-thing/", "/2017/06/03/space-thing/", "/post/2017/
 category = [ "post",]
 tags = [ "drawing", "Procreate", "Infinite Painter", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

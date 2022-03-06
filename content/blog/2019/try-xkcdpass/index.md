@@ -9,6 +9,9 @@ aliases = [ "/2019/07/30/try-xkcdpass/", "/post/2019/07/try-xkcdpass/",]
 category = [ "post",]
 tags = [ "linux", "security", "Tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "[XKCD 936](https://xkcd.com/936/) _([CC BY-NC 2.5](https://xkcd.com/license.html))_"
 path = "cover.png"

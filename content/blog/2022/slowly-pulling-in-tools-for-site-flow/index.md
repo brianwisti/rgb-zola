@@ -1,18 +1,13 @@
----
-aliases:
-- /note/2022/01/slowly-pulling-in-tools-for-site-flow/
-date: 2022-01-16 20:30:00
-draft: false
-taxonomies:
-  category:
-  - note
-  tags:
-  - Node.js
-  - IndieWeb
-  - POSSE
-  - site
-title: Slowly pulling in tools for site flow
----
++++
+title = "Slowly pulling in tools for site flow"
+aliases = ["/note/2022/01/slowly-pulling-in-tools-for-site-flow/"]
+date = "2022-01-16 20:30:00"
+draft = false
+
+[taxonomies]
+  category = ["note",]
+  tags = ["Node.js", "IndieWeb", "POSSE", "site"]
++++
 
 Made a [toot][] with [Masto][]. Kinda need that for content syndication.
 

@@ -8,6 +8,9 @@ aliases = [ "/note/2019/311/some-manual-symmetry-with-linea-sketch/", "/note/201
 category = [ "note",]
 tags = [ "drawing", "symmetry", "Linea Sketch", "took a while",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

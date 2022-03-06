@@ -8,6 +8,9 @@ aliases = [ "/2018/07/01/my-first-f-bomb/", "/post/2018/07/my-first-f-bomb/",]
 category = [ "post",]
 tags = [ "knitting", "crochet", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

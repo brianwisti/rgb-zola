@@ -17,7 +17,7 @@
 
   {{ section.content | safe }}
 
-  <section>
+  <section class="grid">
     {% for page in section.pages | sort(attribute="date") | reverse %}
       {{ blog::article_summary(article=page) }}
     {% endfor %}

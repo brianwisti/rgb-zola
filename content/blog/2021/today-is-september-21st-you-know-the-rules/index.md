@@ -8,6 +8,9 @@ aliases = [ "/note/2021/09/today-is-september-21st-you-know-the-rules/",]
 tags = [ "listen", "music", "kexp", "celebrate-the-holidays",]
 category = [ "note",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "🎶 Never was a cloudy day"
 path = "cover.jpg"

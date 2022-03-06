@@ -9,6 +9,9 @@ aliases = [ "/post/2021/04/hello-world/",]
 tags = [ "statamic", "site", "php",]
 category = [ "post",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Look! It's a post listing!"
 path = "cover.jpeg"

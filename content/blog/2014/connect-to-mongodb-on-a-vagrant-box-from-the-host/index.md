@@ -8,6 +8,9 @@ aliases = [ "/tools/2014/08/06_mongo-vagrant-connect.html", "/post/2014/mongo-va
 category = [ "post",]
 tags = [ "vagrant", "mongodb", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

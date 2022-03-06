@@ -8,6 +8,9 @@ aliases = [ "/note/2020/05/pondering-my-indieweb-guinea-pig/",]
 category = [ "note",]
 tags = [ "IndieWeb",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Can't throw the YAPC::NA shirt away yet. Hasn't worn through completely yet."
 path = "cover.jpg"

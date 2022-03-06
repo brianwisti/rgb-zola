@@ -8,6 +8,9 @@ aliases = [ "/note/2021/02/just-noticed-okular-pdf-is-on-windows/",]
 tags = [ "windows", "tools",]
 category = [ "note",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Okular document viewer with several tabs open including \"Programming Crystal\""
 path = "cover.png"

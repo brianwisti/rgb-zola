@@ -8,6 +8,9 @@ aliases = [ "/note/2020/109/kistler-tree/", "/note/2020/04/kistler-tree/",]
 category = [ "note",]
 tags = [ "drawing", "Procreate", "art attack",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Tree"
 path = "cover.jpg"

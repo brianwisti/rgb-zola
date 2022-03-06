@@ -10,6 +10,9 @@ aliases = [ "/2019/11/17/summarizing-a-file-with-crystal/", "/post/2019/11/summa
 category = [ "post",]
 tags = [ "crystal", "files", "Programming",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

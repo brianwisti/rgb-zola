@@ -9,6 +9,9 @@ aliases = [ "/2019/10/21/basic-diy-sea-salt-spray/", "/post/2019/10/basic-diy-se
 category = [ "post",]
 tags = [ "diy", "recipe", "grooming", "Marginalia",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Sea salt, argan oil, and a spray bottle. You need water too."
 path = "cover.jpg"

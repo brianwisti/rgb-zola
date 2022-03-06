@@ -8,6 +8,9 @@ aliases = [ "/note/2019/229/awesomewm/", "/note/2019/08/awesome-wm/",]
 category = [ "note",]
 tags = [ "linux", "awesomewm", "screenshot", "fiddly configurations are fun",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "full screenshots are a bit unwieldy with dual monitors"
 path = "cover.jpg"

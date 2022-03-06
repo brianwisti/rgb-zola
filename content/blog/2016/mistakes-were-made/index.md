@@ -9,6 +9,9 @@ aliases = [ "/craft/2016/mistakes-were-made/", "/2016/10/28/mistakes-were-made/"
 category = [ "post",]
 tags = [ "buy me", "drawing", "Sketchbook Mobile", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

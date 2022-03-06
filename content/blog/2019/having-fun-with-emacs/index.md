@@ -8,6 +8,9 @@ aliases = [ "/note/2019/323/having-fun-with-emacs/", "/note/2019/11/having-fun-w
 category = [ "note",]
 tags = [ "emacs", "ansi-term", "OrgMode", "htop", "overkill",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

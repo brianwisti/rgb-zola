@@ -8,6 +8,9 @@ aliases = [ "/note/2020/09/accidental-renaissance-the-rolling-contest/",]
 category = [ "note",]
 tags = [ "accidental renaissance", "found online", "It's Art!",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

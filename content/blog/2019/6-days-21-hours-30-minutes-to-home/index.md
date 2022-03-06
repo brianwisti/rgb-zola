@@ -8,6 +8,9 @@ aliases = [ "/note/2019/194/6-days-21-hours-30-minutes-to-home/", "/note/2019/07
 category = [ "note",]
 tags = [ "work trip", "homesick", "cozy", "hungry", "better eat something", "besides beef jerky",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Laptop with peripherals from work on table in Victorian style hotel room"
 path = "cover.jpg"

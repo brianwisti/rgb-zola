@@ -8,6 +8,9 @@ aliases = [ "/note/2020/11/found-the-micro-editor/",]
 category = [ "note",]
 tags = [ "editors", "shell", "Life doesn't have to be hard",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

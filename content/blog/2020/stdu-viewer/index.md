@@ -9,6 +9,9 @@ aliases = [ "/2020/03/26/stdu-viewer/", "/post/2020/03/stdu-viewer/",]
 category = [ "post",]
 tags = [ "windows", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Knitting pattern for Ajeng Sioresmi's [Everyday Face Mask](https://www.ravelry.com/patterns/library/everyday-face-mask)"
 path = "cover.png"

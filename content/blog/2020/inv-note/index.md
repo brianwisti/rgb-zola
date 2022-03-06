@@ -8,6 +8,9 @@ aliases = [ "/note/2020/36/inv-note/", "/note/2020/02/inv-note/",]
 category = [ "note",]
 tags = [ "site", "pyinvoke", "drawing", "amaziograph", "fun",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "I drew this with [Amaziograph](https://amaziograph.com/)"
 path = "cover.jpg"

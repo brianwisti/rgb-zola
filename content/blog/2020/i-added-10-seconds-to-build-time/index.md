@@ -8,6 +8,9 @@ aliases = [ "/note/2020/05/i-added-10-seconds-to-build-time/",]
 category = [ "note",]
 tags = [ "like the tide", "build time go down", "build time go up", "way up", "still feels good", "site",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "the page needs work and so does this screenshot"
 path = "cover.jpg"

@@ -9,6 +9,9 @@ aliases = [ "/2020/04/11/indieweb-h-cards/", "/post/2020/04/indieweb-h-cards/",]
 category = [ "post",]
 tags = [ "indieweb", "microformats", "site", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "My h-card as of a few minutes ago"
 path = "cover.png"

@@ -8,6 +8,9 @@ aliases = [ "/craft/2016/beholder/", "/2016/11/04/beholder/", "/post/2016/11/beh
 category = [ "post",]
 tags = [ "drawing", "Sketch Club", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

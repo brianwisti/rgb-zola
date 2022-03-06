@@ -9,6 +9,9 @@ aliases = [ "/post/2021/04/joplin-terminal-basics/",]
 tags = [ "second brain", "joplin", "shell", "tools",]
 category = [ "post",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Joplin's terminal view of my notebooks"
 path = "cover.png"

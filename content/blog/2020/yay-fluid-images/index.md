@@ -8,6 +8,9 @@ aliases = [ "/note/2020/41/yay-fluid-images/", "/note/2020/02/yay-fluid-images/"
 category = [ "note",]
 tags = [ "site", "hugo",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Image unrelated, but isn't it a lovely day?"
 path = "cover.jpg"

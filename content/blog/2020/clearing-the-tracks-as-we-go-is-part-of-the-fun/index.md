@@ -8,6 +8,9 @@ aliases = [ "/note/2020/05/clearing-the-tracks-as-we-go-is-part-of-the-fun/",]
 category = [ "note",]
 tags = [ "IndieWeb", "philosophy", "indieweb is like boatmurdered", "losing is fun",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Buster Keaton is all of us."
 path = "cover.jpg"

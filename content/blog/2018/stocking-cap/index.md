@@ -9,6 +9,9 @@ aliases = [ "/2018/04/27/stocking-cap/", "/post/2018/04/stocking-cap/",]
 category = [ "post",]
 tags = [ "knitting", "hat", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

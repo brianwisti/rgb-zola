@@ -8,6 +8,9 @@ aliases = [ "/note/2020/09/work-break-with-eleventy/",]
 category = [ "note",]
 tags = [ "eleventy", "site",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "cover images work!"
 path = "cover.png"

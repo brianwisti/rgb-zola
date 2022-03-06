@@ -9,6 +9,9 @@ aliases = [ "/post/2021/01/deidres-double-moss-socks/",]
 category = [ "post",]
 tags = [ "knitting", "socks", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "blocked and ready to wear"
 path = "cover.jpg"

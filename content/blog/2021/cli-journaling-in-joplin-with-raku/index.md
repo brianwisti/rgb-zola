@@ -10,6 +10,9 @@ category = [ "post",]
 tags = [ "shell", "joplin", "Raku Lang", "second brain", "tools",]
 series = [ "Journaling in Joplin With Raku",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "the formatted output of my journal-reading one-liner"
 path = "cover.png"

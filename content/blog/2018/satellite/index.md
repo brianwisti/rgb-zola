@@ -8,6 +8,9 @@ aliases = [ "/2018/08/11/satellite/", "/post/2018/08/satellite/",]
 category = [ "post",]
 tags = [ "drawing", "Sketchbook Mobile", "Procreate", "buy me", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

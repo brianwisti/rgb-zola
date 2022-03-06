@@ -10,6 +10,9 @@ aliases = [ "/post/2020/07/tangling-code-from-hugo-content-with-raku/",]
 category = [ "post",]
 tags = [ "Raku Lang", "LiterateProgramming", "Files", "Hugo", "SortOf", "programming",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "You know what else I can tangle? Yarn!"
 path = "cover.jpg"

@@ -8,6 +8,9 @@ aliases = [ "/note/2020/08/slow-city-doodle/",]
 category = [ "note",]
 tags = [ "drawing", "Infinite Painter",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

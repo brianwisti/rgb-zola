@@ -8,6 +8,9 @@ draft = false
 category = [ "post",]
 tags = [ "knitting", "sweater", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

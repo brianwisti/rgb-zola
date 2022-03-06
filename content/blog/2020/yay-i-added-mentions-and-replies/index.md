@@ -8,6 +8,9 @@ aliases = [ "/note/2020/94/yay-i-added-mentions-and-replies/", "/note/2020/04/ya
 category = [ "note",]
 tags = [ "indieweb", "site",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "WebMentions for [my wedding post](/2020/03/20/got-married-yesterday/index.html)"
 path = "cover.png"

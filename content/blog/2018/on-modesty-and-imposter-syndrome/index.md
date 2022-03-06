@@ -9,6 +9,9 @@ aliases = [ "/2018/10/21/on-modesty-and-imposter-syndrome/", "/post/2018/10/on-m
 category = [ "post",]
 tags = [ "personal", "Marginalia",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

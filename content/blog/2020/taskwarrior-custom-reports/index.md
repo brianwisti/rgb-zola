@@ -10,6 +10,9 @@ category = [ "post",]
 tags = [ "taskwarrior", "tools",]
 series = [ "Taskwarrior Babysteps",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "output of my custom `task top` report"
 path = "cover.png"

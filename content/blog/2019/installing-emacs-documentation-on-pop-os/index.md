@@ -10,6 +10,9 @@ aliases = [ "/2019/12/01/installing-emacs-documentation-on-pop_os/", "/post/2019
 category = [ "post",]
 tags = [ "emacs", "linux", "info", "Tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Emacs Info (zoomed with `text-scale-adjust`)"
 path = "cover.png"

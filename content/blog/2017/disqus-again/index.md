@@ -8,6 +8,9 @@ aliases = [ "/post/2017/disqus-again/", "/2017/06/14/disqus-again/", "/post/2017
 category = [ "post",]
 tags = [ "site", "disqus", "marginalia",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

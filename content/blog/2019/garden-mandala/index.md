@@ -8,6 +8,9 @@ aliases = [ "/2019/03/19/garden-mandala/", "/post/2019/03/garden-mandala/",]
 category = [ "post",]
 tags = [ "drawing", "Infinite Painter", "buy me", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

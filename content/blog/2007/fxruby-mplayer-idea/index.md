@@ -8,6 +8,9 @@ aliases = [ "/blogspot/2007/01/30_fxruby-mplayer-idea.html", "/post/2007/fxruby-
 category = [ "post",]
 tags = [ "project", "ruby", "blogspot",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

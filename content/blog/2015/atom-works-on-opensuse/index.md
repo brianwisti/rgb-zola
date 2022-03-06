@@ -8,6 +8,9 @@ aliases = [ "/tools/2015/07/13_atom-works-on-opensuse.html", "/post/2015/atom-wo
 category = [ "post",]
 tags = [ "suse", "atom-editor", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

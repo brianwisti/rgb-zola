@@ -8,6 +8,9 @@ aliases = [ "/post/2017/elscreen/", "/2017/01/11/elscreen/", "/post/2017/01/elsc
 category = [ "post",]
 tags = [ "emacs", "elscreen", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

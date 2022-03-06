@@ -8,6 +8,9 @@ aliases = [ "/note/2019/177/chicken-for-lunch/", "/note/2019/06/chicken-for-lunc
 category = [ "note",]
 tags = [ "pic", "food", "lunch", "leftovers", "who needs social media",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Chicken stir fry with rice"
 path = "cover.jpg"

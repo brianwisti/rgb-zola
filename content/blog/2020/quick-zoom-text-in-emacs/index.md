@@ -8,6 +8,9 @@ aliases = [ "/2020/01/01/quick-zoom-text-in-emacs/", "/post/2020/01/quick-zoom-t
 category = [ "post",]
 tags = [ "emacs", "Tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

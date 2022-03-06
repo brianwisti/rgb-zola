@@ -8,6 +8,9 @@ aliases = [ "/note/2020/99/sepia-sunburst/", "/note/2020/04/sepia-sunburst/",]
 category = [ "note",]
 tags = [ "drawing", "symmetry", "Infinite Painter", "color me",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

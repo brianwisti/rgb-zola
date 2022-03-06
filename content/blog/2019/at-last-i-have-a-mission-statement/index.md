@@ -8,6 +8,9 @@ aliases = [ "/note/2019/363/at-last-i-have-a-mission-statement/", "/note/2019/12
 category = [ "note",]
 tags = [ "life", "work", "code", "Christmas",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "LESS CODE"
 path = "cover.jpg"

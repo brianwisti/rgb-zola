@@ -10,6 +10,9 @@ aliases = [ "/post/2021/02/pretty-file-summaries-with-rich-and-exiftool/",]
 category = [ "post",]
 tags = [ "files", "python", "perlish", "rich", "exiftool", "Tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "Hoku hopes for scraps"
 path = "cover.jpg"

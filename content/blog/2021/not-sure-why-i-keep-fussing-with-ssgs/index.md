@@ -8,6 +8,9 @@ aliases = [ "/note/2021/05/not-sure-why-i-keep-fussing-with-ssgs/",]
 category = [ "note",]
 tags = [ "Static Site Generators", "Nikola", "Nanoc", "Spinning Wheels",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

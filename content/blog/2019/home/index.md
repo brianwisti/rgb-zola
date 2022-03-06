@@ -8,6 +8,9 @@ aliases = [ "/note/2019/201/home/", "/note/2019/07/home/",]
 category = [ "note",]
 tags = [ "work trip", "done", "watching tv", "with my sweetheart",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

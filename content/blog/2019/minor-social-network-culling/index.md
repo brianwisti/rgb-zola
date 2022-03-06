@@ -8,6 +8,9 @@ aliases = [ "/note/2019/267/minor-social-network-culling/", "/note/2019/09/minor
 category = [ "note",]
 tags = [ "disgruntled", "housecleaning", "drawing", "because just cranky is boring",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

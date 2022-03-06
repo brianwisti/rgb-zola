@@ -8,6 +8,9 @@ aliases = [ "/craft/2016/moms-stansfield-12-socks/", "/2016/02/07/moms-stansfiel
 category = [ "post",]
 tags = [ "knitting", "socks", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "all pretty and about to go in the gift bag"
 path = "cover.jpg"

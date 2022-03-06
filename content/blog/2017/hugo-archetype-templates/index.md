@@ -8,6 +8,9 @@ aliases = [ "/post/2017/hugo-archetype-templates/", "/2017/07/01/hugo-archetype-
 category = [ "post",]
 tags = [ "hugo", "site", "bash", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

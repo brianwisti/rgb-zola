@@ -10,6 +10,9 @@ aliases = [ "/2019/05/27/kitty-terminal/", "/post/2019/05/kitty-terminal/",]
 category = [ "post",]
 tags = [ "shell", "kitty", "Tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

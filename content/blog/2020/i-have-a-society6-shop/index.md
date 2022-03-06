@@ -8,6 +8,9 @@ aliases = [ "/note/2020/09/i-have-a-society6-shop/",]
 category = [ "note",]
 tags = [ "buy me", "drawing", "monetize the hobbies but not too much",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "https://society6.com/randomgeek"
 path = "cover.png"

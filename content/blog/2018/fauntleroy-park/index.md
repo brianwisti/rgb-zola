@@ -9,6 +9,9 @@ category = [ "post",]
 tags = [ "exploring", "sauntering", "Marginalia",]
 series = [ "sauntering",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

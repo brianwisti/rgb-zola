@@ -9,6 +9,9 @@ aliases = [ "/post/2017/logging-money-in-org-mode/", "/2017/07/31/logging-money-
 category = [ "post",]
 tags = [ "emacs", "OrgMode", "budgeting", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

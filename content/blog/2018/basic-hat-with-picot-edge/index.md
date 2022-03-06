@@ -9,6 +9,9 @@ aliases = [ "/2018/11/20/basic-hat-with-picot-edge/", "/post/2018/11/basic-hat-w
 category = [ "post",]
 tags = [ "knitting", "hat", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

@@ -8,6 +8,9 @@ aliases = [ "/2017/11/07/something-colorful/", "/post/2017/11/something-colorful
 category = [ "post",]
 tags = [ "drawing", "Infinite Painter", "Craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

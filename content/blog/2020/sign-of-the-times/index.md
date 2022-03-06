@@ -8,6 +8,9 @@ aliases = [ "/note/2020/96/sign-of-the-times/", "/note/2020/04/sign-of-the-times
 category = [ "note",]
 tags = [ "seen", "seattle",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "It's chalk on steps. I did what I could with the emojis."
 path = "cover.jpg"

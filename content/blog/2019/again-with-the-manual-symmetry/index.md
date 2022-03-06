@@ -8,6 +8,9 @@ aliases = [ "/note/2019/349/again-with-the-manual-symmetry/", "/note/2019/12/aga
 category = [ "note",]
 tags = [ "drawing", "Procreate", "symmetry",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

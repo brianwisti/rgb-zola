@@ -8,6 +8,9 @@ aliases = [ "/note/2019/292/foot-hat/", "/note/2019/10/foot-hat/",]
 category = [ "note",]
 tags = [ "knitting", "hat", "but for your foot", "what about toe hats",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

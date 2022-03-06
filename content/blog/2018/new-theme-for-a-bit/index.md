@@ -8,6 +8,9 @@ aliases = [ "/2018/05/13/new-theme-for-a-bit/", "/post/2018/05/new-theme-for-a-b
 category = [ "post",]
 tags = [ "site", "Marginalia",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

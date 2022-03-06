@@ -8,6 +8,9 @@ aliases = [ "/craft/2016/scribble-selfie/", "/2016/10/23/scribble-selfie/", "/po
 category = [ "post",]
 tags = [ "drawing", "portrait", "Sketchbook Mobile", "craft",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

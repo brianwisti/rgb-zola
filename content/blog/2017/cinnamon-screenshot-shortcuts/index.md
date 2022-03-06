@@ -8,6 +8,9 @@ aliases = [ "/post/2017/cinnamon-screenshot-shortcuts/", "/2017/01/01/cinnamon-s
 category = [ "post",]
 tags = [ "linux", "cinnamon", "tools",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.png"

@@ -8,6 +8,9 @@ aliases = [ "/note/2019/308/i-got-business-stickers/", "/note/2019/11/i-got-busi
 category = [ "note",]
 tags = [ "drawing", "adulting", "for old kids", "it's business time", "look what i can do",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = ""
 path = "cover.jpg"

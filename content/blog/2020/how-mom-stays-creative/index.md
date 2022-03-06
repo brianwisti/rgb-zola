@@ -8,6 +8,9 @@ aliases = [ "/note/2020/111/how-mom-stays-creative/", "/note/2020/04/how-mom-sta
 category = [ "note",]
 tags = [ "life", "art", "mom", "bad image captions",]
 
+[extra]
+card = "_card.webp"
+
 [extra.cover_image]
 caption = "My mom, and her plans"
 path = "cover.jpg"
