@@ -1,7 +1,18 @@
 {% extends "base.html" %}
 {% import "macros/blog.html" as blog %}
+{% import "macros/header.html" as header %}
+
 
 {% block title_head %}{{ taxonomy.name }} {{ term.name }} | {{ config.title }}{% endblock %}
+
+{% block feed %}
+  {% set feed_path = taxonomy.name ~ "/" ~ term.name ~ "/atom.xml" %}
+  {% set feed_title = taxonomy.name ~ " " ~ term.name ~ " Feed" %}
+  <link rel="alternate"
+        type="application/atom+xml"
+        title="{{ feed_title | safe }}"
+        href="{{ get_url(path=feed_path, trailing_slash=false) }}">
+{% endblock feed %}
 
 {% block content %}
   <nav class="breadcrumb">
@@ -18,9 +29,7 @@
     </ul>
   </nav>
   <section>
-    <header>
-      <h1>{{ term.name }}</h1>
-    </header>
+    {{ header::for_taxonomy_term(config=config, taxonomy=taxonomy, term=term) }}
     <section class="grid">
       {% for page in term.pages %}
         {{ blog::article_summary(article=page) }}

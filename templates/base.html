@@ -8,14 +8,19 @@
     <title>{% block title_head %}{% endblock %}</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/superkube@latest/dist/superkube.min.css">
     <link rel="stylesheet" href="/style.css">
+    <link rel="alternate"
+          type="application/rss+xml"
+          title="Main Site Feed"
+          href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
+    {% block feed %}{% endblock feed %}
   </head>
   <body>
-    <header class="navbar">
+    <header class="navbar container-large centered edges">
       <div class="navbar-container">
         <div class="navbar-brand">
           <a href="/" class="brand">{{ config.title }}</a>
         </div>
-        <div class="navbar-nav">
+        <div class="navbar-nav flex-auto">
           <nav class="nav nav-centered">
             <ul class="nav-list">
               <li class="nav-item"><a href="/blog/" class="nav-link">Blog</a></li>

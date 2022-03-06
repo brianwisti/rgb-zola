@@ -13,9 +13,12 @@ ignored_content = ["*.rst.txt"]
 taxonomies = [
   {name = "tags"},
   {name = "series"},
-  {name = "category"},
+  {name = "category", feed = true},
 ]
 highlight_theme = "agola-dark"
+
+generate_feed = true
+feed_filename = "atom.xml"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -23,4 +26,9 @@ highlight_theme = "agola-dark"
 highlight_code = true
 
 [extra]
-# Put all your custom variables here
+
+[extra.taxonomy.category.post]
+  description = "Longer-form content that I gave some thought to."
+
+[extra.taxonomy.category.note]
+  description = "Quick thoughts where I just toss it out and move on."

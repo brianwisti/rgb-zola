@@ -1,0 +1,24 @@
+{% macro for_taxonomy_term(config, taxonomy, term) %}
+  {% set term_title = term.name ~ "s" | title %}
+  {% if taxonomy.name in config.extra.taxonomy %}
+    {% set taxonomy_config = config.extra.taxonomy[taxonomy.name] %}
+
+    {% if term.name in taxonomy_config %}
+      <header>
+        {% set term_config = taxonomy_config[term.name] %}
+        <h1>{{ term_title }}</h1>
+        <h2 class="heading-tagline">{{ term_config.description }}</h2>
+      </header>
+    {% else %}
+      {{ header::for_title(title=term_title) }}
+    {% endif %}
+  {% else %}
+    {{ header::for_title(title=term_title) }}
+  {% endif %}
+{% endmacro %}
+
+{% macro for_title(title) %}
+  <header>
+    <h1>{{ title }}</h1>
+  </header>
+{% endmacro header_simple %}
