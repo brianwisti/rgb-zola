@@ -1,0 +1,8 @@
+{% macro for_taxonomy_term(taxonomy, term) %}
+  {% set page_count = term.pages | length %}
+
+  <section>
+    {{ page_count }} article{{ page_count | pluralize }} 
+    with {{ taxonomy.name }} "{{ term.name }}"
+  </section>
+{% endmacro %}

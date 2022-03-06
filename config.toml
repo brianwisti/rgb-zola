@@ -11,9 +11,9 @@ title = "Random Geekery"
 description = "Collecting my attempts to improve at tech, art, and life"
 ignored_content = ["*.rst.txt"]
 taxonomies = [
-  {name = "tags"},
-  {name = "series"},
-  {name = "category", feed = true},
+  {name = "tags", paginate_by=10},
+  {name = "series", paginate_by=10},
+  {name = "category", feed = true, paginate_by=10},
 ]
 highlight_theme = "agola-dark"
 

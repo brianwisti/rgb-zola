@@ -30,10 +30,37 @@
   </nav>
   <section>
     {{ header::for_taxonomy_term(config=config, taxonomy=taxonomy, term=term) }}
+    {% if paginator %}
+      <div class="item flex flex-between">
+        <div class="card item-column">
+          {% if paginator.previous %}
+            <a href="{{ paginator.previous }}" rel="prev">Newer</a>
+          {% else %}
+            These are the newest.
+          {% endif %}
+        </div>
+        <div class="card item-column">
+          Page {{ paginator.current_index }} of {{ paginator.number_pagers }}
+        </div>
+        <div class="card item-column">
+          {% if paginator.next %}
+            <a href="{{ paginator.next }}" rel="next">Older</a>
+          {% else %}
+            These are the oldest
+          {% endif %}
+        </div>
+      </div>
+    {% endif %}
     <section class="grid">
-      {% for page in term.pages %}
-        {{ blog::article_summary(article=page) }}
-      {% endfor %}
+      {% if paginator %}
+        {% for page in paginator.pages %}
+          {{ blog::article_summary(article=page) }}
+        {% endfor %}
+      {% else %}
+        {% for page in term.pages %}
+          {{ blog::article_summary(article=page) }}
+        {% endfor %}
+      {% endif %}
     </section>
   </section>
 {% endblock content %}

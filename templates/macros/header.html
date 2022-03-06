@@ -1,24 +1,34 @@
+{# page headers for assorted content types #}
+{% import "macros/meta.html" as meta %}
+
+{% macro for_anything(title, description="", meta="") %}
+  <header class="pb-6">
+    <h1>{{ title }}</h1>
+
+    {% if description %}
+      <h2 class="heading-tagline">{{ description }}</h2>
+    {% endif %}
+
+    {% if meta %}
+      <section>
+        {{ meta | safe }}
+      </section>
+    {% endif %}
+  </header>
+{% endmacro for_anything %}
+
 {% macro for_taxonomy_term(config, taxonomy, term) %}
-  {% set term_title = term.name ~ "s" | title %}
+  {% set term_title = term.name | title %}
+  {% set term_description = "" %}
+  {% set term_meta = meta::for_taxonomy_term(taxonomy=taxonomy, term=term) %}
+
   {% if taxonomy.name in config.extra.taxonomy %}
     {% set taxonomy_config = config.extra.taxonomy[taxonomy.name] %}
 
     {% if term.name in taxonomy_config %}
-      <header>
-        {% set term_config = taxonomy_config[term.name] %}
-        <h1>{{ term_title }}</h1>
-        <h2 class="heading-tagline">{{ term_config.description }}</h2>
-      </header>
-    {% else %}
-      {{ header::for_title(title=term_title) }}
+      {% set term_description = taxonomy_config[term.name].description %}
     {% endif %}
-  {% else %}
-    {{ header::for_title(title=term_title) }}
   {% endif %}
-{% endmacro %}
 
-{% macro for_title(title) %}
-  <header>
-    <h1>{{ title }}</h1>
-  </header>
-{% endmacro header_simple %}
+  {{ header::for_anything(title=term_title, description=term_description, meta=term_meta) }}
+{% endmacro for_taxonomy_term %}
