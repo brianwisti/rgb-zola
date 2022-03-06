@@ -1,8 +1,55 @@
-{% macro for_taxonomy_term(taxonomy, term) %}
+{# Summaries of secondary information about countent #}
+
+{% import "macros/blog.html" as blog %}
+
+{% macro for_article(article, verbose=true) %}
+  {% set taxonomies = article.taxonomies %}
+
+  <section>
+    {% if taxonomies %}
+      <section class="my-3">
+        {% set tags = taxonomies.tags %}
+        {% for tag in tags %}
+          {{ blog::tag_link(tag_name=tag) }}
+        {% endfor %}
+      </section>
+    {% endif %}
+
+    <section class="flex flex-between">
+      {{ blog::date_stamp(value=article.date) }}
+      {% if taxonomies %}
+        {% for category in taxonomies.category %}
+          {{ blog::category_link(category_name=category) }}
+        {% endfor %}
+      {% endif %}
+    </section>
+  </section>
+{% endmacro %}
+
+{% macro for_subsection(subsection) %}
+  <section>
+    {% if subsection.pages %}
+      {{ subsection.pages | length }} articles
+    {% endif %}
+    {% if subsection.subsections %}
+      ({{ subsection.subsections | length }} subsections)
+    {% endif %}
+  </section>
+{% endmacro for_subsetion %}
+
+{% macro for_taxonomy(taxonomy, term_count) %}
+  <section>
+    {{ term_count }} terms under "{{ taxonomy.name }}"
+  </section>
+{% endmacro for_taxonomy %}
+
+{% macro for_taxonomy_term(taxonomy, term, verbose=true) %}
   {% set page_count = term.pages | length %}
 
   <section>
     {{ page_count }} article{{ page_count | pluralize }} 
-    with {{ taxonomy.name }} "{{ term.name }}"
+    {% if verbose %}
+      with {{ taxonomy.name }} "{{ term.name }}"
+    {% endif %}
   </section>
 {% endmacro %}

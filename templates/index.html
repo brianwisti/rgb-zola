@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% import "macros/blog.html" as blog %}
+{% import "macros/summary.html" as summary %}
 
 {% block title_head %}{{ config.title }}{% endblock %}
 
@@ -14,7 +15,7 @@
       {% set section = get_section(path=section_path) %}
       {% set pages = section.pages | slice(end=6) %}
       {% for page in pages %}
-        {{ blog::article_summary(article=page) }}
+        {{ summary::for_article(article=page) }}
       {% endfor %}
     {% endif %}
   </section>

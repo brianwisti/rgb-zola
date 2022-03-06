@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% import "macros/blog.html" as blog %}
+{% import "macros/summary.html" as summary %}
 
 {% block title_head %}{{ section.title }} | {{ config.title }}{% endblock %}
 
@@ -19,24 +20,15 @@
 
   <section class="grid">
     {% for page in section.pages | sort(attribute="date") | reverse %}
-      {{ blog::article_summary(article=page) }}
+      {{ summary::for_article(article=page) }}
     {% endfor %}
   </section>
 
-  <ul>
+  <section class="grid">
     {% for subsection_path in section.subsections | reverse %}
       {% set subsection = get_section(path=subsection_path) %}
-      <li>
-        <a href="{{ subsection.permalink | safe }}">{{ subsection.title }}</a>
-        :
-        {% if subsection.pages %}
-          {{ subsection.pages | length }} articles
-        {% endif %}
-        {% if subsection.subsections %}
-          ({{ subsection.subsections | length }} subsections)
-        {% endif %}
-      </li>
+      {{ summary::for_subsection(subsection=subsection) }}
     {% endfor %}
-  </ul>
+  </section>
 
 {% endblock content %}

@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% import "macros/blog.html" as blog %}
 {% import "macros/header.html" as header %}
+{% import "macros/summary.html" as summary %}
 
 
 {% block title_head %}{{ taxonomy.name }} {{ term.name }} | {{ config.title }}{% endblock %}
@@ -54,11 +55,11 @@
     <section class="grid">
       {% if paginator %}
         {% for page in paginator.pages %}
-          {{ blog::article_summary(article=page) }}
+          {{ summary::for_article(article=page) }}
         {% endfor %}
       {% else %}
         {% for page in term.pages %}
-          {{ blog::article_summary(article=page) }}
+          {{ summary::for_article(article=page) }}
         {% endfor %}
       {% endif %}
     </section>

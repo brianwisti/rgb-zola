@@ -1,0 +1,82 @@
+{# Quick summaries of articles and sections #}
+
+{% import "macros/link.html" as link %}
+{% import "macros/meta.html" as meta %}
+
+{% macro for_anything(detail_link, description="", card="", meta="", colwidth=3) %}
+  {% set colgrid = 12 / colwidth %}
+  <section class="card
+                  bg-dark
+                  m-3
+                  h-100
+                  flex
+                  flex-column
+                  flex-between
+                  column
+                  column-{{ colgrid }}">
+
+    {% if card %}
+      <div class="card-image image-cover image-overlay image-overlay-dark">
+        <img src="{{ card | safe }}" width="400" height="212" class="u-photo">
+      </div>
+    {% endif %}
+
+    <section class="card-box
+                    p-3
+                    {% if card %} position-over{% endif %}
+                    flex-auto
+                    flex
+                    flex-column
+                    flex-between">
+      <header class="card-head h-10">
+        <h2 class="heading-medium heading-light">
+          {{ detail_link | safe }}
+        </h2>
+      </header>
+      <div class="card-body mt-3 text-medium text-light h-25 container container-crop">
+        {{ description | safe }}
+      </div>
+      <footer class="card-foot text-light text-muted p-3 flex-auto flex flex-column flex-end">
+        {{ meta | safe }}
+      </footer>
+    </section>
+
+
+
+  </section>
+{% endmacro %}
+
+{% macro for_article(article) %}
+  {% set card_href = "" %}
+  {% set description = "" %}
+  {% set detail_link = link::for_anything(href=article.permalink, text=article.title) %}
+  {% set article_meta = meta::for_article(article=article) %}
+
+  {% if article.description %}
+    {% set description = article.description %}
+  {% elif article.taxonomies %}
+    {% if "note" in article.taxonomies.category %}
+      {% set description = article.content | striptags | truncate(length=280) | markdown | safe %}
+    {% endif %}
+  {% endif %}
+
+  {% if article.extra.card %}
+    {% set card_href = article.permalink ~ article.extra.card %}
+  {% endif %}
+
+  {{ summary::for_anything(detail_link=detail_link, description=description, card=card_href, meta=article_meta, colwidth=2) }}
+{% endmacro %}
+
+{% macro for_subsection(subsection) %}
+  {% set detail_link = link::for_anything(href=subsection.permalink, text=subsection.title) %}
+  {% set subsection_meta = meta::for_subsection(subsection=subsection) %}
+
+  {{ summary::for_anything(detail_link=detail_link, meta=subsection_meta) }}
+{% endmacro for_subsection %}
+
+{% macro for_taxonomy_term(config, taxonomy, term) %}
+  {% set detail_link = link::for_anything(href=term.permalink, text=term.name) %}
+  {% set meta = meta::for_taxonomy_term(taxonomy=taxonomy, term=term, verbose=false) %}
+
+  {{ summary::for_anything(detail_link=detail_link, meta=meta) }}
+{% endmacro for_term %}

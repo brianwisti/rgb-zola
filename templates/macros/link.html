@@ -1,0 +1,5 @@
+{# Assorted custom link macros #}
+
+{% macro for_anything(href, text) %}
+  <a href="{{ href | safe }}">{{ text }}</a>
+{% endmacro for_anything %}

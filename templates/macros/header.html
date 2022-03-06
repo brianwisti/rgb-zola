@@ -17,6 +17,13 @@
   </header>
 {% endmacro for_anything %}
 
+{% macro for_taxonomy(taxonomy, terms) %}
+  {% set taxonomy_title = taxonomy.name | title %}
+  {% set term_count = terms | length %}
+  {% set taxonomy_meta = meta::for_taxonomy(taxonomy=taxonomy, term_count=term_count) %}
+  {{ header::for_anything(title=taxonomy_title, meta=taxonomy_meta) }}
+{% endmacro %}
+
 {% macro for_taxonomy_term(config, taxonomy, term) %}
   {% set term_title = term.name | title %}
   {% set term_description = "" %}

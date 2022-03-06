@@ -1,4 +1,6 @@
 {% extends "base.html" %}
+{% import "macros/header.html" as header %}
+{% import "macros/summary.html" as summary %}
 
 {% block title_head %}{{ taxonomy.name }} | {{ config.title }}{% endblock %}
 
@@ -14,14 +16,12 @@
     </ul>
   </nav>
   <section>
-    <header>
-      <h1>{{ taxonomy.name }}</h1>
-    </header>
+    {{ header::for_taxonomy(taxonomy=taxonomy, terms=terms) }}
 
-    {% for term in terms %}
-      <section>
-        <a href="{{ term.permalink | safe }}">{{ term.name }}</a>
-      </section>
-    {% endfor %}
+    <section class="grid">
+      {% for term in terms %}
+        {{ summary::for_taxonomy_term(config=config, taxonomy=taxonomy, term=term) }}
+      {% endfor %}
+    </section>
   </section>
 {% endblock content %}
