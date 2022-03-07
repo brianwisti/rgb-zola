@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% import "macros/blog.html" as blog %}
 {% import "macros/link.html" as link %}
 
 {% block title_head %}{{ page.title }} | {{ config.title }}{% endblock %}
@@ -87,6 +88,7 @@
         </section>
       </section>
     {% endif %}
+    {{ blog::toc(page=page) }}
     {{ page.content | safe }}
   </article>
 {% endblock content %}

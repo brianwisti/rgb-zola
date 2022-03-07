@@ -18,17 +18,21 @@
 
   {{ section.content | safe }}
 
-  <section class="grid">
-    {% for page in section.pages | sort(attribute="date") | reverse %}
-      {{ summary::for_article(article=page) }}
-    {% endfor %}
-  </section>
+  {% if section.pages %}
+    <section class="grid">
+      {% for page in section.pages | sort(attribute="date") | reverse %}
+        {{ summary::for_article(article=page) }}
+      {% endfor %}
+    </section>
+  {% endif %}
 
-  <section class="grid">
-    {% for subsection_path in section.subsections | reverse %}
-      {% set subsection = get_section(path=subsection_path) %}
-      {{ summary::for_subsection(subsection=subsection) }}
-    {% endfor %}
-  </section>
+  {% if section.subsections %}
+    <section class="grid">
+      {% for subsection_path in section.subsections | reverse %}
+        {% set subsection = get_section(path=subsection_path) %}
+        {{ summary::for_subsection(subsection=subsection) }}
+      {% endfor %}
+    </section>
+  {% endif %}
 
 {% endblock content %}
