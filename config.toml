@@ -18,7 +18,7 @@ taxonomies = [
 highlight_theme = "agola-dark"
 
 generate_feed = true
-feed_filename = "atom.xml"
+feed_filename = "index.xml"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -26,26 +26,33 @@ feed_filename = "atom.xml"
 highlight_code = true
 
 [extra]
-  [[extra.author.social]]
-    service = "Telegram"
-    href = "https://t.me/RandomGeek"
-    class = "u-url"
-    icon = "fa fa-telegram"
-  [[extra.author.social]]
-    service = "Mastodon"
-    href = "https://hackers.town/@randomgeek"
-    class = "u-url"
-    icon = "fa fa-mastodon"
-  [[extra.author.social]]
-    service = "Twitter"
-    href = "https://twitter.com/brianwisti"
-    class = "u-url"
-    icon = "fa fa-twitter"
-  [[extra.author.social]]
-    service = "Liberapay"
-    href = "https://liberapay.com/randomgeek"
-    class = "u-url"
-    icon = "fa fa-liberapay"
+  main_feed_categories = ["blog",]
+  # placed here because I need to apply it myself
+  feed_limit = 20
+
+  [extra.author]
+    name = "Brian Wisti"
+    email = "brianwisti@pobox.com"
+    [[extra.author.social]]
+      service = "Telegram"
+      href = "https://t.me/RandomGeek"
+      class = "u-url"
+      icon = "fa fa-telegram"
+    [[extra.author.social]]
+      service = "Mastodon"
+      href = "https://hackers.town/@randomgeek"
+      class = "u-url"
+      icon = "fa fa-mastodon"
+    [[extra.author.social]]
+      service = "Twitter"
+      href = "https://twitter.com/brianwisti"
+      class = "u-url"
+      icon = "fa fa-twitter"
+    [[extra.author.social]]
+      service = "Liberapay"
+      href = "https://liberapay.com/randomgeek"
+      class = "u-url"
+      icon = "fa fa-liberapay"
 
 [extra.taxonomy.category.post]
   description = "Longer-form content that I gave some thought to."

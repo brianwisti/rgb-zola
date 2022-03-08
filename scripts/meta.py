@@ -12,16 +12,21 @@ import pyvips
 import rich
 from frontmatter.default_handlers import TOMLHandler
 
+
 @dataclass
 class Dimensions:
     height: int
     width: int
 
+
 CARD = Dimensions(width=400, height=212)
+
 
 def generate_card_for_cover(cover_path: Path) -> Path:
     """Generate a card image from the cover and return its Path."""
-    image = cast(pyvips.Image, pyvips.Image.new_from_file(str(cover_path), access="sequential"))
+    image = cast(
+        pyvips.Image, pyvips.Image.new_from_file(str(cover_path), access="sequential")
+    )
     card_name = f"_card.webp"
     card_path = cover_path.parent / card_name
     # Check if the card exists
@@ -37,7 +42,7 @@ def generate_card_for_cover(cover_path: Path) -> Path:
         str(cover_path),
         CARD.width,
         height=CARD.height,
-        crop=pyvips.enums.Interesting.ATTENTION
+        crop=pyvips.enums.Interesting.ATTENTION,
     )
     card_out.write_to_file(str(card_path))
     return card_path
@@ -75,6 +80,7 @@ def main():
         print(f"Updating extra.card for {page}")
         extra["card"] = card_name
         page.write_text(frontmatter.dumps(post))
+
 
 if __name__ == "__main__":
     main()

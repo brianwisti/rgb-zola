@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>
+      {{ config.title }}
+      {%- if term %} - {{ term.name }} {%- elif section.title %} - {{ section.title }} {%- endif -%}
+    </title>
+    <link>{{ feed_url | safe }}</link>
+    {% if config.description -%}
+      <description>{{ config.description }}</description>
+    {%- endif %}
+    <generator>Zola</generator>
+    <language>{{ lang }}</language>
+    <managingEditor>{{ config.extra.author.email }} ({{ config.extra.author.name }})</managingEditor>
+    <webMaster>{{ config.extra.author.email }} ({{ config.extra.author.email }})</webMaster>
+    {% if config.extra.copyright -%}
+      <copyright>{{ config.extra.copyright }}</copyright>
+    {%- endif %}
+    <lastBuildDate>{{ last_updated | date(format="%a, %d %b %Y %H:%M:%S %z") }}</lastBuildDate>
+    <atom:link href="{{ feed_url | safe }}" rel="self" type="application/rss+xml" />
+    {% set main_pages = pages | filter(attribute="components.0", value="blog") %}
+    {% set feed_pages = main_pages | slice(end=config.extra.feed_limit) %}
+    {% for page in feed_pages %}
+      <item>
+        <title>{{ page.title }}</title>
+        <link>{{ page.permalink | escape_xml | safe }}</link>
+        <guid>{{ page.permalink | escape_xml | safe }}</guid>
+        <pubDate>{{ page.date | date(format="%a, %d %b %Y %H:%M:%S %z") }}</pubDate>
+        {%- if config.author -%}
+          <author>{{ config.extra.author.email }} ({{ config.extra.author.name }})</author>
+        {% endif -%}
+        {%- if page.description -%}
+          <description>{{ page.description }}</description>
+        {% endif -%}
+        {%- if section -%}
+          <category>{{ section.title }}</category>
+        {% endif -%}
+        {%- if term -%}
+          <category>{{ term.name }}</category>
+        {% endif -%}
+        {%- if "category" in page.taxonomies -%}
+          {%- set category = page.taxonomies.category | first -%}
+          <category>{{ category }}</category>
+        {% endif -%}
+        {%- if "tags" in page.taxonomies -%}{% for tag in page.taxonomies.tags -%}
+          <category>{{ tag }}</category>
+        {% endfor %}{%- endif -%}
+        <content:encoded>
+          {%- set cdata_start = "<![CDATA[" -%}
+          {%- set cdata_end = "]]>" -%}
+          {{ cdata_start | safe }}{{ page.content | safe }}{{ cdata_end | safe }}
+        </content:encoded>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>

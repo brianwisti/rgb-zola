@@ -1,3 +1,5 @@
+feedparser
+pytest
 python-frontmatter
 pyvips
 rich

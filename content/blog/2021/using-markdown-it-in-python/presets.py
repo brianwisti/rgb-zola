@@ -3,6 +3,7 @@
 from markdown_it import presets
 from tabulate import tabulate
 
+
 def for_display(value):
     """Return the value formatted for in-table display"""
 
@@ -41,6 +42,7 @@ def options_table():
     header_row = ["Option", *[for_display(preset) for preset in preset_names]]
     table = tabulate(table_rows, header_row, tablefmt="github")
     return table
+
 
 if __name__ == "__main__":
     print(options_table())
