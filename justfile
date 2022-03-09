@@ -7,10 +7,10 @@ images:
 build:
 	zola build
 
-quality:
+lint:
 	markdownlint './content/blog/**/*.md'
 
-qualitycount:
+lintcount:
 	markdownlint './content/blog/**/*.md' 2>&1 > /dev/null | wc -l
 
 pip:
