@@ -12,8 +12,10 @@ generators. This time around, it's [Zola][].
 - [Zola][zola]
 - libvips
 - Python (3.9.x assumed)
+- [markdownlint-cli][markdownlint-cli]
 
 [zola]: https://getzola.org
+[markdownlint-cli]: https://github.com/igorshubovych/markdownlint-cli
 
 ## License
 

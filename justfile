@@ -7,6 +7,8 @@ images:
 build:
 	zola build
 
+quality:
+	markdownlint content/**/*.md
 pip:
 	pip install -r requirements.txt
 
