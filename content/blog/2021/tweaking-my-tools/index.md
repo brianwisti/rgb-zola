@@ -12,8 +12,8 @@ tags = [ "ruby", "site",]
 
 [TTY Toolkit]: https://ttytoolkit.org
 
-Playing a little more with [TTY Toolkit][] for the site workflow.
-I wanted to say I'm tightening focus, but with a `require` list like this for one tool?
+Playing a little more with [TTY Toolkit][] for the site workflow. I wanted to
+say I'm tightening focus, but with a `require` list like this for one tool?
 
 ```ruby
 require 'pastel'

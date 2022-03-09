@@ -18,12 +18,12 @@ path = "cover.png"
 
 +++
 
-Got the [Webmention][webmention] pingbacks up.  Got the [Plausible][plausible] token in place.  Got
-server configuration and deployment working.
+Got the [Webmention][webmention] pingbacks up.  Got the [Plausible][plausible]
+token in place.  Got server configuration and deployment working.
 
-Got — server configuration?  Well yeah.  The [Statamic][statamic] CMS runs on [PHP][php].  I
-*could* generate and push a static site with it, but I want to try some
-[Laravel][laravel] stuff.  Been watching [Laracasts][laracasts] even.
+Got — server configuration?  Well yeah.  The [Statamic][statamic] CMS runs on
+[PHP][php].  I *could* generate and push a static site with it, but I want to
+try some [Laravel][laravel] stuff.  Been watching [Laracasts][laracasts] even.
 
 ## What’s different?
 
@@ -31,21 +31,18 @@ The visual style, obviously.  But I cycle through those routinely.  This one’s
 [PaperCSS][paper-css] with a few tweaks.
 
 I added a new section for my [art][] — specifically for the art you can buy
-somewhere.  That’s been on my [task][] list for a long time.  Feels nice to get it
-out of the way.  I have a sizable backlog of stuff I wanted to put on my
-[store][].  That art section will remind me to get through that backlog a bit more
-quickly.
+somewhere.  That’s been on my [task][] list for a long time.  Feels nice to get
+it out of the way.  I have a sizable backlog of stuff I wanted to put on my
+[store][].  That art section will remind me to get through that backlog a bit
+more quickly.
 
-You can search!
-Just by title or tag for now, but I’ll add more as I figure out how to fine tune it.
-And because you can search, I’m not *as* worried about how pagination is handled.
-I’m sure I’ll add something later.
+You can search! Just by title or tag for now, but I’ll add more as I figure out
+how to fine tune it. And because you can search, I’m not *as* worried about how
+pagination is handled. I’m sure I’ll add something later.
 
-And also because you can search, I haven’t gotten to the page aliases yet.
-Lots of broken inbound links, I expect.
-If this were some kind of professional site, I would’ve waited until I had those in place.
-But it’s not.
-So I don’t.
+And also because you can search, I haven’t gotten to the page aliases yet. Lots
+of broken inbound links, I expect. If this were some kind of professional site,
+I would’ve waited until I had those in place. But it’s not. So I don’t.
 
 ## Anything else?
 

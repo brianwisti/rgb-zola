@@ -34,14 +34,13 @@ reStructuredText.  But Hugo's way is slow and hard to customize. Not their
 fault. reStructuredText is not their focus. Still — why not format it ahead of
 time?
 
-
 {% note(title="answer") %}
-[Pelican]: https://blog.getpelican.com/
-[Nikola]: https://getnikola.com/
-
 Because it took a lot of work to figure this out? And most folks are
 perfectly happy with Markdown? And bloggers who prefer reStructuredText are
 probably using [Pelican][] or [Nikola][]?
+
+[Pelican]: https://blog.getpelican.com/
+[Nikola]: https://getnikola.com/
 {% end %}
 
 Shush you.
@@ -61,7 +60,6 @@ Make sure Hugo won't track `rst.txt` files by explicitly adding an item the
 ignoreFiles = ['\.rst\.txt$']
 ```
 
-
 This way `hugo server --navigateToChanged` behaves how we expect.
 
 {% note() %}
@@ -70,7 +68,6 @@ Hugo ignored my request to ignore the file. Looks like I'm sticking with
 `.rst.txt` for now.
 {% end %}
 
-
 With the code down below in my Neovim python3 — that's *python3* not
 *python* — rplugin folder, and remote plugins updated, I write
 `index.rst.txt` to disk.
@@ -78,7 +75,6 @@ With the code down below in my Neovim python3 — that's *python3* not
 The remote plugin transforms it to HTML, copying my YAML frontmatter as is.
 So what Hugo sees is updated HTML with frontmatter, and builds that into the
 site templates nice and quick.
-
 
 ### The Code
 
@@ -148,8 +144,10 @@ you fast Asciidoctor transforms as well — just remember a couple things:
 [pynvim]: https://pynvim.readthedocs.io/en/latest/
 
 - [Docutils][] of course, for transforming the reStructuredText
-- Docutils takes advantage of the fact that I have [Pygments][] installed, for syntax highlighting
-- [Python Frontmatter][] gives me a consistent tool for handling post frontmatter and content
+- Docutils takes advantage of the fact that I have [Pygments][] installed, for
+  syntax highlighting
+- [Python Frontmatter][] gives me a consistent tool for handling post
+  frontmatter and content
 - [pynvim][] is the bit that hooks it all into Neovim
 
 ## Updates

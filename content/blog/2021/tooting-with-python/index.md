@@ -42,14 +42,13 @@ of *that* is making sure I remember how to automate posting to Mastodon.
 Course, you're going to need an account at a Mastodon instance.  I have [mine][].
 You can find one suitable for your tastes at [Mastodon instances][].
 
-
 {% note() %}
-[Twitter]: https://twitter.com
-
 If you don't already know Mastodon, think of it as island versions of
 [Twitter][].  Each instance has its own practices and policies depending on who
 runs it, so it's very much a "hanging out at a friend's house" experience. Lots
 more details, but much more than I feel like covering.
+
+[Twitter]: https://twitter.com
 
 It's fun. You should try it out maybe. You can even host your own instance
 if you're hard-core into DIY.
@@ -86,17 +85,20 @@ from rich.pretty import pprint
 ```
 
 {% note() %}
-[dataclasses]: https://docs.python.org/3/library/dataclasses.html
-[Rich]: https://rich.readthedocs.io/en/stable/index.html
-
 Spoiler alert: yes I'll be using [Rich][] and [dataclasses][] along with
 Mastodon.py.  Nothing fancy planned with Rich today. It's just part of my
 regular toolkit.
 
+[dataclasses]: https://docs.python.org/3/library/dataclasses.html
+[Rich]: https://rich.readthedocs.io/en/stable/index.html
+
 The dataclasses library comes standard with Python these days, but you may
 need to install the others::
 
-    pip install --upgrade rich mastodon
+```bash
+pip install --upgrade rich mastodon
+```
+
 {% end %}
 
 [direnv]: https://direnv.net
@@ -112,7 +114,6 @@ CLIENT_KEY = os.environ.get("CLIENT_KEY")
 CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
 ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN")
 ```
-
 
 From my first few attempts writing this post, I know I'll want a class to
 organize views for the connection.
@@ -159,15 +160,24 @@ if __name__ == "__main__":
     pprint(app)
 ```
 
-
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #800080; text-decoration-color: #800080; font-weight: bold">App</span><span style="font-weight: bold">(</span><span style="color: #808000; text-decoration-color: #808000">mastodon</span>=<span style="font-weight: bold">&lt;</span><span style="color: #ff00ff; text-decoration-color: #ff00ff; font-weight: bold">mastodon.Mastodon.Mastodon</span><span style="color: #000000; text-decoration-color: #000000"> object at </span><span style="color: #008080; text-decoration-color: #008080; font-weight: bold">0x7ff14f1e8850</span><span style="font-weight: bold">&gt;)</span>
+<pre
+style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"
+><span style="color: #800080; text-decoration-color: #800080; font-weight: bold"
+>App</span><span style="font-weight: bold">(</span><span
+style="color: #808000; text-decoration-color: #808000">mastodon</span>=<span
+style="font-weight: bold">&lt;</span><span
+style="color: #ff00ff; text-decoration-color: #ff00ff; font-weight: bold"
+>mastodon.Mastodon.Mastodon</span><span
+style="color: #000000; text-decoration-color: #000000"> object at </span><span
+style="color: #008080; text-decoration-color: #008080; font-weight: bold"
+>0x7ff14f1e8850</span><span style="font-weight: bold">&gt;)</span>
 </pre>
 
 {% note(title="Exporting Rich output") %}
-[Console]: https://rich.readthedocs.io/en/stable/reference/console.html#rich.console.Console
+My code doesn't look *exactly* like what I've shared here. I take advantage of
+Rich's export features to simplify sharing program output.
 
-My code doesn't look *exactly* like what I've shared here. I take advantage
-of Rich's export features to simplify sharing program output.
+[Console]: https://rich.readthedocs.io/en/stable/reference/console.html#rich.console.Console
 
 ```python
 import rich
@@ -212,9 +222,11 @@ else:
     sys.exit(1)
 ```
 
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">Connection instance is <span style="color: #008000; text-decoration-color: #008000">healthy</span>
+<pre
+  style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"
+  >Connection instance is <span
+  style="color: #008000; text-decoration-color: #008000">healthy</span>
 </pre>
-
 
 #### Instance details
 
@@ -296,23 +308,41 @@ if __name__ == "__main__":
     pprint(app.instance_summary())
 ```
 
-
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">Connection instance is <span style="color: #008000; text-decoration-color: #008000">healthy</span>
+<pre
+style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"
+>Connection instance is <span
+style="color: #008000; text-decoration-color: #008000">healthy</span>
 stored.inner for instance
 Calling instance
 Writing data to instance.json
 <span style="font-weight: bold">{</span>
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   </span><span style="color: #008000; text-decoration-color: #008000">'uri'</span>: <span style="color: #008000; text-decoration-color: #008000">'hackers.town'</span>,
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   </span><span style="color: #008000; text-decoration-color: #008000">'title'</span>: <span style="color: #008000; text-decoration-color: #008000">'hackers.town'</span>,
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   </span><span style="color: #008000; text-decoration-color: #008000">'short_description'</span>: <span style="color: #008000; text-decoration-color: #008000">"A bunch of technomancers in the fediverse. Keep it fairly clean please. This arcology is for all who wash up upon it's digital shore."</span>,
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   </span><span style="color: #008000; text-decoration-color: #008000">'contact_account'</span>: <span style="color: #008000; text-decoration-color: #008000">'The_Gibson'</span>
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   </span><span style="color: #008000; text-decoration-color: #008000"
+>'uri'</span>: <span
+style="color: #008000; text-decoration-color: #008000"
+>'hackers.town'</span>,
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   </span><span
+style="color: #008000; text-decoration-color: #008000"
+>'title'</span>: <span
+style="color: #008000; text-decoration-color: #008000">'hackers.town'</span>,
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   </span><span
+style="color: #008000; text-decoration-color: #008000"
+>'short_description'</span>: <span
+style="color: #008000; text-decoration-color: #008000"
+>"A bunch of technomancers in the fediverse. Keep it fairly clean please…"</span>,
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   </span><span style="color: #008000; text-decoration-color: #008000"
+>'contact_account'</span>: <span
+style="color: #008000; text-decoration-color: #008000">'The_Gibson'</span>
 <span style="font-weight: bold">}</span>
 </pre>
 
 ### Reading the timelines
 
 [timeline methods]: https://mastodonpy.readthedocs.io/en/stable/#reading-data-timelines
-[`timeline_public] https://mastodonpy.readthedocs.io/en/stable/#mastodon.Mastodon.timeline_public
+[`timeline_public`]: https://mastodonpy.readthedocs.io/en/stable/#mastodon.Mastodon.timeline_public
 
 Mastodon's [timeline methods][] provide different views of recent post
 activity, both public and private.  To simplify demonstration on this public
@@ -362,35 +392,71 @@ if __name__ == "__main__":
     pprint(app.timeline_summary(), max_string=80)
 ```
 
-
-{% raw %}
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">Connection instance is <span style="color: #008000; text-decoration-color: #008000">healthy</span>
+<pre
+  style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"
+  >Connection instance is <span
+  style="color: #008000; text-decoration-color: #008000">healthy</span>
 stored.inner for instance
 Loading data from instance.json
 <span style="font-weight: bold">{</span>
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   </span><span style="color: #008000; text-decoration-color: #008000">'uri'</span>: <span style="color: #008000; text-decoration-color: #008000">'hackers.town'</span>,
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   </span><span style="color: #008000; text-decoration-color: #008000">'title'</span>: <span style="color: #008000; text-decoration-color: #008000">'hackers.town'</span>,
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   </span><span style="color: #008000; text-decoration-color: #008000">'short_description'</span>: <span style="color: #008000; text-decoration-color: #008000">"A bunch of technomancers in the fediverse. Keep it fairly clean please. This arcology is for all who wash up upon it's digital shore."</span>,
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   </span><span style="color: #008000; text-decoration-color: #008000">'contact_account'</span>: <span style="color: #008000; text-decoration-color: #008000">'The_Gibson'</span>
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   </span><span style="color: #008000; text-decoration-color: #008000"
+>'uri'</span>: <span style="color: #008000; text-decoration-color: #008000"
+>'hackers.town'</span>,
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   </span><span style="color: #008000; text-decoration-color: #008000"
+>'title'</span>: <span style="color: #008000; text-decoration-color: #008000"
+>'hackers.town'</span>,
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   </span><span style="color: #008000; text-decoration-color: #008000"
+>'short_description'</span>: <span
+style="color: #008000; text-decoration-color: #008000"
+>"A bunch of technomancers in the fediverse. Keep it fairly clean…"</span>,
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   </span><span style="color: #008000; text-decoration-color: #008000"
+>'contact_account'</span
+>: <span style="color: #008000; text-decoration-color: #008000"
+>'The_Gibson'</span>
 <span style="font-weight: bold">}</span>
 stored.inner for timeline_public
 Calling timeline_public
 Writing data to timeline_public.json
 <span style="font-weight: bold">[</span>
 <span style="font-style: italic">    .. skipping a few ...</span>
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   </span><span style="font-weight: bold">{</span>
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   │   </span><span style="color: #008000; text-decoration-color: #008000">'date'</span>: <span style="color: #008000; text-decoration-color: #008000">'2021-08-15 22:24:35+00:00'</span>,
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   │   </span><span style="color: #008000; text-decoration-color: #008000">'author'</span>: <span style="color: #008000; text-decoration-color: #008000">'Endless Screaming'</span>,
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   │   </span><span style="color: #008000; text-decoration-color: #008000">'content'</span>: <span style="color: #008000; text-decoration-color: #008000">'&lt;p&gt;AAAAAAAAAAAAAAAAAAAAH&lt;/p&gt;'</span>
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   </span><span style="font-weight: bold">}</span>,
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   </span><span style="font-weight: bold">{</span>
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   │   </span><span style="color: #008000; text-decoration-color: #008000">'date'</span>: <span style="color: #008000; text-decoration-color: #008000">'2021-08-15 22:24:43.531000+00:00'</span>,
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   │   </span><span style="color: #008000; text-decoration-color: #008000">'author'</span>: <span style="color: #008000; text-decoration-color: #008000">'Lynne'</span>,
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   │   </span><span style="color: #008000; text-decoration-color: #008000">'content'</span>: <span style="color: #008000; text-decoration-color: #008000">'&lt;p&gt;This just touched a single topic that I’ve never heard being brought up anywh'</span>+<span style="color: #008080; text-decoration-color: #008080; font-weight: bold">97</span>
-<span style="color: #7fbf7f; text-decoration-color: #7fbf7f">│   </span><span style="font-weight: bold">}</span>
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   </span><span style="font-weight: bold">{</span>
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   │   </span><span style="color: #008000; text-decoration-color: #008000"
+>'date'</span>: <span style="color: #008000; text-decoration-color: #008000"
+>'2021-08-15 22:24:35+00:00'</span>,
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   │   </span><span style="color: #008000; text-decoration-color: #008000"
+>'author'</span>: <span style="color: #008000; text-decoration-color: #008000"
+>'Endless Screaming'</span>,
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   │   </span><span style="color: #008000; text-decoration-color: #008000"
+>'content'</span>: <span style="color: #008000; text-decoration-color: #008000"
+>'&lt;p&gt;AAAAAAAAAAAAAAAAAAAAH&lt;/p&gt;'</span>
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   </span><span style="font-weight: bold">}</span>,
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   </span><span style="font-weight: bold">{</span>
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   │   </span><span style="color: #008000; text-decoration-color: #008000"
+>'date'</span>: <span style="color: #008000; text-decoration-color: #008000"
+>'2021-08-15 22:24:43.531000+00:00'</span>,
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   │   </span><span style="color: #008000; text-decoration-color: #008000"
+>'author'</span>: <span style="color: #008000; text-decoration-color: #008000">'Lynne'</span>,
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   │   </span><span style="color: #008000; text-decoration-color: #008000"
+>'content'</span>: <span style="color: #008000; text-decoration-color: #008000"
+>'&lt;p&gt;This just touched a single topic that I’ve never heard…'</span>+<span
+style="color: #008080; text-decoration-color: #008080; font-weight: bold">97</span>
+<span style="color: #7fbf7f; text-decoration-color: #7fbf7f"
+>│   </span><span style="font-weight: bold">}</span>
 <span style="font-weight: bold">]</span>
 </pre>
-{% end %}
 
 Nice. Looks like `content` is in HTML format. Need to remember that if I ever
 make a more interesting Mastodon client.

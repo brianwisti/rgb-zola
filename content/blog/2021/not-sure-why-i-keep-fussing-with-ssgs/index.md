@@ -24,8 +24,9 @@ path = "cover.png"
 [rgb-nanoc]: https://github.com/brianwisti/rgb-nanoc
 [rgb-nikola]: https://github.com/brianwisti/rgb-nikola
 
-So after bouncing back to [Hugo][] from a brief [Statamic][] experiment, what do I do?
-Do I post the slides from a talk I gave the other day, like I promised?
+So after bouncing back to [Hugo][] from a brief [Statamic][] experiment, what
+do I do? Do I post the slides from a talk I gave the other day, like I
+  promised?
 
 No of course not.
 
@@ -36,9 +37,9 @@ Maybe.
 Nikola's got the convenience thing down.
 Someone can sit and start a fresh blog quick.
 
-Nanoc's got this sort of friendly flexibility.
-It's been able to handle every idea so far.
-Obviously not nearly as fast as Hugo, but fast enough if you don't get carried away with images and templates.
+Nanoc's got this sort of friendly flexibility. It's been able to handle every
+idea so far. Obviously not nearly as fast as Hugo, but fast enough if you don't
+get carried away with images and templates.
 
 Guess what I like to do.
 Get carried away with images and templates.

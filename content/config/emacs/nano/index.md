@@ -11,16 +11,20 @@ category = ["config"]
 tags = ["org-config", "emacs"]
 +++
 
-This is more or less my vanilla-ish Emacs playground. I start from [nano-emacs](https://github.com/rougier/nano-emacs).  It's pretty and pretty useful.  But expect it to veer pretty far from that base over time.
+This is more or less my vanilla-ish Emacs playground. I start from
+[nano-emacs](https://github.com/rougier/nano-emacs).  It's pretty and pretty
+useful.  But expect it to veer pretty far from that base over time.
 
 <div class="note">
 
-There's bound to be a lot of things that make you, the Emacs veteran, wonder "why didn't he just do X?"  The likeliest options:
+There's bound to be a lot of things that make you, the Emacs veteran, wonder
+"why didn't he just do X?"  The likeliest options:
 
 -   I didn't know X was an option
 -   I saw X but wanted to wait until I understood it
 
-That last is particularly likely. I keep getting reminded that outsmarting yourself is a major hazard of Emacs configuration.
+That last is particularly likely. I keep getting reminded that outsmarting
+yourself is a major hazard of Emacs configuration.
 
 I'll add `org-pymacs-nodejs-todoist-roam-lsp-mode` later. Maybe. I
 may not even need it.
@@ -33,7 +37,9 @@ may not even need it.
 
 ### Give Emacs some breathing room {#give-emacs-some-breathing-room}
 
-`max-specpdl-size` sets the upper limit for how many variable bindings and `unwind-protect` Emacs allows.  `max-lisp-eval-depth` says how deep we can get into a recursive function call.
+`max-specpdl-size` sets the upper limit for how many variable bindings and
+`unwind-protect` Emacs allows.  `max-lisp-eval-depth` says how deep we can get
+into a recursive function call.
 
 I got the RAM so let's go past the respective defaults of 1600 and 800.
 
@@ -59,9 +65,11 @@ I got the RAM so let's go past the respective defaults of 1600 and 800.
 
 ### Simplify reloading my config {#simplify-reloading-my-config}
 
-I putter with this config marginally less than I did initially - progress! - but enough that restarting Emacs for every config tweak gets tedious.
+I putter with this config marginally less than I did initially - progress! -
+but enough that restarting Emacs for every config tweak gets tedious.
 
-One of the ideas I grabbed from Vianney Lebouteiller's [Emacs config](https://irfu.cea.fr/Pisp/vianney.lebouteiller/emacs.html).
+One of the ideas I grabbed from Vianney Lebouteiller's [Emacs
+config](https://irfu.cea.fr/Pisp/vianney.lebouteiller/emacs.html).
 
 ```elisp
 (defun reload-init-file ()
@@ -79,8 +87,8 @@ One of the ideas I grabbed from Vianney Lebouteiller's [Emacs config](https://ir
 
 #### `early-init.el` {#early-init-dot-el}
 
-But if I'm using `straight.el` I better disable `package.el` during the _early init_
-stage.
+But if I'm using `straight.el` I better disable `package.el` during the _early
+init_ stage.
 
 ```elisp
 (setq package-enable-at-startup nil)
@@ -109,8 +117,9 @@ Boilerplate from the `straight.el` documentation.
 
 #### Integrate with `use-package` {#integrate-with-use-package}
 
-I tried to avoid [use-package](https://jwiegley.github.io/use-package/) here for a more "minimal" setup. That did not work.
-Since `straight.el` plays nice with `use-package`, let's let it do that.
+I tried to avoid [use-package](https://jwiegley.github.io/use-package/) here
+for a more "minimal" setup. That did not work. Since `straight.el` plays nice
+  with `use-package`, let's let it do that.
 
 ```elisp
 (straight-use-package 'use-package)
@@ -126,7 +135,8 @@ Since `straight.el` plays nice with `use-package`, let's let it do that.
 
 ### General guidelines for text handling {#general-guidelines-for-text-handling}
 
-Where to put the fill column marker for line wraps, how many pixels to put between lines, stuff like that.
+Where to put the fill column marker for line wraps, how many pixels to put
+between lines, stuff like that.
 
 ```elisp
 (setq fill-column 80)
@@ -136,7 +146,11 @@ Where to put the fill column marker for line wraps, how many pixels to put betwe
 
 ### invoke `M-x` without `Alt` {#invoke-m-x-without-alt}
 
-I read Steve Yegge's [effective-emacs](https://sites.google.com/site/steveyegge2/effective-emacs) a _long_ time ago — back when it was an internal Amazon blog. Applied his suggestion to invoke `X-m` with `C-x C-m` and that's been part of my Emacs muscle memory ever since.
+I read Steve Yegge's
+[effective-emacs](https://sites.google.com/site/steveyegge2/effective-emacs) a
+_long_ time ago — back when it was an internal Amazon blog. Applied his
+suggestion to invoke `X-m` with `C-x C-m` and that's been part of my Emacs
+muscle memory ever since.
 
 <a id="code-snippet--use C-x C-m for M-x"></a>
 ```elisp
@@ -154,8 +168,8 @@ Make sure the macOS Emacs GUI app picks up environment variables.
   :init (exec-path-from-shell-initialize))
 ```
 
-macOS doesn't use GNU Coreutils and of course its `ls` isn't what
-`dired` expects. Adjust for that.
+macOS doesn't use GNU Coreutils and of course its `ls` isn't what `dired`
+expects. Adjust for that.
 
 ```elisp
 (if (string-equal system-type "darwin")
@@ -182,11 +196,12 @@ macOS doesn't use GNU Coreutils and of course its `ls` isn't what
 
 ### Fonts {#fonts}
 
-The _Roboto Mono_ font that NANO wants is **not** part of any `*roboto*` package I
-found in Pop! OS repositories.  Ended up going to [Font Library](https://fontlibrary.org/en/font/roboto-mono) for a direct
-download.
+The _Roboto Mono_ font that NANO wants is **not** part of any `*roboto*`
+package I found in Pop! OS repositories.  Ended up going to [Font
+Library](https://fontlibrary.org/en/font/roboto-mono) for a direct download.
 
-With that note out of the way - I still lean towards [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans).
+With that note out of the way - I still lean towards [Fantasque Sans
+Mono](https://github.com/belluzj/fantasque-sans).
 
 ```elisp
 (setq bmw/face-height-default
@@ -229,10 +244,11 @@ Installing via `straight.el`.
 ### Define my colors {#define-my-colors}
 
 Because I'm the kind of person I am: setting the nano theme colors to match my
-own tacky tastes. Maybe not _tacky_ but certainly not as refined as the author of
-nano.
+own tacky tastes. Maybe not _tacky_ but certainly not as refined as the author
+of nano.
 
-This particular set of colors comes from the [Spaceduck](https://pineapplegiant.github.io/spaceduck/) theme.
+This particular set of colors comes from the
+[Spaceduck](https://pineapplegiant.github.io/spaceduck/) theme.
 
 ```elisp
 (defun nano-theme-set-spaceduck ()
@@ -253,8 +269,8 @@ This particular set of colors comes from the [Spaceduck](https://pineapplegiant.
 
 ### Set up font faces {#set-up-font-faces}
 
-I feel comfortable loading `nano-faces` for font rules now that I've defined my colors.
-Will need to fuss a bit more in a second though.
+I feel comfortable loading `nano-faces` for font rules now that I've defined my
+colors. Will need to fuss a bit more in a second though.
 
 ```elisp
 
@@ -262,8 +278,8 @@ Will need to fuss a bit more in a second though.
 (nano-faces)
 ```
 
-Want to overload some of the defaults, though. nano-emacs does not
-like to show bold text when using Fantasque Sans Mono.
+Want to overload some of the defaults, though. nano-emacs does not like to show
+bold text when using Fantasque Sans Mono.
 
 ```elisp
 (set-face-attribute 'nano-face-strong nil
@@ -348,7 +364,8 @@ One of my favorite bits really.
 
 ### nano Counsel integration {#nano-counsel-integration}
 
-`nano-counsel.el` is small. I'll just map its logic directly to some `use-package` magic.
+`nano-counsel.el` is small. I'll just map its logic directly to some
+`use-package` magic.
 
 ```elisp
 (use-package counsel
@@ -389,7 +406,8 @@ I need to give myself a little context here.
 
 > flexible, simple tools for minibuffer completion in Emacs
 
-These are technically separate packages developed together in the [swiper](https://github.com/abo-abo/swiper) repo.
+These are technically separate packages developed together in the
+[swiper](https://github.com/abo-abo/swiper) repo.
 
 Ivy
 : an alternative completion framework for Emacs
@@ -401,8 +419,9 @@ Swiper
 : Ivy-enhanced alternative to Isearch
 
 Loading `nano-counsel` failed with complaints about missing `smex`.
-[Smex](https://github.com/nonsequitur/smex/) provides enhancements to `M-x` behavior, such as an interface to recent and commonly used commands.
-Since I want my foundation to be a clean Nano experience, I install smex as well.
+[Smex](https://github.com/nonsequitur/smex/) provides enhancements to `M-x`
+behavior, such as an interface to recent and commonly used commands. Since I
+want my foundation to be a clean Nano experience, I install smex as well.
 
 
 ### nano splash {#nano-splash}
@@ -420,17 +439,17 @@ Since I want my foundation to be a clean Nano experience, I install smex as well
 
 ## Knowledge management with Org {#knowledge-management-with-org}
 
-Okay here we go. Building up my `org-roam` experience while keeping Deft handy for the longer, more intentional notes.
+Okay here we go. Building up my `org-roam` experience while keeping Deft handy
+for the longer, more intentional notes.
 
 
 ### File locations {#file-locations}
 
-I work this out piecemeal, as some of the files and folders build on
-what's been defined before.
+I work this out piecemeal, as some of the files and folders build on what's
+been defined before.
 
-First: what's the top level of everything? That depends on whether I'm
-in a UNIX-like system or playing with the native Windows version of
-Emacs.
+First: what's the top level of everything? That depends on whether I'm in a
+UNIX-like system or playing with the native Windows version of Emacs.
 
 ```elisp
 (setq bmw/local-root
@@ -439,11 +458,11 @@ Emacs.
         "~/"))
 ```
 
-Trying an experiment where first we look for a local `~org/` folder and
-use that if found, otherwise going with my actual default of
-`~/Dropbox/org`. Trying to shift over to git-synchronized Org files
-instead of Dropbox-synchronized, but that change will take a bit to
-percolate through all my systems.
+Trying an experiment where first we look for a local `~org/` folder and use
+that if found, otherwise going with my actual default of `~/Dropbox/org`.
+Trying to shift over to git-synchronized Org files instead of
+Dropbox-synchronized, but that change will take a bit to percolate through all
+my systems.
 
 ```elisp
 (setq bmw/default-org-directory (expand-file-name "org" bmw/local-root))
@@ -465,15 +484,16 @@ That's enough to define most of the files I need.
  bmw/org-roam-directory (expand-file-name "roam" bmw/org-dir))
 ```
 
-Oh, one more thing. I want to include `org-roam` files in my Org
-agenda. I found [helpful instructions](https://d12frosted.io/posts/2021-01-16-task-management-with-roam-vol5.html), but I'm not adding that code to
-my config until I understand it. Maybe if I follow the link to the
-_beginning_ of the post series and start there.
+Oh, one more thing. I want to include `org-roam` files in my Org agenda. I
+found [helpful
+instructions](https://d12frosted.io/posts/2021-01-16-task-management-with-roam-vol5.html),
+but I'm not adding that code to my config until I understand it. Maybe if I
+follow the link to the _beginning_ of the post series and start there.
 
 What a novel idea.
 
-But today? With my small collection of `org-roam` notes, I can get away
-with directly including them in my agenda searches.
+But today? With my small collection of `org-roam` notes, I can get away with
+directly including them in my agenda searches.
 
 ```elisp
 (setq bmw/org-agenda-files (list bmw/org-dir
@@ -485,8 +505,8 @@ with directly including them in my agenda searches.
 
 ### Custom keywords {#custom-keywords}
 
-A process vagiuely similar to [GTD](https://gettingthingsdone.com/) but my brain insists on its own task
-classifications.
+A process vagiuely similar to [GTD](https://gettingthingsdone.com/) but my
+brain insists on its own task classifications.
 
 LATER
 : I need to do it, but it can wait (or it's waiting on something)
@@ -520,10 +540,11 @@ NOPE
 
 ### `CUSTOM_ID` generation via writequit {#custom-id-generation-via-writequit}
 
-Grabbing directly from [this post](https://writequit.org/articles/emacs-org-mode-generate-ids.html).
+Grabbing directly from [this
+post](https://writequit.org/articles/emacs-org-mode-generate-ids.html).
 
-More to keep my `org-roam-ui` graph in order than for publishing, but
-hopefully it'll come in handy there too.
+More to keep my `org-roam-ui` graph in order than for publishing, but hopefully
+it'll come in handy there too.
 
 ```elisp
 (defun eos/org-custom-id-get (&optional pom create prefix)
@@ -597,11 +618,13 @@ The perfect solution for knowledge management varies by context. But the core
 thing really needed: someplace to drop my notes where I can find them when I
 need them.
 
-[Deft](https://jblevins.org/projects/deft/) provides exactly that. And since Org mode is the main reason I load Emacs,
-my `~/org` folder is where Deft will look for notes.
+[Deft](https://jblevins.org/projects/deft/) provides exactly that. And since
+Org mode is the main reason I load Emacs, my `~/org` folder is where Deft will
+look for notes.
 
-I don't want `org-roam` notes obscuring the more persistent notes in my Org folder.
-Better ignore them. Also the `org-brain` stuff until I have a good handle on that.
+I don't want `org-roam` notes obscuring the more persistent notes in my Org
+folder. Better ignore them. Also the `org-brain` stuff until I have a good
+handle on that.
 
 ```elisp
 (use-package deft
@@ -613,9 +636,10 @@ Better ignore them. Also the `org-brain` stuff until I have a good handle on tha
 
 <div class="note">
 
-Helpful hint when enabling `deft-recursive: =../` is one of the entries in your directory
-listing, and Deft will do its darndest to follow it if you forget to include it in
-`deft-recursive-ignore-dir-regexp` (set to `"\\(?:\\.\\|\\.\\.\\)"` by default).
+Helpful hint when enabling `deft-recursive: =../` is one of the entries in your
+directory listing, and Deft will do its darndest to follow it if you forget to
+include it in `deft-recursive-ignore-dir-regexp` (set to
+`"\\(?:\\.\\|\\.\\.\\)"` by default).
 
 This can lead to all sorts of recursive headaches, so don't forget!
 
@@ -628,8 +652,12 @@ Of course I'll end up tweaking it. But to get me started?
 
 #### org-roam {#org-roam}
 
-Taking advantage of [`org-roam-dailies`](https://www.orgroam.com/manual.html#Org_002droam-Dailies) for journaling.  I started by
-copying from [OrgMode-ExoCortex](https://orgmode-exocortex.com/2021/06/22/upgrade-to-org-roam-v2-with-use-package-and-quelpa/) and [System Crafters](https://systemcrafters.net/build-a-second-brain-in-emacs/keep-a-journal/).
+Taking advantage of
+[`org-roam-dailies`](https://www.orgroam.com/manual.html#Org_002droam-Dailies)
+for journaling.  I started by copying from
+  [OrgMode-ExoCortex](https://orgmode-exocortex.com/2021/06/22/upgrade-to-org-roam-v2-with-use-package-and-quelpa/)
+  and [System
+  Crafters](https://systemcrafters.net/build-a-second-brain-in-emacs/keep-a-journal/).
 
 ```elisp
 (use-package org-roam
@@ -690,8 +718,8 @@ I like to always see backlinks as a side-window of my current view.
 ```
 
 Something is off with my `:bind` and `:bind-keymap` settings for `org-roam`.
-Until I learn enough to fix that, I'll make a global binding for the
-one I care about: going to today's daily note.
+Until I learn enough to fix that, I'll make a global binding for the one I care
+about: going to today's daily note.
 
 ```elisp
 (global-set-key (kbd "C-c d") 'org-roam-dailies-goto-today)
@@ -718,11 +746,11 @@ For the pretty.
 
 #### `ox-hugo` {#ox-hugo}
 
-Although [ox-hugo](https://ox-hugo.scripter.co) is aimed at Hugo, I'm trying it as part of an
-experiment with some other tools.
+Although [ox-hugo](https://ox-hugo.scripter.co) is aimed at Hugo, I'm trying it
+as part of an experiment with some other tools.
 
-Not worrying about capture templates yet. The main thing I care about
-is exporting config files like this one.
+Not worrying about capture templates yet. The main thing I care about is
+exporting config files like this one.
 
 ```elisp
 (use-package ox-hugo
@@ -732,8 +760,9 @@ is exporting config files like this one.
 
 ## Project management with Projectile and friends {#project-management-with-projectile-and-friends}
 
-[Projectile](https://projectile.mx/) plus a `.dir-locals.el` file seems like the right way to
-handle development projects without bumping into everything else.
+[Projectile](https://projectile.mx/) plus a `.dir-locals.el` file seems like
+the right way to handle development projects without bumping into everything
+else.
 
 ```elisp
 (use-package projectile
@@ -751,20 +780,22 @@ handle development projects without bumping into everything else.
 
 ## `lsp-mode` and related for an IDE experience {#lsp-mode-and-related-for-an-ide-experience}
 
-[`lsp-mode`](https://emacs-lsp.github.io/lsp-mode/) adds support for Microsoft's [Language Server
-Protocol](https://github.com/Microsoft/language-server-protocol/). Hypothetically that means easier setup of commonly desired
-features like linting and autocompletion.
+[`lsp-mode`](https://emacs-lsp.github.io/lsp-mode/) adds support for
+Microsoft's [Language Server
+Protocol](https://github.com/Microsoft/language-server-protocol/).
+Hypothetically that means easier setup of commonly desired features like
+linting and autocompletion.
 
-`lsp-mode` uses [YASnippet](https://github.com/joaotavora/yasnippet) for abbreviation and expansion.
+`lsp-mode` uses [YASnippet](https://github.com/joaotavora/yasnippet) for
+abbreviation and expansion.
 
 ```elisp
 (use-package yasnippet)
 ```
 
-`nano-modeline` and `lsp-mode`'s breadcrumb trail wrestle with each other
-for space on that top line. Maybe someday I can figure out how to
-stack them. Until then, I like the modeline and its placement more
-than I like the breadcrumb.
+`nano-modeline` and `lsp-mode`'s breadcrumb trail wrestle with each other for
+space on that top line. Maybe someday I can figure out how to stack them. Until
+then, I like the modeline and its placement more than I like the breadcrumb.
 
 ```elisp
 (use-package lsp-mode
@@ -807,11 +838,12 @@ Pyenv for Python versions.
   (setenv "WORKON_HOME" "~/.pyenv/versions"))
 ```
 
-I manage my projects with [Poetry](https://python-poetry.org/). [poetry.el](https://github.com/galaunay/poetry.el) offers a nice Magit-like
+I manage my projects with [Poetry](https://python-poetry.org/).
+[poetry.el](https://github.com/galaunay/poetry.el) offers a nice Magit-like
 interface to managing and maintaining Poetry projects.
 
-In particular, it _might_ simplify venv handling when I get to linting
-tools and language server providers.
+In particular, it _might_ simplify venv handling when I get to linting tools
+and language server providers.
 
 ```elisp
 (use-package poetry
@@ -832,8 +864,8 @@ Getting to be a pretty popular config language there.
 
 ## Which Key? {#which-key}
 
-[`which-key`](https://github.com/justbur/emacs-which-key) adds a completion panel for commands. That helps me learn
-the many Emacs key maps.
+[`which-key`](https://github.com/justbur/emacs-which-key) adds a completion
+panel for commands. That helps me learn the many Emacs key maps.
 
 ```elisp
 (use-package which-key
@@ -844,11 +876,12 @@ the many Emacs key maps.
   (setq which-key-idle-delay 1))
 ```
 
-
 ## Treemacs {#treemacs}
 
-[Treemacs](https://github.com/Alexander-Miller/treemacs) is a file explorer sidebar. That part is kind of "meh" for
-me.  The outliner provided by [`lsp-treemacs`](https://github.com/emacs-lsp/lsp-treemacs) interests me much more.
+[Treemacs](https://github.com/Alexander-Miller/treemacs) is a file explorer
+sidebar. That part is kind of "meh" for me.  The outliner provided by
+[`lsp-treemacs`](https://github.com/emacs-lsp/lsp-treemacs) interests me much
+more.
 
 <div class="note">
 
@@ -859,7 +892,8 @@ To get Treemacs and nano playing nice I had to comment out line 515 of
 ;; (setq-default mode-line-format "")
 ```
 
-Watching issue [#75](https://github.com/rougier/nano-emacs/issues/75) for updates on this problem.
+Watching issue [#75](https://github.com/rougier/nano-emacs/issues/75) for
+updates on this problem.
 
 </div>
 

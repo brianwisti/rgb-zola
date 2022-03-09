@@ -12,7 +12,7 @@ series = [ "Journaling in Joplin With Raku",]
 tags = [ "Raku Lang", "joplin", "shell", "programming",]
 
 [extra]
-card = "_card.webp"
+card = "_card.webp" #_
 
 [extra.cover_image]
 path = "cover.png"
@@ -82,19 +82,24 @@ sub add-entry() {
 }
 ```
 
-Raku's [DateTime][datetime] classes provide the gist of what we got with GNU Date.
-[`truncated-to`][truncated-to] rounds our current timestamp — [`now`][now] — down to the minute.
+Raku's [DateTime][datetime] classes provide the gist of what we got with GNU
+Date. [`truncated-to`][truncated-to] rounds our current timestamp —
+[`now`][now] — down to the minute.
 
-    $ raku -e 'DateTime.now.say'
-    2021-05-22T11:52:28.380996-07:00
+```console
+$ raku -e 'DateTime.now.say'
+2021-05-22T11:52:28.380996-07:00
 
-    $ raku -e 'DateTime.now.truncated-to("minute").say'
-    2021-05-22T11:52:00-07:00
+$ raku -e 'DateTime.now.truncated-to("minute").say'
+2021-05-22T11:52:00-07:00
+```
 
 It doesn't print exactly the same as `date`:
 
-    $ date --iso=minute
-    2021-05-22T11:52-07:00
+```console
+$ date --iso=minute
+2021-05-22T11:52-07:00
+```
 
 It wouldn't take excessive effort to make them match, but I'm just not
 concerned about it at the moment.
@@ -117,10 +122,12 @@ though.
 
 If we run this as-is, it adds a new entry.
 
-    $ raku journal
-    Note does not exist: "2021-05-22T12:18:00-07:00". Create it? (Y/n) y
-    ...
-    Note has been saved.
+```console
+$ raku journal
+Note does not exist: "2021-05-22T12:18:00-07:00". Create it? (Y/n) y
+...
+Note has been saved.
+```
 
 Okay, fine.  It works.  So far it's neither tidier nor more readable than the
 initial one-liner.  But writing an entry was never the problem.
@@ -150,7 +157,7 @@ get at them?  Maybe a callback table with action keywords? Maybe a fancy
 
 Nope!  Well — we *could*.  But we don't need to.  Raku has [multi-dispatch][]!
 
-#### Use multiple `MAIN` subs!
+#### Use multiple `MAIN` subs
 
 We replace the initial `MAIN` definition with these:
 
@@ -198,10 +205,12 @@ default path into the application!
 No worries.  Raku's special handling of the entry point sub shows us the
 accepted usage.
 
-    $ raku journal.raku
-    Usage:
-      journal.raku add -- Add an entry
-      journal.raku read -- Read all entries
+```console
+$ raku journal.raku
+Usage:
+  journal.raku add -- Add an entry
+  journal.raku read -- Read all entries
+```
 
 And that's where those `#=` comments come in.  They provide extra detail for
 the usage message displayed.
@@ -209,17 +218,19 @@ the usage message displayed.
 Let's try them out.  We'll `add` an entry and then make sure it shows up when
 we `read` them.
 
-    $ raku journal.raku add
-    Note does not exist: "2021-05-22T12:55:00-07:00". Create it? (Y/n)
-    ...
-    Note has been saved.
-    $ raku journal.raku read
-    ...
-    # 2021-05-22T12:55:00-07:00
+```console
+$ raku journal.raku add
+Note does not exist: "2021-05-22T12:55:00-07:00". Create it? (Y/n)
+...
+Note has been saved.
+$ raku journal.raku read
+...
+# 2021-05-22T12:55:00-07:00
 
-    [multi-dispatch]: https://docs.raku.org/language/functions#Multi-dispatch
+[multi-dispatch]: https://docs.raku.org/language/functions#Multi-dispatch
 
-    Raku Joplin journaling script, now with [multi-dispatch][]!
+Raku Joplin journaling script, now with [multi-dispatch][]!
+```
 
 Nice.  Of course, at this point I'm being handed 142 lines of text, and it's
 taking about 12 seconds to do it.  All that work and we finally reached the
@@ -250,17 +261,33 @@ sub entries-for-today() {
 ```
 
 {% note(title="2021-05-24") %}
-[b2gills]: https://twitter.com/b2gills
-[date-today]: https://docs.raku.org/type/Date#method_today[Date.today]
-[parameter-coercion]: https://docs.raku.org/syntax/Coercion%20type
 
 [@b2gills][b2gills] mentioned that I could also use [`Date.today`][date-today]
 here!
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why didn&#39;t you use Date.​today?<br><br>If you had a coercive parameter, you wouldn&#39;t even need to do anything more than Date.​today.<br><br> sub filtered-entries(Str(Date) $​date-funnel) {…}<br><br> sub entries-for-today() {<br> filtered-entries Date.​today<br> }</p>&mdash; Brad Gilbert (@b2gills) <a href="https://twitter.com/b2gills/status/1397038905405452296?ref_src=twsrc%5Etfw">May 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+Why didn&#39;t you use Date.today?
+<br><br>
+If you had a coercive parameter, you wouldn&#39;t
+even need to do anything more than Date.today.
+<br><br> sub filtered-entries(Str(Date) $date-funnel) {…}
+<br><br> sub entries-for-today() {
+  <br> filtered-entries Date.today
+  <br> }
+</p>
+&mdash; Brad Gilbert (@b2gills)
+<a
+href="https://twitter.com/b2gills/status/1397038905405452296?ref_src=twsrc%5Etfw"
+>May 25, 2021</a></blockquote> <script async
+src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I haven't messed with [parameter coercion][parameter-coercion] yet, but that
 looks like it will come in handy.
+
+[b2gills]: https://twitter.com/b2gills
+[date-today]: https://docs.raku.org/type/Date#method_today
+[parameter-coercion]: https://docs.raku.org/syntax/Coercion%20type
 {% end %}
 
 Need to touch up my reading `MAIN` definition, though.
@@ -273,33 +300,35 @@ multi sub MAIN("read") {  #= Read today's entries
 
 Does it work?  Is it fast?
 
-    $ time raku journal.raku read
-    # 2021-05-22T08:12:00-07:00
+```console
+$ time raku journal.raku read
+# 2021-05-22T08:12:00-07:00
 
-    Millie let me sleep in until 7:54. How gracious.
+Millie let me sleep in until 7:54. How gracious.
 
-    [@liztormato]: https://twitter.com/liztormato
-    [Reddit]: https://www.reddit.com/r/rakulang/comments/nif2sf/cli_journaling_in_joplin_with_raku_brian_wisti/
+[@liztormato]: https://twitter.com/liztormato
+[Reddit]: https://www.reddit.com/r/rakulang/comments/nif2sf/cli_journaling_in_joplin_with_raku_brian_wisti/
 
-    Oh and last night's Joplin / Raku post got some legs. [@liztormato][] even
-    shared it on [Reddit][]. That's cool. I always hope they like it when I post
-    something about #RakuLang.
+Oh and last night's Joplin / Raku post got some legs. [@liztormato][] even
+shared it on [Reddit][]. That's cool. I always hope they like it when I post
+something about #RakuLang.
 
-    # 2021-05-22T10:43:00-07:00
+# 2021-05-22T10:43:00-07:00
 
-    My note script needs an option for "read yesterday's notes."
+My note script needs an option for "read yesterday's notes."
 
-    # 2021-05-22T12:18:00-07:00 Making sure that my Raku Joplin journaling script lets me add an entry.
+# 2021-05-22T12:18:00-07:00 Making sure that my Raku Joplin journaling script lets me add an entry.
 
-    # 2021-05-22T12:55:00-07:00
+# 2021-05-22T12:55:00-07:00
 
-    [multi-dispatch]: https://docs.raku.org/language/functions#Multi-dispatch
+[multi-dispatch]: https://docs.raku.org/language/functions#Multi-dispatch
 
-    Raku Joplin journaling script, now with [multi-dispatch][]!
+Raku Joplin journaling script, now with [multi-dispatch][]!
 
-    real    0m3.815s
-    user    0m3.966s
-    sys     0m0.502s
+real    0m3.815s
+user    0m3.966s
+sys     0m0.502s
+```
 
 It works.  It's — it's not *fast* by any means, but 3.8 seconds is much faster
 than 12.  Again, there's an API waiting for when I'm bored of abusing Joplin's
@@ -334,62 +363,76 @@ multi sub MAIN("yesterday") { #= Read yesterday's entries
 
 And it works!
 
-    $ raku journal.raku yesterday
-    # 2021-05-21T09:00-07:00
+```console
+$ raku journal.raku yesterday
+# 2021-05-21T09:00-07:00
 
-    Alarm 07:00, stayed in bed as long as I could. Thanks to the dogs, that was 15
-    minutes. Oh well.
+Alarm 07:00, stayed in bed as long as I could. Thanks to the dogs, that was 15
+minutes. Oh well.
 
-    [Homebrew]: https://brew.sh
-    [Nix]: https://nixos.org/
-    [using Nix on Debian]: https://ariya.io/2020/05/nix-package-manager-on-ubuntu-or-debian
+[Homebrew]: https://brew.sh
+[Nix]: https://nixos.org/
+[using Nix on Debian]: https://ariya.io/2020/05/nix-package-manager-on-ubuntu-or-debian
 
-    Got the Raspberry Pi 4 set up with Raspbian, and the 500GB external drive
-    attached. Thinking about package managers. I know [Homebrew][] but I could
-    maybe try [Nix][]. There's a post about [using Nix on Debian][].
-    ...
-    # 2021-05-21T21:29:00-07:00
+Got the Raspberry Pi 4 set up with Raspbian, and the 500GB external drive
+attached. Thinking about package managers. I know [Homebrew][] but I could
+maybe try [Nix][]. There's a post about [using Nix on Debian][].
+...
+# 2021-05-21T21:29:00-07:00
 
-    Just about to post my Raku Joplin Journaling One-liners, but maybe a couple
-    screenshots? People love screenshots.
+Just about to post my Raku Joplin Journaling One-liners, but maybe a couple
+screenshots? People love screenshots.
 
-    Maybe they do. Maybe they don't. *I* love screenshots.
+Maybe they do. Maybe they don't. *I* love screenshots.
+```
 
 ### What about formatting?
 
 Honestly?  I'm not going to worry about it right now.  Piping to [Rich][rich]
 or [Glow][glow] suffices when I want it pretty.
 
-<pre class="rich">╔══════════════════════════════════════════════════════════════════════════════╗
-║                          <span style="font-weight: bold">2021-05-22T08:12:00-07:00</span>                           ║
+<pre class="rich"
+>╔══════════════════════════════════════════════════════════════════════════════╗
+║                          <span style="font-weight: bold"
+>2021-05-22T08:12:00-07:00</span>                           ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 Millie let me sleep in until 7:54. How gracious.
 
-Oh and last night's Joplin / Raku post got some legs. <span style="color: #0000ff; text-decoration-color: #0000ff"><a href="https://twitter.com/liztormato">@liztormato</a></span> even shared it
-on <span style="color: #0000ff; text-decoration-color: #0000ff"><a href="https://www.reddit.com/r/rakulang/comments/nif2sf/cli_journaling_in_joplin_with_raku_brian_wisti/">Reddit</a></span>. That's cool. I always hope they like it when I post something about
-#RakuLang.
+Oh and last night's Joplin / Raku post got some legs. <span
+style="color: #0000ff; text-decoration-color: #0000ff"><a
+href="https://twitter.com/liztormato">@liztormato</a></span> even shared it
+on <span style="color: #0000ff; text-decoration-color: #0000ff"><a
+href="https://www.reddit.com/r/rakulang/comments/nif2sf/cli_journaling_in_joplin_with_raku_brian_wisti/">Reddit</a></span>. That's cool. I always hope they like it when I post something about
+\#RakuLang.
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                          <span style="font-weight: bold">2021-05-22T10:43:00-07:00</span>                           ║
+║                          <span style="font-weight: bold"
+>2021-05-22T10:43:00-07:00</span>                           ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 My note script needs an option for "read yesterday's notes."
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                          <span style="font-weight: bold">2021-05-22T12:18:00-07:00</span>                           ║
+║                          <span style="font-weight: bold"
+>2021-05-22T12:18:00-07:00</span>                           ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 Making sure that my Raku Joplin journaling script lets me add an entry.
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                          <span style="font-weight: bold">2021-05-22T12:55:00-07:00</span>                           ║
+║                          <span style="font-weight: bold"
+>2021-05-22T12:55:00-07:00</span>                           ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
-Raku Joplin journaling script, now with <span style="color: #0000ff; text-decoration-color: #0000ff"><a href="https://docs.raku.org/language/functions#Multi-dispatch">multi-dispatch</a></span>!
+Raku Joplin journaling script, now with <span
+style="color: #0000ff; text-decoration-color: #0000ff"><a
+href="https://docs.raku.org/language/functions#Multi-dispatch"
+>multi-dispatch</a></span>!
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                          <span style="font-weight: bold">2021-05-22T14:05:00-07:00</span>                           ║
+║                          <span style="font-weight: bold"
+>2021-05-22T14:05:00-07:00</span>                           ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 Guess I'm about ready to post the second Raku Joplin journaling post. Ah, the
