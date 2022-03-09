@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% import "macros/blog.html" as blog %}
 {% import "macros/link.html" as link %}
+{% import "macros/meta.html" as meta %}
 
 {% block title_head %}{{ page.title }} | {{ config.title }}{% endblock %}
 
@@ -9,44 +10,16 @@
     {% if page.date %}
       {{ blog::timeline(page=page) }}
     {% endif %}
-    <header>
+    <header class="mb-6">
+      {% if article.description %}
+        <h2 class="heading-tagline">{{ article.description }}</h6>
+      {% endif %}
       {% if page.extra.cover_image %}
         {{ blog::cover_image(cover_image=page.extra.cover_image, page_assets=page.assets) }}
       {% endif %}
 
-      <h1 class="heading-large">{{ page.title }}</h1>
-
-      {% if article.description %}
-        <h2 class="heading-tagline">{{ article.description }}</h6>
-      {% endif %}
-
       <section>
-        {% if page.date %}
-          {{ blog::date_stamp(value=page.date) }}
-        {% endif %}
-        {% set taxonomies = page.taxonomies %}
-
-        {% if taxonomies %}
-          <p>
-          {% for category in taxonomies.category %}
-            {{ link::for_category(category_name=category) }}
-          {% endfor %}
-          </p>
-
-          <p>
-          {% for tag in taxonomies.tags %}
-            {{ link::for_tag(tag_name=tag) }}
-          {% endfor %}
-          </p>
-
-          <p>
-          {% if taxonomies.series %}
-            {% for series in taxonomies.series %}
-              {{ link::for_series(series_name=series) }}
-            {% endfor %}
-          {% endif %}
-          </p>
-        {% endif %}
+        {{ meta::for_article(article=page) }}
       </section>
     </header>
     {% if page.extra.cite %}
@@ -89,6 +62,7 @@
       </section>
     {% endif %}
     {{ blog::toc(page=page) }}
+    <h1>{{ page.title }}</h1>
     {{ page.content | safe }}
   </article>
 {% endblock content %}
