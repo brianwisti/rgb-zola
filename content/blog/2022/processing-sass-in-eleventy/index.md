@@ -38,7 +38,7 @@ First things first, let's update `devDependencies` in my `package.json`:
 
 I keep my Sass files under `src/assets/style`:
 
-```
+```console
 $ tree src/assets/style/
 src/assets/style/
 ├── _base.scss
@@ -50,8 +50,8 @@ src/assets/style/
 1 directory, 4 files
 ```
 
-
 {% note() %}
+
 [Structuring Eleventy Projects]: https://www.webstoemp.com/blog/eleventy-projects-structure/
 
 Generally, I have been following the site organization guidelines described in
@@ -62,8 +62,9 @@ transformed — Sass, images, whatever — I put it under `src/assets`.
 [custom templates]: https://www.11ty.dev/docs/languages/custom/
 [skipping a template]: https://www.11ty.dev/docs/languages/custom/#skipping-a-template-from-inside-of-the-compile-function.
 
-Eleventy provides instructions on how to set up [custom templates][] for dealing with Sass,
-and even [skipping a template][] so it doesn't build `_base.scss` and so on.
+Eleventy provides instructions on how to set up [custom templates][] for
+dealing with Sass, and even [skipping a template][] so it doesn't build
+`_base.scss` and so on.
 
 And that's great. It works. `src/assets/style/main.scss` becomes
 `dist/assets/style/main.css`. Course, it's not quite perfect.
@@ -79,7 +80,7 @@ I need to think my way through this one.
 Keeping with Jérôme Coupé's structural suggestions, I keep my more complex
 JavaScript logic under `src/_11ty/`.
 
-```
+```console
 $ tree src/_11ty/
 src/_11ty/
 ├── collections
@@ -145,8 +146,10 @@ const sass = require("sass");
 [`pathlib`]: https://docs.python.org/3/library/pathlib.html
 [`os.path`]: https://docs.python.org/3/library/os.path.html
 
-- [`fs-plus`][] is a little easier to work with than Node's standard `fs` library for file handling
-- [`path`][] is no [`pathlib`][] — heck it's barely even [`os.path`][] — but it's better than trusting my own string-splitting and reassembly
+- [`fs-plus`][] is a little easier to work with than Node's standard `fs`
+  library for file handling
+- [`path`][] is no [`pathlib`][] — heck it's barely even [`os.path`][] — but
+  it's better than trusting my own string-splitting and reassembly
 - [`sass`][] of course; these *are* Sass files
 
 I know exactly which files I want to read and write. Let's define those as constant.

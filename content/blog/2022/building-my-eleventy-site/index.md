@@ -76,8 +76,8 @@ Here are my core scripts / tasks:
 Build, develop, clean, upload. All the basics are there. I don't think
 `package.json` *really* has namespaces, but I use `:` to pretend.
 
-
 {% note() %}
+
 [eleventy-img]: https://www.11ty.dev/docs/plugins/image/
 
 I have a few more entries but until I smooth them out a bit they'll just add

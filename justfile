@@ -7,6 +7,12 @@ images:
 build:
 	zola build
 
+lint:
+	markdownlint './content/blog/**/*.md'
+
+lintcount:
+	markdownlint './content/blog/**/*.md' 2>&1 > /dev/null | wc -l
+
 pip:
 	pip install -r requirements.txt
 

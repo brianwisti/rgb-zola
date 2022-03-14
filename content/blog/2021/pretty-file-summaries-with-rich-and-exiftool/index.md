@@ -19,22 +19,24 @@ path = "cover.jpg"
 
 +++
 
-A while back I [shared][] how I use [ExifTool][exiftool] to get extensive metadata for any
-file.  I want to make that info dump pretty with [Rich][rich], a text formatting
-library for [Python][python].
+A while back I [shared][] how I use [ExifTool][exiftool] to get extensive
+metadata for any file.  I want to make that info dump pretty with [Rich][rich],
+a text formatting library for [Python][python].
 
-"But Brian,"" I hear you cry.  "ExifTool is [Perl][perl]. Why would I want to use both
-Perl and Python?"
+"But Brian," I hear you cry.  "ExifTool is [Perl][perl]. Why would I want to
+use both Perl and Python?"
 
 Because it’s fun, obviously.
 
 You want a "real" reason?  Okay fine.  I haven’t found anything that can get
 the depth of file information I get from ExifTool.  I haven’t found a
-formatting library that’s as pleasant to use as Rich — maybe [TTY Toolkit][tty-toolkit]?
+formatting library that’s as pleasant to use as Rich — maybe [TTY
+Toolkit][tty-toolkit]?
 
 Besides — ExifTool is a standalone command line tool.  We don’t need to write
 any Perl to *use* it.  Heck, we don’t even need to figure out the system calls.
-[Sven Marnach][sven-marnach] is way ahead of us with the extremely helpful [pyexiftool][].
+[Sven Marnach][sven-marnach] is way ahead of us with the extremely helpful
+[pyexiftool][].
 
 Rich and pyexiftool make Python an easy choice for this task.
 
@@ -42,15 +44,20 @@ Rich and pyexiftool make Python an easy choice for this task.
 
 If you want to play along at home, make sure you have the dependencies.
 
-    $ brew install exiftool
-    $ pip install pyexiftool rich typer
+```bash
+brew install exiftool
+pip install pyexiftool rich typer
+```
 
 [Typer][typer] simplifies turning this random idea into a useful command line tool.
 
 {% note() %}
-If you’re already a fan of Perl, consider [`cpanm`][cpanm] instead of [Homebrew][homebrew].
+If you’re already a fan of Perl, consider [`cpanm`][cpanm] instead of
+[Homebrew][homebrew].
 
-    $ cpanm Image::ExifTool
+```bash
+cpanm Image::ExifTool
+```
 
 Now you can use [Image::ExifTool][image-exiftool] in your own Perl projects.
 
@@ -59,13 +66,14 @@ Now you can use [Image::ExifTool][image-exiftool] in your own Perl projects.
 [image-exiftool]: https://metacpan.org/pod/distribution/Image-ExifTool/lib/Image/ExifTool.pod
 {% end %}
 
-
 ## Some scaffolding
 
 Even though I’m the only user, I still need to figure out how I plan to use it.
 At minimum?  I hand my script a filename.  It hands me metadata.
 
-    richexif FILENAME [OPTIONS]
+```text
+richexif FILENAME [OPTIONS]
+```
 
 I can hook some [minimal][] Typer argument handling around that flow.
 
@@ -92,16 +100,20 @@ def main(filename: str):
 
 Can I run it?
 
-    $ chmod 755 richexif.py
-    ./richexif.py hoku-hopes-for-snacksjpg.jpg
+```console
+$ chmod 755 richexif.py
+./richexif.py hoku-hopes-for-snacksjpg.jpg
+```
 
 I can!  What happens if I use it wrong?
 
-    $ ./richexif.py
-    Usage: richexif.py [OPTIONS] FILENAME
-    Try 'richexif.py --help' for help.
+```console
+$ ./richexif.py
+Usage: richexif.py [OPTIONS] FILENAME
+Try 'richexif.py --help' for help.
 
-    Error: Missing argument 'FILENAME'.
+Error: Missing argument 'FILENAME'.
+```
 
 I get an error message telling me what `richexif.py` needs to do its thing.
 Nice.
@@ -109,14 +121,14 @@ Nice.
 I confirmed that Typer handles the CLI bits, and Rich handles the formatting.
 Now for pyexiftool.
 
-Oh and I’ll skip logging output from here on.  Rich’s [logging handler][logging] output
-is a joy to look at, but really that stuff is for me.  For you it’ll just add
-noise.
+Oh and I’ll skip logging output from here on.  Rich’s [logging
+handler][logging] output is a joy to look at, but really that stuff is for me.
+For you it’ll just add noise.
 
 ## Some metadata
 
-I need exiftool, of course.  Plus a Rich [Console][console] object, masterminding the
-display details for my terminal.
+I need exiftool, of course.  Plus a Rich [Console][console] object,
+masterminding the display details for my terminal.
 
 ```python
 import exiftool
@@ -125,10 +137,10 @@ from rich.console import Console
 console = Console()
 ```
 
-exiftool’s [`get_metadata`][get-metadata] grabs everything ExifTool sees about a file.  It
-also provides methods for ExifTool [tags][], but I won’t mess with them today.
-Tags — the official name for our metadata keys — are most useful when you
-already know what you’re looking for.  We’re just checking stuff out.
+exiftool’s [`get_metadata`][get-metadata] grabs everything ExifTool sees about
+a file.  It also provides methods for ExifTool [tags][], but I won’t mess with
+them today. Tags — the official name for our metadata keys — are most useful
+when you already know what you’re looking for.  We’re just checking stuff out.
 
 For now, a little abstraction layer over pyexiftool’s `ExifTool`.
 
@@ -151,27 +163,47 @@ def main(filename: str):
 And here’s what that looks like.
 
 <pre class="rich"><span style="font-weight: bold">{</span>
-    <span style="color: #008000">'SourceFile'</span>: <span style="color: #008000">'hoku-hopes-for-snacks.jpg'</span>,
-    <span style="color: #008000">'ExifTool:ExifToolVersion'</span>: <span style="color: #000080; font-weight: bold">12.15</span>,
-    <span style="color: #008000">'File:FileName'</span>: <span style="color: #008000">'hoku-hopes-for-snacks.jpg'</span>,
-    <span style="color: #008000">'File:Directory'</span>: <span style="color: #008000">'.'</span>,
-    <span style="color: #008000">'File:FileSize'</span>: <span style="color: #000080; font-weight: bold">918330</span>,
-    <span style="color: #008000">'File:FileModifyDate'</span>: <span style="color: #008000">'2021:02:06 00:54:29-08:00'</span>,
-    <span style="color: #008000">'File:FileAccessDate'</span>: <span style="color: #008000">'2021:02:06 11:30:33-08:00'</span>,
-    <span style="color: #008000">'File:FileInodeChangeDate'</span>: <span style="color: #008000">'2021:02:06 11:30:33-08:00'</span>,
-    <span style="color: #008000">'File:FilePermissions'</span>: <span style="color: #000080; font-weight: bold">775</span>,
-    <span style="color: #008000">'File:FileType'</span>: <span style="color: #008000">'JPEG'</span>,
+    <span style="color: #008000">'SourceFile'</span>: <span
+style="color: #008000">'hoku-hopes-for-snacks.jpg'</span>,
+    <span style="color: #008000">'ExifTool:ExifToolVersion'</span>: <span
+style="color: #000080; font-weight: bold">12.15</span>,
+    <span style="color: #008000">'File:FileName'</span>: <span
+style="color: #008000">'hoku-hopes-for-snacks.jpg'</span>,
+    <span style="color: #008000">'File:Directory'</span>: <span
+style="color: #008000">'.'</span>,
+    <span style="color: #008000">'File:FileSize'</span>: <span
+style="color: #000080; font-weight: bold">918330</span>,
+    <span style="color: #008000">'File:FileModifyDate'</span>: <span
+style="color: #008000">'2021:02:06 00:54:29-08:00'</span>,
+    <span style="color: #008000">'File:FileAccessDate'</span>: <span
+style="color: #008000">'2021:02:06 11:30:33-08:00'</span>,
+    <span style="color: #008000">'File:FileInodeChangeDate'</span>: <span
+style="color: #008000">'2021:02:06 11:30:33-08:00'</span>,
+    <span style="color: #008000">'File:FilePermissions'</span>: <span
+style="color: #000080; font-weight: bold">775</span>,
+    <span style="color: #008000">'File:FileType'</span>: <span
+style="color: #008000">'JPEG'</span>,
     <em>…skipping 62 lines…</em>
-    <span style="color: #008000">'Composite:ScaleFactor35efl'</span>: <span style="color: #000080; font-weight: bold">6.04651162790698</span>,
-    <span style="color: #008000">'Composite:ShutterSpeed'</span>: <span style="color: #000080; font-weight: bold">0.05</span>,
-    <span style="color: #008000">'Composite:GPSLatitude'</span>: <span style="color: #000080; font-weight: bold">47.5750857997222</span>,
-    <span style="color: #008000">'Composite:GPSLongitude'</span>: <span style="color: #000080; font-weight: bold">-122.386441</span>,
-    <span style="color: #008000">'Composite:CircleOfConfusion'</span>: <span style="color: #008000">'0.00496918925785101'</span>,
-    <span style="color: #008000">'Composite:FOV'</span>: <span style="color: #000080; font-weight: bold">69.3903656740024</span>,
-    <span style="color: #008000">'Composite:FocalLength35efl'</span>: <span style="color: #000080; font-weight: bold">26</span>,
-    <span style="color: #008000">'Composite:GPSPosition'</span>: <span style="color: #008000">'47.5750857997222 -122.386441'</span>,
-    <span style="color: #008000">'Composite:HyperfocalDistance'</span>: <span style="color: #000080; font-weight: bold">2.48061927751922</span>,
-    <span style="color: #008000">'Composite:LightValue'</span>: <span style="color: #000080; font-weight: bold">3.81378119121704</span>
+    <span style="color: #008000">'Composite:ScaleFactor35efl'</span>: <span
+style="color: #000080; font-weight: bold">6.04651162790698</span>,
+    <span style="color: #008000">'Composite:ShutterSpeed'</span>: <span
+style="color: #000080; font-weight: bold">0.05</span>,
+    <span style="color: #008000">'Composite:GPSLatitude'</span>: <span
+style="color: #000080; font-weight: bold">47.5750857997222</span>,
+    <span style="color: #008000">'Composite:GPSLongitude'</span>: <span
+style="color: #000080; font-weight: bold">-122.386441</span>,
+    <span style="color: #008000">'Composite:CircleOfConfusion'</span>: <span
+style="color: #008000">'0.00496918925785101'</span>,
+    <span style="color: #008000">'Composite:FOV'</span>: <span
+style="color: #000080; font-weight: bold">69.3903656740024</span>,
+    <span style="color: #008000">'Composite:FocalLength35efl'</span>: <span
+style="color: #000080; font-weight: bold">26</span>,
+    <span style="color: #008000">'Composite:GPSPosition'</span>: <span
+style="color: #008000">'47.5750857997222 -122.386441'</span>,
+    <span style="color: #008000">'Composite:HyperfocalDistance'</span>: <span
+style="color: #000080; font-weight: bold">2.48061927751922</span>,
+    <span style="color: #008000">'Composite:LightValue'</span>: <span
+style="color: #000080; font-weight: bold">3.81378119121704</span>
 <span style="font-weight: bold">}</span>
 </pre>
 
@@ -224,21 +256,32 @@ gets us everything.
 
 Try it out!
 
-    $ ./richexif.py hoku-hopes-for-snacks.jpg --filter=Image
+```bash
+./richexif.py hoku-hopes-for-snacks.jpg --filter=Image
+```
 
 Now that I’m not overwhelmed by the quantity of output, I’m a little
 underwhelmed by the quality.
 
 <pre class="rich"><span style="font-weight: bold">{</span>
-    <span style="color: #008000">'File:ImageWidth'</span>: <span style="color: #000080; font-weight: bold">3672</span>,
-    <span style="color: #008000">'File:ImageHeight'</span>: <span style="color: #000080; font-weight: bold">2066</span>,
-    <span style="color: #008000">'EXIF:ImageWidth'</span>: <span style="color: #000080; font-weight: bold">4032</span>,
-    <span style="color: #008000">'EXIF:ImageHeight'</span>: <span style="color: #000080; font-weight: bold">2268</span>,
-    <span style="color: #008000">'EXIF:ExifImageWidth'</span>: <span style="color: #000080; font-weight: bold">4032</span>,
-    <span style="color: #008000">'EXIF:ExifImageHeight'</span>: <span style="color: #000080; font-weight: bold">2268</span>,
-    <span style="color: #008000">'EXIF:ImageUniqueID'</span>: <span style="color: #008000">'J12LLKL00SM'</span>,
-    <span style="color: #008000">'EXIF:ThumbnailImage'</span>: <span style="color: #008000">'(Binary data 6788 bytes, use -b option to extract)'</span>,
-    <span style="color: #008000">'Composite:ImageSize'</span>: <span style="color: #008000">'3672 2066'</span>
+    <span style="color: #008000">'File:ImageWidth'</span>: <span
+style="color: #000080; font-weight: bold">3672</span>,
+    <span style="color: #008000">'File:ImageHeight'</span>: <span
+style="color: #000080; font-weight: bold">2066</span>,
+    <span style="color: #008000">'EXIF:ImageWidth'</span>: <span
+style="color: #000080; font-weight: bold">4032</span>,
+    <span style="color: #008000">'EXIF:ImageHeight'</span>: <span
+style="color: #000080; font-weight: bold">2268</span>,
+    <span style="color: #008000">'EXIF:ExifImageWidth'</span>: <span
+style="color: #000080; font-weight: bold">4032</span>,
+    <span style="color: #008000">'EXIF:ExifImageHeight'</span>: <span
+style="color: #000080; font-weight: bold">2268</span>,
+    <span style="color: #008000">'EXIF:ImageUniqueID'</span>: <span
+style="color: #008000">'J12LLKL00SM'</span>,
+    <span style="color: #008000">'EXIF:ThumbnailImage'</span>: <span
+style="color: #008000">'(Binary data 6788 bytes, use -b option to extract)'</span>,
+    <span style="color: #008000">'Composite:ImageSize'</span>: <span
+style="color: #008000">'3672 2066'</span>
 <span style="font-weight: bold">}</span></pre>
 
 It’s nice.  Don’t get me wrong.  But all we’ve added to default `exiftool`
@@ -246,7 +289,7 @@ behavior is some color.
 
 I’ve played with Rich a bit.  I know we can do better.
 
-## A metadata table!
+## A metadata table
 
 Rich lets us create and display [tables][] in the terminal.
 
@@ -287,11 +330,16 @@ def main(...):
 
 What does our filtered view look like as a table?
 
-    $ ./richexif.py hoku-hopes-for-snacksjpg.jpg --filter=Image
+```bash
+./richexif.py hoku-hopes-for-snacksjpg.jpg --filter=Image
+```
 
-<pre class="rich"><span style="font-style: italic">                        hoku-hopes-for-snacksjpg.jpg                         </span>
+<pre class="rich"><span style="font-style: italic"
+>                        hoku-hopes-for-snacksjpg.jpg                         </span>
 ┏━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃<span style="font-weight: bold"> Field                </span>┃<span style="font-weight: bold"> Value                                              </span>┃
+┃<span style="font-weight: bold"> Field                </span>┃<span
+style="font-weight: bold"
+> Value                                              </span>┃
 ┡━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
 │ File:ImageWidth      │ 3672                                               │
 │ File:ImageHeight     │ 2066                                               │
@@ -307,7 +355,7 @@ What does our filtered view look like as a table?
 
 Pretty nifty.
 
-## A metadata tree!
+## A metadata tree
 
 We can do more than tables though.  with that `type:tag` split, there's kind
 of a heirarchy.  We *could* add a column for the tag type, but why not use a
@@ -392,7 +440,9 @@ def main(
 
 Okay!  What do we have now?
 
-    $ ./richexif.py hoku-hopes-for-snacks.jpg --filter=Image --display=tree
+```bash
+./richexif.py hoku-hopes-for-snacks.jpg --filter=Image --display=tree
+```
 
 <pre class="rich"><span style="font-weight: bold">hoku-hopes-for-snacks.jpg</span>
 ├── <span style="font-weight: bold">File</span>
@@ -404,7 +454,8 @@ Okay!  What do we have now?
 │   ├── <span style="font-style: italic">ExifImageWidth:</span> 4032
 │   ├── <span style="font-style: italic">ExifImageHeight:</span> 2268
 │   ├── <span style="font-style: italic">ImageUniqueID:</span> J12LLKL00SM
-│   └── <span style="font-style: italic">ThumbnailImage:</span> (Binary data 6788 bytes, use -b option to extract)
+│   └── <span style="font-style: italic"
+>ThumbnailImage:</span> (Binary data 6788 bytes, use -b option to extract)
 └── <span style="font-weight: bold">Composite</span>
     └── <span style="font-style: italic">ImageSize:</span> 3672 2066
 </pre>

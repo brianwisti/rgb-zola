@@ -14,7 +14,6 @@ path = "cover.png"
 caption = "study mode with Okular and Logseq"
 
 +++
-
 Took part in the crowdsource thing for *Domesticate Your Badgers: Become a
 Better Writer Through Deliberate Practice* by [Michael Warren Lucas][].
 Now I got my PDF and it's time to start studying.

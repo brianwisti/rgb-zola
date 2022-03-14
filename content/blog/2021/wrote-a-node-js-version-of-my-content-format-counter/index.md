@@ -109,9 +109,10 @@ I'm only now attempting to use the platform with any kind of seriousness, so I
 apologize if there's anything in there that's not quite idiomatic.
 
 I grabbed [glob][glob] to simplify the task of recursively drilling down into
-`content/`. [`Array.reduce`][array-reduce] helps me count files matching each of my content
-extensions, then construct an object with those tallies. Since [`Console.table`][console-table]
-comes standard, I didn't need to dig for any formatting libraries today.
+`content/`. [`Array.reduce`][array-reduce] helps me count files matching each
+of my content extensions, then construct an object with those tallies. Since
+[`Console.table`][console-table] comes standard, I didn't need to dig for any
+formatting libraries today.
 
 Though I might later for a little more control over display.
 

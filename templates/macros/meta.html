@@ -19,7 +19,7 @@
     <section class="flex flex-between">
       {% if article.date %}
         {{ blog::date_stamp(value=article.date) }}
-      {%  endif %}
+      {% endif %}
       {% if taxonomies %}
         {% for category in taxonomies.category %}
           {{ link::for_category(category_name=category) }}

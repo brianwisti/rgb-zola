@@ -25,8 +25,7 @@ Started from [this post] and leaned on the _hyperscript to tie some bits togethe
 
 [GatsbyJS]: https://www.gatsbyjs.com/
 
-And yeah I'm back on Hugo.
-Spent so much time in the last couple weeks touching up the static repo and ignoring the Statamic live site.
-Decided not to fight it.
-Anyways, now that I started clearly the logical next step will be [GatsbyJS].
-For flexible values of "logical."
+And yeah I'm back on Hugo. Spent so much time in the last couple weeks touching
+up the static repo and ignoring the Statamic live site. Decided not to fight
+it. Anyways, now that I started clearly the logical next step will be
+[GatsbyJS]. For flexible values of "logical."

@@ -18,7 +18,7 @@ url = "https://www.w3.org/TR/wcag-3.0/"
 
 [WACG21]: https://www.w3.org/TR/WCAG21/
 
-I managed to read my way through earlier versions of the Web Accessibility Guidelines —
-[WACG21] specifically —
-but it was a bit of a slog.
-The new version with its promises of approachability goes straight to the top of my read list.
+I managed to read my way through earlier versions of the Web Accessibility
+Guidelines — [WACG21] specifically — but it was a bit of a slog. The new
+version with its promises of approachability goes straight to the top of my
+read list.

@@ -16,13 +16,14 @@ path = "cover.jpg"
 caption = "a baby possum!"
 
 +++
-
 [thinking]: /post/2019/04/eleventy/
 [Eleventy]: https://11ty.dev
 
 Finally ported enough of my site to [Eleventy][] that I feel like making it
 live. It's only been two and a half years since I started [thinking][] about
 this. Why rush into things, right?
+
+<!--more-->
 
 ## But why?
 
