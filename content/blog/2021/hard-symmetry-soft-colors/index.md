@@ -10,7 +10,7 @@ category = [ "post",]
 tags = [ "drawing", "color me", "Linea Sketch", "symmetry", "craft",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "intricate patterns drawn in the middle of the night is my jam"

@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "site", "gatsbyjs", "panda geekery",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = ""

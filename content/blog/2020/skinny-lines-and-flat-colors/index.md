@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "drawing", "symmetry", "Infinite Painter",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "and then all of a sudden for no good reason -- **lens flare!**"

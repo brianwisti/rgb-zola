@@ -11,7 +11,7 @@ category = [ "post",]
 tags = [ "emacs", "linux", "info", "Tools",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Emacs Info (zoomed with `text-scale-adjust`)"

@@ -9,7 +9,7 @@ category = [ "post",]
 tags = [ "linux", "cinnamon", "tools",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = ""

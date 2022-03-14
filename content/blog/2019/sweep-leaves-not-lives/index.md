@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "seattle", "graffiti", "art", "homelessness",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Somebody scraped the \"lives\" part off \"sweep leaves not lives\""

@@ -9,7 +9,7 @@ tags = [ "org-config", "site",]
 category = [ "note",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "And we all celebrated"

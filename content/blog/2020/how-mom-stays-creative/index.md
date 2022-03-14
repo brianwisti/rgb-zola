@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "life", "art", "mom", "bad image captions",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "My mom, and her plans"

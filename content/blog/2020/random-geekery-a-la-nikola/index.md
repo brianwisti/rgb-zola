@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "nikola", "site", "having fun", "killing time while scripts run",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = ""

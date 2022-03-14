@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "astro-dot-build", "ssg", "site",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "this time you get a screenshot **and** some links"

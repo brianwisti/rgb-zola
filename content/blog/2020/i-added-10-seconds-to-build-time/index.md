@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "like the tide", "build time go down", "build time go up", "way up", "still feels good", "site",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "the page needs work and so does this screenshot"

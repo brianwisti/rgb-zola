@@ -10,7 +10,7 @@ tags = [ "second brain", "joplin", "shell", "tools",]
 category = [ "post",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Joplin's terminal view of my notebooks"

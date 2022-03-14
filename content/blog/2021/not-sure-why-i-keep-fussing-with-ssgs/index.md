@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "Static Site Generators", "Nikola", "Nanoc", "Spinning Wheels",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = ""

@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "work trip", "trees", "i walked two hours to find a spot with no people", "except all the cars behind me",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Trees against sunset in San Francisco's Presidio"

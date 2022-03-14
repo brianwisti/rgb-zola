@@ -3,7 +3,7 @@ title = "Added an Emacs config based off of nano-emacs"
 date = "2022-02-19 23:30:00-08:00"
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [taxonomies]
 category = [ "note",]

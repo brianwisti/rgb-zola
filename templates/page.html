@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% import "macros/blog.html" as blog %}
+{% import "macros/meta.html" as meta %}
 {% import "macros/link.html" as link %}
 
 {% block title_head %}{{ page.title }} | {{ config.title }}{% endblock %}
@@ -9,52 +10,30 @@
     {% if page.date %}
       {{ blog::timeline(page=page) }}
     {% endif %}
-    <header>
+    <header class="pb-3">
       {% if page.extra.cover_image %}
-        {{ blog::cover_image(cover_image=page.extra.cover_image, page_assets=page.assets) }}
+        {{
+          blog::cover_image(
+            cover_image=page.extra.cover_image,
+            page_assets=page.assets
+          )
+        }}
       {% endif %}
 
       <h1 class="heading-large">{{ page.title }}</h1>
 
-      {% if article.description %}
-        <h2 class="heading-tagline">{{ article.description }}</h6>
+      {% if page.description %}
+        <h2 class="heading-tagline">{{ page.description }}</h6>
       {% endif %}
 
-      <section>
-        {% if page.date %}
-          {{ blog::date_stamp(value=page.date) }}
-        {% endif %}
-        {% set taxonomies = page.taxonomies %}
-
-        {% if taxonomies %}
-          <p>
-          {% for category in taxonomies.category %}
-            {{ link::for_category(category_name=category) }}
-          {% endfor %}
-          </p>
-
-          <p>
-          {% for tag in taxonomies.tags %}
-            {{ link::for_tag(tag_name=tag) }}
-          {% endfor %}
-          </p>
-
-          <p>
-          {% if taxonomies.series %}
-            {% for series in taxonomies.series %}
-              {{ link::for_series(series_name=series) }}
-            {% endfor %}
-          {% endif %}
-          </p>
-        {% endif %}
-      </section>
+      {{ meta::for_article(article=page, verbose=true) }}
     </header>
     {% if page.extra.cite %}
       {% set cite = page.extra.cite %}
       <section class="container-small edges centered">
         <section class="card b-dark-medium bg-light r-base my-6 p-3">
           {% if cite.card %}
-            <div class="card-image image-cover"
+            <div class="card-image image-cover">
               {% for asset in page.assets %}
                 {% if asset is matching(cite.card) %}
                   {% set card_image = resize_image(path=asset, width=600, op="fit_width") %}
@@ -72,7 +51,6 @@
               </a>
             </h2>
 
-
             {% if cite.description %}
               <blockquote>
                 {{ cite.description }}
@@ -88,6 +66,7 @@
         </section>
       </section>
     {% endif %}
+    {{ blog::posse_for(path=page.path) }}
     {{ blog::toc(page=page) }}
     {{ page.content | safe }}
   </article>

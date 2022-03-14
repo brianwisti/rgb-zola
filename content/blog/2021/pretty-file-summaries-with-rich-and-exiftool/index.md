@@ -11,7 +11,7 @@ category = [ "post",]
 tags = [ "files", "python", "perlish", "rich", "exiftool", "Tools",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Hoku hopes for scraps"

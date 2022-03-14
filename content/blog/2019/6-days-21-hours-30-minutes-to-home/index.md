@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "work trip", "homesick", "cozy", "hungry", "better eat something", "besides beef jerky",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Laptop with peripherals from work on table in Victorian style hotel room"

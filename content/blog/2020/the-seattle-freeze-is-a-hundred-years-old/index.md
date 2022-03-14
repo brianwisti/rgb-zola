@@ -10,7 +10,7 @@ category = [ "note",]
 tags = [ "Seattle", "history",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Sometimes there's a literal freeze"

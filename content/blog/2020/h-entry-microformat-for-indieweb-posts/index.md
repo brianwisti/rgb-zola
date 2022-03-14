@@ -10,7 +10,7 @@ category = [ "post",]
 tags = [ "IndieWeb", "microformats", "hugo", "python", "site", "Tools",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "looking at the interpreted microformats for a post, in [bat](https://github.com/sharkdp/bat)"

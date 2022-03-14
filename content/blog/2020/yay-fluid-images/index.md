@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "site", "hugo",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Image unrelated, but isn't it a lovely day?"

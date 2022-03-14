@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "pic", "Seattle", "International District", "posted elsewhere", "needs to be here",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Seattle's Chinatown Gate; King Street Station and Smith Tower behind"

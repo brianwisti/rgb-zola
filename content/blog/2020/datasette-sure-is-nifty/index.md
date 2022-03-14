@@ -9,7 +9,7 @@ tags = [ "python", "data", "ooh a sparkly",]
 category = [ "note",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Datasette showing what sqlite-utils put together"

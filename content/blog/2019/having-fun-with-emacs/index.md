@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "emacs", "ansi-term", "OrgMode", "htop", "overkill",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = ""

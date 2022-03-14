@@ -10,7 +10,7 @@ category = [ "post",]
 tags = [ "ruby", "hugo", "asciidoctor", "site", "don't try this at home", "fine go ahead", "but I warned you", "programming",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "actually really proud of myself but this post needs all the disclaimers"

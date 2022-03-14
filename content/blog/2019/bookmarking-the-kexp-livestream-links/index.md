@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "music", "old school tech", "from a more civilized age", "kexp",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "[KEXP.org 90.3FM Seattle](https://kexp.org)"

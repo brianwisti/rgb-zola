@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "pic", "food", "lunch", "leftovers", "who needs social media",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Chicken stir fry with rice"

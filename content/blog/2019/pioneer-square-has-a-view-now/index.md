@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "Seattle", "spent too long posting this", "got lost in history links",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Sunset view of Puget Sound from Main Street in Seattle"

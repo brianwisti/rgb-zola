@@ -11,7 +11,7 @@ tags = [ "shell", "joplin", "Raku Lang", "second brain", "tools",]
 series = [ "Journaling in Joplin With Raku",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "the formatted output of my journal-reading one-liner"

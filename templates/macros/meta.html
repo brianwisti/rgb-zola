@@ -3,7 +3,7 @@
 {% import "macros/blog.html" as blog %}
 {% import "macros/link.html" as link %}
 
-{% macro for_article(article, verbose=true) %}
+{% macro for_article(article, verbose=false) %}
   {% set taxonomies = article.taxonomies %}
 
   <section>
@@ -17,14 +17,29 @@
     {% endif %}
 
     <section class="flex flex-between">
-      {{ blog::date_stamp(value=article.date) }}
+      {% if article.date %}
+        {{ blog::date_stamp(value=article.date) }}
+      {%  endif %}
       {% if taxonomies %}
         {% for category in taxonomies.category %}
           {{ link::for_category(category_name=category) }}
         {% endfor %}
       {% endif %}
     </section>
-  </section>
+
+    {% if verbose %}
+      <section class="flex flex-between">
+        {% if taxonomies %}
+          {% if taxonomies.series %}
+            <p>
+              {% for series in taxonomies.series %}
+                {{ link::for_series(series_name=series) }}
+              {% endfor %}
+            </p>
+          {% endif %}
+        {% endif %}
+      </section>
+    {% endif %}
 {% endmacro %}
 
 {% macro for_subsection(subsection) %}

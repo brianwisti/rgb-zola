@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "toread", "pragprog", "Raku Lang", "perl6", "i need to read faster",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = ""

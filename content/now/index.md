@@ -6,7 +6,7 @@ updated = "2021-08-21 00:00:00-07:00"
 draft = false
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Barry enjoys video games, especially colony simulators"

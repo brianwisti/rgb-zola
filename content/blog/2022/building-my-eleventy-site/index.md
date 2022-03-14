@@ -5,7 +5,7 @@ description = "something something \"right tool for the right job\""
 draft = false
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [taxonomies]
 category = [ "post",]

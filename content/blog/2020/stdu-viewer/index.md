@@ -10,7 +10,7 @@ category = [ "post",]
 tags = [ "windows", "tools",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Knitting pattern for Ajeng Sioresmi's [Everyday Face Mask](https://www.ravelry.com/patterns/library/everyday-face-mask)"
