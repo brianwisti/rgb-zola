@@ -39,7 +39,7 @@ challenge of Mount Rainier. I never thought of smaller mountains such as
 Mount Si. They challenge desk-bound people like myself but can still be
 done as a single day trip.
 
-Oh, you pronounce "Si" as "sigh" — not "see."
+Oh, you pronounce "Si" as "sigh" — not "see."
 
 ## Getting there
 
@@ -54,9 +54,10 @@ I abandoned Google Maps and found the trail proper a little further up
 the (public) road. You want to keep your eyes peeled. The sign for the
 trail is easy to miss if you don’t know the area.
 
-Don’t forget about your [Discover Pass](http://discoverpass.wa.gov/)\!
-You need one to use the official parking spots, and there’s no public
-parking anywhere near the trail.
+Don’t forget about your [Discover Pass][discover-pass]! You need one to use the official
+parking spots, and there’s no public parking anywhere near the trail.
+
+[discover-pass]: https://discoverpass.wa.gov
 
 I admit it. I forgot about the pass. Fortunately, you can purchase one
 at the Ace Hardware in North Bend.

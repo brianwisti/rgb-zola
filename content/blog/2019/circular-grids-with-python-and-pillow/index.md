@@ -18,39 +18,42 @@ path = "cover.png"
 
 +++
 
-A while back, I wrote about [drawing
-grids](/post/2017/11/drawing-grids-with-python-and-pillow/) with
-[Python](https://www.python.org/) and
-[Pillow](https://python-pillow.org/). I no longer use that code so much,
-since [Procreate](/tags/procreate) now includes square grids in its
-drawing aid tools.
+A while back, I wrote about [drawing grids][pil-grids] with [Python][python] and
+[Pillow][pillow]. I no longer use that code so much, since [Procreate][procrate] now
+includes square grids in its drawing aid tools.
 
-One idea sitting in my [Taskwarrior](/tags/taskwarrior) queue for a full
-year now would still be useful, though. A circle template could help me
-break out of the square grid with my [Celtic](/tags/celtic) and
-[Tangle](/tags/zentangle) drawings.
+[pil-grids]: /post/2017/11/drawing-grids-with-python-and-pillow/
+[python]: https://python.org
+[pillow]: https://python-pillow.org
+[procreate]: /tags/procreate
 
-I already create circular drawings using symmetry tools in my drawing
-apps. Those are doodles, though: unplanned and improvised. I sketch and
-see what the automated symmetry produces from my linework. Circle
-templates simplify *planning* a complex image which I then produce,
-probably without using symmetry tools.
+One idea sitting in my [Taskwarrior][taskwarrior] queue for a full year now would still
+be useful, though. A circle template could help me break out of the square grid with my
+[Celtic][celtic] and [Tangle][zentangle] drawings.
+
+[taskwarrior]: /tags/taskwarrior
+[celtic]: /tags/celtic
+[zentangle]: /tags/zentangle
+
+I already create circular drawings using symmetry tools in my drawing apps. Those are
+doodles, though: unplanned and improvised. I sketch and see what the automated symmetry
+produces from my linework. Circle templates simplify *planning* a complex image which I
+then produce, probably without using symmetry tools.
 
 So, let’s write a little code!
 
-I’ll keep using Python, since that worked for me last time. Lately I
-have been using the [Anaconda
-Distribution](https://www.anaconda.com/download/) for my Python
-programming needs. It includes a number of [Python
-packages](https://docs.anaconda.com/anaconda/packages/py3.7_linux-64/),
-including Pillow\!
+I’ll keep using Python, since that worked for me last time. Lately I have been using the
+[Anaconda Distribution][anaconda] for my Python programming needs. It includes a number
+of [Python packages][anaconda-pkgs], including Pillow!
+
+[anaconda]: https://www.anaconda.com/download/
+[anaconda-pkgs]: https://docs.anaconda.com/anaconda/packages/py3.7_linux-64/
 
 My template includes three characteristics:
 
 - an origin in the center of my square image
 - some concentric circles increasing in radius by a fixed amount
-- some line segments slicing the image from the origin point to the
-  outermost circle
+- some line segments slicing the image from the origin point to the outermost circle
 
 ## Write some code
 
@@ -58,9 +61,7 @@ I will save myself effort by grabbing some of the work used for drawing
 grids and putting into a new class.
 
 ``` python
-"""
-Utility script to draw concentric circle templates for drawing
-"""
+"""Utility script to draw concentric circle templates for drawing"""
 
 import argparse
 
@@ -69,6 +70,7 @@ from PIL import Image, ImageDraw
 DEFAULT_SIZE = 600
 DEFAULT_CIRCLES = 10
 DEFAULT_SLICES = 12
+
 
 class CircleTemplate:
     """
@@ -82,13 +84,16 @@ class CircleTemplate:
 
     def save(self):
         """Write my circle template image to file"""
-        filename = "circle-{}-{}-{}.png".format(self.size, self.circle_count, self.slice_count)
+        filename = "circle-{}-{}-{}.png".format(
+            self.size, self.circle_count, self.slice_count
+        )
         print("Saving {}".format(filename))
         self.image.save(filename)
 
     def show(self):
         """Display my circle template image on screen"""
         self.image.show()
+
 
 def main():
     """Create a circle template from command line options"""
@@ -111,11 +116,12 @@ if __name__ == '__main__':
     main()
 ```
 
-My `CircleTemplate` class knows how to construct, save, and show a blank
-image. [argparse](https://docs.python.org/3/library/argparse.html)
-processes the command line arguments for image size, number of circles,
-and number of slices. I added defaults so I don’t have to type in a
-value every time I tested the script for this post.
+My `CircleTemplate` class knows how to construct, save, and show a blank image.
+[argparse][argparse] processes the command line arguments for image size, number of
+circles, and number of slices. I added defaults so I don’t have to type in a value every
+time I tested the script for this post.
+
+[argparse]: https://docs.python.org/3/library/argparse.html
 
 I can build on this framework. Time to fill in the blanks.
 
@@ -155,25 +161,27 @@ class CircleTemplate:
             draw.arc(bounding_box, 0, 360)
 ```
 
-I need to figure out my origin, the center for my circles and slices.
-Since the image is a square, it will be the same along both the X and Y
-axes. This means I only need to calculate a single midpoint.
+I need to figure out my origin, the center for my circles and slices. Since the image is
+a square, it will be the same along both the X and Y axes. This means I only need to
+calculate a single midpoint.
 
 Each time we move on to a new radius,
-[ImageDraw.arc](https://pillow.readthedocs.io/en/stable/reference/ImageDraw.html#PIL.ImageDraw.PIL.ImageDraw.ImageDraw.arc)
-creates a circle by drawing a 360 degree arc within `bounding_box`, a
-square that extends `radius` pixels from a midpoint along the `x` and
+[ImageDraw.arc][arc] creates a circle by drawing a 360 degree arc within
+`bounding_box`, a square that extends `radius` pixels from a midpoint along the `x` and
 `y` axes.
+
+[arc]: https://pillow.readthedocs.io/en/stable/reference/ImageDraw.html#PIL.ImageDraw.ImageDraw.arc
 
 ![Concentric circles](circle-600-10-0.png)
 
 ## Add some pie slices
 
-Right. I could do some moderately clever math to calculate angles and
-draw lines from the midpoint, *or* I could use the existing
-[ImageDraw.pieslice](https://pillow.readthedocs.io/en/stable/reference/ImageDraw.html#PIL.ImageDraw.PIL.ImageDraw.ImageDraw.pieslice)
-method to accomplish pretty much the same thing. If you read the section
-title, you can probably guess what I chose.
+Right. I could do some moderately clever math to calculate angles and draw lines from
+the midpoint, *or* I could use the existing [ImageDraw.pieslice][pieslice] method to
+accomplish pretty much the same thing. If you read the section title, you can probably
+guess what I chose.
+
+[pieslice]: https://pillow.readthedocs.io/en/stable/reference/ImageDraw.html#PIL.ImageDraw.PIL.ImageDraw.ImageDraw.pieslice
 
 ``` python
 class CircleTemplate:
@@ -217,9 +225,9 @@ class CircleTemplate:
             draw.pieslice(pie_box, start_angle, end_angle)
 ```
 
-I’m dividing the 360 degrees of a circle into slice\_count pieces.
-`ImageDraw.pieslice` draws a tidy wedge at the angles we give it fitting
-the bounding box defined by my largest circle.
+I’m dividing the 360 degrees of a circle into `slice_count` pieces. `ImageDraw.pieslice`
+draws a tidy wedge at the angles we give it fitting the bounding box defined by my
+largest circle.
 
 How does that look?
 
@@ -227,8 +235,7 @@ How does that look?
 
 It looks pretty cool.
 
-I need more circles and slices for the drawings I’m thinking of, though.
-Many more.
+I need more circles and slices for the drawings I’m thinking of, though. Many more.
 
 ``` console
 $ python3 circle_template.py --circles=30 --slices=36
@@ -239,9 +246,9 @@ Yes, that’s more like it.
 
 ![Generated circle template](circle-600-30-36.png)
 
-This is all I need for a drawing template. Using transformation tools
-and the right blending modes, I can manuever and manipulate my grid
-however I need for a drawing template\!
+This is all I need for a drawing template. Using transformation tools and the right
+blending modes, I can manuever and manipulate my grid however I need for a drawing
+template!
 
 ![template prepared for drawing](three-circle-template.png)
 
