@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "indieweb", "blogging", "community", "warm fuzzies", "boomstick",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "my photoshop masterpiece that lost its context years ago"

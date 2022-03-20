@@ -10,7 +10,7 @@ tags = [ "taskwarrior", "tools",]
 series = [ "Taskwarrior Babysteps",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "`task` report with a column showing priority levels"

@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "IndieWeb",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Can't throw the YAPC::NA shirt away yet. Hasn't worn through completely yet."

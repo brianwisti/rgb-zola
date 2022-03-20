@@ -9,7 +9,7 @@ tags = [ "look", "kitties", "cuteness",]
 category = [ "note",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "the cats help identify orphan nodes in an Obsidian.md vault graph"

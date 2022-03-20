@@ -10,7 +10,7 @@ category = [ "post",]
 tags = [ "linux", "security", "Tools",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "[XKCD 936](https://xkcd.com/936/) _([CC BY-NC 2.5](https://xkcd.com/license.html))_"

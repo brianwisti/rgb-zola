@@ -12,7 +12,7 @@ series = [ "Journaling in Joplin With Raku",]
 tags = [ "Raku Lang", "joplin", "shell", "programming",]
 
 [extra]
-card = "_card.webp" #_
+card = "social_card.webp"
 
 [extra.cover_image]
 path = "cover.png"
@@ -251,7 +251,7 @@ sub filtered-entries(Str $date-funnel) {
 }
 ```
 
-Getting today's entries then becomes a matter of extracting a yyyy-mm-dd`
+Getting today's entries then becomes a matter of extracting a `yyyy-mm-dd`
 string from the ever-so-helpful DateTime.
 
 ``` raku

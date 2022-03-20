@@ -3,7 +3,7 @@ title = "Time to start reading Domesticate Your Badgers"
 date = "2022-01-20 22:00:00-08:00"
 
 [extra]
-card = "_card.webp" #_
+card = "social_card.webp"
 
 [taxonomies]
 category = [ "post",]

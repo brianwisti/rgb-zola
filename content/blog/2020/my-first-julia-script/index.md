@@ -10,7 +10,7 @@ category = [ "post",]
 tags = [ "JuliaLang", "LiterateProgramming", "LiterateBlogging", "Site", "Programming",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Drawn with [Luxor.jl](http://juliagraphics.github.io/Luxor.jl/stable/)"

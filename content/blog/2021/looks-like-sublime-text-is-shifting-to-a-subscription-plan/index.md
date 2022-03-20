@@ -10,7 +10,7 @@ tags = [ "editors", "sublime text", "tools",]
 category = [ "post",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Yesterday's dev build plus [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon)"

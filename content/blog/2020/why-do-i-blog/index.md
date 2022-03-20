@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "why", "blog", "drawing", "reply", "but not a proper indieweb reply", "sorry",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "searched my image library for \"why\" and got this old doodle"

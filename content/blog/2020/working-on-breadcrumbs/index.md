@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "life", "work", "site",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "once again, the pic is irrelevant but Jumpy Dog sure is cute"

@@ -11,7 +11,7 @@ series = [ "Journaling in Joplin With Raku",]
 category = [ "post",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 path = "regex-anchors.jpg"

@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "notes", "I fixed it!", "mastodon", "toot", "toot toot",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Image via https://joinmastodon.org/"

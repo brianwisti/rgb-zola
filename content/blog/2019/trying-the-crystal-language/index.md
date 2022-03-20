@@ -11,7 +11,7 @@ category = [ "post",]
 tags = [ "crystal", "taskwarrior", "Programming",]
 
 [extra]
-card = "_card.webp" #_
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = ""

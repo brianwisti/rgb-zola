@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "drawing", "linea-sketch", "symmetry", "site",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "I do love the fairyfloss color scheme"

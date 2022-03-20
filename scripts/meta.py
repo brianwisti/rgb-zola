@@ -27,7 +27,7 @@ def generate_card_for_cover(cover_path: Path) -> Path:
     image = cast(
         pyvips.Image, pyvips.Image.new_from_file(str(cover_path), access="sequential")
     )
-    card_name = f"_card.webp"
+    card_name = f"social_card.webp"
     card_path = cover_path.parent / card_name
     # Check if the card exists
     # - and is newer than the cover

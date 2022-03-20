@@ -11,7 +11,7 @@ category = [ "post",]
 tags = [ "emacs", "shell", "OrgMode", "OrgConfig", "tools",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = ""

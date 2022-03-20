@@ -1,5 +1,5 @@
 +++
-title = "Installing Emacs Documentation on POP!_os"
+title = "Installing Emacs Documentation on Pop OS"
 description = "Apt spells \"emacs core docs\" as \"emacs-common-non-dfsg\"."
 date = "2019-12-01 11:11:00-08:00"
 updated = "2019-12-01 11:30:44-08:00"
@@ -11,7 +11,7 @@ category = [ "post",]
 tags = [ "emacs", "linux", "info", "Tools",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Emacs Info (zoomed with `text-scale-adjust`)"
@@ -26,19 +26,22 @@ management? Trying to find the built-in documentation so you can read it
 without going online? Install
 [`emacs-common-non-dfsg`](https://packages.debian.org/jessie/emacs24-common-non-dfsg).
 
-    $ sudo apt install emacs-common-non-dfsg
+```bash
+sudo apt install emacs-common-non-dfsg
+```
 
-It’s a license thing. The [GNU Project](https://www.gnu.org/)
-distributes the core
-[Emacs](https://www.gnu.org/software/emacs/#Manuals) documentation under
-the [GNU Free Documentation
-License](https://www.gnu.org/licenses/fdl-1.3.html).
-[Debian](https://www.debian.org/) decided [years
-ago](https://www.debian.org/vote/2006/vote%5F001) that the GFDL didn’t
-meet the [Debian Free Software
-Guidelines](https://www.debian.org/social%5Fcontract#guidelines). It’s
-still available – in the non-free repo – though they gave it a name I’ll
-never remember unless I write it down somewhere.
+It’s a license thing. The [GNU Project][gnu] distributes the core Emacs
+[documentation][documentation] under the [GNU Free Documentation License][fdl].
+[Debian][debian] decided [years ago][deb-vote] that the GFDL didn’t meet the [Debian
+Free Software Guidelines][guidelines]. It’s still available – in the non-free repo –
+though they gave it a name I’ll never remember unless I write it down somewhere.
+
+[gnu]: https://www.gnu.org/
+[documentation]: https://www.gnu.org/software/emacs/documentation.html
+[fdl]: https://www.gnu.org/licenses/fdl-1.3.html
+[debian]: https://www.debian.org/
+[deb-vote]: https://www.debian.org/vote/2006/vote%5F001
+[guidelines]: https://www.debian.org/social%5Fcontract#guidelines
 
 That decision has rippled down over the years. Even though I haven’t
 used Debian since the early 2000’s, I needed to know it today. Okay I

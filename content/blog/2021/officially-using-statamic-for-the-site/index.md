@@ -10,7 +10,7 @@ category = [ "post",]
 tags = [ "site", "statamic", "cause it's there", "my brand", "Oooh a sparkly",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Hey look it's a Web page, but with Statamic!"

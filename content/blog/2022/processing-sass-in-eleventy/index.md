@@ -6,7 +6,7 @@ description = "Specifically, building `main.scss` when `_base.scss` changes"
 draft = false
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [taxonomies]
 category = [ "post",]

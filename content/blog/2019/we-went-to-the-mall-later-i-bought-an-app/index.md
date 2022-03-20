@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "iOS", "notes", "windows", "no the other kind", "the ones you write", "notebooks", "yeah those",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "GoodNotes screenshot"

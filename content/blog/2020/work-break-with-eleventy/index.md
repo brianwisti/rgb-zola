@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "eleventy", "site",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "cover images work!"

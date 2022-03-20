@@ -11,7 +11,7 @@ tags = [ "perl", "reply", "mojolicious", "tools",]
 series = [ "The Reply Perl REPL",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = ""

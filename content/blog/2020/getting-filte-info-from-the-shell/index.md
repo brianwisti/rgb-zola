@@ -10,7 +10,7 @@ category = [ "post",]
 tags = [ "files", "shell", "exiftool", "tools",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "also, it is time to vacuum my desk again"

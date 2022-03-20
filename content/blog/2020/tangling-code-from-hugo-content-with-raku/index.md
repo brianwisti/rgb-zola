@@ -11,7 +11,7 @@ category = [ "post",]
 tags = [ "Raku Lang", "LiterateProgramming", "Files", "Hugo", "SortOf", "programming",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "You know what else I can tangle? Yarn!"

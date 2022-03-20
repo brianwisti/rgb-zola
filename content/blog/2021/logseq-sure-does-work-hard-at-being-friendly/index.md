@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "logseq",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "This note in Logseq document mode, using the [Bonofix](https://github.com/sansui233/logseq-bonofix-theme) theme"

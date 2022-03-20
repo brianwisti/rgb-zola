@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "screenshot", "javascript", "no i know", "i'll fix it",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Yeah that's Visual Studio Code. I'm trying new things."

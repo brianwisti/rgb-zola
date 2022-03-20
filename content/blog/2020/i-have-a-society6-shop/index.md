@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "buy me", "drawing", "monetize the hobbies but not too much",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "https://society6.com/randomgeek"

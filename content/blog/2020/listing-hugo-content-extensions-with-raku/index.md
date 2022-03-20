@@ -10,7 +10,7 @@ category = [ "post",]
 tags = [ "hugo", "Raku Lang", "csv", "site", "programming",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "We like quick answers to important questions"

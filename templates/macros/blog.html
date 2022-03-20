@@ -36,6 +36,28 @@
   <span>{{ value | date(timezone="America/Los_Angeles") }}</span>
 {% endmacro date_stamp %}
 
+{% macro posse_for(path) %}
+  {% set posse = load_data(path="data/posse.json") %}
+  {%  if posse[path] %}
+    <section class="item flex flex-between pb-6">
+      <span class="item-column">
+        Got a comment? A question? More of a comment than a question?
+      </span>
+      <span class="item-column">
+        Talk to me about this page on:
+        {% for service, href in posse[path] %}
+          <a href="{{ href | safe }}"
+            class="label centered fa fa-{{ service }}"
+            title="{{ service }}"
+            aria-label="{{ service }}">
+            <span class="sr-only">{{ service }}</span>
+          </a>
+        {% endfor %}
+      </span>
+    </section>
+  {% endif %}
+{% endmacro posse_for %}
+
 {% macro timeline(page) %}
   <div class="item flex flex-between">
     {% set blog = get_section(path="blog/_index.md") %}

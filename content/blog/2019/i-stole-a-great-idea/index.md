@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "Picasso", "TS Eliot", "i stole this", "am i a great artist", "don't answer that",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Picasso's studio circa 1912, via [Art Observed](http://artobserved.com/2011/03/go-see-new-york-picasso-guitars-1912-1914-at-the-moma-through-june-06-2011/)"

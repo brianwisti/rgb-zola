@@ -5,7 +5,7 @@ description = "It's not done, but it's done enough"
 draft = false
 
 [extra]
-card = "_card.webp" #_
+card = "social_card.webp"
 
 [taxonomies]
 category = [ "post",]

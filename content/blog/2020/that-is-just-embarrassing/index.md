@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "site", "oops", "i fixed it!",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Where's the rest of the post?"

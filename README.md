@@ -17,6 +17,10 @@ generators. This time around, it's [Zola][].
 [zola]: https://getzola.org
 [markdownlint-cli]: https://github.com/igorshubovych/markdownlint-cli
 
+```
+brew install markdownlint-cli
+```
+
 ## License
 
 The material in this repo is licensed under a Creative Commons license. See

@@ -10,7 +10,7 @@ tags = [ "hugo", "accessibility", "indieweb", "I fixed it!", "hopefully", "site"
 category = [ "post",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "It's not a redirect anymore"

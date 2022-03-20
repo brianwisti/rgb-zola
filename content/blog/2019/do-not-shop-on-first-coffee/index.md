@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "coffee", "coffeecoffeecoffee", "overdoing it", "watch", "music",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "three brands of bottled coffee"

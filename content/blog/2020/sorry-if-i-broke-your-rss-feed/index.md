@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "site", "i fixed it!", "damstack", "did i make a buzzword yet",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Gordon Dam, by Dante Aguiar. Via [Good Free Photos](https://www.goodfreephotos.com/other-landscapes/gordon-dam-and-beautiful-landscape.jpg.php)"

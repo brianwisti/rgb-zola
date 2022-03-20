@@ -10,7 +10,7 @@ category = [ "post",]
 tags = [ "site", "marginalia",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = ""

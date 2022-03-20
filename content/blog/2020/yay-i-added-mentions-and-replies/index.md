@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "indieweb", "site",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "WebMentions for [my wedding post](/2020/03/20/got-married-yesterday/index.html)"

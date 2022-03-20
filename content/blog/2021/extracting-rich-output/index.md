@@ -11,7 +11,7 @@ category = [ "post",]
 tags = [ "python", "rich", "Tools",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "a screenshot of the HTML that I created to show I don't need screenshots"

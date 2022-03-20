@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "why the lucky stiff", "internet history", "notes", "drawing", "chunky bacon",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Seriously. Chunky. Bacon."

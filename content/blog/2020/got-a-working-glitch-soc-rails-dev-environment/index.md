@@ -10,7 +10,7 @@ category = [ "post",]
 tags = [ "rails", "mastodon", "ruby", "sort of", "mostly rails", "tools",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = ""

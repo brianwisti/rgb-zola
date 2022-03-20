@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "site", "pyinvoke", "drawing", "amaziograph", "fun",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "I drew this with [Amaziograph](https://amaziograph.com/)"

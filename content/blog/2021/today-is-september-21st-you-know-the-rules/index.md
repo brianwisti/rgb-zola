@@ -9,7 +9,7 @@ tags = [ "listen", "music", "kexp", "celebrate-the-holidays",]
 category = [ "note",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "🎶 Never was a cloudy day"

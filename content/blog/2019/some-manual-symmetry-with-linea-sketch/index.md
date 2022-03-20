@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "drawing", "symmetry", "Linea Sketch", "took a while",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = ""

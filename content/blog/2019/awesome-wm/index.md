@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "linux", "awesomewm", "screenshot", "fiddly configurations are fun",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "full screenshots are a bit unwieldy with dual monitors"

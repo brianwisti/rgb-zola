@@ -10,7 +10,7 @@ category = [ "post",]
 tags = [ "hugo", "data", "showing it anyways", "csv", "rst", "and a dog", "Tools",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "I've been looking at screenshots all day. Here's Loud Dog instead."

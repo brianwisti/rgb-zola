@@ -10,7 +10,7 @@ category = [ "post",]
 tags = [ "diy", "recipe", "grooming", "Marginalia",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "Sea salt, argan oil, and a spray bottle. You need water too."

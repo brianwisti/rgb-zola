@@ -9,7 +9,7 @@ category = [ "note",]
 tags = [ "tmux", "art", "mine", "work trip", "i have clean underwear now", "and a proper timestamp", "life is good",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "I drew this while doing laundry Sunday"

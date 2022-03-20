@@ -11,7 +11,7 @@ tags = [ "Python", "IndieWeb", "FixingMySite", "Site", "tools",]
 series = [ "fixing my webmentions",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = "A spiderweb! For Webmention! Get it? Okay, yeah. Sorry."

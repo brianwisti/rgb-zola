@@ -11,7 +11,7 @@ tags = [ "parrot", "learn", "space", "coolnamehere",]
 series = [ "Parrot Babysteps",]
 
 [extra]
-card = "_card.webp"
+card = "social_card.webp"
 
 [extra.cover_image]
 caption = ""

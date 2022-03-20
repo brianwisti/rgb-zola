@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% import "macros/blog.html" as blog %}
+{% import "macros/meta.html" as meta %}
 {% import "macros/link.html" as link %}
 {% import "macros/meta.html" as meta %}
 
@@ -10,24 +11,28 @@
     {% if page.date %}
       {{ blog::timeline(page=page) }}
     {% endif %}
-    <header class="mb-6">
-      {% if article.description %}
-        <h2 class="heading-tagline">{{ article.description }}</h6>
-      {% endif %}
-      {% if page.extra.cover_image %}
-        {{ blog::cover_image(cover_image=page.extra.cover_image, page_assets=page.assets) }}
+    <header class="pb-3">
+      {% if page.description %}
+          <h2 class="heading-tagline">{{ page.description }}</h6>
       {% endif %}
 
-      <section>
-        {{ meta::for_article(article=page) }}
-      </section>
+      {% if page.extra.cover_image %}
+        {{
+          blog::cover_image(
+            cover_image=page.extra.cover_image,
+            page_assets=page.assets
+          )
+        }}
+      {% endif %}
+      <h1 class="heading-large">{{ page.title }}</h1>
+      {{ meta::for_article(article=page, verbose=true) }}
     </header>
     {% if page.extra.cite %}
       {% set cite = page.extra.cite %}
       <section class="container-small edges centered">
         <section class="card b-dark-medium bg-light r-base my-6 p-3">
           {% if cite.card %}
-            <div class="card-image image-cover"
+            <div class="card-image image-cover">
               {% for asset in page.assets %}
                 {% if asset is matching(cite.card) %}
                   {% set card_image = resize_image(path=asset, width=600, op="fit_width") %}
@@ -45,7 +50,6 @@
               </a>
             </h2>
 
-
             {% if cite.description %}
               <blockquote>
                 {{ cite.description }}
@@ -61,6 +65,7 @@
         </section>
       </section>
     {% endif %}
+    {{ blog::posse_for(path=page.path) }}
     {{ blog::toc(page=page) }}
     <h1>{{ page.title }}</h1>
     {{ page.content | safe }}
