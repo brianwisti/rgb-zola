@@ -34,5 +34,3 @@ pairs will likely get blocked flat.
 
 They look and feel great on my feet. For the first time I understand why
 my ex was always requesting more socks.
-
-{{}}

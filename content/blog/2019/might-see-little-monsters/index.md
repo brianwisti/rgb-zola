@@ -19,18 +19,18 @@ Reminds me of [Shaun of the Dead][shaun-of-the-dead]. Not in any specific
 notes, just the slapstick gore and "what sort of hero could a (slacker,
 kindergarden teacher) be?" angle.
 
-{{% note %}}
+{% note() %}
 
-(red band, so gory. Also, it's a kindergarden teacher protecting kids
-during an outbreak so maybe don't watch if that's a thing for you)
+(red band, so gory. Also, it's a kindergarden teacher protecting kids during an
+outbreak so maybe don't watch if that's a thing for you)
 
-{{% /note %}}
+{% end %}
 
-{{% aside title="2021-08-26" %}}
+{% note(title="2021-08-26") %}
 
 For some reason I couldn't embed the trailer anymore, but I can still link to
 it: [Little Monsters][little-monsters]
 
 [little-monsters]: https://youtu.be/8d1KP-OhBP4
 
-{{% /aside %}}
+{% end %}

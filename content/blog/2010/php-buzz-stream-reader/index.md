@@ -11,11 +11,13 @@ tags = [ "php", "coolnamehere",]
 
 +++
 
-{{% note title="2020-03-13" %}}
+{% note(title="2020-03-13") %}
+
 Of course, Google long ago turned Buzz into
 [Plus](https://plus.google.com/), then abandoned *that*. Keeping the
 content here in case some fragment of it can be useful to others.
-{{% /note %}}
+
+{% end %}
 
 ## Why and What?
 
@@ -282,14 +284,13 @@ yet, so I’ll just `dump` them.
 
 So what does that get us?
 
-<aside class="admonition note">
-<p class="admonition-title">Note</p>
+{% note() %}
 
 Oh that’s right. At one point this was a sort of cool direct embedding
 of my Buzz debug run into the page. Wonder if I could find a capture at
 <https://archive.org>
 
-</aside>
+{% end %}
 
 ``` html
 <div class="example">
@@ -761,10 +762,12 @@ href="http://www.google.com/profiles/brian.wisti#buzz">Google Buzz</a>.</p>
 
 Hopefully you can now go to the [home page](/) and see a Buzz feed\!
 
-{{% aside %}}
+{% note() %}
+
 Well, you could have if it was 2010 and Google Buzz was still a thing.
 Oh well.
-{{% /aside %}}
+
+{% end %}
 
 Okay, one issue. It’s showing the *whole* feed. Let’s throw in a limit
 to the number of entries returned. I don’t feel like messing with the

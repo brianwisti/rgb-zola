@@ -94,8 +94,7 @@ We use pipes. Pipes everywhere.
     $ mmark -html -fragment index.md | pandoc -f html -t plain | wc -w | tr -d ' '
     403
 
-<aside class="admonition">
-<p class="admonition-title">2019-05-06 Update</p>
+{% note(title="2019-05-06 Update") %}
 
 Found out that Hugo shortcodes look a lot like mmark includes, and that
 choked my pipes up a bit. Added an initial pass through Perl to remove
@@ -107,7 +106,7 @@ posts *about* Hugo, but I will survive.
       | pandoc -f html -t plain \
       | wc -w | tr -d ' '
 
-</aside>
+{% end %}
 
 I told mmark to generate a fragment of HTML rather than a complete HTML
 document, to reduce noise from things like a `<title>` tag.
@@ -127,9 +126,7 @@ to move that information from the shell to the status line.
 
 [Vimscript]: http://learnvimscriptthehardway.stevelosh.com/
 
-<aside class="admonition">
-
-[neovim]: https://neovim.io/
+{% note() %}
 
 I've been using [neovim][] as my main terminal `$EDITOR`. Although it maintains
 compatibility with Vim, some of the functions here may require a newer release
@@ -138,7 +135,9 @@ of Vim than you have on your machine.
 The goal was to figure this out on my own machine, so unfortunately the only
 advice I can offer if your Vim complains is: upgrade Vim or switch to Neovim.
 
-</aside>
+[neovim]: https://neovim.io/
+
+{% end %}
 
 Later I may expand this into a library function that understands about different
 content types. Right now it returns a formatted word count if the filetype of

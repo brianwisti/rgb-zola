@@ -22,8 +22,7 @@ happily fix any problems you notice — but I do assume you know the basics
 of creating a blog with Jekyll. The code and templates were initially
 build on Jekyll 3.0.0.beta8.
 
-<aside class="admonition">
-<p class="admonition-title">Updates</p>
+{% note(title="Updates") %}
 
 2020-02-25
 : Hey where’d the rest of the post go? Must have lost it with a cleanup
@@ -42,7 +41,7 @@ build on Jekyll 3.0.0.beta8.
   and made a few adjustments to the collections template. Everything
   *seems* okay now.
 
-</aside>
+{% end %}
 
 What? Why?
 ----------

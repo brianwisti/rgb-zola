@@ -18,3 +18,6 @@ pip:
 
 test: build
 	pytest tests
+
+dirty:
+	python scripts/dirty.py

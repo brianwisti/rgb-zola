@@ -36,13 +36,12 @@ The `_default/list.ace` template provides the layout for all content collections
     {{ end }}
 ```
 
-<aside class="admonition note">
-<p class="admonition-title">Note</p>
+{% note() %}
 
 I use [Hugo’s support for Ace templates](https://gohugo.io/templates/ace) on my site.
 The important stuff is in the `{{ …​ }}` blocks, so try not to get too distracted by Ace.
 
-</aside>
+{% end %}
 
 Hugo gives the template a title and a collection of pages —
 along with numerous other [variables](https://gohugo.io/templates/variables/),

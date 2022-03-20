@@ -19,3 +19,17 @@
   <a href="{{ tag_url | safe }}" class="label mr-1 p-1 label-primary p-category tag">#{{ tag_name }}</a>
 {% endmacro for_tag %}
 
+{% macro to_tweet(url) %}
+  {# borrow heavily from https://github.com/gohugoio/hugo/blob/0cc39af68232f1a4981aae2e72cf65da762b5768/tpl/tplimpl/embedded/templates/shortcodes/twitter.html #}
+  {# load generated tweet data #}
+  {# if url is in generated tweet data #}
+    {# load HTML from generated tweet data #}
+    {# render HTML | safe #}
+  {# else #}
+    {# establish whether we use do not track #}
+    {# construct embed URL: https://publish.twitter.com/oembed?:url #}
+    {# fetch the JSON for embed_url #}
+    {# save json.html in generated tweet data #}
+    {# render json.html | safe #}
+  {# endif #}
+{% endmacro to_tweet %}

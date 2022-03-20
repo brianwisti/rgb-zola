@@ -143,9 +143,9 @@ Anyways, let's run this thing.
     Tangled to hello.py
     $ bat hello.py
     ───────┬──────────────────────────────────────────────────────────────────────
-          │ File: hello.py
+           │ File: hello.py
     ───────┼──────────────────────────────────────────────────────────────────────
-      1   │ print("Hello")
+       1   │ print("Hello")
     ───────┴──────────────────────────────────────────────────────────────────────
 
 Sweet.
@@ -256,18 +256,18 @@ And it works!
     Tangled to hello.py
     Tangled to tangle.raku
     $ bat tangle.raku
-    ───────┬──────────────────────────────────────────────────────────────────────
-          │ File: tangle.raku
-    ───────┼──────────────────────────────────────────────────────────────────────
-      1   │ sub MAIN() {
-      2   │   my $filename = "index.md";
-      3   │   my $opener = '{{</* ';
-      4   │   my $closer = ' */>}}';
-      5   │   my regex shortcode {
-      6   │     $opener
-      7   │       code \s
-      8   │       'file="' $<filename> = .+? '"'  # Remember the filename
-      9   │       .*?
+    ───────┬────────────────────────────────────────────────────────────────────
+           │ File: tangle.raku
+    ───────┼────────────────────────────────────────────────────────────────────
+      1    │ sub MAIN() {
+      2    │   my $filename = "index.md";
+      3    │   my $opener = '{{</* ';
+      4    │   my $closer = ' */>}}';
+      5    │   my regex shortcode {
+      6    │     $opener
+      7    │       code \s
+      8    │       'file="' $<filename> = .+? '"'  # Remember the filename
+      9    │       .*?
       10   │     $closer
       11   │     \n                # Ignore leading newline
       12   │     $<content> = .+?  # Remember everything else in the block
@@ -284,7 +284,7 @@ And it works!
       23   │     say "Tangled to $tangle-file";
       24   │   }
       25   │ }
-      ───────┴──────────────────────────────────────────────────────────────────────
+      ─────┴──────────────────────────────────────────────────────────────────────
 
 Unfortunately, I'm not quite done yet.
 
@@ -301,6 +301,7 @@ Might as well keep doing that over here.  Oh but hang on. I want it to stand
 out a bit.  I'll use angle quotes `«‥»`.
 
 {% note() %}
+
 On a US keyboard using [Vim or Neovim][vim-tag], `«` is a [digraph][] which can
 be entered via <kbd>Control-k</kbd> followed by <kbd><<</kbd>.  Or if you've set up a
 [Compose][compose] key, it's <kbd>Compose</kbd> followed by <kbd><<</kbd> in any editor.
@@ -312,6 +313,10 @@ fancy characters.
 
 Yes, I know I could practically write it *all* with fancy characters in Raku.
 One step at a time.
+
+[vim-tag]: /tags/vim
+[digraph]: https://vimhelp.org/digraph.txt.html#digraph.txt
+[compose]: https://en.wikipedia.org/wiki/Compose_key
 {% end %}
 
 Let's go back to the Python code because it's still so small.
@@ -639,9 +644,6 @@ But it'll do for now.
 [grammar]: https://docs.raku.org/language/grammars
 [hash]: https://docs.raku.org/language/hashmap
 [rebol]: /tags/rebol
-[vim-tag]: /tags/vim
-[digraph]: https://vimhelp.org/digraph.txt.html#digraph.txt
-[compose]: https://en.wikipedia.org/wiki/Compose_key
 [rich]: https://rich.readthedocs.io/en/latest/
 [class]: https://docs.raku.org/language/classtut
 [cli]: https://docs.raku.org/language/create-cli

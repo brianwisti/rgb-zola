@@ -14,12 +14,13 @@ tags = [ "babblings", "boolnamehere",]
 No, not the bra that provides appreciated support to countless women
 around the world.
 
-{{% note %}}
+{% note() %}
+
 Originally posted to the now-defunct Vox blog on May 4, 2007.
 
 2020-04-18
 : Added Desmond Dekker song links
-{{% /note %}}
+{% end %}
 
 I have been thinking about the slang word "bra," which I already know is
 short for "brother" and used pretty much the same way I, as a West coast
@@ -33,10 +34,10 @@ are you looking at me like that? I enjoy cheesy, semi-moralistic
 entertainment as much as the next guy. I figured "bra" was Hawaiian
 surfer slang and didn’t think much more about the word’s origin.
 
-{{% note %}}
+{% note() %}
 My TV close captioning and a couple of readers point out that the
 spelling for the Hawaiian version is "brah." I’m on a roll, though.
-{{% /note %}}
+{% end %}
 
 Last year I heard the term again, listening to [Ob La Di Ob La
 Da](https://song.link/i/1441133613) by [The

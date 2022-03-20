@@ -205,14 +205,14 @@ to be touched several times to get the final value.
     Radius: 10
     Area: 314.159
 
-{{% aside %}}
+{% note() %}
 
 This is where developers experienced with other languages should see the
-low-level nature of PIR. Those operators correspond to opcodes, and PIR only wants
-to see one opcode per statement. That's why the formula is broken down into distinct
-steps.
+low-level nature of PIR. Those operators correspond to opcodes, and PIR only
+wants to see one opcode per statement. That's why the formula is broken down
+into distinct steps.
 
-{{% /aside %}}
+{% end %}
 
 I think we've got a solid grip on declaration and basic usage of both local and
 register variables. On to the types.

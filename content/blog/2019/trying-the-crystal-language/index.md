@@ -11,7 +11,7 @@ category = [ "post",]
 tags = [ "crystal", "taskwarrior", "Programming",]
 
 [extra]
-card = "_card.webp"
+card = "_card.webp" #_
 
 [extra.cover_image]
 caption = ""
@@ -51,13 +51,12 @@ working on a full Windows port, the best path for now is to use
 [Homebrew](https://brew.sh/) on
 [WSL](https://docs.microsoft.com/en-us/windows/wsl/wsl2-about).
 
-<aside class="admonition warning">
-<p class="admonition-title">Warning<?p>
+{% note(title="Warning") %}
 
 I’m using WSL 2, which is still in development. I haven’t tested any of
 this under WSL 1.
 
-</aside>
+{% end %}
 
 
     $ brew install crystal
