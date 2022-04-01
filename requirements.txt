@@ -1,6 +1,9 @@
 feedparser
+pandas
 pytest
 python-frontmatter
 pyvips
 rich
+ruamel.yaml
 toml
+yamale
