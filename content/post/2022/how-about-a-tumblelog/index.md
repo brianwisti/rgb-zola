@@ -1,12 +1,12 @@
----
-title: "How About a Tumblelog"
-date: 2022-05-03T19:58:29-07:00
-draft: false
-category: note
-tags:
-- experiment
-- org-mode
----
++++
+title = "How About a Tumblelog"
+date = "2022-05-03"
+draft = false
+
+[taxonomies]
+category = ["note",]
+tags = ["experiment", "org-mode"]
++++
 
 Thanks to Twitter turbulence, folks are rediscovering the joys of blogging.
 I've got a blog --- this site right here --- so I thought I'd try a

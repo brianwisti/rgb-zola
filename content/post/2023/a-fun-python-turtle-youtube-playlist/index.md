@@ -1,15 +1,21 @@
----
-title: A Fun Python Turtle YouTube Playlist
-date: 2023-05-20
-draft: false
-category: note
-tags:
-- python
-- art
-cover_image:
-    caption: I went a bit past the videos
-    path: cover.png
----
++++
+title = "A Fun Python Turtle YouTube Playlist"
+date = "2023-05-20"
+draft = false
+
+[taxonomies]
+category = [ "note",]
+tags = [ "python", "art",]
+
+[extra]
+card = "social_card.webp"
+
+[extra.cover_image]
+caption = "I went a bit past the videos"
+path = "cover.png"
+
++++
+
 Got a little bored of trying to build relevant skills for my ongoing job search.
 Went through Coding Cassowary's [Generative Art playlist][playlist] yesterday instead.
 Had some ideas and fiddled a bit more with those ideas today.
@@ -26,7 +32,8 @@ And have some fun drawing with [Python][python], using [Turtle][turtle] or some 
 [python]: https://python.org
 [turtle]: https://docs.python.org/3/library/turtle.html
 
-```python{title="tree.py", collapse=true}
+{% codeblock(title="tree.py", collapse=true) %}
+```python
 """Draw a fractal tree."""
 
 import random
@@ -211,3 +218,4 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+{% end %}

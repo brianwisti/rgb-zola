@@ -1,17 +1,21 @@
----
-title: Nanoc builds sites faster with 3.2.0
-description: Ain't no benchmark like an unscientific ad hoc benchmark
-date: "2022-12-25 11:38:45"
-draft: false
-category: post
-cover_image:
-  caption: just the numbers
-  path: nanoc-build-time.png
-tags:
-- ruby
-- nanoc
----
++++
+title = "Nanoc builds sites faster with 3.2.0"
+description = "Ain't no benchmark like an unscientific ad hoc benchmark"
+date = "2022-12-25"
+draft = false
 
+[taxonomies]
+category = [ "post",]
+tags = [ "ruby", "nanoc",]
+
+[extra]
+card = "social_card.webp"
+
+[extra.cover_image]
+caption = "just the numbers"
+path = "nanoc-build-time.png"
+
++++
 
 [ruby-32]: https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/
 [nanoc]: https://nanoc.app
@@ -23,11 +27,12 @@ YJIT][benchmarking].
 One bit of feedback he got was that YJIT --- the now official Just In Time
 compiler --- kicks in for frequently called methods:
 
-{{% quote
+{% quote(
   from="Noah Gibbs"
-  cite="https://ruby.social/@codefolio/109573860732354569" %}}
+  cite="https://ruby.social/@codefolio/109573860732354569"
+) %}
 By default, YJIT optimises a method on the 30th time you call it.
-{{% /quote %}}
+{% end %}
 
 Well hey.
 The [Nanoc][nanoc] iteration of my site has a few hundred pages.
@@ -107,4 +112,3 @@ That is an impressive difference.
 We're still not talking Hugo numbers, of course.
 But under 30 seconds means I might be able to pay attention long enough to fix
 my terrible site configuration code.
-

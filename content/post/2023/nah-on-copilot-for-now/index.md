@@ -1,14 +1,12 @@
----
-title: Nah on Copilot for now
-description: |
-  Besides the ethics? The tool itself breaks my flow.
-date: 2023-06-17
-draft: false
-category: post
-tags:
-- tools
-- LLM
----
++++
+title = "Nah on Copilot for now"
+description = "Besides the ethics? The tool itself breaks my flow."
+date = "2023-06-17"
+
+[taxonomies]
+category = ["post",]
+tags = ["tools", "llm"]
++++
 
 [GitHub Copilot][copilot] is a development tool from Microsoft driven by a [Large Language Model (LLM)][llm] —
 one piece of the very big tech trend described as "AI".
@@ -24,22 +22,22 @@ It assembles reasonable-looking code from what it's been fed, including your own
 
 Some people like Copilot.
 
-{{% quote
+{% quote(
   from="Curtis Poe"
   title="Using Github Copilot with Vim"
   cite="https://ovid.github.io/articles/using-github-copilot-with-vim.html"
-%}}
+) %}
 This technology is in its infancy and it’s already writing code that’s better than many developers I’ve met.
-{{% /quote %}}
+{% end %}
 
 Some people dislike it so much they are taking Microsoft to court over it.
 
-{{% quote
+{% quote(
   title="GitHub Copilot litigation · Joseph Saveri Law Firm & Matthew Butterick"
   cite="https://githubcopilotlitigation.com/"
-%}}
+) %}
 By training their AI sys­tems on pub­lic GitHub repos­i­to­ries (though based on their pub­lic state­ments, pos­si­bly much more) we con­tend that the defen­dants have vio­lated the legal rights of a vast num­ber of cre­ators who posted code or other work under cer­tain open-source licenses on GitHub.
-{{% /quote %}}
+{% end %}
 
 I tried Copilot out, even though I'm unhappy about the wholesale appropriation of publicly visible code regardless of license.
 Ignoring it seemed impractical.

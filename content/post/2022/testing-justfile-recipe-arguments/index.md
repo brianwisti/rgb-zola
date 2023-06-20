@@ -1,20 +1,23 @@
----
-title: Testing Justfile Recipe Arguments
-date: 2022-12-05
-description: 'In which I make my justfile just a little fancier'
-draft: false
-category: post
-tags:
-- site
-- just
----
++++
+title = "Testing Justfile Recipe Arguments"
+date = "2022-12-05"
+description = "In which I make my justfile just a little fancier"
+draft = false
 
-{{% tldr %}}
+[taxonomies]
+category = ["post",]
+tags = [
+  "site",
+  "just"
+]
++++
+
+{% tldr() %}
 ```justfile
 add TITLE:
   bundle exec ruby _scripts/add-post --title '{{ TITLE }}'
 ```
-{{% /tldr %}}
+{% end %}
 
 Time to fiddle with my site setup some more.
 

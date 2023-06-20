@@ -1,17 +1,21 @@
----
-title: "Customizing a Trilium Report"
-date: 2022-08-09T11:00:00-07:00
-draft: false
-category: post
-tags:
-- second brain
-- trilium notes
-- sqlite
-cover_image:
-  path: trilium-template-usage.png
-  caption: Trilium also embeds its scripting as notes, which takes some getting used to.
-description: In which I frolic with a note system that lets me use SQL
----
++++
+title = "Customizing a Trilium Report"
+date = "2022-08-09"
+draft = false
+description = "In which I frolic with a note system that lets me use SQL"
+
+[taxonomies]
+category = [ "post",]
+tags = [ "second brain", "trilium notes", "sqlite",]
+
+[extra]
+card = "social_card.webp"
+
+[extra.cover_image]
+path = "trilium-template-usage.png"
+caption = "Trilium also embeds its scripting as notes, which takes some getting used to."
+
++++
 
 Been exploring [Trilium][trilium] for notes. One thing I'll say is the nerdy features are directly accessible
 to my existing skills.

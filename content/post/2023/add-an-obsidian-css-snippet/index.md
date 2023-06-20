@@ -1,15 +1,20 @@
----
-title: Add an Obsidian CSS Snippet
-date: 2023-01-24
-draft: false
-category: note
-tags:
-- obsidian
-- second brain
-cover_image:
-  path: obsidian-banner-with-attribution.png
-  caption: Reader view so you don't have to stare at YAML frontmatter
----
++++
+title = "Add an Obsidian CSS Snippet"
+date = "2023-01-24"
+draft = false
+
+[taxonomies]
+category = [ "note",]
+tags = [ "obsidian", "second brain",]
+
+[extra]
+card = "social_card.webp"
+
+[extra.cover_image]
+path = "obsidian-banner-with-attribution.png"
+caption = "Reader viewso you don't have to stare at YAML frontmatter"
+
++++
 
 I added a banner to my [Obsidian.md][obsidian] daily journal template with the [Banners plugin][banners].
 I used a Creative Commons image from [Openverse][openverse], and I wanted to
@@ -18,10 +23,8 @@ include attribution.
 My daily journal template is a small mess of Markdown, HTML, and Templater directives, but
 it gets the job done.
 
-<details>
-<summary>Template details</summary>
-
-```text{title="_templates/journal-daily.md"}
+{% codeblock(title="_templates/journal-daily.md") %}
+```
 ---
 title: <% tp.file.title %>
 created_at: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %>
@@ -67,17 +70,16 @@ banner: "/assets/journal-entry-joel-montes-de-oca.jpg"
                 style="height: 1em; margin-right: 0.125em; display: inline;"></a>.
 </p>
 ```
-
-</details>
+{% end %}
 
 It should have its own style. A little smaller than the note text, and maybe
 centered for an aesthetic touch. After spending a little too long looking for
 some kind of theme or plugin magic, I realized Obsidian supports [custom CSS
 snippets][obsidian-css].
 
-So I added a CSS snippet for attribution paragraphs.
+So I added `.obsidian/snippets/attributions.css` for attribution paragraphs.
 
-```css{title=".obsidian/snippets/attributions.css"}
+```css
 .attribution {
     font-size: 0.8em;
     text-align: center;

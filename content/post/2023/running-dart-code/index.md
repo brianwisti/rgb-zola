@@ -1,13 +1,13 @@
----
-title: Running Dart Code
-description: |
-  Learning to run Dart so I can walk with it — or something
-date: 2023-01-17
-draft: false
-category: post
-tags:
-- dart
----
++++
+title = "Running Dart Code"
+description = "Learning to run Dart so I can walk with it — or something"
+date = "2023-01-17"
+draft = false
+
+[taxonomies]
+category = ["post",]
+tags = ["dart",]
++++
 
 I haven't played with [Dart](https://dart.dev) since – oh, I don't know, 2013 or so. It was nice, but nothing felt compelling compared to the languages I already used. I stopped hearing about Dart when I stopped using Google+.
 
@@ -29,7 +29,8 @@ I start exploring a new or forgotten language by answering a few questions:
 
 There are nearly always multiple answers to each, but here's a start.
 
-```dart{title="greet_me.dart"}
+{% codeblock(title="greet_me.dart") %}
+```dart
 import 'dart:io';
 
 void main() {
@@ -38,6 +39,7 @@ void main() {
   print('Hello, $name!');
 }
 ```
+{% end %}
 
 The basic answers to my basic questions:
 
@@ -90,7 +92,7 @@ I can put that on any macOS device and run it without installing Dart on it. Of 
 
 And the idea here is a simpler one: the same commands will compile the same code, regardless of what machine I'm on. I wrote most of this post on a Windows desktop. I edited and fine-tuned on an Apple laptop. The code worked as-is. The only invocation change I made was the `-o`​ option for personal taste.
 
-{{% note title="Compile targets" %}}
+{% note(title="Compile targets") %}
 Dart cannot cross-compile for other platforms yet. Compiling an executable on Windows gets you a Windows executable. But `dart compile`​ [subcommands](https://dart.dev/tools/dart-compile) provide multiple targets in a Dart context. Some will run on any device. Some can run without a Dart runtime.
 
 | Subcommand    |Explanation|Run without Dart?|Multi-Platform?|
@@ -104,7 +106,7 @@ Dart cannot cross-compile for other platforms yet. Compiling an executable on Wi
  [^1]: use [webdev](https://dart.dev/tools/webdev) instead for JS targets
 
 Oh, and trivia: `dart run greet_me.dart` compiles a JIT snapshot in the background and runs that.
-{{% /note %}}
+{% end %}
 
 Next problem: I'm coming in from Python and [Rich](https://rich.readthedocs.io/en/stable/text.html) for CLI applications. That name prompt should look so much better. I'm not ready to port Rich and Textual to Dart just yet. Maybe somebody has put some kind of console prompt handler on [pub.dev](https://pub.dev), the Dart package repository?
 
@@ -151,7 +153,8 @@ dart pub add dcli
 
 Since this is a `pub`​ command, it does not surprise me that this dependency detail has been added to `pubspec.yaml`​. That's where I'll find most information *about* the project.
 
-```yaml{title="greet_me/pubspec.yaml"}
+{% codeblock(title="greet_me/pubspec.yaml") %}
+```yaml
 name: greet_me
 description: A sample command-line application.
 version: 1.0.0
@@ -166,10 +169,12 @@ dev_dependencies:
 dependencies:
   dcli: ^1.36.0
 ```
+{% end %}
 
 Back to the code! I'll write a cute little greeter function in `lib/greet_me.dart`​ which adds a lightly formatted prompt to my name request.
 
-```dart{title="greet_me/lib/greet_me.dart"}
+{% codeblock(title="greet_me/lib/greet_me.dart") %}
+```dart
 import 'package:dcli/dcli.dart';
 
 void greetMe() {
@@ -178,14 +183,17 @@ void greetMe() {
   print('Hello, $name!');
 }
 ```
+{% end %}
 
  I can just have `main`​ use that greeter function. When I start thinking in terms of projects rather than scripts, I tend to make the application entrypoint minimal, with the logic out in project library files where they're easier to test.
 
-```dart{title="greet_me/bin/greet_me.dart"}
+{% codeblock(title="greet_me/bin/greet_me.dart") %}
+```dart
 import 'package:greet_me/greet_me.dart';
 
 void main(List<String> arguments) => greetMe();
 ```
+{% end %}
 
 Not that I'm writing any test code today.
 

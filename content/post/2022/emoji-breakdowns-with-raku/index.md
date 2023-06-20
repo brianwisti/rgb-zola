@@ -1,15 +1,21 @@
----
-title: "Emoji Breakdowns With Raku"
-date: 2022-08-14T13:00:31-07:00
-draft: false
-category: post
-cover_image:
-  path: rakumoji.png
-  caption: "If you think that's weird, you should see what all these emoji have done to my neovim session."
-description: In which I write a Raku emoji reverse lookup tool.
-tags:
-- raku lang
----
++++
+title = "Emoji Breakdowns with Raku"
+date = "2022-08-14"
+draft = false
+description = "In which I write a Raku emoji reverse lookup tool"
+
+[taxonomies]
+category = [ "post",]
+tags = [ "raku lang",]
+
+[extra]
+card = "social_card.webp"
+
+[extra.cover_image]
+path = "rakumoji.png"
+caption = "If you think that's weird, you should see what all these emoji have done to my neovim session."
+
++++
 
 Had to share, but gotta make this quick because I am about three tangents
 removed from the stuff I planned to do today. This Raku script prints out code

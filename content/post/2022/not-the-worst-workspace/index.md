@@ -1,17 +1,20 @@
----
-title: Not the worst workspace
-date: "2022-12-14 15:22:46"
-draft: false
-category: note
-cover_image:
-  caption: sitting by the pool near the beach while she's in the pool
-  path: cover.jpg
-tags:
-- vacation
-- with my sweetheart
-- Hawaii
-- my laptop is my security blanket
----
++++
+title = "Not the worst workspace"
+date = "2022-12-14"
+draft = false
+
+[taxonomies]
+category = [ "note",]
+tags = [ "vacation", "with my sweetheart", "Hawaii", "my laptop is my security blanket",]
+
+[extra]
+card = "social_card.webp"
+
+[extra.cover_image]
+caption = "sitting by the pool near the beach while she's in the pool"
+path = "cover.jpg"
+
++++
 
 [marriage-post]: /post/2020/03/got-married-yesterday/
 

@@ -1,14 +1,20 @@
----
-title: 'New experiment: online brains'
-date: 2023-03-09
-draft: false
-category: note
-tags:
-- second brain
-cover_image:
-  path: my-public-brain.jpg
-  caption: I did just enough to have something I could publish
----
++++
+title = "New experiment: online brains"
+date = "2023-03-09"
+draft = false
+
+[taxonomies]
+category = [ "note",]
+tags = [ "second brain",]
+
+[extra]
+card = "social_card.webp"
+
+[extra.cover_image]
+path = "my-public-brain.jpg"
+caption = "I did just enough to have something I could publish"
+
++++
 
 tl;dr: check out <https://randomgeekery.online>
 

@@ -1,12 +1,12 @@
----
-title: Stupid VS Code Vim Tricks
-date: 2023-03-20
-draft: false
-category: note
-tags:
-- vs-code
-- config
----
++++
+title = "Stupid VS Code Vim Tricks"
+date = "2023-03-20"
+draft = false
+
+[taxonomies]
+category = ["note",]
+tags = ["vs-code", "config",]
++++
 
 Still trying my [experiment][pkm] with using [Dendron][dendron] in [Visual
 Studio Code][vs-code] as part of some sort of public second brain. Honestly I

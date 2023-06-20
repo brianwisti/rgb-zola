@@ -1,16 +1,21 @@
----
-title: Hugo Render Hooks for Titled Code Blocks
-description: |
-  Captions more than titles, really. No problem. We'll fix it in post.
-cover_image:
-  path: cover.png
-  caption: an illustrative example
-date: 2023-01-19
-draft: false
-category: post
-tags:
-- hugo
----
++++
+title = "Hugo Render Hooks for Titled Code Blocks"
+description = "Captions more than titles, really. No problem. We'll fix it in post."
+date = "2023-01-19"
+draft = false
+
+[taxonomies]
+category = [ "post",]
+tags = [ "hugo",]
+
+[extra]
+card = "social_card.webp"
+
+[extra.cover_image]
+path = "cover.png"
+caption = "an illustrative example"
+
++++
 
 I like to label my code blocks, especially when they describe the contents
 of a specific file.
@@ -25,7 +30,10 @@ I didn't think to try them out for labeling code until just now, though.
 This [comment][pamubay-comment] from Hugo Discourse user pamubay got me started.
 My template builds directly on theirs.
 
-```html{title="layouts/_default/render-codeblock.html"}
+{% codeblock(
+  title="layouts/_default/render-codeblock.html"
+) %}
+```html
 {{- $isVerbatim := true -}}
 {{- if isset .Attributes "verbatim" -}}
   {{- $isVerbatim = .Attributes.verbatim -}}
@@ -54,16 +62,23 @@ My template builds directly on theirs.
 {{- end }}
 </figure>
 ```
+{% end %}
 
 The HTML changes are personal aesthetics. I've been using `<figure/>` more and
-more often for illustrative examples beyond --- you know ---
+more often for illustrative examples beyond — you know —
 illustrations.
 
 My render hook looks for two attributes, `title` and `verbatim`. These attributes are added after the language identifier for the fenced code block.
 
-````markdown{title="Titled code block" verbatim=false}
+{% codeblock(
+  title="Titled code block"
+  verbatim=false
+  collapsed=false
+)%}
+````markdown
 ```html{title="layouts/_default/render-codeblock.html"}
 ````
+{% end %}
 
 `title` is the intended title / caption to attach. The `verbatim` flag indicates whether I want this in a monospaced font.
 Grabbed that one from the Org folks since it seems like a useful differentiator
@@ -74,11 +89,18 @@ those in monospace. So it makes sense to have code block captions as verbatim by
 default. So the `verbatim` flag only matters if I set it to false, such as for
 explanatory captions.
 
-````markdown{title="non-verbatim code block title" verbatim=false}
+
+{% codeblock(
+  title="non-verbatim code block"
+  verbatim=false
+  collapsed=false
+)%}
+````markdown
 ```markdown{title="Titled code block" verbatim=false}
 ````
+{% end %}
 
 [pandoc-3]: https://pandoc.org/releases.html#pandoc-3.0-2023-01-18
 
-So now I can rest happily with Hugo now that it can do almost exactly what I ---
+So now I can rest happily with Hugo now that it can do almost exactly what I —
 ooh [Pandoc 3.0][pandoc-3] is out!

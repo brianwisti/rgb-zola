@@ -1,15 +1,13 @@
----
-category: post
-created_at: 1650256867
-date: 2022-04-17 22:15:00-07:00
-description: A day of Hugo and cat-sitting
-tags:
-- site
-- hugo
-title: Didn't I do this last year too?
-updated_at: 1650259443
-uuid: 3332fee2-9d0e-4d65-8484-9173ca088132
----
++++
+title = "Didn't I do this last year too?"
+description = "A day of Hugo and cat-sitting"
+date = "2022-04-17"
+draft = false
+
+[taxonomies]
+category = ["post",]
+tags = ["site", "hugo"]
++++
 
 So anyways yeah. Site's built with [Hugo][hugo] again. This iteration is
 relatively minimal: let Hugo be Hugo with Markdown, render hooks, and

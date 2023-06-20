@@ -1,11 +1,12 @@
----
-title: please hold
-date: 2023-02-23
-draft: false
-category: note
-tags:
-- site
----
++++
+title = "please hold"
+date = "2023-02-23"
+draft = false
+
+[taxonomies]
+category = ["note",]
+tags = ["site",]
++++
 
 Migrating to a new Web host.
 If you can see this that means I succeeded.

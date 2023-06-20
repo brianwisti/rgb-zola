@@ -1,14 +1,20 @@
----
-title: "Social network stuff"
-date: 2022-11-20T21:38:39-08:00
-draft: false
-category: note
-tags:
-- site
-cover_image:
-  caption: Jack wonders when dinner is
-  path: cover.jpeg
----
++++
+title = "Social network stuff"
+date = "2022-11-20"
+draft = false
+
+[taxonomies]
+category = [ "note",]
+tags = [ "site",]
+
+[extra]
+card = "social_card.webp"
+
+[extra.cover_image]
+caption = "Jack wonders when dinner is"
+path = "cover.jpeg"
+
++++
 
 The toilet fire that is Twitter's new management strategy continues apace.
 Felt compelled to take my normally wide-open account and lock it.

@@ -1,23 +1,29 @@
----
-title: Dendron is officially in maintenance mode
-description: I'm gonna keep using it
-date: 2023-02-08
-draft: false
-category: post
-tags:
-- second brain
-- dendron
-cover_image:
-  path: dendron-container-notes.png
-  caption: My Dendron notes from Graceful.Dev [Reproducible Development with Containers](https://graceful.dev/courses/devcontainers/)
----
++++
+title = "Dendron is officially in maintenance mode"
+description = "I'm gonna keep using it"
+date = "2023-02-08"
+draft = false
 
-{{% quote
+[taxonomies]
+category = [ "post",]
+tags = [ "second brain", "dendron",]
+
+[extra]
+card = "social_card.webp"
+
+[extra.cover_image]
+caption = "My Dendron notes from Graceful.Dev [Reproducible Development with Containers](https://graceful.dev/courses/devcontainers/)"
+path = "dendron-container-notes.png"
+
++++
+
+{% quote(
   from="Kevin Lin"
   cite="https://discord.com/channels/717965437182410783/737323300967022732/1072563304289030164"
-  title="#announcements on Dendron Discord" %}}
+  title="#announcements on Dendron Discord"
+) %}
 …the tldr: we spent the past two years building a better way for humans to manage knowledge. While we made great strides there, as a business, we were ultimately not able to find product market fit for a venture backed business. After much soul searching, we've made the decision to do a pivot and pursue other business problems.
-{{% /quote %}}
+{% end %}
 
 Aw, that's disappointing.
 [Dendron][dendron] features prominently in my meta-note system.

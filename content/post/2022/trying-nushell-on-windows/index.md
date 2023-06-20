@@ -1,24 +1,27 @@
----
-title: "Trying Nushell on Windows"
-description: |
-  They say I can run Nushell on Windows. Let's try that.
-date: 2022-04-22 21:15:00-07:00
-draft: false
-cover_image:
-  caption: Hugo's article list piped through multiple Nushell built-ins
-  path: nu-hugo-list-all.png
-category: post
-tags:
-  - nushell
-  - windows
-  - shell
----
++++
+title = "Trying Nushell on Windows"
+description = "They say I can run Nushell on Windows. Let's try that."
+date = "2022-04-22"
+draft = false
 
-{{% note title="The important bit" %}}
+[taxonomies]
+category = [ "post",]
+tags = [ "nushell", "windows", "shell",]
+
+[extra]
+card = "social_card.webp"
+
+[extra.cover_image]
+caption = "Hugo's article list piped through multiple Nushell built-ins"
+path = "nu-hugo-list-all.png"
+
++++
+
+{% note(title="The important bit") %}
 
 Jack — one of the cats — has recovered from whatever was bothering him with a little help from vet drugs. Thank goodness for that! Now I can get back to puttering.
 
-{{% /note %}}
+{% end %}
 
 I have been puttering a little here and there with [Nushell][nu-home], a command line shell in the spirit of Bash, Zsh, and Fish. It's different from any of the above, though. It starts from the same "let me run my commands" starting point,
 but data handling, filtering, and transformation are core to Nu's functionality.
@@ -230,14 +233,12 @@ Well, now that I have all this set up along with a local checkout of the site's 
 
 Okay sure you can do exactly the same thing with some combination of a POSIX shell, GNU CoreUtils, and maybe [xsv][xsv]. Or just [write Python code][hugo-python].
 
-[hugo-python]: {{< ref "/post/2020/querying-hugo-content-with-python/index.md" >}}
-
+[hugo-python]: /post/2020/querying-hugo-content-with-python/
 [xsv]: https://github.com/BurntSushi/xsv
 
 But I get all this in one tool! Hypothetically, a tool that works the same on Windows and Linux! And as I [tooted][tooted] at a friend while gushing over Nushell:
 
 [tooted]: https://hackers.town/@randomgeek/108162569000821645
-
 
 > Now you no longer need two dozen separate tools installed on each of a million systems. Now you can do it all with one tool installed on a couple dozen systems wait hang on
 

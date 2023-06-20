@@ -1,14 +1,12 @@
----
-title: "I Talked About My Site on Test & Code in Python"
-date: 2022-07-01T15:04:02-07:00
-draft: false
-category: note
-tags:
-- listen
-- blogging
-- ssg
-- my brand
----
++++
+title = "I Talked About My Site on Test & Code in Python"
+date = "2022-07-01"
+draft = false
+
+[taxonomies]
+category = ["note",]
+tags = ["listen", "blogging", "ssg", "my brand"]
++++
 
 In the latest [episode][episode] of the Test & Code podcast, Brian Okken — host
 and author of the excellent [Python Testing with pytest][pytest-book] — and I

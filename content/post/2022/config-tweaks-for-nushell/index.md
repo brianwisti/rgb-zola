@@ -1,15 +1,14 @@
----
-category: note
-date: 2022-04-24 15:00:33-07:00
-draft: false
-tags:
-- config
-- nushell
-title: Config Tweaks for Nushell
-updated_at: 1650838225
----
++++
+title = "Config Tweaks for Nushell"
+date = "2022-04-24"
+draft = false
 
-[nushell-config]: {{< ref "/config/shell/nushell/_index.md" >}}
+[taxonomies]
+category = ["note",]
+tags = ["config", "nushell"]
++++
+
+[nushell-config]: /config/shell/nushell/
 
 Added my [Nushell config][nushell-config] stuff to the site. It's not that
 interesting yet.

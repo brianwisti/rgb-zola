@@ -1,18 +1,23 @@
----
-title: "My Three(ish) Favorite Nushell Features"
-date: 2022-07-04T18:00:00-07:00
-draft: false
-category: post
-tags:
-- nushell
-- hugo
-description: In which I once again spend all day decomposing one-liners, this time for Nushell
-cover_image:
-  path: post-year-histogram.png
-  caption: histogram for post frequency by year using Nushell built-ins
----
++++
+title = "My Three(ish) Favorite Nushell Features"
+date = "2022-07-04"
+draft = false
+description = "In which I once again spend all day decomposing one-liners, this time for Nushell"
 
- Been using the [Nushell][nushell] cross-platform user shell more and more over the last couple years. Might as well start learning it.
+[taxonomies]
+category = [ "post",]
+tags = [ "nushell", "hugo",]
+
+[extra]
+card = "social_card.webp"
+
+[extra.cover_image]
+path = "post-year-histogram.png"
+caption = "histogram for post frequency by year using Nushell built-ins"
+
++++
+
+Been using the [Nushell][nushell] cross-platform user shell more and more over the last couple years. Might as well start learning it.
 
 [nushell]: https://www.nushell.sh
 
@@ -20,7 +25,7 @@ cover_image:
 
 Today I use Nushell for one of my favorite learning tasks: examining my site. I made a throwaway one-liner when setting up [Nushell on Windows][nushell-windows-post]. I want to try again, and think through the process a little more this time.
 
-[nushell-windows-post]: {{< ref "/post/2022/trying-nushell-on-windows/index.md" >}}
+[nushell-windows-post]: /post/2022/trying-nushell-on-windows/
 
 This post, and any that may follow on the topic, won't be any kind of deep dive or contrast with other shells. Oh sure. I'll point out things that surprise me. But I use maybe 20% of a shell's features for 80% of my needs, and a Web search for the rest. Check the Nushell book's [Coming from Bash][nushell-from-bash] page if you want a more explicit comparison.
 
@@ -103,14 +108,14 @@ help commands | where category =~ formats
 
 ![a table of commands in the "formats" category](format-commands.png "`to md`? Interesting!")
 
-{{% note %}}
+{% note() %}
 
-I bet the {{< tag "perl" >}} devs perked up seeing that `=~`. Yes it's a regular expression! But it's almost definitely not a Perl regular expression. I haven't gone past literal substring matches yet, and the Nushell [regex documentation][nu-regex] page is basically a placeholder. I can only suggest you follow their suggestion to read the Rust [regex crate][regex-crate] documentation and figure out the differences yourself.
+I bet the Perl devs perked up seeing that `=~`. Yes it's a regular expression! But it's almost definitely not a Perl regular expression. I haven't gone past literal substring matches yet, and the Nushell [regex documentation][nu-regex] page is basically a placeholder. I can only suggest you follow their suggestion to read the Rust [regex crate][regex-crate] documentation and figure out the differences yourself.
 
 [nu-regex]: https://www.nushell.sh/book/regular_expressions.html#regular-expressions
 [regex-crate]: https://docs.rs/regex/latest/regex/
 
-{{% /note %}}
+{% end %}
 
 ### Viewing only select columns with `select`
 
@@ -235,13 +240,13 @@ The block returns a column with dates for every value in my table's `publishDate
 
 Nushell uses the shell-like pattern of prefixing variable names with `$` when we reference them.
 
-{{% note title="Where did the parentheses come from?" %}}
+{% note(title="Where did the parentheses come from?") %}
 That's how Nushell does multi-line one-liners.
 
 See, my one-liner's getting a little long. Over in other shells, I'd be pulling out a backslash '\\' to indicate line continuation. But Nushell is expression-oriented. Ending a line with a backslash is just an error. So we turn the whole thing into a subexpression by wrapping it in parentheses. Nushell treats the evaluated result as a single expression, however many lines it takes to get there.
 
 Yes, fine. I _should_ be thinking about scripts at this point. I may get to those eventually. Until then I use parentheses to create a multiline subexpression.
-{{% /note %}}
+{% end %}
 
 Where were we? Oh right. I have a table with more columns than I care about.
 

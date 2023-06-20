@@ -1,11 +1,12 @@
----
-title: Someone Made A How-To on Moebius-style 3D Rendering
-date: 2023-03-31
-draft: false
-category: note
-tags:
-- watch
----
++++
+title = "Someone Made a How-To on Moebius-style 3D Rendering"
+date = "2023-03-31"
+draft = false
+
+[taxonomies]
+category = ["note",]
+tags = ["watch",]
++++
 
 In case you want to make your own spin on [Sable][sable].
 It's not *exactly* [Moebius][moebius], but dang close.
@@ -18,5 +19,5 @@ With some tweaks your game could be styled closer to [Matt Howarth][post-bros] o
 
 Sometimes the YouTube recommendations work out okay.
 
-{{< youtube "jlKNOirh66E" >}}
+{{ youtube(id="jlKNOirh66E") }}
 
