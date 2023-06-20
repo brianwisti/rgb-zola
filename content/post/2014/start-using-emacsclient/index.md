@@ -46,7 +46,7 @@ I'm also inclined to follow his thought of removing the keybinding
 for `save-buffers-kill-terminal` and `suspend-frame`. There have
 already been a few times where I quit when I meant to save.
 
-``` emacs-lisp
+``` lisp
 ;; Adding this to my ~/.emacs.d/init.el
 (global-unset-key (kbd "C-x C-c"))
 (global-unset-key (kbd "C-x C-z"))
