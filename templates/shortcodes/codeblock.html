@@ -1,0 +1,11 @@
+<details>
+  <summary>Code sample</summary>
+  {% if title %}
+    {% if verbatim %}
+      <tt>{{ title }}</tt>
+    {% else %}
+      {{ title }}
+    {% endif %}
+  {% endif %}
+  {{ body | markdown | safe }}
+</details>
