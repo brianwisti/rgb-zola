@@ -26,7 +26,7 @@ feed_filename = "index.xml"
 highlight_code = true
 
 [extra]
-  main_feed_categories = ["blog",]
+  main_feed_categories = ["post",]
   # placed here because I need to apply it myself
   feed_limit = 20
 

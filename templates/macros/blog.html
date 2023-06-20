@@ -60,15 +60,15 @@
 
 {% macro timeline(page) %}
   <div class="item flex flex-between">
-    {% set blog = get_section(path="blog/_index.md") %}
+    {% set blog = get_section(path="post/_index.md") %}
     {% set year = page.year %}
 
     <div class="card item-column">
       <div class="card-box flex flex-column">
-        {% set later = page.later %}
-        {% if page.year and not later %}
+        {% set later = page.higher %}
+        {% if page.year and not higher %}
           {% set next_year = year + 1 %}
-          {% set next_section_path = ["blog", next_year, "_index.md"] | join(sep="/") %}
+          {% set next_section_path = ["post", next_year, "_index.md"] | join(sep="/") %}
           {% if blog.subsections is containing(next_section_path) %}
             {% set next_section = get_section(path=next_section_path) %}
             {% set later = next_section.pages | last %}
@@ -85,10 +85,10 @@
 
     <div class="card item-column">
       <div class="card-box flex flex-column">
-      {% set earlier = page.earlier %}
-      {% if not earlier %}
+      {% set earlier = page.lower %}
+      {% if not lower %}
         {% set last_year = year - 1 %}
-        {% set last_section_path = ["blog", last_year, "_index.md"] | join(sep="/") %}
+        {% set last_section_path = ["post", last_year, "_index.md"] | join(sep="/") %}
         {% if blog.subsections is containing(last_section_path) %}
           {% set last_section = get_section(path=last_section_path) %}
           {% set earlier = last_section.pages | first %}

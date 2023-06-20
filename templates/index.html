@@ -50,17 +50,19 @@
     </div>
   </section>
 
-
-  {% set blog = get_section(path="blog/_index.md") %}
+  {% set blog = get_section(path="post/_index.md") %}
   {% set year = now() | date(format="%Y") %}
-  {% set section_path = ["blog", year, "_index.md"] | join(sep="/") %}
-  <section class="grid">
-    {% if blog.subsections is containing(section_path) %}
+  {% set section_path = ["post", year, "_index.md"] | join(sep="/") %}
+
+  {% if blog.subsections is containing(section_path) %}
+    <section class="grid">
       {% set section = get_section(path=section_path) %}
       {% set pages = section.pages | slice(end=4) %}
       {% for page in pages %}
         {{ summary::for_article(article=page) }}
       {% endfor %}
-    {% endif %}
-  </section>
+    </section>
+  {% else %}
+    <p>No blog posts yet this year.</p>
+  {% endif %}
 {% endblock %}
