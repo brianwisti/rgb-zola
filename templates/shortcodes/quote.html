@@ -1,0 +1,22 @@
+<figure class="my-4">
+  <blockquote
+    class="border-left border-dark px-4"
+    {% if cite %}cite="{{ cite }}"{% endif %}>
+    {{ body | markdown | safe }}
+  </blockquote>
+  {% if cite or from or title %}
+    <figcaption class="align-right">
+      &mdash;
+      {% if from %}{{ from }}{% endif -%}
+      {% if cite or title -%}
+        {% if cite and title %}
+          <a href="{{ cite }}">{{ title }}</a>
+        {% elif cite %}
+          <a href="{{ cite }}">[link]</a>
+        {% elif title %}
+          {{ title }}
+        {% endif %}
+      {% endif %}
+    </figcaption>
+  {% endif %}
+</figure>
