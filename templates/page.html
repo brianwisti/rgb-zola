@@ -7,7 +7,7 @@
 {% block title_head %}{{ page.title }} | {{ config.title }}{% endblock %}
 
 {% block content %}
-  <article>
+  <article class="prose">
     {% if page.date %}
       {{ blog::timeline(page=page) }}
     {% endif %}
@@ -67,7 +67,8 @@
     {% endif %}
     {{ blog::posse_for(path=page.path) }}
     {{ blog::toc(page=page) }}
-    <h1>{{ page.title }}</h1>
-    {{ page.content | safe }}
+    <section class="prose-body">
+      {{ page.content | safe }}
+    </section>
   </article>
 {% endblock content %}

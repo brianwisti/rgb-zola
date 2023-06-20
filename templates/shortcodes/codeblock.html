@@ -1,11 +1,20 @@
-<details>
-  <summary>Code sample</summary>
-  {% if title %}
-    {% if verbatim %}
-      <tt>{{ title }}</tt>
+{%- if collapsed is undefined %}
+  {% set collapsed = false %}
+{% endif -%}
+{%- if verbatim is undefined %}
+  {% set verbatim = true %}
+{% endif -%}
+<details {% if not collapsed %}open{% endif %}>
+  <summary>
+    {% if title %}
+      {% if verbatim %}
+        <tt>{{ title }}</tt>
+      {% else %}
+        {{ title }}
+      {% endif %}
     {% else %}
-      {{ title }}
+      Code sample
     {% endif %}
-  {% endif %}
+  </summary>
   {{ body | markdown | safe }}
 </details>

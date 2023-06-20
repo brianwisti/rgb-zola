@@ -51,10 +51,6 @@
 
   {% if article.description %}
     {% set description = article.description %}
-  {% elif article.taxonomies %}
-    {% if "note" in article.taxonomies.category %}
-      {% set description = article.content | striptags | truncate(length=280) | markdown | safe %}
-    {% endif %}
   {% endif %}
 
   {% if article.extra.card %}
